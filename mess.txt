@@ -10,6 +10,7 @@ yanrobi|Boss Yanrobi có rơi hồng ngọc nhé các bợn
 giới hạn dame,giới hạn sát thương,gh dame,gh st|Một số boss nhiệm vụ sẽ bị giới hạn sát thương để hỗ trợ nhiệm vụ (không có hỗ trợ thì bạn không thấy được boss đâu) Có nhiều boss không giới hạn sát thương
 bot người|Robot cũng là con người mà
 kém|kém sang quá
+fan cung,fancung,fan cứng,fc|Bạn Follow sau đó chat vào fanpage để nhận giftcode nhé! link fanpage: https://www.facebook.com/ngocrongnthevmax
 sv1,sv2,sv3,sv4,sv5,sv6,sv7|Bạn chọn sv1 xong tắt hẳn game đi rồi mở lại sẽ vào được game (chỉ chơi sv1)
 lồn bot,đĩ bot,bot đụ|Vãi cả bìu, dám chửi cả t á. m chưa tài đâu
 gas|Đi doanh trại kiếm Bản đồ kho báu (bình gas) rồi vào Khí gas ở làng aru 
@@ -79,7 +80,7 @@ id,ip,ipsv|Tất cả bản trên web đã cài sẵn Ip (tải về xoá dữ l
 cài game trên pc|Tải bản pc về -> chuột phải vào file game -> chọn Extract here -> mở thư mục màu vàng và mở game - xoá dữ liệu trước khi vô game! (Không thấy Extract Here thì cài winrar trước) - #HỎI: cách cài winrar?
 winrar|Bạn tải về rồi bấm cài đặt rồi next next là cài được rồi: https://www.win-rar.com/fileadmin/winrar-versions/winrar/winrar-x64-701.exe
 bảo trì,btri,btr|Xem Server có bảo trì hay không tại đây: http://ngocrongnthev.com/trang-thai
-fanpage,tiktok,youtube|Link Fanpage nè https://www.facebook.com/ngocrongnthevmax   Tiktok nè https://www.tiktok.com/@nthev.ngocrongonline Youtube nè https://youtube.com/@ngocrongonline2501  
+tiktok,youtube|Tiktok nè https://www.tiktok.com/@nthev.ngocrongonline Youtube nè https://youtube.com/@ngocrongonline2501  
 tỷ lệ nạp|Tỷ lệ nạp là 1-1 (Quy đổi: 10K = 20K hồng ngọc, 60K = 10K thỏi vàng )
 nạp,donate|Nạp tự động tại NgocRongNThev.Com xong vô santa đổi qua hồng ngọc hoặc thỏi vàng nhé
 đồ thần,dtl,đồ tl|đồ thần bạn săn boss hoặc up cold nhé (làm nguyên liệu nâng đồ huỷ diệt ở thiên sứ whis)
