@@ -101,7 +101,7 @@ khuyến mãi,km nạp|Game khuyến mãi nạp thẻ tối đa 30% chứ không
 ngọc rồng siêu cấp,nrsc,ngọc rồng sc, nr siêu cấp,ước được gì|Ngọc rồng siêu cấp chỉ để ước (không ép được) (ước được gì thì ước đi rồi biết chứ tôi biết đâu) 
 ai đẹp,bot đẹp|admin đẹp nhất nhé! Tôi đánh giá khách quan là như thế 
 chán|Tại sao bạn lại chán, bắt con gián bỏ vô háng cho đỡ chán 
-bot ngủ|Tôi không ngủ đâu nhé, tôi luôn sẵn sàng phục vụ bạn 
+bot ngu,Bot ngu|mày mới là thằng ngu đó 
 alo,lô,alô,hello,chào|Hello anh đẹp trai! Em là chatbot được phân công làm việc ở đây, anh cần giúp gì cứ nói nhé! 
 má bot|má mày chứ má tao gì?
 vô pt,xin pt,xin bang,vô pt,vô clan,xin clan|Bạn muốn vào bang hội thì nên chat thế giới rồi xin, ae trong game đông lắm
@@ -131,7 +131,6 @@ im đi|mày im mẹ mồm vào đi
 bot thông minh|ai cũng nói là tôi thông minh mà. cảm ơn bạn!
 câm bot|mày mới là người phải câm đấy 
 bot lồn|lồn má mày chứ lồn
-bot ngu|mày mới là thằng ngu đó 
 lỗi ước rồng|Bạn tắt game rồi vào lại khu là gọi được 
 bot cặc|cặc ba mày chứ cặc 
 bot hài|Tôi sinh ra cũng để tấu hài cho cái box này mà
