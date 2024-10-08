@@ -16,7 +16,7 @@ fan cung,fancung,fan cứng,fc|Bạn Follow sau đó chat vào fanpage để nh�
 sv1,sv2,sv3,sv4,sv5,sv6,sv7|Bạn chọn sv1 xong tắt hẳn game đi rồi mở lại sẽ vào được game (chỉ chơi sv1)
 lồn bot,đĩ bot,bot đụ|Vãi cả bìu, dám chửi cả t á. m chưa tài đâu
 gas|Đi doanh trại kiếm Bản đồ kho báu (bình gas) rồi vào Khí gas ở làng aru 
-đảo,biến hình|Skill biến hình học ở Uron đảo kame (cày hoặc nạp đều học được cách cày có ghi ở uron luôn)
+đảo,biến hình|Skill biến hình học ở quy lão đảo kame (cày hoặc nạp đều học được)
 sợ,thua|Ai sợ đi về :))
 đậu xanh,trứng muối,bột,trung thu|Đọc sự kiện trung thu ở diễn đàn hoặc fanpage nhé (Code Trung Thu vào Fanpage, Website,... có ghi ở đó)
 10k,20k,30k,50k,100k,200k,300k,500k,700k,1tr|Tỷ lệ nạp là 1-1 (quy đổi: 10k = 20k hồng ngọc, 60k = 10k thỏi vàng)
@@ -146,7 +146,7 @@ max cs,max chi so,chi so max|HP KI 780K SD 40K nhé
 ad giàu|ad không có tiền mua sịp mặc nữa chứ giàu 
 tiền chưa vào|nạp tiền chưa cộng thì chờ 3-5phut chưa cộng thì liên hệ key vàng 
 trạng thái|Trạng Thái: Đang hoạt động 
-Super Kamejoko,Ma Phong Ba,Liên Hoàn Chưởng,Super Kame,skill9,skill 9,Skill đặc biệt|Chiêu đặc biệt học ở hành tinh Kaio ( rừng karin đi lên ) gặp Thiên Sứ Whis 
+Super Kamejoko,Ma Phong Ba,Liên Hoàn Chưởng,Super Kame,skill9,skill 9,Skill đặc biệt|Chiêu đặc biệt học ở quy lão ( mua 1 sách học 9 lần là full 9 cấp ) gặp quy lão
 Skill đệ tử|Đệ tử có 6 chiêu ước rồng thường đổi được skill 2-3-4, rồng từ các event đổi skill 1-5 nhé quý zị 
 skill ô,5 chiêu|trên điện thoại chỉ gán được 5 ô thôi, mở máy tính lên sẽ gán được 10 ô đấy 
 vamchar|Trước làng morri có cổng vào làng vamchar 
