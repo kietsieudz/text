@@ -60,7 +60,7 @@ trùng sinh|Bạn cần có Canh Mạnh Bà để trùng sinh, Trùng sinh sẽ 
 mạnh bà|Canh mạnh bà bạn có thể mua ở Sau đảo hoặc thu thập x999 11 nguyên liệu ở địa ngục để nấu Canh mạnh bà 
 chỉ số đệ|Đệ tử không lỗi sức mạnh và chỉ số, bạn treo up lâu là full hết (MAX 780K 40K)
 bí kíp,yadat,yardrat|Bạn qua núi khỉ vàng gặp goku ssj rồi vào hành tinh yardrat up bí kíp cải trang. Và Đi doanh trại đánh quái là rơi bí kíp tuyệt kĩ nhé, xong lên hành tinh kaio học sì kiu đặc biệt 
-thiên sứ,mts,mảnh ts,manh ts|mảnh thiên sứ up ở hành tinh ngục tù xong đem ra Thiên sứ whis đảo kame mà nâng lên Set Thiên Sứ (đọc nguyên liệu ở đó) 
+thiên sứ,mts,mảnh ts,manh ts|mảnh thiên sứ up ở hành tinh ngục tù xong đem ra Thiên sứ whis ở hành tinh kaio nâng
 câu cá|Câu cá thì mua cần câu rồi bấm sử dụng là được (1 lần câu 500 hồng ngọc - không mất cần câu) 
 Tiểu đội sát thủ,tdst,boss số,số 4,tđst|Tiểu đội sát thủ (thời gian: 10 phút) (địa chỉ: Núi khỉ đỏ) (hỗ trợ: có) (sát thương tối đa: 30.000.000) 
 Fide|Fide (thời gian: 10 phút) (địa chỉ: Núi khỉ vàng) (hỗ trợ: có) (sát thương tối đa: 50.000.000) 
@@ -86,7 +86,7 @@ bảo trì,btri,btr|Xem Server có bảo trì hay không tại đây: http://ngo
 tiktok,youtube|Tiktok nè https://www.tiktok.com/@nthev.ngocrongonline Youtube nè https://youtube.com/@ngocrongonline2501  
 tỷ lệ nạp|Tỷ lệ nạp là 1-1 (Quy đổi: 10K = 20K hồng ngọc, 60K = 10K thỏi vàng )
 nạp,donate|Nạp tự động tại NgocRongNThev.Com xong vô santa đổi qua hồng ngọc hoặc thỏi vàng nhé
-đồ thần,dtl,đồ tl|đồ thần bạn săn boss hoặc up cold nhé (làm nguyên liệu nâng đồ huỷ diệt ở thiên sứ whis)
+đồ thần,dtl,đồ tl|đồ thần bạn săn boss hoặc up cold nhé (làm nguyên liệu nâng đồ huỷ diệt ở thần huỷ diệt trên hành tinh kaio)
 hỗ trợ,ho tro nv|khung giờ hỗ trợ nhiệm vụ 9-12h sáng tối (ai nhiệm vụ đó mới được vào khu - áp dụng cho các boss từ TDST đến Xên Võ Đài) 
 bán nick,mua nick,bán nick,bán acc,bay nick,bay acc,p acc,p nick,m nick,m acc,acc giá,nick giá|VUI LÒNG THU HỒI TIN NHẮN MUA BÁN TÀI KHOẢN, hãy vào box mua bán trên ghim (Không thu hồi bạn sẽ bị ban khỏi box chat)
 chiến thần|chiến thần là đệ tử thứ 2, mua trứng ở chỗ Đảo Hoa (chỗ Quy lão đi vào) chức năng xem ở ô thứ 2 chỗ chức năng. Up ở đảo hoa sẽ nhiều kinh nghiệm nhất (Hồn chiến thần)
@@ -169,7 +169,7 @@ linh thú|Linh thú mua ở santa nè, rút ở Thỏ Đại bịp nè, mua tr�
 mới chơi|Bạn mới chơi thì năng nổ giao tiếp với mọi người trong box nè, nhất là giao tiếp với tôi nhé! 
 share,event,even|Đăng nhập nick vào trang chủ rồi qua trang diễn đàn sẽ có hàng loạt event dành cho bạn, có hướng dẫn hết (Chỗ tham gia có zalo admin để gửi bài)
 khắc ấn vô song|Khắc ấn sẽ không mất bông tai vô song nhé 
-chân mệnh,tu luyện,vòng chân|bạn lên hành tinh kaio gặp thiên sứ whis để nâng chân mệnh nhé. điểm tu luyện làm nhiệm vụ tu luyện của bò mộng. 1000 điểm 1 level 
+chân mệnh,tu luyện,vòng chân|bạn lên hành tinh Nạp quên khi nội dung vui lòng Cung cấp Bill (lịch sử chuyển khoản + tài khoản đăng nhập game) gặp thiên sứ whis để nâng chân mệnh nhé. điểm tu luyện làm nhiệm vụ tu luyện ở whis. 1000 điểm 1 level 
 người yêu bot|Máy móc mà được yêu thì chắc tôi yêu bạn đầu tiên đấy! 
 rep ad,admin,Kiệt|Admin là người có chìa khóa vàng, mình không phải ad, ad chưa rep là đang bận. rảnh tay ad sẽ rep liền. đừng có hối nhé 
 mưa|trời mưa rồi hả, chỗ tôi trời vẫn sáng nè 
