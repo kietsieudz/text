@@ -63,12 +63,12 @@ chỉ số đệ|Đệ tử không lỗi sức mạnh và chỉ số, bạn treo
 bí kíp,yadat,yardrat|Bạn qua núi khỉ vàng gặp goku ssj rồi vào hành tinh yardrat up bí kíp cải trang. Và Đi doanh trại đánh quái là rơi bí kíp tuyệt kĩ nhé, xong lên hành tinh kaio học sì kiu đặc biệt 
 thiên sứ,mts,mảnh ts,manh ts|mảnh thiên sứ up ở hành tinh ngục tù xong đem ra Thiên sứ whis ở hành tinh kaio nâng
 câu cá|Câu cá thì mua cần câu rồi bấm sử dụng là được (1 lần câu 500 hồng ngọc - không mất cần câu) 
-Tiểu đội sát thủ,tdst,boss số,số 4,tđst|Tiểu đội sát thủ (thời gian: 10 phút) (địa chỉ: Núi khỉ đỏ) (hỗ trợ: có) (sát thương tối đa: 30.000.000) 
-Fide|Fide (thời gian: 10 phút) (địa chỉ: Núi khỉ vàng) (hỗ trợ: có) (sát thương tối đa: 50.000.000) 
-android19,adr19,android20,kore,apk19,apk20,android 19,androi 19,androi19,robot sát thủ|Android19-20 (15 phút) (Thành phố phía nam) (sát thương tối đa: 70.000.000) (có thể bỏ qua nhiệm vụ ở nhà)
-pic,poc,kingkong,ppkk|Pic-Poc-Kingkong (15 phút) (Thành phố phía bắc) (sát thương tối đa: 100.000.000) (có thể bỏ qua nhiệm vụ ở nhà)
-thị trấn,ginder,xên bọ hung|Xên ở thị trấn Ginder (15 phút) (Thị trấn Ginder) (sát thương tối đa: 400.000.000) (có thể bỏ qua nhiệm vụ ở nhà)
-xên võ đài,cell võ đài,siêu bọ hung,võ đài,vo dai|Xên ở Võ đài Xên Bọ Hung (15 phút) (Võ Đài Xên Bọ Hung) (sát thương tối đa: 500.000.000) (có thể bỏ qua nhiệm vụ ở nhà)
+Tiểu đội sát thủ,tdst,boss số,số 4,tđst|Tiểu đội sát thủ - 10 phút - giờ hỗ trợ: 9-12h và 21-24h - sát thương tối đa: 30.000.000
+Fide|Fide - 10 phút - giờ hỗ trợ: 9-12h và 21-24h - sát thương tối đa: 50.000.000
+android19,adr19,android20,kore,apk19,apk20,android 19,androi 19,androi19,robot sát thủ|Android19-20 - 15 phút - Thành phố phía nam - giờ hỗ trợ: 9-12h và 21-24h - sát thương tối đa: 70.000.000 (có thể bỏ qua nhiệm vụ ở nhà)
+pic,poc,kingkong,ppkk|Pic-Poc-Kingkong - 15 phút - Thành phố phía bắc - giờ hỗ trợ: 9-12h và 21-24h - sát thương tối đa: 100.000.000 (có thể bỏ qua nhiệm vụ ở nhà)
+thị trấn,ginder,xên bọ hung|Xên bọ hung - 15 phút - Thị trấn Ginder - giờ hỗ trợ: 9-12h và 21-24h - sát thương tối đa: 400.000.000 (có thể bỏ qua nhiệm vụ ở nhà)
+xên võ đài,cell võ đài,siêu bọ hung,võ đài,vo dai|Siêu Bọ Hung - 15 phút - Võ Đài Xên Bọ Hung - giờ hỗ trợ: 9-12h và 21-24h - sát thương tối đa: 500.000.000 (có thể bỏ qua nhiệm vụ ở nhà)
 doremon,doraemon,nobita,shizuka,chaien,xeko|Boss Tiểu đội doraemon (20 phút) (có thể bỏ qua nhiệm vụ ở nhà)
 dọc,màn hình|IPhone bị màn hình dọc bạn: Bạn tắt cái khóa xoay màn hình đi. xong tắt game mở lên lại. xoay ngang trước khi mở nhé 
 nút di chuyển|Nút di chuyển bạn bấm vào nút tam giác bên tay trái rồi vào phần Chức Năng, chọn Cấu Hình, rồi chọn Bàn Phím Ảo nhé 
