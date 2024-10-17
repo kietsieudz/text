@@ -57,8 +57,8 @@ cộng chỉ số,nâng chỉ số,nâng kinh nghiệm,auto chỉ số,cộng cs
 cuồng nộ,item,cnsc,máy dò,cskb,capsule,kì bí,cn,bh,bổ huyết,bổ khí,bk|Item thường và siêu cấp mở từ capsule kì bí (mua máy dò up cskb)
 xu|Up quái ngũ hành sơn rơi xu đem qua tương lai đổi máy dò rồi up cskb
 sức mạnh,chỉ số,ghsm|Mở giới hạn sức mạnh ở Vách núi mori (Max 780K và 40K) có thể trùng sinh để tăng thêm
-trùng sinh|Tùung sinh cần canh mạnh bà, tăng thêm 5% chỉ số gốc (819K và 42K) [nguyên liệu trùng sinh] 
-mạnh bà|Canh mạnh bà bạn có thể mua ở Sau đảo hoặc thu thập x999 11 nguyên liệu ở địa ngục để nấu Canh mạnh bà 
+trùng sinh|Trùng sinh cần canh mạnh bà, tăng thêm 5% chỉ số gốc (819K và 42K) [nguyên liệu trùng sinh] 
+mạnh bà|Canh mạnh bà bạn có thể mua ở santa hoặc thu thập x999 11 nguyên liệu ở địa ngục để nấu
 chỉ số đệ|Đệ tử không lỗi sức mạnh và chỉ số, bạn treo up lâu là full hết (MAX 780K 40K)
 bí kíp,yadat,yardrat|Bạn qua núi khỉ vàng gặp goku ssj rồi vào hành tinh yardrat up bí kíp cải trang. Và Đi doanh trại đánh quái là rơi bí kíp tuyệt kĩ nhé, xong lên hành tinh kaio học sì kiu đặc biệt 
 thiên sứ,mts,mảnh ts,manh ts|mảnh thiên sứ up ở hành tinh ngục tù xong đem ra Thiên sứ whis ở hành tinh kaio nâng
