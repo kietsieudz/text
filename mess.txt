@@ -85,7 +85,8 @@ id,ip,ipsv|Tất cả bản trên web đã cài sẵn Ip (tải về xoá dữ l
 cài game trên pc|Tải bản pc về -> chuột phải vào file game -> chọn Extract here -> mở thư mục màu vàng và mở game - xoá dữ liệu trước khi vô game! (Không thấy Extract Here thì cài winrar trước) - #HỎI: cách cài winrar?
 winrar|Bạn tải về rồi bấm cài đặt rồi next next là cài được rồi: https://www.win-rar.com/fileadmin/winrar-versions/winrar/winrar-x64-701.exe
 bảo trì,btri,btr|Xem Server có bảo trì hay không tại đây: http://ngocrongpk.com/trang-thai
-tiktok,youtube|Tiktok nè https://www.tiktok.com/@nthev.ngocrongonline Youtube nè https://youtube.com/@ngocrongonline2501  
+tiktok|Tiktok nè https://www.tiktok.com/@nthev.ngocrongonline
+youtube|Youtube nè https://youtube.com/@ngocrongonline2501
 tỷ lệ nạp|Tỷ lệ nạp là 1-1 (Quy đổi: 10K = 20K hồng ngọc, 60K = 10K thỏi vàng )
 nạp,donate|Nạp tự động tại https://NgocRongPK.Com xong vô santa đổi qua hồng ngọc hoặc thỏi vàng nhé
 đồ thần,dtl,đồ tl|đồ thần bạn săn boss hoặc up cold nhé (làm nguyên liệu nâng đồ huỷ diệt ở thần huỷ diệt trên hành tinh kaio)
