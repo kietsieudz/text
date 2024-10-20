@@ -85,7 +85,7 @@ link tải,tải game,java,iphone,ios,testflight,tf,appcenter,pc,windows,máy t�
 id,ip,ipsv|Tất cả bản trên web đã cài sẵn Ip (tải về xoá dữ liệu rồi sài thôi). Nếu không rành thì bạn đừng quan tâm tin nhắn này:     Sv1:14.225.203.19:14445:0,0,0|231
 cài game trên pc|Tải bản pc về -> chuột phải vào file game -> chọn Extract here -> mở thư mục màu vàng và mở game - xoá dữ liệu trước khi vô game! (Không thấy Extract Here thì cài winrar trước) - #HỎI: cách cài winrar?
 winrar|Bạn tải về rồi bấm cài đặt rồi next next là cài được rồi: https://www.win-rar.com/fileadmin/winrar-versions/winrar/winrar-x64-701.exe
-bảo trì,btri,btr|Xem Server có bảo trì hay không tại đây: http://ngocrongpk.com/trang-thai
+bảo trì,btri,btr|Xem Server có bảo trì hay không tại đây: http://ngocrongpk.com/trang-thai (Thường khởi động lại sau 1 phút)
 tiktok|Tiktok nè https://www.tiktok.com/@nthev.ngocrongonline
 youtube|Youtube nè https://youtube.com/@ngocrongonline2501
 tỷ lệ nạp|Tỷ lệ nạp là 1-1 (Quy đổi: 10K = 20K hồng ngọc, 60K = 10K thỏi vàng )
