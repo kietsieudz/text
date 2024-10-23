@@ -8,11 +8,6 @@ yanrobi|Boss Yanrobi rơi hồng ngọc
 giới hạn,gh dame,gh st|Boss nhiệm vụ sẽ giới hạn sát thương để người chơi sau dễ làm nhiệm vụ (không có hỗ trợ thì bạn không thấy được boss đâu) Boss không phải nhiệm vụ sẽ không giới hạn
 bot người|Robot cũng là con người mà :$
 kém|kém sang quá :))
-vudang|C:\Zalo\images\4430.png
-ducvu|C:\Zalo\files\DucVuPK.apk
-manhdc|C:\Zalo\files\ManhDcPK.apk
-vudang|C:\Zalo\files\VuDangPK.apk
-
 hunghero|D:\OneDrive\Máy tính\Zalo1\files\NRO_Hunghero.jar
 cưới,hôn,yêu|Xoá dữ liệu tải lại là thấy Bulma tiệc cưới ở cuối đảo kame nhé :!
 vùng đất|Vùng đất huỷ diệt bạn lên hành tinh Bill là qua được
@@ -175,7 +170,7 @@ cảm ơn bot,ok bot|Dạ không có gì đâu anh yêu! Nhiệm vụ của em m
 scam|Sì Trái Cam là hành vi vi phạm đạo đức của một con người! Xin đừng Sì Trái Cam 
 đệ tử,đệ ngon,đệ vip,gohan,itachi,mabu,ma bư,trứng bư,mabư,bư|có 4 loại đệ tăng chỉ số hợp thể (MAX 780K 40K): đệ THƯỜNG 0% săn Super Broly, đệ MABƯ 30% săn Mabư, đệ GOHAN BƯ 50% săn bư 12h và 19h ở ĐHVT, đệ ITACHI 70% mua ở santa.
 Vòng quay thượng đế|Vòng quay thượng đế quay tốn hồng ngọc (chưa thêm vật phẩm đặc biệt) 
-linh thú|Linh thú mua ở santa nè, rút ở Thỏ Đại bịp nè, mua trứng linh thú ở santa nè 
+linh thú|(Bạn bị mất linh thú cũ nhập code ltpk2) Linh thú mua ở santa nè, rút ở Thỏ Đại bịp nè, mua trứng linh thú ở santa nè 
 mới chơi|Bạn mới chơi thì năng nổ giao tiếp với mọi người trong box nè, nhất là giao tiếp với tôi nhé! 
 share,event,even|Đăng nhập nick vào trang chủ rồi qua trang diễn đàn sẽ có hàng loạt event dành cho bạn, có hướng dẫn hết (Chỗ tham gia có zalo admin để gửi bài)
 khắc ấn vô song|Khắc ấn sẽ không mất bông tai vô song nhé 
