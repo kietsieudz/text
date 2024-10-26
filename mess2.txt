@@ -38,7 +38,7 @@ up đâu,up sm,úp đâu,úp sm,up nhanh,úp nhanh,cày nhanh|Up nhanh ở Ngũ 
 kẹt,- 1,-1,1 đấm|boss kẹt map thì chưởng nó đi
 tạo nv,tạo nhân vật,tao nv|Chọn cấu hình cao mới tạo nhân vật được nhé
 điểm boss|Điểm boss bạn đánh boss sẽ có điểm (tuỳ boss ngẫu nhiên). mua thêm cuốc để trồng được trái thần long (tăng sức đánh)
-website,trang chủ,web,diễn đàn|Link trang chủ: https://janemba.online (Gặp vấn đề gì hãy chụp lại gửi vào đây mọi người cùng hỗ trợ nhé)
+website,trang chủ,web,diễn đàn|Link trang chủ: http://janemba.online (Gặp vấn đề gì hãy chụp lại gửi vào đây mọi người cùng hỗ trợ nhé)
 ngáo bot|Ngáo đâu, mày mới ngáo đó
 uron|Bạn bỏ qua hết nhiệm vụ tân thủ ở nhà rồi chạy ra trạm tàu vũ trụ sẽ thấy Uron nhé
 bot cơm|Bot này chạy bằng tiền donate nha. Anh em donate nhiều thì phục vụ tốt
@@ -81,13 +81,13 @@ black goku|Black goku mạnh vcl đấy mấy cưng, rơi nhẫn thời không �
 code,giftcode,xin code,sin code|Giftcode: ghi sẵn ở ô nhập trong nhà. vào nhà vừa nhìn vừa nhập
 jar|Bản jar tải về rồi xoá j2meloader đi cài lại là được
 tkmk,tk mk,thành công,đăng ký,dky,tạo,sai,chính xác,đăng nhập|Bạn gặp bất kì lỗi gì đừng vội out box. Bạn hãy chụp lại hoặc quay lại gửi vào box để mọi người hỗ trợ cho bạn nhé
-link tải,tải game,java,iphone,ios,testflight,tf,appcenter,pc,windows,máy tính,apk,adr,android,androi,download|Tải game tại Trang chủ: https://janemba.online (Lỗi đăng ký, đăng nhập,..Bạn hãy chụp lại hoặc quay lại gửi vào box để mọi người hỗ trợ nhé)
+link tải,tải game,java,iphone,ios,testflight,tf,appcenter,pc,windows,máy tính,apk,adr,android,androi,download|Tải game tại Trang chủ: http://janemba.online (Lỗi đăng ký, đăng nhập,..Bạn hãy chụp lại hoặc quay lại gửi vào box để mọi người hỗ trợ nhé)
 id,ip,ipsv|Tất cả bản trên web đã cài sẵn Ip (tải về xoá dữ liệu rồi sài thôi). Nếu không rành thì bạn đừng quan tâm tin nhắn này:     Sv2:14.225.213.101:14445:0,0,0|231
 cài game trên pc|Tải bản pc về -> chuột phải vào file game -> chọn Extract here -> mở thư mục màu vàng và mở game - xoá dữ liệu trước khi vô game! (Không thấy Extract Here thì cài winrar trước) - #HỎI: cách cài winrar?
 winrar|Bạn tải về rồi bấm cài đặt rồi next next là cài được rồi: https://www.win-rar.com/fileadmin/winrar-versions/winrar/winrar-x64-701.exe
 bảo trì,btri,btr|Xem Server có bảo trì hay không tại đây: http://janemba.online/trang-thai (Thường khởi động lại sau 1 phút)
 tỷ lệ nạp|Tỷ lệ nạp là 1-1 (Quy đổi: 10K = 20K hồng ngọc, 60K = 10K thỏi vàng )
-nạp,donate|Nạp tự động tại https://janemba.online xong vô santa đổi qua hồng ngọc hoặc thỏi vàng nhé
+nạp,donate|Nạp tự động tại http://janemba.online xong vô santa đổi qua hồng ngọc hoặc thỏi vàng nhé
 đồ thần,dtl,đồ tl|đồ thần bạn săn boss hoặc up cold nhé (làm nguyên liệu nâng đồ huỷ diệt ở thần huỷ diệt trên hành tinh kaio)
 hỗ trợ,ho tro nv|khung giờ hỗ trợ nhiệm vụ 9-12h sáng tối (ai nhiệm vụ đó mới được vào khu - áp dụng cho các boss từ TDST đến Xên Võ Đài) 
 bán nick,mua nick,bán nick,bán acc,bay nick,bay acc,p acc,p nick,m nick,m acc,acc giá,nick giá|VUI LÒNG THU HỒI TIN NHẮN MUA BÁN TÀI KHOẢN, hãy vào box mua bán trên ghim (Không thu hồi bạn sẽ bị ban khỏi box chat)
