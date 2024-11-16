@@ -8,7 +8,6 @@ yanrobi|Boss Yanrobi rơi hồng ngọc
 giới hạn,gh dame,gh st|Boss nhiệm vụ sẽ giới hạn sát thương để người chơi sau dễ làm nhiệm vụ (không có hỗ trợ thì bạn không thấy được boss đâu) Boss không phải nhiệm vụ sẽ không giới hạn
 bot người|Robot cũng là con người mà :$
 kém|kém sang quá :))
-hunghero|D:\OneDrive\Máy tính\Zalo1\files\NRO_Hunghero.jar
 cưới,hôn,yêu|Xoá dữ liệu tải lại là thấy Bulma tiệc cưới ở cuối đảo kame nhé :!
 vùng đất|Vùng đất huỷ diệt bạn lên hành tinh Bill là qua được
 thằn lằn|Thằn lằn là con vật 4 chân thường hoạt động vào đêm ở trên các cánh cửa kính ở tầng 4 :))
@@ -81,7 +80,8 @@ black goku|Black goku mạnh vcl đấy mấy cưng, rơi nhẫn thời không �
 code,giftcode,xin code,sin code|Giftcode: ghi sẵn ở ô nhập trong nhà. vào nhà vừa nhìn vừa nhập
 jar|Bản jar tải về rồi xoá j2meloader đi cài lại là được
 tkmk,tk mk,thành công,đăng ký,dky,tạo,sai,chính xác,đăng nhập|Bạn gặp bất kì lỗi gì đừng vội out box. Bạn hãy chụp lại hoặc quay lại gửi vào box để mọi người hỗ trợ cho bạn nhé
-link tải,tải game,java,iphone,ios,testflight,tf,appcenter,pc,windows,máy tính,apk,adr,android,androi,download|Tải game tại Trang chủ: http://janemba.online (Lỗi đăng ký, đăng nhập,..Bạn hãy chụp lại hoặc quay lại gửi vào box để mọi người hỗ trợ nhé)
+iphone,ios,tf,testflight|Bạn vào AppStore tải TestFlight trước. sau đó quay lại bấm vào link này là game tự cài cho iphone (Link: https://testflight.apple.com/join/o5wcv95n ) Chọn sv2
+link tải,tải game,java,pc,windows,máy tính,apk,adr,android,androi,download|Tải game tại Trang chủ: https://janemba.online (Lỗi đăng ký, đăng nhập,..Bạn hãy chụp lại hoặc quay lại gửi vào box để mọi người hỗ trợ nhé)
 id,ip,ipsv|Tất cả bản trên web đã cài sẵn Ip (tải về xoá dữ liệu rồi sài thôi). Nếu không rành thì bạn đừng quan tâm tin nhắn này:     Sv2:14.225.213.101:14445:0,0,0|231
 cài game trên pc|Tải bản pc về -> chuột phải vào file game -> chọn Extract here -> mở thư mục màu vàng và mở game - xoá dữ liệu trước khi vô game! (Không thấy Extract Here thì cài winrar trước) - #HỎI: cách cài winrar?
 winrar|Bạn tải về rồi bấm cài đặt rồi next next là cài được rồi: https://www.win-rar.com/fileadmin/winrar-versions/winrar/winrar-x64-701.exe
