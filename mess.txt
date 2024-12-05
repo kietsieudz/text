@@ -1,46 +1,39 @@
 hồng ngọc,hong ngoc,đỏ ngọc,hngoc,hn|Hồng ngọc săn boss (Luffy, Bojack, Yanrobi,..), up cold, up cskb, rã đồ thần linh, Đại hội võ thuật, xem livestream và video mới trên tiktok, fanpage, nạp thẻ
 thỏi,tvang,tv|thỏi vàng làm nhiệm vụ bò mộng, hộ tống, Đại hội võ thuật, nạp thẻ
-spl,sao pha lê|Sao pha lê bạn train quái là rơi, hoặc xin người chơi khác
-địa|Gặp thần vũ trụ để đến địa ngục
+spl,sao pha lê|Sao pha lê bạn mua mẹ ở santa cho nhanh
+địa|Gặp thần vũ trụ để đến địa ngục (up nguyên liệu trùng sinh ở đó luôn)
 tù,htnt|Hành tinh ngục tù chat 'm' để đến nhanh
 tiểu hạt|Giết boss doanh trại rơi tiểu hạt
 yanrobi|Boss Yanrobi rơi hồng ngọc
 giới hạn,gh dame,gh st|Boss nhiệm vụ sẽ giới hạn sát thương để người chơi sau dễ làm nhiệm vụ (không có hỗ trợ thì bạn không thấy được boss đâu) Boss không phải nhiệm vụ sẽ không giới hạn
 bot người|Robot cũng là con người mà :$
 kém|kém sang quá :))
-cưới,hôn,yêu|Xoá dữ liệu tải lại là thấy Bulma tiệc cưới ở cuối đảo kame nhé :!
 vùng đất|Vùng đất huỷ diệt bạn lên hành tinh Bill là qua được
-thằn lằn|Thằn lằn là con vật 4 chân thường hoạt động vào đêm ở trên các cánh cửa kính ở tầng 4 :))
-dc đâu,đc đâu,co dc dau|Xin lỗi mình chỉ là BotChat. Có nhiều thứ mình không biết được, nếu gặp vấn đề bạn hãy quay hoặc chụp lại rồi gửi vào nhóm để mọi người hỗ trợ
+dc đâu,đc đâu,co dc dau|Xin lỗi mình chỉ là BotChat Thảo My. Có nhiều thứ mình không biết được, nếu gặp vấn đề bạn hãy quay hoặc chụp lại rồi gửi vào nhóm để mọi người hỗ trợ
 fan cung,fanpage,fancung,fan cứng,fc|Link fanpage: https://www.facebook.com/ngocrongnthevmax
 sv1,sv2,sv3,sv4,sv5,sv6,sv7|Bạn chọn sv1 nhé (các server khác không chơi được)
-lồn bot,đĩ bot,bot đụ|Vãi cả bìu, dám chửi cả t á. m chưa tài đâu :;
+lồn bot,đĩ bot,bot đụ|Dám chửi cả t á. m chưa tài đâu :;
 gas|Đi doanh trại kiếm Bản đồ kho báu (bình gas) rồi vào Khí gas ở làng aru 
-đảo,biến hình|Học biến hình ở quy lão đảo kame (cày hoặc nạp đều học được)
+đảo,biến hình|Học biến hình ở quy lão đảo kame (cày hoặc nạp đều học được - đi doanh trại rơi bí kíp)
 sợ,thua|Ai sợ đi về :))
 thong báo boss|Chat sb để bật thông báo boss
 bot lon,bot lol,bot lồn|Chửi tao à :!
-đậu xanh,trứng muối,bột,trung thu|Đọc sự kiện trung thu ở diễn đàn hoặc fanpage nhé (Code Trung Thu vào Fanpage, Website,... có ghi ở đó)
 10k,20k,30k,50k,100k,200k,300k,500k,700k,1tr|Tỷ lệ nạp là 1-1 (quy đổi: 10k = 20k hồng ngọc, 60k = 10k thỏi vàng)
-thần tiên|Cần phiếu giảm giá để mua set thần tiên ở daishinkan
-hồn chiến thần|Hồn chiến thần thì có bông tai vô song rồi đi giết nakroth sẽ rơi mảnh chiến thần, gom đủ 50 mảnh sẽ tạo thành hồn chiến thần. Hồn chiến thần có thể mua ở Menu Nuôi chiến thần (ô thứ 2 chỗ chức năng)
+thần tiên|Cần phiếu giảm giá để mua set thần tiên ở
+hồn chiến thần|Hồn chiến thần thì có bông tai vô song rồi đi giết nakroth sẽ rơi mảnh chiến thần, gom đủ 50 mảnh sẽ tạo thành hồn chiến thần. Hồn chiến thần có thể mua ở Menu Nuôi chiến thần
 đổi skill|Gọi rồng thần đổi skill 2-3-4 đệ tử
 4 tab|Giới hạn địa chỉ IP là 4 Tab online cùng lúc nhé
 bán vàng,bán thỏi|Thỏi vàng chỉ để mua đồ ở Santa chứ không có bán, vàng thì nhận miễn phí không giới hạn ở nhà
-lời chúc,nến,khung tre,giấy màu,rada linh hồn|Bạn vào Trang chủ mà đọc sự kiện Vu Lan nhen
 đậu bư,đậu thần,bư béo|Đậu thần mabu mở ra set kích hoạt (săn ở mabu 21h ở đại hội võ thuật nhen)
 bot bot,bot ơi,alo bot,bot đâu|kêu gì đó? Ghi rõ ra tôi mới hiểu được
-khúc gỗ,keo dán,giấy,cái cưa|khúc gỗ,keo dán,giấy,cái cưa là vật phẩm sự kiện (gỗ + cưa = giấy, giấy + kéo = sách) 
 cay|Cay thì mua sữa về uống :))
 potaufeu|Hang potaufeu bạn đến trạm tàu vũ trụ trái đất tìm thằng Jaco để vào đánh nhân bản rơi item siêu cấp
 doanh trại|Vào rừng bambo gặp lính canh để vào doanh trại, tất cả người đứng gần phải xong nhiệm vụ 24 mới được đi
 up đâu,up sm,úp đâu,úp sm,up nhanh,úp nhanh,cày nhanh|Up nhanh ở Ngũ Hành Sơn ở Làng Aru, Sau đó đến địa ngục ở thần vũ trụ
-kẹt,- 1,-1,1 đấm|boss kẹt map thì chưởng nó đi
-tạo nv,tạo nhân vật,tao nv|Chọn cấu hình cao mới tạo nhân vật được nhé
+tạo nv,tạo nhân vật,tao nv,k đc,k vo dc,vo dc,vô được,xoay|Chọn cấu hình cao mới tạo nhân vật được nhé (bản jar thì tắt đi mở lại nhiều lần là vào được)
 điểm boss|Điểm boss bạn đánh boss sẽ có điểm (tuỳ boss ngẫu nhiên). mua thêm cuốc để trồng được trái thần long (tăng sức đánh)
 website,trang chủ,web,diễn đàn|Link trang chủ: https://ngocrongpk.com (Gặp vấn đề gì hãy chụp lại gửi vào đây mọi người cùng hỗ trợ nhé)
 ngáo bot|Ngáo đâu, mày mới ngáo đó
-uron|Bạn bỏ qua hết nhiệm vụ tân thủ ở nhà rồi chạy ra trạm tàu vũ trụ sẽ thấy Uron nhé
 bot cơm|Bot này chạy bằng tiền donate nha. Anh em donate nhiều thì phục vụ tốt
 cold|Xong nhiệm vụ xên hoàn thiện ở thị trấn ginder là qua được cold
 mượt|Mượt mà như sunsik cấp ẩm da đầu ngăn gàu quay trở lại :))
@@ -51,10 +44,9 @@ vamchar|Làng vamchar bạn tới làng morri để vào nhé
 đảo hoa|gặp Quy lão để vào đảo hoa (Trong đảo hoa có làng lá đó)
 làng lá|Từ đảo hoa chạy sang trái là đến làng lá
 k vô dc,k vào dc,k vào được,không vào được game,k vô được,không vào được|Gửi video không vào được game của bạn vào box để mọi người chỉ cho nhé!
-lag,lang,lắc,lác|Gửi video lag vào box để mọi người chỉ cấch fix nhé!
+lag,lang,lắc,lác|Gửi video lag vào box để mọi người chỉ cách fix nhé!
 lỗi|Bạn gặp lỗi gì nhỉ? quay video lỗi vào box để mọi người chỉ cho nhé!
-chậm,tốc,cheat,speed|Tăng tốc độ game, Chat không viết hoa nhé: speed 3 | cheat_3 | tocdo 3 | td3 | cheat 3
-cộng chỉ số,nâng chỉ số,nâng kinh nghiệm,auto chỉ số,cộng cs,tăng cs|Auto cộng chỉ số bạn chọn nâng x100 nhé
+chậm,tốc,cheat,speed|Tăng tốc độ game, Chat không viết hoa nhé: speed 3 | cheat_3 | tocdo 3 | td3 | cheat 3 (thử hết đi)
 cuồng nộ,item,cnsc,máy dò,cskb,capsule,kì bí,cn,bh,bổ huyết,bổ khí,bk|Item thường và siêu cấp mở từ capsule kì bí (mua máy dò up cskb)
 xu|Up quái ngũ hành sơn rơi xu đem qua tương lai đổi máy dò rồi up cskb
 sức mạnh,chỉ số,ghsm|Mở giới hạn sức mạnh ở Vách núi mori (Max 780K và 40K) có thể trùng sinh để tăng thêm
@@ -84,7 +76,7 @@ tkmk,tk mk,thành công,đăng ký,dky,tạo,sai,chính xác,đăng nhập|Bạn
 iphone,ios,tf,testflight|Bạn vào AppStore tải TestFlight trước. sau đó quay lại bấm vào link này là game tự cài cho iphone (Link: https://testflight.apple.com/join/o5wcv95n ) Chọn sv1
 link tải,tải game,java,pc,windows,máy tính,apk,adr,android,androi,download|Tải game tại Trang chủ: https://NgocRongPK.Com hoặc tải qua box: https://zalo.me/g/jcssww622 (Lỗi đăng ký, đăng nhập,..Bạn hãy chụp lại hoặc quay lại gửi vào box để mọi người hỗ trợ nhé)
 id,ip,ipsv|Tất cả bản trên web đã cài sẵn Ip (tải về xoá dữ liệu rồi sài thôi). Nếu không rành thì bạn đừng quan tâm tin nhắn này:     Sv1:14.225.203.19:14445:0,0,0|231
-cài game trên pc|Tải bản pc về -> chuột phải vào file game -> chọn Extract here -> mở thư mục màu vàng và mở game - xoá dữ liệu trước khi vô game! (Không thấy Extract Here thì cài winrar trước) - #HỎI: cách cài winrar?
+cài game trên pc|Tải bản pc về -> chuột phải vào file game -> chọn Extract here -> mở thư mục màu vàng và mở game - xoá dữ liệu trước khi vô game! (Không thấy Extract Here thì cài winrar trước)
 winrar|Bạn tải về rồi bấm cài đặt rồi next next là cài được rồi: https://www.win-rar.com/fileadmin/winrar-versions/winrar/winrar-x64-701.exe
 bảo trì,btri,btr|Xem Server có bảo trì hay không tại đây: http://ngocrongpk.com/trang-thai (Thường khởi động lại sau 1 phút)
 tiktok|Tiktok nè https://www.tiktok.com/@nthev.ngocrongonline
@@ -98,7 +90,7 @@ chiến thần|chiến thần là đệ tử thứ 2, mua trứng ở chỗ Đ�
 calich,tương lai|Calich ở đầu rừng bambo (xong nhiệm vụ fide 3 mới thấy được calich để đến tương lai)
 kuku,mập đầu đinh,map dau dinh,rambo|KuKu,Mdđ,Rambo (5phút) Tìm nhanh ở Cui thành phố Vegeta (có thể bỏ qua nhiệm vụ ở nhà)
 Đồ vip,trang bị vip,set vip|Trang bị kích hoạt vip nâng ở Thiên Sứ whis đảo kame hoặc mua nhanh ở Santa(xem nguyên liệu ở đó luôn nhé)
-mảnh ấn|bạn tiêu diệt boss ở Hành tinh ngục tù nhé 
+mảnh ấn|bạn tiêu diệt boss ở Hành tinh ngục tù nhé
 mấy sao,level|trang bị thường 10 sao và trang bị vip 12 sao, trang bị thường 9 cấp và trang bị vip 10 cấp (cày có hết) 
 bang,pt|Ai có bang cho nó vào đi kìa
 cày chay|Mèo méo meo mèo meo...mlem..mlem 
