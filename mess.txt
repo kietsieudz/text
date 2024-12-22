@@ -1,12 +1,11 @@
-hồng ngọc,hong ngoc,đỏ ngọc,hngoc,hn|Hồng ngọc săn boss (Luffy, Bojack, Yanrobi,..), up cold, up cskb, rã đồ thần linh, Đại hội võ thuật, xem livestream và video mới trên tiktok, fanpage, nạp thẻ
+hồng ngọc,hong ngoc,đỏ ngọc,hngoc,hn|Hồng ngọc săn boss, up cold, up cskb, Đại hội võ thuật, fanpage, nạp thẻ
 thỏi,tvang,tv|thỏi vàng làm nhiệm vụ bò mộng, hộ tống, Đại hội võ thuật, nạp thẻ
-spl,sao pha lê|Sao pha lê bạn mua mẹ ở santa cho nhanh
-địa|Gặp thần vũ trụ để đến địa ngục (up nguyên liệu trùng sinh ở đó luôn)
-tù,htnt|Hành tinh ngục tù chat 'm' để đến nhanh
+spl,sao pha lê|Sao pha lê mua ở shop mở rộng hành trang ở Santa
+địa|Địa ngục gặp Thần Vũ Trụ để đến
+tù,htnt|Dùng capsule để đến Hành Tinh Ngục Tù
 tiểu hạt|Giết boss doanh trại rơi tiểu hạt
 yanrobi|Boss Yanrobi rơi hồng ngọc
-giới hạn,gh dame,gh st|Boss nhiệm vụ sẽ giới hạn sát thương để người chơi sau dễ làm nhiệm vụ (không có hỗ trợ thì bạn không thấy được boss đâu) Boss không phải nhiệm vụ sẽ không giới hạn
-bot người|Robot cũng là con người mà :$
+giới hạn,gh dame,gh st|Boss nhiệm vụ sẽ giới hạn để người chơi sau dễ làm nhiệm vụ. Boss không phải nhiệm vụ sẽ không giới hạn
 kém|kém sang quá :))
 vùng đất|Vùng đất huỷ diệt bạn lên hành tinh Bill là qua được
 dc đâu,đc đâu,co dc dau|Xin lỗi mình chỉ là BotChat Thảo My. Có nhiều thứ mình không biết được, nếu gặp vấn đề bạn hãy quay hoặc chụp lại rồi gửi vào nhóm để mọi người hỗ trợ
@@ -63,7 +62,6 @@ pic,poc,kingkong,ppkk|Pic-Poc-Kingkong - 15 phút - Thành phố phía bắc - g
 thị trấn,ginder,xên bọ hung|Xên bọ hung - 15 phút - Thị trấn Ginder - giờ hỗ trợ: 9-12h và 21-24h - sát thương tối đa: 400.000.000 (có thể bỏ qua nhiệm vụ ở nhà)
 xên võ đài,cell võ đài,siêu bọ hung,võ đài,vo dai|Siêu Bọ Hung - 15 phút - Võ Đài Xên Bọ Hung - giờ hỗ trợ: 9-12h và 21-24h - sát thương tối đa: 500.000.000 (có thể bỏ qua nhiệm vụ ở nhà)
 doremon,doraemon,nobita,shizuka,chaien,xeko|Boss Tiểu đội doraemon (20 phút) (có thể bỏ qua nhiệm vụ ở nhà)
-dọc,màn hình|IPhone bị màn hình dọc bạn: Bạn tắt cái khóa xoay màn hình đi. xong tắt game mở lên lại. xoay ngang trước khi mở nhé 
 nút di chuyển|Nút di chuyển bạn bấm vào nút tam giác bên tay trái rồi vào phần Chức Năng, chọn Cấu Hình, rồi chọn Bàn Phím Ảo nhé 
 thiên tôn,chí tôn|Dùng cuồng nộ siêu cấp đánh quái cold sẽ rơi hồn thiên tôn (chí tôn), nâng ở Whis đảo kame hoặc mua Rương thiên tôn (chí tôn) ở Santa (được chọn set)
 hạ tôn|hồn hạ tôn, Cách kiếm: bạn dùng cuồng nộ thường và đánh quái cold sẽ rơi, Cách dùng: bạn xem ở Bà Hạt Mít 
