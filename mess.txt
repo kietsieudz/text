@@ -36,19 +36,17 @@ ngáo bot,bot ngu|Ngáo đâu, mày mới ngáo đó
 cold|Xong nhiệm vụ xên hoàn thiện ở thị trấn ginder là qua được cold
 dùng đậu|Mua bùa cho đệ tử là nó tự nhai đậu rồi khỏi auto
 thể lực|Mua bùa dẻo dai vào là khỏi lo hết thể lực nhé
-vũ trụ 9|Bạn chat 'm' hoặc 'map' để vào Vũ trụ số 9
 vamchar|Làng vamchar bạn tới làng morri để vào nhé
-đảo hoa|gặp Quy lão để vào đảo hoa (Trong đảo hoa có làng lá đó)
 làng lá|Từ đảo hoa chạy sang trái là đến làng lá
 k vô dc,k vào dc,k vào được,không vào được game,k vô được,không vào được|Gửi video không vào được game của bạn vào box để mọi người chỉ cho nhé!
 lag,lang,lắc,lác|Gửi video lag vào box để mọi người chỉ cách fix nhé!
-lỗi|Bạn gặp lỗi gì nhỉ? quay video lỗi vào box để mọi người chỉ cho nhé!
+lỗi|Bạn quay video lỗi gửi cho Key vàng nhé!
 chậm,tốc,cheat,speed|Tăng tốc độ game, Chat không viết hoa nhé: speed 3 | cheat_3 | tocdo 3 | td3 | cheat 3 (thử hết đi)
 cuồng nộ,item,cnsc,máy dò,cskb,capsule,kì bí,cn,bh,bổ huyết,bổ khí,bk|Item thường và siêu cấp mở từ capsule kì bí (mua máy dò up cskb)
-xu|Up quái ngũ hành sơn rơi xu đem qua tương lai đổi máy dò rồi up cskb
+xu|Up quái ngũ hành sơn rơi đồng xu
 sức mạnh,chỉ số,ghsm|Mở giới hạn sức mạnh ở Vách núi mori (Max 780K và 40K) có thể trùng sinh để tăng thêm
-trùng sinh|Trùng sinh cần canh mạnh bà, tăng thêm 5% chỉ số gốc (819K và 42K) [nguyên liệu trùng sinh] 
-mạnh bà|Canh mạnh bà bạn có thể mua ở santa hoặc thu thập x999 11 nguyên liệu ở địa ngục để nấu
+trùng sinh|Trùng sinh cần canh mạnh bà, tăng thêm 5% chỉ số gốc (819K và 42K)
+mạnh bà|Canh mạnh bà bạn có thể mua ở santa hoặc thu thập x999 11 nguyên liệu ở địa ngục (bấm sử dụng nguyên liệu để nấu)
 chỉ số đệ|Đệ tử không lỗi sức mạnh và chỉ số, bạn treo up lâu là full hết (MAX 780K 40K)
 bí kíp,yadat,yardrat|Bạn qua núi khỉ vàng gặp goku ssj rồi vào hành tinh yardrat up bí kíp cải trang. Và Đi doanh trại đánh quái là rơi bí kíp tuyệt kĩ nhé, xong lên hành tinh kaio học sì kiu đặc biệt 
 thiên sứ,mts,mảnh ts,manh ts|mảnh thiên sứ up ở hành tinh ngục tù xong đem ra Thiên sứ whis ở hành tinh kaio nâng
