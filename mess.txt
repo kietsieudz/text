@@ -9,21 +9,21 @@ giới hạn,gh dame,gh st|Boss nhiệm vụ sẽ giới hạn để người ch
 kém|kém sang quá :))
 vùng đất|Vùng đất huỷ diệt bạn lên hành tinh Bill là qua được
 dc đâu,đc đâu,co dc dau|Xin lỗi mình chỉ là BotChat Thảo My. Có nhiều thứ mình không biết được, nếu gặp vấn đề bạn hãy quay hoặc chụp lại rồi gửi vào nhóm để mọi người hỗ trợ
-fan cung,fanpage,fancung,fan cứng,fc|Link fanpage: https://www.facebook.com/profile.php?id=61569875984501
+fan cung,fanpage,fancung,fan cứng,fc|Bạn chat tin nhắn vào Fanpage để lấy cốt fan cứng nhé
 sv1,sv2,sv3,sv4,sv5,sv6,sv7|Bạn chọn sv1 nhé (các server khác không chơi được)
 lồn bot,đĩ bot,bot đụ|Dám chửi cả t á. m chưa tài đâu :;
 gas|Đi doanh trại kiếm Bản đồ kho báu (bình gas) rồi vào Khí gas ở làng aru 
 đảo,biến hình|Học biến hình ở quy lão đảo kame (cày hoặc nạp đều học được - đi doanh trại rơi bí kíp)
 sợ,thua|Ai sợ đi về :))
-thong báo boss|Chat sb để bật thông báo boss
+tb boss,báo boss,bao boss|Chat sb để bật thông báo boss
 bot lon,bot lol,bot lồn|Chửi tao à :!
 10k,20k,30k,50k,100k,200k,300k,500k,700k,1tr|Tỷ lệ nạp là 1-1 (quy đổi: 10k = 20k hồng ngọc, 60k = 10k thỏi vàng)
-thần tiên|Cần phiếu giảm giá để mua set thần tiên ở
+thần tiên|Cần phiếu giảm giá để mua set thần tiên
 hồn chiến thần|Hồn chiến thần thì có bông tai vô song rồi đi giết nakroth sẽ rơi mảnh chiến thần, gom đủ 50 mảnh sẽ tạo thành hồn chiến thần. Hồn chiến thần có thể mua ở Menu Nuôi chiến thần
 đổi skill|Gọi rồng thần đổi skill 2-3-4 đệ tử
-4 tab|Giới hạn địa chỉ IP là 4 Tab online cùng lúc nhé
+tab|Giới hạn địa chỉ IP là 4 Tab online cùng lúc nhé
 bán vàng,bán thỏi|Thỏi vàng chỉ để mua đồ ở Santa chứ không có bán, vàng thì nhận miễn phí không giới hạn ở nhà
-đậu bư,đậu thần,bư béo|Đậu thần mabu mở ra set kích hoạt (săn ở mabu 21h ở đại hội võ thuật nhen)
+đậu bư,đậu thần,bư béo|Đậu thần mabu săn ở mabu 21h ở đại hội võ thuật
 bot bot,bot ơi,alo bot,bot đâu|kêu gì đó? Ghi rõ ra tôi mới hiểu được
 cay|Cay thì mua sữa về uống :))
 potaufeu|Hang potaufeu bạn đến trạm tàu vũ trụ trái đất tìm thằng Jaco để vào đánh nhân bản rơi item siêu cấp
@@ -31,11 +31,9 @@ doanh trại|Vào rừng bambo gặp lính canh để vào doanh trại, tất c
 up đâu,up sm,úp đâu,úp sm,up nhanh,úp nhanh,cày nhanh|Up nhanh ở Ngũ Hành Sơn ở Làng Aru, Sau đó đến địa ngục ở thần vũ trụ
 tạo nv,tạo nhân vật,tao nv,k đc,k vo dc,vo dc,vô được,xoay|Chọn cấu hình cao mới tạo nhân vật được nhé (bản jar thì tắt đi mở lại nhiều lần là vào được)
 điểm boss|Điểm boss bạn đánh boss sẽ có điểm (tuỳ boss ngẫu nhiên). mua thêm cuốc để trồng được trái thần long (tăng sức đánh)
-website,trang chủ,web,diễn đàn|Link trang chủ: https://ngocrongpk.com (Gặp vấn đề gì hãy chụp lại gửi vào đây mọi người cùng hỗ trợ nhé)
-ngáo bot|Ngáo đâu, mày mới ngáo đó
-bot cơm|Bot này chạy bằng tiền donate nha. Anh em donate nhiều thì phục vụ tốt
+website,trang chủ,web,diễn đàn|Link trang chủ ở trên ghim (Gặp vấn đề gì hãy chụp lại gửi vào đây mọi người cùng hỗ trợ nhé)
+ngáo bot,bot ngu|Ngáo đâu, mày mới ngáo đó
 cold|Xong nhiệm vụ xên hoàn thiện ở thị trấn ginder là qua được cold
-mượt|Mượt mà như sunsik cấp ẩm da đầu ngăn gàu quay trở lại :))
 dùng đậu|Mua bùa cho đệ tử là nó tự nhai đậu rồi khỏi auto
 thể lực|Mua bùa dẻo dai vào là khỏi lo hết thể lực nhé
 vũ trụ 9|Bạn chat 'm' hoặc 'map' để vào Vũ trụ số 9
