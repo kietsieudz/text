@@ -138,6 +138,6 @@ dnc,đá nâng cấp,tat,ruby|Đá nâng cấp ở santa (Rương đá nâng c�
 trứng linh thú|trứng linh thú nở ra linh thú
 mảnh sưu tầm|Mảnh sưu tầm quái nào bạn train quái đó là rơi 
 chờ duyệt|Bài chờ duyệt vẫn tính (yêu cầu chụp lại bài chờ duyệt) 
-bông tai,porata,mvbt,đá đỏ,đá xanh,btc2,btc3|BÔNG TAI CẤP 2 max 15%, BÔNG TAI CẤP 3 max 25%, BÔNG TAI CẤP 4 (VôSong) 25% + Thêm Chỉ Số (Chỉ mua ở Santa - Cày hồng ngọc rồi mua), nguyên liệu C2,C3 rơi ở các map từ nappa->khỉ vàng (Nâng ở Hạt Mít vách núi) 
+bông tai,porata,mvbt,đá đỏ,đá xanh,btc2,btc3|BÔNG TAI CẤP 2 max 15%, BÔNG TAI CẤP 3 max 25%, BÔNG TAI CẤP 4 (VôSong) 25% + Thêm Chỉ Số (Chỉ mua ở Santa - Cày hồng ngọc rồi mua), nguyên liệu C2,C3 -> Gặp quy lão -> Khu vực bang hội -> Giuma -> Up nguyên liệu bông tai
 sợ chưa|Chưa sợ, ngon nhào zô 
 bot var|ngon vào đây mà var này
