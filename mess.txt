@@ -55,7 +55,7 @@ hạ tôn|hồn hạ tôn, Cách kiếm: bạn dùng cuồng nộ thường và 
 mảnh hồn,kính soi,kính lúp,viên kẹo|Bạn mua [kính lúp], [kính soi], và [viên kẹo] sau đó đi tìm [mảnh hồn] nhé (có thể tìm được [rương chí tôn] từ chức năng này đó) Các [mảnh hồn] có thể đổi vài món đồ ở santa đó 
 thức ăn,thuc an,đồ ăn|Thức ăn bạn mặc set thần linh rồi up quái cold là rơi 
 black goku|Black goku mạnh vcl đấy mấy cưng, rơi nhẫn thời không để vào map Chilled 
-code,giftcode,xin code,sin code|Giftcode: ghi sẵn ở ô nhập trong nhà. vào nhà vừa nhìn vừa nhập
+code,giftcode,xin code,sin code|Giftcode: ghi sẵn ở ô nhập trong nhà. vào nhà vừa nhìn vừa nhập. CODE MỚI: Vào fanpage trên ghim box -> check bài viết trên đó có code mới đó
 cài game trên pc|Tải bản pc về -> chuột phải vào file game -> chọn Extract here -> mở thư mục màu vàng và mở game - xoá dữ liệu trước khi vô game! (Không thấy Extract Here thì cài winrar trước)
 winrar|Bạn tải về rồi bấm cài đặt rồi next next là cài được rồi: https://www.win-rar.com/fileadmin/winrar-versions/winrar/winrar-x64-701.exe
 bảo trì,btri,btr|Xem Server có bảo trì hay không tại đây: http://ngocrongpk.com/trang-thai (Thường khởi động lại sau 1 phút)
