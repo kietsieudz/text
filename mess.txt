@@ -16,6 +16,7 @@ tiểu|Giết boss doanh trại rơi tiểu hạt
 yanrobi|Boss Yanrobi rơi hồng ngọc
 giới hạn,gh dame,gh st|Boss nhiệm vụ sẽ giới hạn để người chơi sau dễ làm nhiệm vụ. Boss không phải nhiệm vụ sẽ không giới hạn nhé
 kém|kém sang quá :))
+bot à,bot hả|Um bot nè. hỏi gì cứ hỏi đi súp bót tận giường luôn
 ok bot|Ok anh yêu!
 bot|Nghe nè
 max sdg,max cs,max sd,max hp|40k và 780k
