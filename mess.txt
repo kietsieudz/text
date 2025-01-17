@@ -3,7 +3,7 @@ thỏi,tvang,tv|Thỏi vàng làm nhiệm vụ bò mộng, hộ tống, ĐHVT23,
 tkmk,tk mk,thành công,đăng ký,dky,tạo,sai,chính xác,đăng nhập,tạo nv,tạo nhân vật,tao nv,k đc,k vo dc,vo dc,vô được,xoay|Nếu gặp lỗi Bạn hãy chụp lại hoặc quay lại gửi vào đây để mọi người hỗ trợ
 xoay jar,quay jar|Bạn hãy xoá dữ liệu bản jar sẽ hết xoay. Chỗ tải ở web có chỉ xoá dữ liệu đó
 xoay pc,quay pc|Bạn hãy giải nén file pc ra trước rồi xoá dữ liệu mới chơi được bản pc nhé. Chỗ tải ở web có chỉ xoá dữ liệu đó
-link,tải,jar,java,pc,windows,máy tính,apk,adr,android,androi,download,ios,ip,iphone,tf,testflight,website,trang chủ,web,diễn đàn|Link (Trang chủ - tải game - nạp tiền) trên ghim box zalo [Mở trên trình duyệt mới tải được game] (Có TestFlight) (Gặp lỗi -> Bạn hãy chụp lại hoặc quay lại gửi vào đây để mọi người hỗ trợ)
+link,tải,jar,java,pc,windows,máy tính,apk,adr,android,androi,download,ios,ip,iphone,website,trang chủ,web,diễn đàn|Link (Trang chủ - tải game - nạp tiền) trên ghim box zalo [Mở trên trình duyệt mới tải được game] (Có TestFlight) (Gặp lỗi -> Bạn hãy chụp lại hoặc quay lại gửi vào đây để mọi người hỗ trợ)
 id,ip,ipsv|Tất cả bản trên web đã cài sẵn Ip (tải về xoá dữ liệu rồi sài thôi) -> LINK IP TRÊN GHIM
 lỗi|Bạn quay video lỗi gửi cho Key vàng nhé!
 lag,lang,lắc,lác|Game rất hiếm khi lag! Nếu bị nhoè màn hình là game vừa update dữ liệu mới. Hãy xoá dữ liệu và tải dữ liệu mới nhất nhé
@@ -16,6 +16,7 @@ yanrobi|Boss Yanrobi rơi hồng ngọc
 giới hạn,gh dame,gh st|Boss nhiệm vụ sẽ giới hạn để người chơi sau dễ làm nhiệm vụ. Boss không phải nhiệm vụ sẽ không giới hạn nhé
 kém|kém sang quá :))
 ok bot|Ok anh yêu!
+testfight,tf|Game có testflight nhé. Vào web trên ghim tải nha
 vùng đất|Vùng đất huỷ diệt bạn lên hành tinh Bill là qua được
 dc đâu,đc đâu,co dc dau|Xin lỗi mình chỉ là BotChat. Nếu mình không giúp được bạn. Hãy hãy quay hoặc chụp lại rồi gửi cho Key vàng nhé
 code tuần,giftcode tuần,code mới,giftcode mới|Hãy vào fanpage trên ghim box zalo sẽ có bài viết lấy code tuần nhé
