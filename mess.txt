@@ -73,6 +73,7 @@ calich,tương lai|Calich ở rừng bambo hoặc rừng dương xỉ hoặc nam
 kuku,mập đầu đinh,map dau dinh,rambo|KuKu, Mập đầu đinh, Rambo -> 5 Phút -> Tìm nhanh ở Cui thành phố Vegeta
 skh,set kích hoạt,set kh|Đồ kích hoạt đánh quái 3 map cạnh làng sẽ rơi
 mảnh ấn|Mẩnh ấn tiêu diệt boss ở Hành tinh ngục tù sẽ rơi
+địa ngục|Gặp thần vũ trụ tại hành tinh kaio để đến địa ngục
 mấy sao,level|Trang bị thường 10 sao và trang bị vip 12 sao, trang bị thường 9 cấp và trang bị vip 10 cấp (cày có hết) 
 vô pt,xin pt,xin bang,vô pt,vô clan,xin clan|Bạn muốn vào bang hội thì nên chat thế giới rồi xin, ae trong game đông lắm
 bang,pt|Ai có bang cho nó vào đi kìa
