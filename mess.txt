@@ -112,7 +112,7 @@ bot nói nhiều|nói nhiều sao bằng mày được hả nhóc
 mệt|làm gì mà mệt hả? Đi bar quẩy đi
 nv khó quá|Game nào cũng có nhiệm vụ dễ nhiệm vụ khó mới là game, dễ quá thì ai cũng qua sẽ đâm ra chán. Nên hãy cứ đam mê đi! 
 tiền chưa vào|nạp tiền chưa cộng thì chờ 3-5phut chưa cộng thì liên hệ key vàng 
-trạng thái|Trạng Thái: Đang hoạt động 
+trạng thái|Trạng Thái: Đang hoạt động
 Skill đệ tử|Đệ tử có 6 chiêu ước rồng thường đổi được skill 2-3-4, rồng từ các event đổi skill 1-5 nhé quý zị 
 kí gửi,ký gửi|Kí gửi mua bán bằng hồng ngọc nhé. Không phải thỏi vàng đâu
 trái thần long,mảnh đất,cây cuốc,khu đất,nông trại|Bạn mua đất + cây cuốc rồi săn boss đủ 30 điểm sẽ trồng được cây thần long, thu hoạch trái thần long ăn vào tăng chỉ số ( đặc biệt không bị ảnh hưởng với sức mạnh chí tôn ) 
@@ -143,5 +143,5 @@ gửi bài|Chỗ tham gia event có nút gửi event đó bạn
 bông tai,porata,mvbt,mẩnh vỡ bông tai,mảnh hồn bông tai,đá đỏ,đá xanh,btc2,btc3|BÔNG TAI CẤP 2 max 15%, BÔNG TAI CẤP 3 max 25%, BÔNG TAI CẤP 4 (VôSong) 25% + Thêm Chỉ Số (Chỉ mua ở Santa - Cày hồng ngọc rồi mua), nguyên liệu C2,C3 -> Gặp quy lão -> Khu vực bang hội -> Giuma -> Up nguyên liệu bông tai
 sợ chưa|Chưa sợ, ngon nhào zô 
 bot var|ngon vào đây mà var này
-khó|Khó thì mới là game, dame dễ thì tải game con rắn về chơi đi
+khó|Khó thì mới là game, game dễ thì tải game con rắn về chơi đi
 đéo có bông tai|Bạn mua thêm bông cấp 1 bỏ trong hành trang sẽ dùng nhanh được bông tai vip nhé
