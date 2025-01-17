@@ -6,7 +6,7 @@ xoay pc,quay pc|Bạn hãy giải nén file pc ra trước rồi xoá dữ liệ
 link,tải,jar,java,pc,windows,máy tính,apk,adr,android,androi,download,ios,ip,iphone,tf,testflight,website,trang chủ,web,diễn đàn|Link (Trang chủ - tải game - nạp tiền) trên ghim box zalo [Mở trên trình duyệt mới tải được game] (Có TestFlight) (Gặp lỗi -> Bạn hãy chụp lại hoặc quay lại gửi vào đây để mọi người hỗ trợ)
 id,ip,ipsv|Tất cả bản trên web đã cài sẵn Ip (tải về xoá dữ liệu rồi sài thôi) -> LINK IP TRÊN GHIM
 lỗi|Bạn quay video lỗi gửi cho Key vàng nhé!
-lag,lang,lắc,lác|Game rất hiếm khi lag -> Bạn vui lòng giải nén game (nếu PC) và xoá dữ liệu tải dữ liệu mới thử nhé
+lag,lang,lắc,lác|Game rất hiếm khi lag! Nếu bị nhoè màn hình là game vừa update dữ liệu mới. Hãy xoá dữ liệu và tải dữ liệu mới nhất nhé
 chậm,tốc,cheat,speed|Tăng tốc độ game -> CHAT: speed 3, cheat_3, tocdo 3, td3, cheat 3 (Chat Không viết hoa - Chat thử từng cái)
 spl,sao pha lê|Sao pha lê -> mua ở shop mở rộng hành trang ở Santa
 up nhanh,up đâu,up sm,úp đâu,úp sm,up nhanh,úp nhanh,cày nhanh|Cày nhanh -> Ngũ Hành Sơn (đường tăng - làng aru) hoặc Địa Ngục (thần vũ trụ - hành tinh kaio)
