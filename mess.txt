@@ -1,4 +1,4 @@
-ngọc,ngoc,hngoc,hn|Hồng ngọc săn boss, up cold, up cskb, ĐHVT + ĐHVT23 + Siêu Hạng, Nạp thẻ (Còn nhiều cách khác)
+hồng ngọc,hngoc,hn|Hồng ngọc săn boss, up cold, up cskb, ĐHVT + ĐHVT23 + Siêu Hạng, Nạp thẻ (Còn nhiều cách khác)
 thỏi,tvang,tv|Thỏi vàng làm nhiệm vụ bò mộng, hộ tống, ĐHVT23, Nạp thẻ (Còn nhiều cách khác)
 tkmk,tk mk,thành công,đăng ký,dky,tạo,sai,chính xác,đăng nhập,tạo nv,tạo nhân vật,tao nv,k đc,k vo dc,vo dc,vô được,xoay|Nếu gặp lỗi Bạn hãy chụp lại hoặc quay lại gửi vào đây để mọi người hỗ trợ
 xoay jar,quay jar|Bạn hãy xoá dữ liệu bản jar sẽ hết xoay. Chỗ tải ở web có chỉ xoá dữ liệu đó
@@ -21,17 +21,18 @@ code tuần,giftcode tuần,code mới,giftcode mới|Hãy vào fanpage trên gh
 fan cung,fanpage,fancung,fan cứng,fc|Trên ghim box có sự kiện lấy code fan cứng đó
 giftcode,code|Giftcode tân thủ ghi sẵn trong game nhé bạn, vừa nhìn vừa nhập cho nhanh (Code khác trên ghim)
 gas|Đi doanh trại kiếm Bản đồ kho báu (bình gas) rồi vào Khí gas ở làng aru
-đảo,biến hình|Học biến hình ở quy lão đảo kame (cày hoặc nạp đều học được - đi doanh trại rơi bí kíp)
+skill mới,skill đặc biệt,super kame,ma phong ba,liên hoàn chưởng,biến hình|Học skill đặc biệt ở quy lão đảo kame. cày hoặc nạp đều học được, đi doanh trại sẽ rơi bí kíp học skill
 sợ,thua|Ai sợ đi về :))
-tb boss,báo boss,bao boss|Chat sb -> để bật thông báo boss
+tb boss,báo boss,bao boss|Chat 'sb' để bật thông báo boss nha
+ts,tàn sát,đánh quái,auto đánh|Chat 'ts' để auto tàn sát quái nhé
 10k,20k,30k,50k,100k,200k,300k,500k,700k,1tr|Tỷ lệ nạp 10k = 20k hồng ngọc, 60k = 10k thỏi vàng (chi tiết ở Santa)
 thần tiên|Cần phiếu giảm giá để mua set thần tiên
 đổi skill,đổi chiêu,đổi skill1,đổi skill2,đổi skill3,đổi skill4,đổi skill5|Gọi rồng thần đổi skill 2-3-4 đệ tử
 1tab,2tab,3tab,4tab,5tab,tab|Giới hạn địa chỉ IP là 4 Tab online cùng lúc nhé
-bán vàng,bán thỏi|Thỏi vàng -> mua đồ ở Santa, Vầng -> nhận miễn phí không giới hạn ở nhà
-đậu,béo|Đậu thần Mabư -> săn ở mabu 21h ở đại hội võ thuật
+vàng,bán thỏi,sử dụng thỏi|Vầng nhận miễn phí không giới hạn ở nhà
+đậu,béo|Đậu thần Mabư săn ở mabu 21h ở đại hội võ thuật
 cay|Cay thì mua sữa về uống :))
-potaufeu|Hang potaufeu -> đến trạm tàu vũ trụ trái đất tìm thằng Jaco để vào đánh nhân bản rơi item siêu cấp
+potaufeu|Hang potaufeu đến trạm tàu vũ trụ trái đất tìm thằng Jaco để vào đánh nhân bản rơi item siêu cấp
 doanh trại|Vào rừng bambo gặp lính canh để vào doanh trại, tất cả người đứng gần phải xong nhiệm vụ 24 mới được đi
 điểm boss|Điểm boss -> đánh boss sẽ có điểm (tuỳ boss)
 cold|Xong nhiệm vụ xên hoàn thiện ở thị trấn ginder là qua được cold
@@ -59,7 +60,6 @@ hạ tôn|hồn hạ tôn, Cách kiếm: bạn dùng cuồng nộ thường và 
 mảnh hồn,kính soi,kính lúp,viên kẹo|Bạn mua [kính lúp], [kính soi], và [viên kẹo] sau đó đi tìm [mảnh hồn] nhé (có thể tìm được [rương chí tôn] từ chức năng này đó) Các [mảnh hồn] có thể đổi vài món đồ ở santa đó 
 thức ăn,thuc an,đồ ăn|Thức ăn bạn mặc set thần linh rồi up quái cold là rơi 
 black goku|Black goku mạnh vcl đấy mấy cưng, rơi nhẫn thời không để vào map Chilled 
-code,giftcode,xin code,sin code|Giftcode: ghi sẵn ở ô nhập trong nhà. vào nhà vừa nhìn vừa nhập. CODE MỚI: Vào fanpage trên ghim box -> check bài viết trên đó có code mới đó
 winrar|Bạn tải về rồi bấm cài đặt rồi next next là cài được rồi: https://www.win-rar.com/fileadmin/winrar-versions/winrar/winrar-x64-701.exe
 bảo trì,btri,btr|Xem Server có bảo trì hay không tại đây: http://ngocrongpk.com/trang-thai (Thường khởi động lại sau 1 phút)
 nạp,donate|Nạp Tự Động -> Tại Trang chủ game nhé (Link trên ghim) xong vô santa đổi qua hồng ngọc hoặc thỏi vàng nhé
