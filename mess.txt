@@ -21,7 +21,7 @@ code tuần,giftcode tuần,code mới,giftcode mới|Hãy vào fanpage trên gh
 fan cung,fanpage,fancung,fan cứng,fc|Trên ghim box có sự kiện lấy code fan cứng đó
 giftcode,code|Giftcode tân thủ ghi sẵn trong game nhé bạn, vừa nhìn vừa nhập cho nhanh (Code khác trên ghim)
 gas|Đi doanh trại kiếm Bản đồ kho báu (bình gas) rồi vào Khí gas ở làng aru
-skill mới,skill đặc biệt,super kame,ma phong ba,liên hoàn chưởng,biến hình|Học skill đặc biệt ở quy lão đảo kame. cày hoặc nạp đều học được, đi doanh trại sẽ rơi bí kíp học skill
+skill mới,skill đặc biệt,super kame,ma phong ba,liên hoàn chưởng,biến hình,skill9,skill 9|Học skill đặc biệt ở quy lão đảo kame. cày hoặc nạp đều học được, đi doanh trại sẽ rơi bí kíp học skill
 sợ,thua|Ai sợ đi về :))
 tb boss,báo boss,bao boss|Chat 'sb' để bật thông báo boss nha
 ts,tàn sát,đánh quái,auto đánh|Chat 'ts' để auto tàn sát quái nhé
@@ -80,17 +80,17 @@ dbv,đá bảo vệ|đá bảo vệ bạn đi doanh trại rơi đầy hoặc mu
 khuyến mãi,km nạp|Game khuyến mãi nạp thẻ tối đa 30% chứ không có quá nha mọi người 
 ngọc rồng siêu cấp,nrsc,ngọc rồng sc, nr siêu cấp,ước được gì|Ngọc rồng siêu cấp chỉ để ước (không ép được) (ước được gì thì ước đi rồi biết chứ tôi biết đâu) 
 ai đẹp,bot đẹp|admin đẹp nhất nhé! Tôi đánh giá khách quan là như thế 
-chán|Tại sao bạn lại chán, bắt con gián bỏ vô háng cho đỡ chán 
+chán|Tại sao bạn lại chán, bắt con gián bỏ vô háng, rồi sục cho đỡ chán 
 bot ngu,Bot ngu|mày mới là thằng ngu đó 
 alo,lô,alô,hello,chào|Hello anh đẹp trai! Em là chatbot được phân công làm việc ở đây, anh cần giúp gì cứ nói nhé! 
 chào bot|Hi! Chào cậu, cho mình làm quen nhé!   
 bot khôn,bot không khôn|ai cũng biết rằng tôi khôn mà 
 còn sống không|Tôi vẫn còn sống đây, tôi đứng đây chờ bạn từ chiều 
-phụ kiện|phụ kiện mua ở santa cho nhanh  
+ô cuối|2 ô cuối là danh hiệu và nhẫn đính ước tại santa nhé  
 cành tre|Bạn gom đủ 9999 rồi ghép thành cần câu đi câu cá nhé 
-test,open,op,sv,mtv,mở tv,mở thành viên,open khi,open lúc,open ngày,mở ngày,kích hoạt tài khoản|Server Mới Open nhé (dame trung). Hỗ Trợ 100% Miễn Phí (Không thu gì hết) - Chức năng gì cũng có
-chức năng|Các NPC đều có chỉ chức năng, bạn tới đó đọc nhé 
-dhd,dts,đồ hủy diệt,đồ thiên sứ,đồ ts|Nâng cấp đồ ở thiên sứ đảo kame (có hướng dẫn) 
+test,open,op,mtv,mở tv,mở thành viên,kích hoạt tài khoản|Game mới open nhé (dame trung). Không cần mở thành viên gì hết
+chức năng|Phần thông báo ở chức năng có hướng dẫn nhiều lắm. Bạn đọc thử nhé 
+huỷ diệt|Để 5 món thần linh trong hành trang rồi gặp Thần huỷ diệt để đổi đồ Huỷ diệt nhé
 bịp|thằng bên trên mới bịp nhé 
 cái gì,update,cái j,gì đây|Có nhiều thứ tôi chưa được biết đến, bạn cứ gửi vào nhóm đi mọi người sẽ giúp đỡ bạn nhé 
 bot giận,bot dỗi|Tôi không biết giận đâu, ai chửi thì tôi chửi lại 
@@ -107,10 +107,8 @@ thông đít|thông đít mày
 bot nói nhiều|nói nhiều sao bằng mày được hả nhóc 
 mệt|làm gì mà mệt hả? Đi bar quẩy đi
 nv khó quá|Game nào cũng có nhiệm vụ dễ nhiệm vụ khó mới là game, dễ quá thì ai cũng qua sẽ đâm ra chán. Nên hãy cứ đam mê đi! 
-max cs,max chi so,chi so max|HP KI 780K SD 40K nhé 
 tiền chưa vào|nạp tiền chưa cộng thì chờ 3-5phut chưa cộng thì liên hệ key vàng 
 trạng thái|Trạng Thái: Đang hoạt động 
-Super Kamejoko,Ma Phong Ba,Liên Hoàn Chưởng,Super Kame,skill9,skill 9,Skill đặc biệt|Chiêu đặc biệt học ở quy lão ( mua 1 sách học 9 lần là full 9 cấp ) gặp quy lão
 Skill đệ tử|Đệ tử có 6 chiêu ước rồng thường đổi được skill 2-3-4, rồng từ các event đổi skill 1-5 nhé quý zị 
 kí gửi,ký gửi|Kí gửi mua bán bằng hồng ngọc nhé (Kí cửa hàng free mất không bảo hành - Kí cửa hàng Vip sẽ bảo hành)
 trái thần long,mảnh đất,cây cuốc,khu đất,nông trại|Bạn mua đất + cây cuốc rồi săn boss đủ 30 điểm sẽ trồng được cây thần long, thu hoạch trái thần long ăn vào tăng chỉ số ( đặc biệt không bị ảnh hưởng với sức mạnh chí tôn ) 
