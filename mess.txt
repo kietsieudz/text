@@ -139,4 +139,5 @@ gửi bài|Chỗ tham gia event có nút gửi event đó bạn
 bông tai,porata,mvbt,đá đỏ,đá xanh,btc2,btc3|BÔNG TAI CẤP 2 max 15%, BÔNG TAI CẤP 3 max 25%, BÔNG TAI CẤP 4 (VôSong) 25% + Thêm Chỉ Số (Chỉ mua ở Santa - Cày hồng ngọc rồi mua), nguyên liệu C2,C3 -> Gặp quy lão -> Khu vực bang hội -> Giuma -> Up nguyên liệu bông tai
 sợ chưa|Chưa sợ, ngon nhào zô 
 bot var|ngon vào đây mà var này
+khó|Khó thì mới là game, dame dễ thì tải game con rắn về chơi đi
 đéo có bông tai|Bạn mua thêm bông cấp 1 bỏ trong hành trang sẽ dùng nhanh được bông tai vip nhé
