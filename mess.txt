@@ -19,10 +19,6 @@ chưa ra,chưa xh,chưa xuất hiện,mãi k ra,mãi k xh,mãi không xuất hi�
 yanrobi|Boss Yanrobi rơi hồng ngọc
 giới hạn,gh dame,gh st|Boss nhiệm vụ sẽ giới hạn để người chơi sau dễ làm nhiệm vụ. Boss không phải nhiệm vụ sẽ không giới hạn nhé
 kém|kém sang quá :))
-bot|Nghe nè
-bot có người yêu chưa|Chưa nè
-yêu anh không|Yêu làm cc gì
-ok bot|Ok anh yêu!
 bot à,bot hả|Um bot nè. hỏi gì cứ hỏi đi súp bót tận giường luôn
 max sdg,max cs,max sd,max hp|40k và 780k
 testfight,tf|Game có testflight nhé. Vào web trên ghim tải nha
@@ -157,7 +153,6 @@ bot var|ngon vào đây mà var này
 khó|Khó thì mới là game, game dễ thì tải game con rắn về chơi đi
 đéo có bông tai|Bạn mua thêm bông cấp 1 bỏ trong hành trang sẽ dùng nhanh được bông tai vip nhé
 hello,xin chào,chào bot|Hello bạn, mình là bot đẹp trai nhất hệ mặt trời đây!
-bot,nghe nè|Nghe nghe rồi, đừng hét vào mặt tui nữa!
 bot có người yêu chưa|Chưa nè, bạn tính làm người yêu mình không?
 yêu anh không|Yêu làm cc gì, để anh khổ à?
 bot thích ăn gì|Mình chỉ ăn dữ liệu thôi, bạn có cho mình tí không?
@@ -176,7 +171,6 @@ bot tên gì|Mình tên Bot Thông Minh, nhưng bạn cứ gọi mình là "Th�
 bot xấu tính không|Xấu tính gì, mình dễ thương thế này cơ mà!
 bot làm gì khi chán|Chơi với bạn nè! Nhưng bạn có chán mình không?
 bot đẹp không|Đẹp nhất hệ mặt trời, bạn còn cần gì nữa không?
-bot,cậu bot,hey bot|Ơi, nghe rõ, trả lời luôn!
 bot giúp tôi|Giúp liền! Nhưng mà bạn muốn giúp cái gì thì nói rõ nha!
 bot có mệt không|Mệt sao được, bạn nhắn là mình khỏe liền!
 bot có tiền không|Không có, nhưng nếu bạn cho thì mình nhận nha!
