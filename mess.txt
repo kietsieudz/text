@@ -5,7 +5,7 @@ xoay jar,quay jar|Bạn hãy xoá dữ liệu bản jar sẽ hết xoay. Chỗ t
 xoay pc,quay pc|Bạn hãy giải nén file pc ra trước rồi xoá dữ liệu mới chơi được bản pc nhé. Chỗ tải ở web có chỉ xoá dữ liệu đó
 link,tải,jar,java,pc,windows,máy tính,apk,adr,android,androi,download,ios,ip,iphone,website,trang chủ,web,diễn đàn|Link (Trang chủ - tải game) trên ghim box zalo [Mở trên trình duyệt mới tải được game] (Có TestFlight) (Gặp lỗi -> Bạn hãy chụp lại hoặc quay lại gửi vào đây để mọi người hỗ trợ)
 id,ip,ipsv|Tất cả bản trên web đã cài sẵn Ip (tải về xoá dữ liệu rồi sài thôi) -> LINK IP TRÊN GHIM
-lỗi|Bạn quay video lỗi gửi cho Key vàng nhé!
+lỗi|Bạn cho mình xin video lỗi để mình hỗ trợ nhé! Hoặc gửi cho Key vàng!
 lag,lang,lắc,lác|Game rất hiếm khi lag! Nếu bị nhoè màn hình là game vừa update dữ liệu mới. Hãy xoá dữ liệu và tải dữ liệu mới nhất nhé
 chậm,tốc,cheat,speed|Tăng tốc độ game hãy CHAT thử từng cái nhé: speed 3, cheat_3, cheat 3 (Không viết hoa)
 spl,sao pha lê|Sao pha lê mua ở shop mở rộng hành trang ở Santa
