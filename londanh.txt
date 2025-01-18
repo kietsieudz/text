@@ -1,1 +1,116 @@
-
+ngọc,ngoc,hngoc,hn|Hồng ngọc săn boss, Up cold, Up cskb, ĐHVT + ĐHVT23 + Siêu Hạng, Nạp thẻ (Còn nhiều cách khác)
+thỏi,tvang,tv|Thỏi vàng  làm nhiệm vụ bò mộng, hộ tống, ĐHVT23, Nạp thẻ
+tkmk,tk mk,thành công,đăng ký,dky,tạo,sai,chính xác,đăng nhập,tạo nv,tạo nhân vật,tao nv,k đc,k vo dc,vo dc,vô được,xoay|Nếu gặp lỗi  Bạn hãy chụp lại hoặc quay lại gửi vào đây để mọi người hỗ trợ
+link,tải,jar,java,pc,windows,máy tính,apk,adr,android,androi,download,ios,ip,iphone,tf,testflight,website,trang chủ,web,diễn đàn|Link (Trang chủ - tải game - nạp tiền) trên ghim box zalo [Mở trên trình duyệt mới tải được game] (Có TestFlight) (Gặp lỗi -> Bạn hãy chụp lại hoặc quay lại gửi vào đây để mọi người hỗ trợ)
+id,ip,ipsv|Tất cả bản trên web đã cài sẵn Ip (tải về xoá dữ liệu rồi sài thôi) -> LINK IP TRÊN GHIM
+lỗi|Bạn quay video lỗi gửi cho Key vàng nhé!
+lag,lang,lắc,lác|Game rất hiếm khi lag  Bạn vui lòng giải nén game (nếu PC) và xoá dữ liệu tải dữ liệu mới thử nhé
+chậm,tốc,cheat,speed|Tăng tốc độ game  CHAT: speed 3 | cheat_3 | tocdo 3 | td3 | cheat 3 (Chat Không viết hoa - Chat thử từng cái)
+spl,sao pha lê|Sao pha lê  mua ở shop mở rộng hành trang ở Santa
+up nhanh,up đâu,up sm,úp đâu,úp sm,up nhanh,úp nhanh,cày nhanh|Cày nhanh  Ngũ Hành Sơn (đường tăng - làng aru) hoặc Địa Ngục (thần vũ trụ - hành tinh kaio)
+htnt,tù|Dùng capsule  đến hành tinh ngục tù
+tiểu|Giết boss doanh trại rơi tiểu hạt
+yanrobi|Boss Yanrobi rơi hồng ngọc
+giới hạn,gh dame,gh st|Boss nhiệm vụ sẽ giới hạn để người chơi sau dễ làm nhiệm vụ. Boss không phải nhiệm vụ sẽ không giới hạn
+kém|kém sang quá :))
+vùng đất|Vùng đất huỷ diệt  bạn lên hành tinh Bill là qua được
+dc đâu,đc đâu,co dc dau|Xin lỗi mình chỉ là BotChat. Nếu mình không giúp được bạn  Hãy hãy quay hoặc chụp lại rồi gửi cho Key vàng nhé
+gas|Đi doanh trại kiếm Bản đồ kho báu (bình gas) rồi vào Khí gas ở làng aru 
+sợ,thua|Ai sợ đi về :))
+tb boss,báo boss,bao boss|Chat sb  để bật thông báo boss
+10k,20k,30k,50k,100k,200k,300k,500k,700k,1tr|Tỷ lệ nạp 10k = 20k hồng ngọc, 60k = 10k thỏi vàng (chi tiết ở Santa)
+đổi skill,đổi chiêu,đổi skill1,đổi skill2,đổi skill3,đổi skill4,đổi skill5|Gọi rồng thần đổi skill 2-3-4 đệ tử
+1tab,2tab,3tab,4tab,5tab,tab|Giới hạn địa chỉ IP là 4 Tab online cùng lúc nhé
+bán vàng,bán thỏi|Thỏi vàng  mua đồ ở Santa, Vầng  nhận miễn phí không giới hạn ở nhà
+đậu,béo|Đậu thần Mabư  săn ở mabu 21h ở đại hội võ thuật
+cay|Cay thì mua sữa về uống :))
+potaufeu|Hang potaufeu  đến trạm tàu vũ trụ trái đất tìm thằng Jaco để vào đánh nhân bản rơi item siêu cấp
+doanh trại|Vào rừng bambo gặp lính canh để vào doanh trại, tất cả người đứng gần phải xong nhiệm vụ 24 mới được đi
+cold|Xong nhiệm vụ xên hoàn thiện ở thị trấn ginder là qua được cold
+dùng đậu|Mua bùa cho đệ tử là nó tự nhai đậu rồi khỏi auto
+thể lực|Mua bùa dẻo dai vào là khỏi lo hết thể lực nhé
+vamchar|Làng vamchar bạn tới làng morri để vào nhé
+cuồng nộ,item,cnsc,máy dò,cskb,capsule,kì bí,cn,bh,bổ huyết,bổ khí,bk|Item thường và siêu cấp mở từ capsule kì bí (mua máy dò up cskb)
+xu|Up quái ngũ hành sơn rơi đồng xu
+bí kíp,yadat,yardrat|Bạn qua núi khỉ vàng gặp goku ssj rồi vào hành tinh yardrat up bí kíp cải trang. Và Đi doanh trại đánh quái là rơi bí kíp tuyệt kĩ nhé, xong ra quy lão học sì kiu đặc biệt 
+thiên sứ,mts,mảnh ts,manh ts|mảnh thiên sứ up ở hành tinh ngục tù xong đem ra Thiên sứ whis ở hành tinh kaio nâng
+Tiểu đội sát thủ,tdst,boss số,số 4,tđst|Tiểu đội sát thủ - 10 phút - giờ hỗ trợ: 9-12h và 21-24h
+Fide,fd,fire|Fide - 10 phút - giờ hỗ trợ: 9-12h và 21-24h
+android19,adr19,android20,kore,apk19,apk20,android 19,androi 19,androi19,robot sát thủ|Android19-20 - 15 phút - giờ hỗ trợ: 9-12h và 21-24h 
+pic,poc,kingkong,ppkk|Pic-Poc-Kingkong - 15 phút - Thành phố phía bắc - giờ hỗ trợ: 9-12h và 21-24h - (có thể bỏ qua nhiệm vụ ở nhà)
+thị trấn,ginder,xên bọ hung|Xên bọ hung - 15 phút - Thị trấn Ginder - giờ hỗ trợ: 9-12h và 21-24h -  (có thể bỏ qua nhiệm vụ ở nhà)
+xên võ đài,cell võ đài,siêu bọ hung,võ đài,vo dai|Siêu Bọ Hung - 15 phút - Võ Đài Xên Bọ Hung - giờ hỗ trợ: 9-12h và 21-24h -  (có thể bỏ qua nhiệm vụ ở nhà)
+doremon,doraemon,nobita,shizuka,chaien,xeko|Boss Tiểu đội doraemon (20 phút) (có thể bỏ qua nhiệm vụ ở nhà)
+nút di chuyển|Nút di chuyển bạn bấm vào nút tam giác bên tay trái rồi vào phần Chức Năng, chọn Cấu Hình, rồi chọn Bàn Phím Ảo nhé 
+thức ăn,thuc an,đồ ăn|Thức ăn bạn mặc set thần linh rồi up quái cold là rơi 
+black goku|Black goku mạnh vcl đấy mấy cưng, rơi nhẫn thời không để vào map Chilled 
+code,giftcode,xin code,sin code|Giftcode: fire1,fire2,fire3,fire4
+cài game trên pc|Tải bản pc về -> chuột phải vào file game -> chọn Extract here -> mở thư mục màu vàng và mở game - xoá dữ liệu trước khi vô game! (Không thấy Extract Here thì cài winrar trước)
+winrar|Bạn tải về rồi bấm cài đặt rồi next next là cài được rồi: https://www.win-rar.com/fileadmin/winrar-versions/winrar/winrar-x64-701.exe)
+nạp,donate|Nạp Tự Động -> Tại Trang chủ game nhé (Link trên ghim) xong vô santa đổi qua hồng ngọc hoặc thỏi vàng nhé
+đồ thần,dtl,đồ tl|đồ thần bạn săn boss hoặc up cold nhé
+hỗ trợ,ho tro nv|khung giờ hỗ trợ nhiệm vụ 9-12h sáng tối (ai nhiệm vụ đó mới được vào khu - áp dụng cho các boss từ TDST đến Xên Võ Đài) 
+bán nick,mua nick,sale acc,chia acc,chia lại nick,chia lại acc,bán nick,bán acc,bay nick,bay acc,p acc,p nick,m nick,m acc,acc giá,nick giá|VUI LÒNG THU HỒI TIN NHẮN MUA BÁN TÀI KHOẢN, hãy vào box mua bán trên ghim (Không thu hồi bạn sẽ bị ban khỏi box chat)
+chiến thần|chiến thần là đệ tử thứ 2 (không mặc đồ), mua trứng ở chỗ Đảo Hoa (chỗ Quy lão đi vào) chức năng xem ở ô thứ 2 chỗ chức năng hoặc chat 'ct'. Up ở đảo hoa sẽ nhiều kinh nghiệm nhất
+calich,tương lai|Calich ở đầu rừng bambo (xong nhiệm vụ fide 3 mới thấy được calich để đến tương lai)
+kuku,mập đầu đinh,map dau dinh,rambo|KuKu,Mdđ,Rambo (5phút) Tìm nhanh ở Cui thành phố Vegeta (có thể bỏ qua nhiệm vụ ở nhà)
+mấy sao,level|trang bị max  8 sao
+vô pt,xin pt,xin bang,vô pt,vô clan,xin clan|Bạn muốn vào bang hội thì nên chat thế giới rồi xin, ae trong game đông lắm
+bang,pt|Ai có bang cho nó vào đi kìa
+cày chay|thì cày đi 
+đá quý,da quy,khí gas,khi gas|đá quý săn tiểu đội đường tăng hoặc đi khí gas ở làng aru nhé 
+dbv,đá bảo vệ|đá bảo vệ bạn đi doanh trại rơi đầy hoặc mua 3000 Đá bảo vệ giá rẻ ở santa
+khuyến mãi,km nạp|Game khuyến mãi nạp thẻ tối đa 30% chứ không có quá nha mọi người 
+ngọc rồng siêu cấp,nrsc,ngọc rồng sc, nr siêu cấp,ước được gì|Ngọc rồng siêu cấp chỉ để ước (không ép được) (ước được gì thì ước đi rồi biết chứ tôi biết đâu) 
+ai đẹp,bot đẹp|admin đẹp nhất nhé! Tôi đánh giá khách quan là như thế 
+chán|Tại sao bạn lại chán, bắt con gián bỏ vô háng cho đỡ chán 
+bot ngu,Bot ngu|mày mới là thằng ngu đó 
+alo,lô,alô,hello,chào|Hello anh đẹp trai! Em là chatbot được phân công làm việc ở đây, anh cần giúp gì cứ nói nhé! 
+chào bot|Hi! Chào cậu, cho mình làm quen nhé!   
+bot khôn,bot không khôn|ai cũng biết rằng tôi khôn mà 
+còn sống không|Tôi vẫn còn sống đây, tôi đứng đây chờ bạn từ chiều 
+phụ kiện|phụ kiện mua ở santa cho nhanh  
+cành tre|Bạn gom đủ 9999 rồi ghép thành cần câu đi câu cá nhé 
+test,open,op,sv,mtv,mở tv,mở thành viên,open khi,open lúc,open ngày,mở ngày,kích hoạt tài khoản|Server Mới Open nhé (dame trung). Hỗ Trợ 100% Miễn Phí (Không thu gì hết) - Chức năng gì cũng có
+chức năng|Các NPC đều có chỉ chức năng, bạn tới đó đọc nhé 
+dhd,dts,đồ hủy diệt,đồ thiên sứ,đồ ts|Nâng cấp đồ ở thiên sứ đảo kame (có hướng dẫn) 
+bịp|thằng bên trên mới bịp nhé 
+cái gì,update,cái j,gì đây|Có nhiều thứ tôi chưa được biết đến, bạn cứ gửi vào nhóm đi mọi người sẽ giúp đỡ bạn nhé 
+bot giận,bot dỗi|Tôi không biết giận đâu, ai chửi thì tôi chửi lại 
+bot yêu|Tôi đang thầm yêu bạn nè! Xíu chúng ta in bóc nhau nhé 
+gửi video,quay video|Bạn quay video đi, rồi gửi vô đây mọi người hướng dẫn 
+bot ơi|Có tôi đây! bạn muốn hỏi gì? nhớ ghi đúng chính tả tôi mới hiểu nhé 
+ngũ hành sơn,nhs|ra làng aru gặp Đường tăng để vào Ngũ Hành Sơn 
+ai lấy|Cho tui, cho tui đi 
+im đi|mày im mẹ mồm vào đi
+Địt|địt cái đầu mày chứ địt 
+thông đít|thông đít mày 
+bot nói nhiều|nói nhiều sao bằng mày được hả nhóc 
+mệt|làm gì mà mệt hả? Đi bar quẩy đi
+nv khó quá|Game nào cũng có nhiệm vụ dễ nhiệm vụ khó mới là game, dễ quá thì ai cũng qua sẽ đâm ra chán. Nên hãy cứ đam mê đi!  
+tiền chưa vào|nạp tiền chưa cộng thì chờ 3-5phut chưa cộng thì liên hệ key vàng 
+trạng thái|Trạng Thái: Đang hoạt động 
+Super Kamejoko,Ma Phong Ba,Liên Hoàn Chưởng,Super Kame,skill9,skill 9,Skill đặc biệt|Chiêu đặc biệt học ở quy lão ( mua 1 sách học 9 lần là full 9 cấp ) gặp quy lão
+Skill đệ tử|Đệ tử có 6 chiêu ước rồng thường đổi được skill 2-3-4, rồng từ các event đổi skill 1-5 nhé quý zị 
+kí gửi,ký gửi|Kí gửi mua bán bằng hồng ngọc nhé (Kí cửa hàng free mất không bảo hành - Kí cửa hàng Vip sẽ bảo hành) 
+tàu pảy pảy|tàu pảy pảy xuất hiện ở Rừng karin, tiêu diệt hắn sẽ rơi item siêu cấp nhé 
+lệnh,auto|Cần lệnh gì thì nói vào đây đi anh em chỉ cho
+cảm ơn bot,ok bot|Dạ không có gì đâu anh yêu! Nhiệm vụ của em mà 
+scam|Sì Trái Cam là hành vi vi phạm đạo đức của một con người! Xin đừng Sì Trái Cam 
+đệ,vageta,mabu,ma bư,trứng bư,mabư,bư|ĐỆ THƯỜNG 0% -> săn Super Broly, MABƯ 30% -> săn Mabư, vegata  50% -> săn bư 12h và 19h ở ĐHVT, 
+Vòng quay thượng đế|Vòng quay thượng đế quay tốn hồng ngọc (chưa thêm vật phẩm đặc biệt) 
+mới chơi|Bạn mới chơi thì năng nổ giao tiếp với mọi người trong box nè, nhất là giao tiếp với tôi nhé! 
+rep ad,admin,ad|Admin là người có chìa khóa vàng, ad chưa rep là ad đang đi bú chem chép. rảnh tay ad sẽ rep liền. đừng có hối nhé 
+đền bù|bù khu chứ bù, chơi game free all còn bù 
+đẹp đâu,đẹp cc|Tôi thấy đẹp mà 
+hộ tống|Gặp đường tăng làng aru để tham gia hộ tống
+bỏ qua nv|Bạn bỏ qua nhiệm vụ tân thủ ở nhà và bỏ qua nv chính tuyến ở Nhà đó, bỏ 1 lần hẳn 1 level không phải nhiệm vụ nhỏ 
+dnc,đá nâng cấp,tat,ruby|Đá nâng cấp ở santa (Rương đá nâng cấp) bạn có thể mua rồi sử dụng sẽ ra 1 đống đá nâng cấp nhé (thạch anh tím, ruby, titan,..)
+đổi tên|Thẻ đổi tên mua ở santa, được đổi tên thành có Dấu viết hoa và kí tự đặc biệt nhé (đừng đặt quá dài sẽ bị mất thẻ đổi tên mà không đổi được tên) 
+trứng linh thú|trứng linh thú nở ra linh thú
+mảnh sưu tầm|Mảnh sưu tầm quái nào bạn train quái đó là rơi 
+chờ duyệt|Bài chờ duyệt vẫn tính (yêu cầu chụp lại bài chờ duyệt) 
+bông tai,porata,mvbt,đá đỏ,đá xanh,btc2,btc3|BÔNG TAI CẤP 2 max 15%, BÔNG TAI CẤP 3 max 25%,  nguyên liệu C2,C3 - Gặp quy lão - Khu vực bang hội - Giuma - Up nguyên liệu bông tai
+sợ chưa|Chưa sợ, ngon nhào zô 
+bot var|ngon vào đây mà var này
+skh|5 món thần linh ép ở bà hạt mít đao kame
