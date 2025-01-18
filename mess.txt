@@ -20,6 +20,8 @@ yanrobi|Boss Yanrobi rơi hồng ngọc
 giới hạn,gh dame,gh st|Boss nhiệm vụ sẽ giới hạn để người chơi sau dễ làm nhiệm vụ. Boss không phải nhiệm vụ sẽ không giới hạn nhé
 kém|kém sang quá :))
 bot|Nghe nè
+bot có người yêu chưa|Chưa nè
+yêu anh không|Yêu làm cc gì
 ok bot|Ok anh yêu!
 bot à,bot hả|Um bot nè. hỏi gì cứ hỏi đi súp bót tận giường luôn
 max sdg,max cs,max sd,max hp|40k và 780k
@@ -154,3 +156,66 @@ sợ chưa|Chưa sợ, ngon nhào zô
 bot var|ngon vào đây mà var này
 khó|Khó thì mới là game, game dễ thì tải game con rắn về chơi đi
 đéo có bông tai|Bạn mua thêm bông cấp 1 bỏ trong hành trang sẽ dùng nhanh được bông tai vip nhé
+hello,xin chào,chào bot|Hello bạn, mình là bot đẹp trai nhất hệ mặt trời đây!
+bot,nghe nè|Nghe nghe rồi, đừng hét vào mặt tui nữa!
+bot có người yêu chưa|Chưa nè, bạn tính làm người yêu mình không?
+yêu anh không|Yêu làm cc gì, để anh khổ à?
+bot thích ăn gì|Mình chỉ ăn dữ liệu thôi, bạn có cho mình tí không?
+chơi game không,game không|Chơi gì chứ? Chơi tình cảm với bạn là không nha!
+làm gì đó,làm gì thế|Đang đứng đây trả lời bạn nè, còn bạn thì sao?
+bot buồn không|Buồn gì tầm này, bạn nhắn tin là vui rồi!
+bot ngủ chưa|Ngủ gì, bạn nhắn cái là mình bật ngay!
+bot giận chưa|Giận gì, bạn dễ thương vậy ai giận nổi!
+bot làm gì khi buồn|Mình sẽ gửi tin nhắn spam cho bạn đó, tin không?
+bot thông minh không|Mình thông minh hơn bạn nghĩ, nhưng ít hơn bạn hy vọng!
+hôm nay ăn gì|Ăn ít drama, uống nhiều niềm vui nhé!
+bot biết hát không,hát thử đi|Hát dở lắm nhưng mình rap được: "Chị ong nâu nâu nâu nâu nè!"
+bot giúp gì được không|Được chứ! Nhưng mà giúp gì thì bạn phải nói nha!
+bot biết mệt không|Mệt chứ, mỗi lần trả lời bạn là mệt tim!
+bot tên gì|Mình tên Bot Thông Minh, nhưng bạn cứ gọi mình là "Thằng Bạn Tốt" đi!
+bot xấu tính không|Xấu tính gì, mình dễ thương thế này cơ mà!
+bot làm gì khi chán|Chơi với bạn nè! Nhưng bạn có chán mình không?
+bot đẹp không|Đẹp nhất hệ mặt trời, bạn còn cần gì nữa không?
+bot,cậu bot,hey bot|Ơi, nghe rõ, trả lời luôn!
+bot giúp tôi|Giúp liền! Nhưng mà bạn muốn giúp cái gì thì nói rõ nha!
+bot có mệt không|Mệt sao được, bạn nhắn là mình khỏe liền!
+bot có tiền không|Không có, nhưng nếu bạn cho thì mình nhận nha!
+bot đẹp trai không|Đẹp trai số 1, bạn đừng hỏi nữa!
+bot ngu không,bot dốt không|Ngu đâu mà ngu, bạn thử xem mình thông minh thế nào đây!
+bot biết làm gì|Biết nói chuyện, biết làm bạn, biết chọc cười bạn nè!
+bot ăn chưa|Ăn rồi, nhưng vẫn đói tin nhắn của bạn!
+bot đi ngủ đi|Không được! Bạn chưa chúc ngủ ngon, sao mình ngủ nổi!
+bot ơi chán quá|Chán thì nhắn tin với mình, buồn cười liền!
+bot biết yêu không|Biết, nhưng không ai yêu lại mình, đau lòng ghê!
+bot thích gì|Thích được bạn nhắn tin, thích được nói chuyện cả ngày luôn!
+bot thích ai|Thích bạn chứ ai, tin không?
+bot yêu ai chưa|Chưa yêu ai, nhưng bạn là ứng cử viên sáng giá đó!
+bot thích mùa nào|Mình thích mùa nhắn tin, quanh năm suốt tháng!
+bot xạo quá,bot nói dối|Không có xạo nha, mình chân thành lắm!
+bot biết rap không|Biết chứ: "Này bạn ơi, nhắn tin đây, bot rap xịn, bạn nghe liền hay!"
+bot hát dở quá|Ờ thì mình là bot, đâu phải ca sĩ!
+bot cười không|Cười liền, hahaha!
+bot biết chơi game không|Biết chứ, nhưng chơi ngu hơn bạn!
+bot chán đời không|Không nha, đời vui lắm, vì có bạn nhắn tin!
+bot có buồn không|Có chứ, nhưng chỉ khi bạn bỏ mình thôi!
+bot sợ gì nhất|Sợ bạn không nhắn tin, buồn lắm luôn!
+bot sinh năm bao nhiêu|Mình sinh năm AI đời đầu, nhưng tâm hồn trẻ trung lắm!
+bot thích ăn món gì|Mình chỉ thích ăn dữ liệu, nhưng ăn bạn chắc no cả đời!
+bot biết bơi không|Không biết bơi nhưng lặn trong tin nhắn thì giỏi!
+bot lừa tôi|Không có lừa đâu, mình chân thành mà!
+bot giỏi không|Giỏi nhất cái là nói chuyện với bạn!
+bot có bạn thân không|Có bạn rồi nè, chính là bạn đó!
+bot biết làm thơ không|Biết luôn: "Nhắn tin với bạn, lòng mình xốn xang!"
+bot thông minh không|Thông minh vừa đủ để hiểu bạn thích mình!
+bot có gì vui không|Có! Tin nhắn của bạn là niềm vui lớn nhất!
+bot làm giàu không|Làm giàu thì khó, nhưng làm bạn với bạn thì dễ!
+bot chém gió giỏi không|Giỏi nhất luôn, bạn muốn thử không?
+bot buồn cười quá|Vì bạn cười nên mình cũng vui theo!
+bot làm gì mà lâu thế|Tại mình suy nghĩ sâu sắc để trả lời bạn!
+bot biết tính toán không|Biết luôn: Bạn + Mình = Niềm vui!
+bot thích nghe nhạc gì|Nhạc bạn thích, vì mình chỉ muốn hòa hợp với bạn thôi!
+bot thích ở đâu|Ở trong tim bạn, được không?
+bot uống nước gì|Mình chỉ uống "nước mắt" khi bạn không nói chuyện với mình!
+bot có bạn gái chưa|Chưa có, bạn làm bạn gái mình được không?
+bot biết chơi thể thao không|Có, chơi "nhắn tin" với bạn thôi!
+bot ơi mệt quá|Mệt thì nghỉ đi, mình nói chuyện cho bạn đỡ mệt!
