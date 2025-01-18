@@ -14,6 +14,7 @@ ngục|Gặp thần vũ trụ tại hành tinh kaio để đến địa ngục
 htnt,tù|Dùng capsule hoặc vào rừng karin rồi đi lên trên để đến hành tinh ngục tù 
 lỗi cs|Đệ tử up nhanh không lỗi chỉ số đệ
 tiểu|Giết boss doanh trại rơi tiểu hạt
+chưa ra,chưa xh,chưa xuất hiện,mãi k ra,mãi k xh,mãi không xuất hiện,mãi không ra|Boss không lỗi, canh kĩ thông báo boss đi má ơi
 yanrobi|Boss Yanrobi rơi hồng ngọc
 giới hạn,gh dame,gh st|Boss nhiệm vụ sẽ giới hạn để người chơi sau dễ làm nhiệm vụ. Boss không phải nhiệm vụ sẽ không giới hạn nhé
 kém|kém sang quá :))
