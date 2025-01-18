@@ -10,8 +10,8 @@ lag,lang,lắc,lác|Game rất hiếm khi lag! Nếu bị nhoè màn hình là g
 chậm,tốc,cheat,speed|Tăng tốc độ game hãy CHAT thử từng cái nhé: speed 3, cheat_3, cheat 3 (Không viết hoa)
 spl,sao pha lê|Sao pha lê mua ở shop mở rộng hành trang ở Santa
 sao pha lê sức đánh,spl sức đánh,spl sd,sao pha lê sd|Game không có sao pha lê sức đánh, chỉ có ngọc rồng 3 sao ép sức đánh thôi
-up nhanh,up đệ,up đâu,up sm,úp đâu,úp sm,úp nhanh,cày nhanh,cày sm|Cày nhanh tại Ngũ Hành Sơn (đường tăng - làng aru) hoặc Địa Ngục (thần vũ trụ - hành tinh kaio)
-ngục|Gặp thần vũ trụ tại hành tinh kaio để đến địa ngục
+up nhanh,up đệ,up đâu,up sm,úp đâu,úp sm,úp nhanh,cày nhanh,cày sm|Cày nhanh sư phụ và đệ tử tại Ngũ Hành Sơn (đường tăng - làng aru) hoặc Địa Ngục (thần vũ trụ - hành tinh kaio)
+địa ngục|Gặp thần vũ trụ tại hành tinh kaio để đến địa ngục
 htnt,tù|Dùng capsule hoặc vào rừng karin rồi đi lên trên để đến hành tinh ngục tù 
 lỗi cs|Đệ tử up nhanh không lỗi chỉ số đệ
 tiểu|Giết boss doanh trại rơi tiểu hạt
@@ -19,9 +19,9 @@ chưa ra,chưa xh,chưa xuất hiện,mãi k ra,mãi k xh,mãi không xuất hi�
 yanrobi|Boss Yanrobi rơi hồng ngọc
 giới hạn,gh dame,gh st|Boss nhiệm vụ sẽ giới hạn để người chơi sau dễ làm nhiệm vụ. Boss không phải nhiệm vụ sẽ không giới hạn nhé
 kém|kém sang quá :))
-bot à,bot hả|Um bot nè. hỏi gì cứ hỏi đi súp bót tận giường luôn
-ok bot|Ok anh yêu!
 bot|Nghe nè
+ok bot|Ok anh yêu!
+bot à,bot hả|Um bot nè. hỏi gì cứ hỏi đi súp bót tận giường luôn
 max sdg,max cs,max sd,max hp|40k và 780k
 testfight,tf|Game có testflight nhé. Vào web trên ghim tải nha
 vùng đất|Vùng đất huỷ diệt bạn lên hành tinh Bill là qua được
