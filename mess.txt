@@ -33,6 +33,7 @@ skill mới,skill đặc biệt,super kame,ma phong ba,liên hoàn chưởng,bi�
 sợ,thua|Ai sợ đi về :))
 tb boss,báo boss,bao boss|Chat 'sb' để bật thông báo boss nha
 ts,tàn sát,đánh quái,auto đánh|Chat 'ts' để auto tàn sát quái nhé
+tàn sát 1 quái,đánh quái 1 mình,auto đánh 1 quái|Chat ats để auto 1 loại quái
 10k,20k,30k,50k,100k,200k,300k,500k,700k,1tr|Tỷ lệ nạp 10k = 20k hồng ngọc, 60k = 10k thỏi vàng (chi tiết ở Santa)
 thần tiên|Cần phiếu giảm giá để mua set thần tiên
 skill đệ,đổi skill,đổi chiêu,đổi skill1,đổi skill2,đổi skill3,đổi skill4,đổi skill5|Gọi rồng thần đổi skill 2-3-4 đệ tử
