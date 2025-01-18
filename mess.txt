@@ -13,7 +13,7 @@ sao pha lê sức đánh,spl sức đánh,spl sd,sao pha lê sd|Game không có 
 up nhanh,up đệ,up đâu,up sm,úp đâu,úp sm,úp nhanh,cày nhanh,cày sm|Cày nhanh sư phụ và đệ tử tại Ngũ Hành Sơn (đường tăng - làng aru) hoặc Địa Ngục (thần vũ trụ - hành tinh kaio)
 địa ngục|Gặp thần vũ trụ tại hành tinh kaio để đến địa ngục
 htnt,tù|Dùng capsule hoặc vào rừng karin rồi đi lên trên để đến hành tinh ngục tù 
-lỗi cs|Đệ tử up nhanh không lỗi chỉ số đệ
+lỗi cs,lỗi chỉ số|Đệ tử up nhanh không lỗi chỉ số đệ
 tiểu|Giết boss doanh trại rơi tiểu hạt
 chưa ra,chưa xh,chưa xuất hiện,mãi k ra,mãi k xh,mãi không xuất hiện,mãi không ra|Boss không lỗi, canh kĩ thông báo boss đi má ơi
 yanrobi|Boss Yanrobi rơi hồng ngọc
