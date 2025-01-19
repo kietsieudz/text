@@ -33,6 +33,7 @@ giftcode,code|Giftcode tân thủ ghi sẵn trong game nhé bạn, vừa nhìn v
 gas|Đi doanh trại kiếm Bản đồ kho báu (bình gas) rồi vào Khí gas ở làng aru
 skill mới,skill đặc biệt,super kame,ma phong ba,liên hoàn chưởng,biến hình,skill9,skill 9|Học skill đặc biệt ở quy lão đảo kame. cày hoặc nạp đều học được, đi doanh trại sẽ rơi bí kíp học skill
 sợ,thua|Ai sợ đi về :))
+cày chay|Mèo méo meo mèo meo...mlem..mlem 
 tb boss,báo boss,bao boss|Chat 'sb' để bật thông báo boss nha
 ts,tàn sát,đánh quái,auto đánh|Chat 'ts' để auto tàn sát quái nhé
 10k,20k,30k,50k,100k,200k,300k,500k,700k,1tr|Tỷ lệ nạp 10k = 20k hồng ngọc, 40k = 10k thỏi vàng (chi tiết ở Santa)
@@ -83,7 +84,6 @@ mảnh ấn|Mẩnh ấn tiêu diệt boss ở Hành tinh ngục tù sẽ rơi
 mấy sao,level|Trang bị thường 10 sao và trang bị vip 12 sao, trang bị thường 9 cấp và trang bị vip 10 cấp (cày có hết) 
 vô pt,xin pt,xin bang,vô pt,vô clan,xin clan|Bạn muốn vào bang hội thì nên chat thế giới rồi xin, ae trong game đông lắm
 bang,pt|Ai có bang cho nó vào đi kìa
-cày chay|Mèo méo meo mèo meo...mlem..mlem 
 zeno|Về nhà nạp đầu đi là có cải trang zeno, mặc cải trang zeno đánh quái sẽ rơi đá, rồi vô nhà nâng cấp
 đá quý,da quy,khí gas,khi gas|đá quý săn tiểu đội đường tăng hoặc đi khí gas ở làng aru nhé 
 dbv,đá bảo vệ|đá bảo vệ bạn đi doanh trại rơi đầy hoặc mua 3000 Đá bảo vệ giá rẻ ở santa
