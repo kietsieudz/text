@@ -34,6 +34,7 @@ gas|Đi doanh trại kiếm Bản đồ kho báu (bình gas) rồi vào Khí gas
 skill mới,skill đặc biệt,super kame,ma phong ba,liên hoàn chưởng,biến hình,skill9,skill 9|Học skill đặc biệt ở quy lão đảo kame. cày hoặc nạp đều học được, đi doanh trại sẽ rơi bí kíp học skill
 sợ,thua|Ai sợ đi về :))
 cày chay|Mèo méo meo mèo meo...mlem..mlem 
+cay|Cay thì mua sữa về uống :))
 tb boss,báo boss,bao boss|Chat 'sb' để bật thông báo boss nha
 ts,tàn sát,đánh quái,auto đánh|Chat 'ts' để auto tàn sát quái nhé
 10k,20k,30k,50k,100k,200k,300k,500k,700k,1tr|Tỷ lệ nạp 10k = 20k hồng ngọc, 40k = 10k thỏi vàng (chi tiết ở Santa)
@@ -42,7 +43,6 @@ skill đệ,đổi skill,msk,kaioken,kok,đổi chiêu,đổi skill1,đổi skil
 1tab,2tab,3tab,4tab,5tab,tab|Giới hạn địa chỉ IP là 4 Tab online cùng lúc nhé
 vàng,bán thỏi,sử dụng thỏi|Vàng nhận miễn phí không giới hạn ở nhà
 dau than,bu beo|Đậu thần Mabư săn ở mabu 21h ở đại hội võ thuật
-cay|Cay thì mua sữa về uống :))
 potaufeu|Hang potaufeu đến trạm tàu vũ trụ trái đất tìm thằng Jaco để vào đánh nhân bản rơi item siêu cấp
 doanh trại|Vào rừng bambo gặp lính canh để vào doanh trại, cần 4 người cùng bang đứng gần mới đi được
 điểm boss|Đánh boss ngẫu nhiên sẽ có điểm boss đó nha
