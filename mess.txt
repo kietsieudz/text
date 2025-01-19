@@ -87,8 +87,7 @@ kuku,mập đầu đinh,map dau dinh,rambo|KuKu, Mập đầu đinh, Rambo -> 5 
 skh,set kích hoạt,set kh|Đồ kích hoạt đánh quái 3 map cạnh làng sẽ rơi
 mảnh ấn|Mẩnh ấn tiêu diệt boss ở Hành tinh ngục tù sẽ rơi
 mấy sao,level|Trang bị thường 10 sao và trang bị vip 12 sao, trang bị thường 9 cấp và trang bị vip 10 cấp (cày có hết) 
-vô pt,xin pt,xin bang,vô pt,vô clan,xin clan|Bạn muốn vào bang hội thì nên chat thế giới rồi xin, ae trong game đông lắm
-bang,pt|Ai có bang cho nó vào đi kìa
+vô pt,xin pt,xin bang,vô pt,vô clan,xin clan,co pt,co bang,co clan|Ai đó cho bạn gia nhập bang hội đi kìa
 zeno|Về nhà nạp đầu đi là có cải trang zeno, mặc cải trang zeno đánh quái sẽ rơi đá, rồi vô nhà nâng cấp
 đá quý,da quy,khí gas,khi gas|đá quý săn tiểu đội đường tăng hoặc đi khí gas ở làng aru nhé 
 dbv,đá bảo vệ|đá bảo vệ bạn đi doanh trại rơi đầy hoặc mua 3000 Đá bảo vệ giá rẻ ở santa
