@@ -167,6 +167,7 @@ chơi game không,game không|Chơi gì chứ? Chơi tình cảm với bạn là
 làm gì đó,làm gì thế|Đang đứng đây trả lời bạn nè, còn bạn thì sao?
 bot buồn không|Buồn gì tầm này, bạn nhắn tin là vui rồi!
 bot ngủ chưa|Ngủ gì, bạn nhắn cái là mình bật ngay!
+ngu di bot|Ngủ gì tầm này em ơi
 bot giận chưa|Giận gì, bạn dễ thương vậy ai giận nổi!
 bot làm gì khi buồn|Mình sẽ gửi tin nhắn spam cho bạn đó, tin không?
 bot thông minh không|Mình thông minh hơn bạn nghĩ, nhưng ít hơn bạn hy vọng!
