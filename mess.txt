@@ -11,7 +11,7 @@ toc do,cham,tăng tốc,cheat,speed|Tăng tốc độ game hãy CHAT thử từn
 spl,sao pha le|Sao pha lê mua ở shop mở rộng hành trang ở Santa
 up nhanh,up de,up đâu,up sm,up nhanh,cày nhanh,cay smtn,cay sm|Cày nhanh sư phụ và đệ tử tại Ngũ Hành Sơn (đường tăng - làng aru) hoặc Địa Ngục (thần vũ trụ - hành tinh kaio)
 địa|Gặp thần vũ trụ tại hành tinh kaio để đến địa ngục
-htnt,tù|Dùng capsule hoặc vào rừng karin rồi đi lên trên để đến hành tinh ngục tù 
+htnt,nguc tu|Dùng capsule hoặc vào rừng karin rồi đi lên trên để đến hành tinh ngục tù 
 lỗi cs,lỗi chỉ số|Đệ tử up nhanh không lỗi chỉ số đệ
 tiểu|Giết boss doanh trại rơi tiểu hạt
 chưa ra,chưa xh,chưa xuất hiện,mãi k ra,mãi k xh,mãi không xuất hiện,mãi không ra|Boss không lỗi, canh kĩ thông báo boss đi má ơi
@@ -37,7 +37,7 @@ thần tiên|Cần phiếu giảm giá để mua set thần tiên
 skill đệ,đổi skill,đổi chiêu,đổi skill1,đổi skill2,đổi skill3,đổi skill4,đổi skill5|Gọi rồng thần đổi skill 2-3-4 đệ tử
 1tab,2tab,3tab,4tab,5tab,tab|Giới hạn địa chỉ IP là 4 Tab online cùng lúc nhé
 vàng,bán thỏi,sử dụng thỏi|Vàng nhận miễn phí không giới hạn ở nhà
-đậu,béo|Đậu thần Mabư săn ở mabu 21h ở đại hội võ thuật
+dau than,bu beo|Đậu thần Mabư săn ở mabu 21h ở đại hội võ thuật
 cay|Cay thì mua sữa về uống :))
 potaufeu|Hang potaufeu đến trạm tàu vũ trụ trái đất tìm thằng Jaco để vào đánh nhân bản rơi item siêu cấp
 doanh trại|Vào rừng bambo gặp lính canh để vào doanh trại, cần 4 người cùng bang đứng gần mới đi được
