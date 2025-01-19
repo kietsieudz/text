@@ -38,7 +38,7 @@ tb boss,báo boss,bao boss|Chat 'sb' để bật thông báo boss nha
 ts,tàn sát,đánh quái,auto đánh|Chat 'ts' để auto tàn sát quái nhé
 10k,20k,30k,50k,100k,200k,300k,500k,700k,1tr|Tỷ lệ nạp 10k = 20k hồng ngọc, 40k = 10k thỏi vàng (chi tiết ở Santa)
 thần tiên|Cần phiếu giảm giá để mua set thần tiên
-skill đệ,đổi skill,đổi chiêu,đổi skill1,đổi skill2,đổi skill3,đổi skill4,đổi skill5|Gọi rồng thần đổi skill 2-3-4 đệ tử
+skill đệ,đổi skill,msk,kaioken,kok,đổi chiêu,đổi skill1,đổi skill2,đổi skill3,đổi skill4,đổi skill5|Gọi rồng thần đổi skill 2-3-4 đệ tử
 1tab,2tab,3tab,4tab,5tab,tab|Giới hạn địa chỉ IP là 4 Tab online cùng lúc nhé
 vàng,bán thỏi,sử dụng thỏi|Vàng nhận miễn phí không giới hạn ở nhà
 dau than,bu beo|Đậu thần Mabư săn ở mabu 21h ở đại hội võ thuật
