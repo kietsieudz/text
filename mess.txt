@@ -9,7 +9,6 @@ lỗi|Bạn cho mình xin video lỗi để mình hỗ trợ nhé! Hoặc gửi 
 lag,lang,lắc,lác|Game rất hiếm khi lag! Nếu bị nhoè màn hình là game vừa update dữ liệu mới. Hãy xoá dữ liệu và tải dữ liệu mới nhất nhé
 chậm,tốc,cheat,speed|Tăng tốc độ game hãy CHAT thử từng cái nhé: speed 3, cheat_3, cheat 3 (Không viết hoa)
 spl,sao pha lê|Sao pha lê mua ở shop mở rộng hành trang ở Santa
-sao pha lê sức đánh,spl sức đánh,spl sd,sao pha lê sd|Game không có sao pha lê sức đánh, chỉ có ngọc rồng 3 sao ép sức đánh thôi
 up nhanh,up đệ,up đâu,up sm,úp đâu,úp sm,úp nhanh,cày nhanh,cày sm|Cày nhanh sư phụ và đệ tử tại Ngũ Hành Sơn (đường tăng - làng aru) hoặc Địa Ngục (thần vũ trụ - hành tinh kaio)
 địa|Gặp thần vũ trụ tại hành tinh kaio để đến địa ngục
 htnt,tù|Dùng capsule hoặc vào rừng karin rồi đi lên trên để đến hành tinh ngục tù 
