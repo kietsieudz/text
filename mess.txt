@@ -124,7 +124,7 @@ scam|Sì Trái Cam là hành vi vi phạm đạo đức của một con người
 trứng bư,đệ bư|Bật thông báo boss lên rồi săn mabư thường sẽ rơi trứng mabư +30%
 gohan|Lúc 12h và 19h gặp ô sin ở Đại hội võ thuật để săn đệ Gohan bư +50%
 itachi|Đệ itachi mua ở santa
-đệ,gohan,itachi,mabu,ma bư,trứng bư,mabư,bư|ĐỆ THƯỜNG 0% -> săn Super Broly, MABƯ 30% -> săn Mabư, GOHAN BƯ 50% -> săn bư 12h và 19h ở ĐHVT, ITACHI 70% -> mua ở santa.
+detu,de tu,gohan,itachi,mabu,ma bư,trứng bư,mabư,bư|ĐỆ THƯỜNG 0% -> săn Super Broly, MABƯ 30% -> săn Mabư, GOHAN BƯ 50% -> săn bư 12h và 19h ở ĐHVT, ITACHI 70% -> mua ở santa.
 Vòng quay thượng đế|Vòng quay thượng đế quay tốn hồng ngọc (chưa thêm vật phẩm đặc biệt) 
 mới chơi|Bạn mới chơi thì năng nổ giao tiếp với mọi người trong box nè, nhất là giao tiếp với tôi nhé! 
 share,event,tan thu,tân thủ,even,chia sẻ|Đăng nhập vào web -> rồi bấm qua diễn đàn -> bấm vô santa -> rồi tham gia -> Nhớ đọc kĩ rồi làm 
