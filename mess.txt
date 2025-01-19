@@ -7,7 +7,7 @@ link,tải,jar,java,pc,windows,máy tính,apk,adr,android,androi,download,ios,ip
 id,ip,ipsv|Tất cả bản trên web đã cài sẵn Ip (tải về xoá dữ liệu rồi sài thôi) -> LINK IP TRÊN GHIM
 lỗi|Bạn cho mình xin video lỗi để mình hỗ trợ nhé! Hoặc gửi cho Key vàng!
 lag,lang,lắc,lác|Game rất hiếm khi lag! Nếu bị nhoè màn hình là game vừa update dữ liệu mới. Hãy xoá dữ liệu và tải dữ liệu mới nhất nhé
-chậm,tốc,cheat,speed|Tăng tốc độ game hãy CHAT thử từng cái nhé: speed 3, cheat_3, cheat 3 (Không viết hoa)
+chậm,tăng tốc,cheat,speed|Tăng tốc độ game hãy CHAT thử từng cái nhé: speed 3, cheat_3, cheat 3 (Không viết hoa)
 spl,sao pha lê|Sao pha lê mua ở shop mở rộng hành trang ở Santa
 up nhanh,up đệ,up đâu,up sm,úp đâu,úp sm,úp nhanh,cày nhanh,cày sm|Cày nhanh sư phụ và đệ tử tại Ngũ Hành Sơn (đường tăng - làng aru) hoặc Địa Ngục (thần vũ trụ - hành tinh kaio)
 địa|Gặp thần vũ trụ tại hành tinh kaio để đến địa ngục
