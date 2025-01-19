@@ -47,7 +47,7 @@ dùng đậu|Mua bùa cho đệ tử là nó tự nhai đậu rồi khỏi auto
 thể lực|Mua bùa dẻo dai vào là khỏi lo hết thể lực nhé
 vamchar|Làng vamchar bạn tới làng morri để vào nhé
 làng lá|Từ đảo hoa chạy sang trái là đến làng lá
-cuồng nộ siêu cấp,cuồng nộ c2,cuồng nộ 2,cuồng nộ,item,cnsc,máy dò,cskb,capsule,kì bí,cn,bh,bổ huyết,bổ khí,bk|Item thường và siêu cấp mở từ capsule kì bí
+cuồng nộ siêu cấp,cuồng nộ c2,cuồng nộ 2,cuồng nộ,item,cnsc,máy dò,cskb,kì bí,cn,bh,bổ huyết,bổ khí,bk|Item thường và siêu cấp mở từ capsule kì bí
 xu|Up quái ngũ hành sơn rơi đồng xu rồi qua tương lai lấy đồng xu đổi máy dò capsule kì bí
 trùng sinh|Trùng sinh cần canh mạnh bà, tăng thêm 5% chỉ số gốc
 mạnh bà|Canh mạnh bà bạn có thể mua ở santa hoặc thu thập x999 11 nguyên liệu ở địa ngục. Bấm sử dụng nguyên liệu để nấu
