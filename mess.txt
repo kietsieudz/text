@@ -18,6 +18,7 @@ chưa ra,chưa xh,chưa xuất hiện,mãi k ra,mãi k xh,mãi không xuất hi�
 yanrobi|Boss Yanrobi rơi hồng ngọc
 giới hạn,gh dame,gh st|Boss nhiệm vụ sẽ giới hạn để người chơi sau dễ làm nhiệm vụ. Boss không phải nhiệm vụ sẽ không giới hạn nhé
 kém|kém sang quá :))
+chiu r|Nói thế chịu rồi biết sao giờ :!
 bao lau|Nhanh lắm anh à. Nhấp cái là ra rồi mà :))
 dm|Đm :!
 bot rep chuan|Tôi lúc nào nói chuyện mà chả chuẩn! Nói chuyện phải vuông góc
