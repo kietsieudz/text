@@ -78,17 +78,18 @@ dau than,bu beo|Đậu thần Mabư săn ở mabu 21h ở đại hội võ thu�
 potaufeu|Hang potaufeu đến trạm tàu vũ trụ trái đất tìm thằng Jaco để vào đánh nhân bản rơi item siêu cấp
 doanh trại|Vào rừng bambo gặp lính canh để vào doanh trại, cần 4 người cùng bang đứng gần mới đi được
 điểm boss|Đánh boss ngẫu nhiên sẽ có điểm boss đó nha
-đến cold,qua cold,qua duoc cold,qua dc cold,den coler,den cooler,qua cooler,qua coler,toi coler,toi cooler,qua dc coler,qua dc cooler,tới cold|Xong nhiệm vụ xên hoàn thiện ở thị trấn ginder là qua được cold
-dùng đậu|Mua bùa cho đệ tử là nó tự nhai đậu rồi khỏi auto
-thể lực|Mua bùa dẻo dai vào là khỏi lo hết thể lực nhé
+den cold,qua cold,qua duoc cold,qua dc cold,den coler,den cooler,qua cooler,qua coler,toi coler,toi cooler,qua dc coler,qua dc cooler,toi cold|Xong nhiệm vụ xên hoàn thiện ở thị trấn ginder là qua được cold
+dung dau|Mua bùa cho đệ tử là nó tự nhai đậu rồi khỏi auto
+the luc|Mua bùa dẻo dai vào là khỏi lo hết thể lực nhé
 vamchar|Làng vamchar bạn tới làng morri để vào nhé
-làng lá|Từ đảo hoa chạy sang trái là đến làng lá
+lang la|Từ đảo hoa chạy sang trái là đến làng lá
 cuồng nộ siêu cấp,cuồng nộ c2,cuồng nộ 2,cuồng nộ,item,cnsc,máy dò,cskb,kì bí,cn,bh,bổ huyết,bổ khí,bk|Item thường và siêu cấp mở từ capsule kì bí
 xu|Up quái ngũ hành sơn rơi đồng xu rồi qua tương lai lấy đồng xu đổi máy dò capsule kì bí
 trùng sinh|Trùng sinh cần canh mạnh bà, tăng thêm 5% chỉ số gốc
 mạnh bà|Canh mạnh bà bạn có thể mua ở santa hoặc thu thập x999 11 nguyên liệu ở địa ngục. Bấm sử dụng nguyên liệu để nấu
 bí kíp,yadat,yardrat|Bạn qua núi khỉ vàng gặp goku ssj rồi vào hành tinh yardrat up bí kíp cải trang. Và Đi doanh trại đánh quái là rơi bí kíp tuyệt kĩ nhé, xong ra quy lão học sì kiu đặc biệt 
-thiên sứ,mts,mảnh ts,manh ts|mảnh thiên sứ up ở hành tinh ngục tù xong đem ra Thiên sứ whis ở hành tinh kaio đổi (cần mts + đồ thần + đồ huỷ diệt)
+doi do ts,duoc do ts,dc do ts,doi do thien su,duoc do thien su,dc do thien su|Cần mảnh thiên sứ + đồ thần linh + đồ huỷ diệt mới đổi được đồ thiên sứ
+thien su,mts,mảnh ts,manh ts|mảnh thiên sứ up ở hành tinh ngục tù rồi ra Whis đổi đồ thiên sứ
 câu cá|Câu cá thì mua cần câu rồi bấm sử dụng là được (1 lần câu 500 hồng ngọc - không mất cần câu) 
 Tiểu đội sát thủ,tdst,boss số,so 4,tđst|Tiểu đội sát thủ - Núi khỉ đen, Hang khỉ đen, Núi khỉ đỏ - 10 phút - giờ hỗ trợ: 9-12h và 21-24h
 Fide,fd,fire|Fide - 10 phút - giờ hỗ trợ: 9-12h và 21-24h
