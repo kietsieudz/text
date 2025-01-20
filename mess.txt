@@ -39,7 +39,7 @@ code tuần,giftcode tuần,code mới,giftcode mới|Hãy vào fanpage trên gh
 fan cung,fanpage,fancung,fan cứng,fc|Trên ghim box có sự kiện lấy code fan cứng đó
 giftcode,code|Giftcode tân thủ ghi sẵn trong game nhé bạn, vừa nhìn vừa nhập cho nhanh (Code khác trên ghim)
 gas|Đi doanh trại kiếm Bản đồ kho báu (bình gas) rồi vào Khí gas ở làng aru
-skill mới,skill đặc biệt,super kame,ma phong ba,liên hoàn chưởng,biến hình,skill9,skill 9|Học skill đặc biệt ở quy lão đảo kame. cày hoặc nạp đều học được, đi doanh trại sẽ rơi bí kíp học skill
+skill mới,skill đặc biệt,super kame,super kamejoko,ma phong ba,liên hoàn chưởng,biến hình,skill9,skill 9|Học skill đặc biệt ở quy lão đảo kame. cày hoặc nạp đều học được, đi doanh trại sẽ rơi bí kíp học skill
 sợ,thua|Ai sợ đi về :))
 cày chay|Mèo méo meo mèo meo...mlem..mlem 
 cay|Cay thì mua sữa về uống :))
