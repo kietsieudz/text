@@ -13,11 +13,12 @@ up nhanh,up de,up đâu,up sm,300ty,400ty,up nhanh,cày nhanh,cay smtn,cay sm|C�
 địa|Gặp thần vũ trụ tại hành tinh kaio để đến địa ngục
 htnt,nguc tu|Dùng capsule hoặc vào rừng karin rồi đi lên trên để đến hành tinh ngục tù 
 lỗi cs,lỗi chỉ số|Đệ tử up nhanh không lỗi chỉ số đệ
-tiểu|Giết boss doanh trại rơi tiểu hạt
+tieu hat|Giết boss doanh trại rơi tiểu hạt
 chưa ra,chưa xh,chưa xuất hiện,mãi k ra,mãi k xh,mãi không xuất hiện,mãi không ra|Boss không lỗi, canh kĩ thông báo boss đi má ơi
 yanrobi|Boss Yanrobi rơi hồng ngọc
 giới hạn,gh dame,gh st|Boss nhiệm vụ sẽ giới hạn để người chơi sau dễ làm nhiệm vụ. Boss không phải nhiệm vụ sẽ không giới hạn nhé
 kém|kém sang quá :))
+
 tai k dc,tai ko dc,tai khong dc,tai k duoc,tai ko duoc,tai khong duoc,tai khong dc|Bạn vui lòng copy link ra Chrome hoặc Safari để tải game nhé
 dep ac,bao dep,dep qua|Đẹp như gái đồng trinh
 buon qua,buon ac|Buồn cái bướm
