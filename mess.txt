@@ -2,10 +2,10 @@ hong ngoc,hngoc,hn|Hồng ngọc săn boss, up cold, up cskb, ĐHVT + ĐHVT23 + 
 thoi vang,tvang,tv|Thỏi vàng làm nhiệm vụ bò mộng, hộ tống, ĐHVT23, Nạp thẻ (Còn nhiều cách khác)
 tkmk,tk mk,thành công,đăng ký,dky,tạo,sai,chính xác,đăng nhập,tạo nv,tạo nhân vật,tao nv,k đc,k vo dc,vo dc,vô được,xoay|Nếu gặp lỗi Bạn hãy chụp lại hoặc quay lại gửi vào đây để mọi người hỗ trợ
 xoay jar,quay jar|Bạn hãy xoá dữ liệu bản jar sẽ hết xoay. Chỗ tải ở web có chỉ xoá dữ liệu đó
+mod ngon,apk nao,tai ban nao,tai mod nao,nen tai|Mod nào cũng ngon hết trơn á. Tải hết về xem ưng cái nào thì sục cái đó
 xoay pc,quay pc|Bạn hãy giải nén file pc ra trước rồi xoá dữ liệu mới chơi được bản pc nhé. Chỗ tải ở web có chỉ xoá dữ liệu đó
 link game,link tai,link trang chu,tai game,jar,java,pc,windows,máy tính,apk,adr,android,androi,download,ios,ip,iphone,website,web,diễn đàn|Link (Trang chủ - tải game) trên ghim box zalo [Mở trên trình duyệt mới tải được game] (Có TestFlight) (Gặp lỗi -> Bạn hãy chụp lại hoặc quay lại gửi vào đây để mọi người hỗ trợ)
 xin ip,ipsv|Tất cả bản trên web đã cài sẵn Ip (tải về xoá dữ liệu rồi sài thôi) -> LINK IP TRÊN GHIM
-mod ngon,apk nao,tai ban nao,tai mod nao,nen tai|Mod nào cũng ngon hết trơn á. Tải hết về xem ưng cái nào thì sục cái đó
 loi game,fix loi,fixx loi,bi loi|Bạn cho mình xin video lỗi để mình hỗ trợ nhé! Hoặc gửi cho Key vàng!
 lag,game lang,game lac|Game rất hiếm khi lag! Nếu bị nhoè màn hình là game vừa update dữ liệu mới. Hãy xoá dữ liệu và tải dữ liệu mới nhất nhé
 toc do,cham,tăng tốc,cheat,speed|Tăng tốc độ game hãy CHAT thử từng cái nhé: speed 3, cheat_3, cheat 3 (Không viết hoa)
