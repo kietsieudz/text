@@ -19,6 +19,7 @@ chưa ra,chưa xh,chưa xuất hiện,mãi k ra,mãi k xh,mãi không xuất hi�
 yanrobi|Boss Yanrobi rơi hồng ngọc
 giới hạn,gh dame,gh st|Boss nhiệm vụ sẽ giới hạn để người chơi sau dễ làm nhiệm vụ. Boss không phải nhiệm vụ sẽ không giới hạn nhé
 kém|kém sang quá :))
+ai co,em xin,cho xin,minh xin,tui xin,e xin,t xin|Anh đẹp trai ơi cho em đi mà :3
 cang nhi,cang qua|Căng củ cọt :))
 vudang,vu dang|Mod Vũ Đăng thì chat 'menu' để mở full lệnh
 tai k dc,tai ko dc,tai khong dc,tai k duoc,tai ko duoc,tai khong duoc,tai khong dc|Bạn vui lòng copy link ra Chrome hoặc Safari để tải game nhé
