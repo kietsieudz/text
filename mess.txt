@@ -5,14 +5,14 @@ xoay jar,quay jar|Bạn hãy xoá dữ liệu bản jar sẽ hết xoay. Chỗ t
 xoay pc,quay pc|Bạn hãy giải nén file pc ra trước rồi xoá dữ liệu mới chơi được bản pc nhé. Chỗ tải ở web có chỉ xoá dữ liệu đó
 link game,link tai,link trang chu,tai game,jar,java,pc,windows,máy tính,apk,adr,android,androi,download,ios,ip,iphone,website,web,diễn đàn|Link (Trang chủ - tải game) trên ghim box zalo [Mở trên trình duyệt mới tải được game] (Có TestFlight) (Gặp lỗi -> Bạn hãy chụp lại hoặc quay lại gửi vào đây để mọi người hỗ trợ)
 xin ip,ipsv|Tất cả bản trên web đã cài sẵn Ip (tải về xoá dữ liệu rồi sài thôi) -> LINK IP TRÊN GHIM
-lỗi|Bạn cho mình xin video lỗi để mình hỗ trợ nhé! Hoặc gửi cho Key vàng!
+loi game,fix loi,fixx loi,bi loi|Bạn cho mình xin video lỗi để mình hỗ trợ nhé! Hoặc gửi cho Key vàng!
 lag,game lang,game lac|Game rất hiếm khi lag! Nếu bị nhoè màn hình là game vừa update dữ liệu mới. Hãy xoá dữ liệu và tải dữ liệu mới nhất nhé
 toc do,cham,tăng tốc,cheat,speed|Tăng tốc độ game hãy CHAT thử từng cái nhé: speed 3, cheat_3, cheat 3 (Không viết hoa)
 spl,sao pha le|Sao pha lê mua ở shop mở rộng hành trang ở Santa
 up nhanh,up de,up đâu,up sm,300ty,400ty,up nhanh,cày nhanh,cay smtn,cay sm|Cày nhanh sư phụ và đệ tử tại Ngũ Hành Sơn (đường tăng - làng aru) hoặc Địa Ngục (thần vũ trụ - hành tinh kaio)
-địa|Gặp thần vũ trụ tại hành tinh kaio để đến địa ngục
+dia nguc|Gặp thần vũ trụ tại hành tinh kaio để đến địa ngục
 htnt,nguc tu|Dùng capsule hoặc vào rừng karin rồi đi lên trên để đến hành tinh ngục tù 
-lỗi cs,lỗi chỉ số|Đệ tử up nhanh không lỗi chỉ số đệ
+loi cs,loi chi so|Đệ tử up nhanh không lỗi chỉ số đệ
 tieu hat|Giết boss doanh trại rơi tiểu hạt
 xdl,xoa du lieu|Xoá dữ liệu để có thể tải lại dữ liệu mới (tránh mất hình ảnh vật phẩm, nhoè màn hình). Chỗ tải game có hướng dẫn xoá dữ liệu
 chưa ra,chưa xh,chưa xuất hiện,mãi k ra,mãi k xh,mãi không xuất hiện,mãi không ra|Boss không lỗi, canh kĩ thông báo boss đi má ơi
