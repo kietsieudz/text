@@ -14,6 +14,7 @@ up nhanh,up de,up đâu,up sm,300ty,400ty,up nhanh,cày nhanh,cay smtn,cay sm|C�
 htnt,nguc tu|Dùng capsule hoặc vào rừng karin rồi đi lên trên để đến hành tinh ngục tù 
 lỗi cs,lỗi chỉ số|Đệ tử up nhanh không lỗi chỉ số đệ
 tieu hat|Giết boss doanh trại rơi tiểu hạt
+xdl,xoa du lieu|Xoá dữ liệu để có thể tải lại dữ liệu mới (tránh mất hình ảnh vật phẩm, nhoè màn hình). Chỗ tải game có hướng dẫn xoá dữ liệu
 chưa ra,chưa xh,chưa xuất hiện,mãi k ra,mãi k xh,mãi không xuất hiện,mãi không ra|Boss không lỗi, canh kĩ thông báo boss đi má ơi
 yanrobi|Boss Yanrobi rơi hồng ngọc
 giới hạn,gh dame,gh st|Boss nhiệm vụ sẽ giới hạn để người chơi sau dễ làm nhiệm vụ. Boss không phải nhiệm vụ sẽ không giới hạn nhé
