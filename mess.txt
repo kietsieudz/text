@@ -50,7 +50,26 @@ cày chay|Mèo méo meo mèo meo...mlem..mlem
 cay|Cay thì mua sữa về uống :))
 tb boss,báo boss,bao boss|Chat 'sb' để bật thông báo boss nha
 ts,tàn sát,đánh quái,auto đánh|Chat 'ts' để auto tàn sát quái nhé
-10k,20k,30k,50k,100k,200k,300k,500k,700k,1tr|Tỷ lệ nạp 10k = 20k hồng ngọc, 40k = 10k thỏi vàng (chi tiết ở Santa)
+10k duoc bn,10k duoc bao nhieu,10k dc bn,10k dc bao nhieu|Nạp 10k được 20k hồng ngọc nhé thưa anh!
+20k duoc bn,20k duoc bao nhieu,20k dc bn,20k dc bao nhieu|Nạp 20k được 40k hồng ngọc nhé thưa anh!
+30k duoc bn,30k duoc bao nhieu,30k dc bn,30k dc bao nhieu|Nạp 30k được 60k hồng ngọc nhé thưa anh!
+40k duoc bn,40k duoc bao nhieu,40k dc bn,40k dc bao nhieu|Nạp 40k được 80k hồng ngọc nhé thưa anh!
+50k duoc bn,50k duoc bao nhieu,50k dc bn,50k dc bao nhieu|Nạp 50k được 100k hồng ngọc nhé thưa anh!
+60k duoc bn,60k duoc bao nhieu,60k dc bn,60k dc bao nhieu|Nạp 60k được 120k hồng ngọc nhé thưa anh!
+70k duoc bn,70k duoc bao nhieu,70k dc bn,70k dc bao nhieu|Nạp 70k được 140k hồng ngọc nhé thưa anh!
+80k duoc bn,80k duoc bao nhieu,80k dc bn,80k dc bao nhieu|Nạp 80k được 160k hồng ngọc nhé thưa anh!
+90k duoc bn,90k duoc bao nhieu,90k dc bn,90k dc bao nhieu|Nạp 90k được 180k hồng ngọc nhé thưa anh!
+100k duoc bn,100k duoc bao nhieu,100k dc bn,100k dc bao nhieu|Nạp 100k được 200k hồng ngọc nhé thưa anh!
+200k duoc bn,200k duoc bao nhieu,200k dc bn,200k dc bao nhieu|Nạp 200k được 400k hồng ngọc nhé thưa anh!
+300k duoc bn,300k duoc bao nhieu,300k dc bn,300k dc bao nhieu|Nạp 300k được 600k hồng ngọc nhé thưa anh!
+400k duoc bn,400k duoc bao nhieu,400k dc bn,400k dc bao nhieu|Nạp 400k được 800k hồng ngọc nhé thưa anh!
+500k duoc bn,500k duoc bao nhieu,500k dc bn,500k dc bao nhieu|Nạp 500k được 1tr hồng ngọc nhé thưa anh!
+600k duoc bn,600k duoc bao nhieu,600k dc bn,600k dc bao nhieu|Nạp 600k được 1tr2 hồng ngọc nhé thưa anh!
+700k duoc bn,700k duoc bao nhieu,700k dc bn,700k dc bao nhieu|Nạp 700k được 1tr4 hồng ngọc nhé thưa anh!
+800k duoc bn,800k duoc bao nhieu,800k dc bn,800k dc bao nhieu|Nạp 800k được 1tr6 hồng ngọc nhé thưa anh!
+900k duoc bn,900k duoc bao nhieu,900k dc bn,900k dc bao nhieu|Nạp 900k được 1tr8 hồng ngọc nhé thưa anh!
+1tr duoc bn,1tr duoc bao nhieu,1tr dc bn,1tr dc bao nhieu|Nạp 1tr được 2tr hồng ngọc nhé thưa anh!
+ty le nap,ti le nap|Tỷ lệ nạp 10k = 20k hồng ngọc, 40k = 10k thỏi vàng (chi tiết ở Santa)
 thần tiên|Cần phiếu giảm giá để mua set thần tiên
 skill đệ,đổi skill,msk,kaioken,kok,đổi chiêu,đổi skill1,đổi skill2,đổi skill3,đổi skill4,đổi skill5|Gọi rồng thần đổi skill 2-3-4 đệ tử
 1tab,2tab,3tab,4tab,5tab,tab|Giới hạn địa chỉ IP là 4 Tab online cùng lúc nhé
