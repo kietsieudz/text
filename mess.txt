@@ -71,7 +71,7 @@ Tiểu đội sát thủ,tdst,boss số,so 4,tđst|Tiểu đội sát thủ - N�
 Fide,fd,fire|Fide - 10 phút - giờ hỗ trợ: 9-12h và 21-24h
 android19,adr19,android20,kore,apk19,apk20,android 19,androi 19,androi19,robot sát thủ|Android19-20 - 15 phút - giờ hỗ trợ: 9-12h và 21-24h 
 pic,poc,kingkong,ppkk|Pic-Poc-Kingkong - 15 phút - Thành phố phía bắc - giờ hỗ trợ: 9-12h và 21-24h - sát thương tối đa: 100.000.000 (có thể bỏ qua nhiệm vụ ở nhà)
-thị trấn,ginder,xên bọ hung|Xên bọ hung - 15 phút - Thị trấn Ginder - giờ hỗ trợ: 9-12h và 21-24h - sát thương tối đa: 400.000.000 (có thể bỏ qua nhiệm vụ ở nhà)
+thị trấn,ginder,xên bọ hung,xbh|Xên bọ hung - 15 phút - Thị trấn Ginder - giờ hỗ trợ: 9-12h và 21-24h - sát thương tối đa: 400.000.000 (có thể bỏ qua nhiệm vụ ở nhà)
 xên võ đài,cell võ đài,siêu bọ hung,võ đài,vo dai|Siêu Bọ Hung - 15 phút - Võ Đài Xên Bọ Hung - giờ hỗ trợ: 9-12h và 21-24h - sát thương tối đa: 500.000.000 (có thể bỏ qua nhiệm vụ ở nhà)
 doremon,doraemon,nobita,shizuka,chaien,xeko|Boss Tiểu đội doraemon (20 phút) (có thể bỏ qua nhiệm vụ ở nhà)
 nút di chuyển|Nút di chuyển bạn bấm vào nút tam giác bên tay trái rồi vào phần Chức Năng, chọn Cấu Hình, rồi chọn Bàn Phím Ảo nhé 
