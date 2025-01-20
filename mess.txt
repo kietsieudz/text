@@ -40,7 +40,7 @@ fan cung,fanpage,fancung,fan cứng,fc|Trên ghim box có sự kiện lấy code
 giftcode,code|Giftcode tân thủ ghi sẵn trong game nhé bạn, vừa nhìn vừa nhập cho nhanh (Code khác trên ghim)
 gas|Đi doanh trại kiếm Bản đồ kho báu (bình gas) rồi vào Khí gas ở làng aru
 skill mới,skill đặc biệt,super kame,super kamejoko,ma phong ba,liên hoàn chưởng,biến hình,skill9,skill 9|Học skill đặc biệt ở quy lão đảo kame. cày hoặc nạp đều học được, đi doanh trại sẽ rơi bí kíp học skill
-sợ,thua|Ai sợ đi về :))
+so luon,thua luon,thua|Ai sợ đi về :))
 cày chay|Mèo méo meo mèo meo...mlem..mlem 
 cay|Cay thì mua sữa về uống :))
 tb boss,báo boss,bao boss|Chat 'sb' để bật thông báo boss nha
@@ -66,7 +66,7 @@ mạnh bà|Canh mạnh bà bạn có thể mua ở santa hoặc thu thập x999 
 bí kíp,yadat,yardrat|Bạn qua núi khỉ vàng gặp goku ssj rồi vào hành tinh yardrat up bí kíp cải trang. Và Đi doanh trại đánh quái là rơi bí kíp tuyệt kĩ nhé, xong ra quy lão học sì kiu đặc biệt 
 thiên sứ,mts,mảnh ts,manh ts|mảnh thiên sứ up ở hành tinh ngục tù xong đem ra Thiên sứ whis ở hành tinh kaio đổi (cần mts + đồ thần + đồ huỷ diệt)
 câu cá|Câu cá thì mua cần câu rồi bấm sử dụng là được (1 lần câu 500 hồng ngọc - không mất cần câu) 
-Tiểu đội sát thủ,tdst,boss số,số 4,tđst|Tiểu đội sát thủ - 10 phút - giờ hỗ trợ: 9-12h và 21-24h
+Tiểu đội sát thủ,tdst,boss số,so 4,tđst|Tiểu đội sát thủ - Núi khỉ đen, Hang khỉ đen, Núi khỉ đỏ - 10 phút - giờ hỗ trợ: 9-12h và 21-24h
 Fide,fd,fire|Fide - 10 phút - giờ hỗ trợ: 9-12h và 21-24h
 android19,adr19,android20,kore,apk19,apk20,android 19,androi 19,androi19,robot sát thủ|Android19-20 - 15 phút - giờ hỗ trợ: 9-12h và 21-24h 
 pic,poc,kingkong,ppkk|Pic-Poc-Kingkong - 15 phút - Thành phố phía bắc - giờ hỗ trợ: 9-12h và 21-24h - sát thương tối đa: 100.000.000 (có thể bỏ qua nhiệm vụ ở nhà)
