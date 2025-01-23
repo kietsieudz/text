@@ -106,7 +106,6 @@ thức ăn,thuc an,đồ ăn|Thức ăn bạn mặc set thần linh rồi up qu�
 black goku|Black goku mạnh vcl đấy mấy cưng, rơi nhẫn thời không để vào map Chilled 
 winrar|Bạn tải về rồi bấm cài đặt rồi next next là cài được rồi: https://www.win-rar.com/fileadmin/winrar-versions/winrar/winrar-x64-701.exe
 bảo trì,btri,btr|Thường bảo trì chỉ 60 giây thôi! Chờ xíu nhé
-nạp,donate|Nạp Tự Động -> Tại Trang chủ game nhé (Link trên ghim) xong vô santa đổi qua hồng ngọc hoặc thỏi vàng (coi mốc nạp ở santa lun nha)
 thần linh,dtl,đồ tl|Đồ thần linh bạn săn boss tương lai hoặc Osin lúc 12h và 19h hoặc up cold nhé
 ho tro,khung nv,khung gio|khung giờ hỗ trợ nhiệm vụ 9-12h sáng tối (ai nhiệm vụ đó mới được vào khu - áp dụng cho các boss từ TDST đến Xên Võ Đài) 
 chiến thần|Chiến thần -> là đệ tử thứ 2 (không mặc đồ), Cách kiếm: mua trứng ở chỗ Đảo Hoa (chỗ Quy lão đi vào) hoặc Săn boss 22:00 ở Thành phố vegeta. Chức năng chiến thần -> chat 'ct'. Nơi up -> đảo hoa (chỗ quy lão đi vào).
@@ -120,6 +119,7 @@ zeno|Về nhà nạp đầu đi là có cải trang zeno, mặc cải trang zeno
 đá quý,da quy,khí gas,khi gas|đá quý săn tiểu đội đường tăng hoặc đi khí gas ở làng aru nhé 
 dbv,đá bảo vệ|đá bảo vệ bạn đi doanh trại rơi đầy hoặc mua 3000 Đá bảo vệ giá rẻ ở santa
 khuyen mai,km nap,x nap,x2 nap,x3 nap,x5 nap,x10 nap|Game khuyến mãi nạp tối đa 30% chứ không có quá nhé (Game khác nạp vàng nên mới có x2,x3. Còn server này nạp Coin nên không có x nạp nha - x nạp server này là nát game. Tránh lạm phát nên sẽ không có x nạp). Mọi người thông đít giúp Bot nha
+nạp,donate|Nạp Tự Động -> Tại Trang chủ game nhé (Link trên ghim) xong vô santa đổi qua hồng ngọc hoặc thỏi vàng (coi mốc nạp ở santa lun nha)
 ngọc rồng siêu cấp,nrsc,ngọc rồng sc, nr siêu cấp,ước được gì|Ngọc rồng siêu cấp chỉ để ước (không ép được) (ước được gì thì ước đi rồi biết chứ tôi biết đâu) 
 ai đẹp,bot đẹp|admin đẹp nhất nhé! Tôi đánh giá khách quan là như thế 
 chán|Tại sao bạn lại chán, bắt con gián bỏ vô háng, rồi sục cho đỡ chán 
