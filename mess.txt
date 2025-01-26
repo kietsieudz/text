@@ -20,6 +20,7 @@ chưa ra,chưa xh,chưa xuất hiện,mãi k ra,mãi k xh,mãi không xuất hi�
 yanrobi|Boss Yanrobi rơi hồng ngọc
 giới hạn,gh dame,gh st|Boss nhiệm vụ sẽ giới hạn để người chơi sau dễ làm nhiệm vụ. Boss không phải nhiệm vụ sẽ không giới hạn nhé
 kém|kém sang quá :))
+cho xin,cho tui|Có ai có không cho bạn với kìa :3
 qua dao|Quả đào vào ngũ hành sơn gặp đường tăng mà coi
 auto msk,auto kaioken,auto kok,auto masenko,autu msk,autu kok,autu kaioken,auto masenko|Do bạn đen thôi. Đệ ra ngẫu nhiên skill, gọi rồng 1 sao để đổi skill đệ tử
 dhvt23,dai hoi vo thuat 23|Đi đại hội võ thuật 23 nhận được hồng ngọc với thỏi vàng đó nha
