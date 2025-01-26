@@ -18,6 +18,7 @@ tieu hat|Giết boss doanh trại rơi tiểu hạt
 xdl,xoa du lieu|Xoá dữ liệu để có thể tải lại dữ liệu mới (tránh mất hình ảnh vật phẩm, nhoè màn hình). Chỗ tải game có hướng dẫn xoá dữ liệu
 chưa ra,chưa xh,chưa xuất hiện,mãi k ra,mãi k xh,mãi không xuất hiện,mãi không ra|Boss không lỗi, canh kĩ thông báo boss đi má ơi
 yanrobi|Boss Yanrobi rơi hồng ngọc
+menu|Chat 'menu' để mở menu
 giới hạn,gh dame,gh st|Boss nhiệm vụ sẽ giới hạn để người chơi sau dễ làm nhiệm vụ. Boss không phải nhiệm vụ sẽ không giới hạn nhé
 kém|kém sang quá :))
 cho xin,cho tui|Có ai có không cho bạn với kìa :3
