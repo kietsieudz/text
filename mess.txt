@@ -159,7 +159,7 @@ Skill đệ tử|Đệ tử có 6 chiêu ước rồng thường đổi được
 kí gửi,ký gửi|Kí gửi mua bán bằng hồng ngọc nhé. Không phải thỏi vàng đâu
 trái thần long,mảnh đất,cây cuốc,khu đất,nông trại|Bạn mua đất + cây cuốc rồi săn boss đủ 30 điểm sẽ trồng được cây thần long, thu hoạch trái thần long ăn vào tăng chỉ số ( đặc biệt không bị ảnh hưởng với sức mạnh chí tôn ) 
 cảm ơn bot,ok bot|Dạ không có gì đâu anh yêu! Nhiệm vụ của em mà 
-scam|Sì Trái Cam là hành vi vi phạm đạo đức của một con người! Xin đừng Sì Trái Cam
+scam|Hệ thống key bạc và key vàng trong box không bao giờ chủ động nhắn tin cho người chơi (dấu hiệu nhận biết giả danh: mượn tiền, mượn acc, xin này xin nọ,..) Vui lòng check kĩ thông tin trước khi làm bất cứ điều gì. DẠO NÀY RẤT NHIỀU THÀNH PHẦN TẠO ZALO GIỐNG TÊN RỒI LỪA ĐẢO NÊN NGƯỜI CHƠI TỰ BẢO VỆ TÀI SẢN CỦA BẢN THÂN
 đệ thường|Bật thông báo boss lên rồi săn Super Broly sẽ có đệ tử thường
 trứng bư,đệ bư|Bật thông báo boss lên rồi săn mabư thường sẽ rơi trứng mabư +30%
 gohan|Lúc 12h và 19h gặp ô sin ở Đại hội võ thuật để săn đệ Gohan bư +50%
