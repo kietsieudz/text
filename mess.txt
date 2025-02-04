@@ -171,6 +171,7 @@ Vòng quay thượng đế|Vòng quay thượng đế quay tốn hồng ngọc (
 mới chơi|Bạn mới chơi thì năng nổ giao tiếp với mọi người trong box nè, nhất là giao tiếp với tôi nhé! 
 share,event,tan thu,tân thủ,even,chia sẻ|Đăng nhập vào web -> rồi bấm qua diễn đàn -> bấm vô santa -> rồi tham gia -> Nhớ đọc kĩ rồi làm -> Có nút gửi cho người duyệt event
 khắc ấn vô song|Khắc ấn sẽ không mất bông tai vô song nhé 
+gui cho|Làm xong event thì chỗ tham gia có nút gửi cho admin đó
 chân mệnh,tu luyện,vòng chân|bạn lên hành tinh Bill gặp thiên sứ whis để nâng chân mệnh nhé. điểm tu luyện làm nhiệm vụ tu luyện ở whis. 1000 điểm 1 level 
 rep ad,admin,Kiệt|Admin là người có chìa khóa vàng, ad chưa rep là ad đang đi bú chem chép. rảnh tay ad sẽ rep liền. đừng có hối nhé 
 phiếu giảm giá,pgg|phiếu giảm giá bạn săn boss đôrêamon hoặc liễu thần nhé
