@@ -19,6 +19,7 @@ xdl,xoa du lieu|Xoá dữ liệu để có thể tải lại dữ liệu mới (
 chưa ra,chưa xh,chưa xuất hiện,mãi k ra,mãi k xh,mãi không xuất hiện,mãi không ra|Boss không lỗi, canh kĩ thông báo boss đi má ơi
 yanrobi|Boss Yanrobi rơi hồng ngọc
 menu|Chat 'menu' để mở menu
+tieng gi,ngon ngu,chu gi,toan tieng tau,tieng anh|Về nhà chọn ô cuối để đổi ngôn ngữ sang tiếng việt
 su kien,sk|Sự kiện được thông báo tại: Fanpage và Diễn đàn (có thông tin sự kiện và giftcode)
 giới hạn,gh dame,gh st|Boss nhiệm vụ sẽ giới hạn để người chơi sau dễ làm nhiệm vụ. Boss không phải nhiệm vụ sẽ không giới hạn nhé
 kém|kém sang quá :))
