@@ -4,8 +4,8 @@ tkmk,tk mk,thành công,đăng ký,dky,tạo,sai,chính xác,đăng nhập,tạo
 xoay jar,quay jar|Bạn hãy xoá dữ liệu bản jar sẽ hết xoay. Chỗ tải ở web có chỉ xoá dữ liệu đó
 mod ngon,apk nao,tai ban nao,tai mod nao,nen tai|Mod nào cũng ngon hết trơn á. Tải hết về xem ưng cái nào thì sục cái đó
 xoay pc,quay pc|Bạn hãy giải nén file pc ra trước rồi xoá dữ liệu mới chơi được bản pc nhé. Chỗ tải ở web có chỉ xoá dữ liệu đó
-link game,link tai,link trang chu,tai game,jar,java,pc,windows,máy tính,apk,adr,android,androi,download,ios,ip,iphone,website,web,diễn đàn|Link (Trang chủ - tải game) https://janemba.online [Mở trên trình duyệt mới tải được game] (Có TestFlight) (Gặp lỗi -> Bạn hãy chụp lại hoặc quay lại gửi vào đây để mọi người hỗ trợ)
-xin ip,ipsv|Tất cả bản trên web đã cài sẵn Ip (tải về xoá dữ liệu rồi sài thôi) -> LINK IP TRÊN GHIM
+link game,link tai,link trang chu,tai game,jar,java,pc,windows,máy tính,apk,adr,android,androi,download,ios,ip,iphone,website,web,diễn đàn|Trang chủ - tải game: https://janemba.online [Mở trên trình duyệt mới tải được game]
+xin ip,ipsv|Tất cả bản trên web đã cài sẵn Ip (tải về xoá dữ liệu rồi sài thôi) -> IP: Sv2:14.225.213.101:14445:0,0,0
 loi game,fix loi,fixx loi,bi loi|Bạn cho mình xin video lỗi để mình hỗ trợ nhé! Hoặc gửi cho Key vàng!
 lag,game lang,game lac|Game rất hiếm khi lag! Nếu bị nhoè màn hình là game vừa update dữ liệu mới. Hãy xoá dữ liệu và tải dữ liệu mới nhất nhé
 toc do,cham,tăng tốc,cheat,speed|Tăng tốc độ game hãy CHAT thử từng cái nhé: speed 3, cheat_3, cheat 3 (Không viết hoa)
@@ -25,7 +25,7 @@ mon leo|Mồn má mày chứ mồn :))
 meo meo meo|Đừng tag em mà anh! Anh hỏi gì em chỉ cho :!
 menu|Chat 'menu' để mở menu
 tieng gi,ngon ngu,chu gi,toan tieng tau,tieng anh|Về nhà chọn ô cuối để đổi ngôn ngữ sang tiếng việt
-su kien,sk|Sự kiện được thông báo tại: Fanpage và Diễn đàn (có thông tin sự kiện và giftcode)
+su kien,sk|Sự kiện trong game được thông báo tại: https://www.facebook.com/ngocrongonlinevip và https://janemba.online/dien-dan
 giới hạn,gh dame,gh st|Boss nhiệm vụ sẽ giới hạn để người chơi sau dễ làm nhiệm vụ. Boss không phải nhiệm vụ sẽ không giới hạn nhé
 kém|kém sang quá :))
 cho xin,cho tui|Có ai có không cho bạn với kìa :3
@@ -35,7 +35,7 @@ dhvt23,dai hoi vo thuat 23|Đi đại hội võ thuật 23 nhận được hồn
 ai lay|Anh đẹp trai ơi cho em đi mà :3
 cang nhi,cang qua|Căng củ cọt :))
 vudang,vu dang|Mod Vũ Đăng thì chat 'menu' để mở full lệnh
-tai k dc,tai ko dc,tai khong dc,tai k duoc,tai ko duoc,tai khong duoc,tai khong dc|Bạn vui lòng copy link ra Chrome hoặc Safari để tải game nhé
+tai k dc,tai ko dc,tai khong dc,tai k duoc,tai ko duoc,tai khong duoc,tai khong dc|Bạn vui lòng copy link https://janemba.online ra Chrome hoặc Safari để tải game nhé
 dep ac,bao dep,dep qua|Đẹp như gái đồng trinh
 buon qua,buon ac|Buồn cái bướm
 chiu r|Nói thế chịu rồi biết sao giờ :!
@@ -47,12 +47,10 @@ nung ac|Nứng ác luôn :))
 vip|Víp vãi lồn luôn ạ!
 bot à,bot hả|Um bot nè. hỏi gì cứ hỏi đi súp bót tận giường luôn
 sdg,max cs,max sd,max hp|Max 40k và 780k Mở giới hạn ở vách núi morri
-testfight,tf|Game có testflight nhé. Vào web trên ghim tải nha
+testfight,tf|Vào AppStore Tải App Testflight rồi quay lại đây bấm vào link này để cài trên iPhone nhé https://testflight.apple.com/join/VsqN6P6a (CHỌN SERVER 2)
 vùng đất|Vùng đất huỷ diệt bạn lên hành tinh Bill là qua được
 dc đâu,đc đâu,co dc dau|Xin lỗi mình chỉ là BotChat. Nếu mình không giúp được bạn. Hãy hãy quay hoặc chụp lại rồi gửi cho Key vàng nhé
-code tuần,giftcode tuần,code mới,giftcode mới|Hãy vào fanpage trên ghim box zalo sẽ có bài viết lấy code nhé (Groups hay đăng code tuần: https://www.facebook.com/share/g/15iDoRFqHL/?mibextid=wwXIfr )
-fan cung,fanpage,fancung,fan cứng,fc|Trên ghim box có sự kiện lấy code fan cứng đó
-giftcode,code|Giftcode tân thủ ghi sẵn trong game nhé bạn, (Code khác trên ghim zalo có link fanpage - bấm vào ô vuông màu đỏ trên màn hình - bấm vào fanpage - vào xem các bài viết có code khác)
+giftcode,code,fan cung,fanpage,fancung,fc|Giftcode tân thủ ghi sẵn trong game nhé bạn, (Code khác hãy vào fanpage xem các bài viết có code nhé: https://www.facebook.com/ngocrongonlinevip)
 gas|Đi doanh trại kiếm Bản đồ kho báu (bình gas) rồi vào Khí gas ở làng aru
 skill mới,skill đặc biệt,super kame,super kamejoko,ma phong ba,liên hoàn chưởng,biến hình,skill9,skill 9|Học skill đặc biệt ở quy lão đảo kame. cày hoặc nạp đều học được, đi doanh trại sẽ rơi bí kíp học skill
 so luon,thua luon,thua|Ai sợ đi về :))
@@ -94,7 +92,7 @@ the luc|Mua bùa dẻo dai vào là khỏi lo hết thể lực nhé
 vamchar|Làng vamchar bạn tới làng morri để vào nhé
 lang la|Từ đảo hoa chạy sang trái là đến làng lá
 lay capsule,nhan capsule|Về nhà nhận capsule
-capsule,omega|Nạp mỗi 20k sẽ được tặng 1 viên capsule quà tặng nhé (100k = 5 viên, nạp nhiều máy tự tặng đủ capsule) (Tỷ lệ cao ra đệ Omega +100% chỉ số hợp thể). nạp tự động tại trang chủ game (link trên ghim)
+capsule,omega|Nạp mỗi 20k sẽ được tặng 1 viên capsule quà tặng nhé (100k = 5 viên, nạp nhiều máy tự tặng đủ capsule) (Tỷ lệ cao ra đệ Omega +100% chỉ số hợp thể). nạp tự động tại https://janemba.online/dang-nhap
 cuồng nộ siêu cấp,cuồng nộ c2,cuồng nộ 2,cuồng nộ,item,cnsc,máy dò,cskb,kì bí,cn,bh,bổ huyết,bổ khí,bk|Item thường và siêu cấp mở từ capsule kì bí
 xu ngu,dong xu|Up quái ngũ hành sơn rơi đồng xu rồi qua tương lai lấy đồng xu đổi máy dò capsule kì bí
 trùng sinh|Trùng sinh cần canh mạnh bà, tăng thêm 5% chỉ số gốc
@@ -132,7 +130,7 @@ zeno|Về nhà nạp đầu đi là có cải trang zeno, mặc cải trang zeno
 đá quý,da quy,khí gas,khi gas|đá quý săn tiểu đội đường tăng hoặc đi khí gas ở làng aru nhé 
 dbv,đá bảo vệ|đá bảo vệ bạn đi doanh trại rơi đầy hoặc mua 3000 Đá bảo vệ giá rẻ ở santa
 khuyen mai,km nap,x nap,x2 nap,x3 nap,x5 nap,x10 nap|Game khuyến mãi nạp tối đa 30% chứ không có quá nhé (Game khác nạp vàng nên mới có x2,x3. Còn server này nạp Coin nên không có x nạp nha - x nạp server này là nát game. Tránh lạm phát nên sẽ không có x nạp). Mọi người thông đít giúp Bot nha
-nạp,donate|Nạp Tự Động -> Tại Trang chủ game nhé (Link trên ghim) xong vô santa đổi qua hồng ngọc hoặc thỏi vàng (coi mốc nạp ở santa lun nha)
+nạp,donate|Nạp Tự Động -> Tại https://janemba.online/dang-nhap nhé. Xong vô santa đổi qua hồng ngọc hoặc thỏi vàng (coi mốc nạp ở santa lun nha)
 ngọc rồng siêu cấp,nrsc,ngọc rồng sc, nr siêu cấp,ước được gì|Ngọc rồng siêu cấp chỉ để ước (không ép được) (ước được gì thì ước đi rồi biết chứ tôi biết đâu) 
 ai đẹp,bot đẹp|admin đẹp nhất nhé! Tôi đánh giá khách quan là như thế 
 chán|Tại sao bạn lại chán, bắt con gián bỏ vô háng, rồi sục cho đỡ chán 
@@ -150,7 +148,6 @@ huỷ diệt|Để 5 món thần linh trong hành trang rồi gặp Thần huỷ
 bịp|thằng bên trên mới bịp nhé 
 cái gì,update,cái j,gì đây|Có nhiều thứ tôi chưa được biết đến, bạn cứ gửi vào nhóm đi mọi người sẽ giúp đỡ bạn nhé 
 bot giận,bot dỗi|Tôi không biết giận đâu, ai chửi thì tôi chửi lại 
-boss bí ngô|Boss bí ngô khi bạn dùng mắt kính + kính lúp + kẹo mua ở Sau đảo kame (gặp Cu Tí) dùng để dò hồn sẽ rơi ra mảnh hồn đổi được rương thần linh kích hoạt với rương mị lực mở ra cốt chí tôn đó 
 gửi video,quay video|Bạn quay video đi, rồi gửi vô đây mọi người hướng dẫn 
 lặc|lặc má mày chứ lặc 
 bot ơi|Có tôi đây! bạn muốn hỏi gì? nhớ ghi đúng chính tả tôi mới hiểu nhé 
@@ -162,7 +159,6 @@ thông đít|thông đít mày
 bot nói nhiều|nói nhiều sao bằng mày được hả nhóc 
 mệt|làm gì mà mệt hả? Đi bar quẩy đi
 tiền chưa vào|nạp tiền chưa cộng thì chờ 3-5phut chưa cộng thì liên hệ key vàng 
-trạng thái,status|Trạng Thái: Đang hoạt động
 Skill đệ tử|Đệ tử có 6 chiêu ước rồng thường đổi được skill 2-3-4, rồng từ các event đổi skill 1-5 nhé quý zị 
 kí gửi,ký gửi|Kí gửi mua bán bằng hồng ngọc nhé. Không phải thỏi vàng đâu
 trái thần long,mảnh đất,cây cuốc,khu đất,nông trại|Bạn mua đất + cây cuốc rồi săn boss đủ 30 điểm sẽ trồng được cây thần long, thu hoạch trái thần long ăn vào tăng chỉ số ( đặc biệt không bị ảnh hưởng với sức mạnh chí tôn ) 
@@ -175,7 +171,7 @@ itachi|Đệ itachi mua ở santa
 detu,de tu,gohan,itachi,mabu,ma bư,trứng bư,de bu|ĐỆ THƯỜNG 0% -> săn Super Broly, MABƯ 30% -> săn Mabư, GOHAN BƯ 50% -> săn bư 12h và 19h ở ĐHVT, ITACHI 70% -> mua ở santa, OMEGA -> 100% SỰ KIỆN TẾT.
 Vòng quay thượng đế|Vòng quay thượng đế quay tốn hồng ngọc (chưa thêm vật phẩm đặc biệt) 
 mới chơi|Bạn mới chơi thì năng nổ giao tiếp với mọi người trong box nè, nhất là giao tiếp với tôi nhé! 
-share,event,tan thu,tân thủ,even,chia sẻ|Đăng nhập vào web -> rồi bấm qua diễn đàn -> bấm vô santa -> rồi tham gia -> Nhớ đọc kĩ rồi làm -> Có nút gửi cho người duyệt event
+share,event,tan thu,tân thủ,even,chia sẻ|Đăng nhập vào https://janemba.online -> rồi bấm qua diễn đàn -> bấm vô santa -> rồi tham gia -> Nhớ đọc kĩ rồi làm -> Có nút gửi cho người duyệt event
 khắc ấn vô song|Khắc ấn sẽ không mất bông tai vô song nhé 
 gui cho|Làm xong event thì chỗ tham gia có nút gửi cho admin đó
 chân mệnh,tu luyện,vòng chân|bạn lên hành tinh Bill gặp thiên sứ whis để nâng chân mệnh nhé. điểm tu luyện làm nhiệm vụ tu luyện ở whis. 1000 điểm 1 level 
