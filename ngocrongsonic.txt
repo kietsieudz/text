@@ -50,7 +50,7 @@ sdg,max cs,max sd,max hp|Max 40k và 780k Mở giới hạn ở vách núi morri
 testfight,tf|Vào AppStore Tải App Testflight rồi quay lại đây bấm vào link này để cài trên iPhone nhé https://testflight.apple.com/join/VsqN6P6a (CHỌN SERVER 1)
 vùng đất|Vùng đất huỷ diệt bạn lên hành tinh Bill là qua được
 dc đâu,đc đâu,co dc dau|Xin lỗi mình chỉ là BotChat. Nếu mình không giúp được bạn. Hãy hãy quay hoặc chụp lại rồi gửi cho Key vàng nhé
-giftcode,code,fan cung,fanpage,fancung,fc|Giftcode tân thủ ghi sẵn trong game nhé bạn, (Code khác hãy vào fanpage xem các bài viết có code nhé: https://www.facebook.com/ngaidinro)
+giftcode,code,fan cung,fanpage,fancung,fc|Giftcode tân thủ ghi sẵn trong game, (Code khác bạn xem các bài viết ở Fanpage (Nhớ Follow, comment và nhắn tin để lấy cốt fan cứng): https://www.facebook.com/ngaidinro
 gas|Đi doanh trại kiếm Bản đồ kho báu (bình gas) rồi vào Khí gas ở làng aru
 skill mới,skill đặc biệt,super kame,super kamejoko,ma phong ba,liên hoàn chưởng,biến hình,skill9,skill 9|Học skill đặc biệt ở quy lão đảo kame. cày hoặc nạp đều học được, đi doanh trại sẽ rơi bí kíp học skill
 so luon,thua luon,thua|Ai sợ đi về :))
