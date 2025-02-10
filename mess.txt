@@ -19,6 +19,7 @@ xdl,xoa du lieu|Xoá dữ liệu để có thể tải lại dữ liệu mới (
 chưa ra,chưa xh,chưa xuất hiện,mãi k ra,mãi k xh,mãi không xuất hiện,mãi không ra|Boss không lỗi, canh kĩ thông báo boss đi má ơi
 yanrobi|Boss Yanrobi rơi hồng ngọc
 bot ăn|Ăn cái con bulon
+bot nin,im di,nin mom,cam mom|Cái lol má nó chứ :!
 ngai di|Có việc gì quan trọng thì in bóc cho Ngài Di. Hướng dẫn chơi game thì nhắn ở đây tôi chỉ cho
 mon leo|Mồn má mày chứ mồn :))
 meo meo meo|Đừng tag em mà anh! Anh hỏi gì em chỉ cho :!
