@@ -1,1 +1,4 @@
 alo,hello,chao|xin chào mình là Bot|logo.png
+quylao|Hình ảnh quy lão đây|quylao.png
+karin|hinh ảnh mèo karin|karin.png
+banner|anh banner|banner.png
