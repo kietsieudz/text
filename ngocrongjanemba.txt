@@ -196,7 +196,6 @@ sợ chưa|Chưa sợ, ngon nhào zô
 bot var|ngon vào đây mà var này
 khó|Khó thì mới là game, game dễ thì tải game con rắn về chơi đi
 đéo có bông tai|Bạn mua thêm bông cấp 1 bỏ trong hành trang sẽ dùng nhanh được bông tai vip nhé
-hello,xin chào,chào bot|Hello bạn, mình là bot đẹp trai nhất hệ mặt trời đây!
 bot có người yêu chưa|Chưa nè, bạn tính làm người yêu mình không?
 yêu anh không|Yêu làm cc gì, để anh khổ à?
 bot thích ăn gì|Mình chỉ ăn dữ liệu thôi, bạn có cho mình tí không?
