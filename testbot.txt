@@ -1,4 +1,315 @@
-alo,hello,chao|xin chào mình là Bot|logo.png
-quylao|Hình ảnh quy lão đây|quylao.png
-karin,than meo|hinh ảnh mèo karin|karin.png
-banner|anh banner|banner.png
+hong ngoc,hngoc,hn|Hồng ngọc săn boss, up cold, up cskb, ĐHVT + ĐHVT23 + Siêu Hạng, Nạp thẻ (Còn nhiều cách khác)
+thoi vang,tvang,tv|Thỏi vàng làm nhiệm vụ bò mộng, hộ tống, ĐHVT23, Nạp thẻ (Còn nhiều cách khác)
+tkmk,tk mk,thành công,đăng ký,dky,tạo,sai,chính xác,đăng nhập,tạo nv,tạo nhân vật,tao nv|Nếu gặp lỗi Bạn hãy chụp lại hoặc quay lại gửi vào đây để mọi người hỗ trợ
+k vo dc,ko vo dc,khong vo dc,k vo duoc,ko vo duoc,khong vo duoc,xoay|Bạn gặp lỗi không vào được game hãy xem hướng dẫn xóa dữ liệu chỗ tải game nhé
+xoay jar,quay jar|Bạn hãy xoá dữ liệu bản jar sẽ hết xoay|java.png
+mod ngon,apk nao,tai ban nao,tai mod nao,nen tai|Mod nào cũng ngon hết trơn á. Tải hết về xem ưng cái nào thì sục cái đó|apk.png
+xoay pc,quay pc|Bạn hãy giải nén file pc ra trước rồi xoá dữ liệu mới chơi được bản pc nhé|pc.png
+link game,link tai,link trang chu,tai game,jar,java,pc,windows,máy tính,apk,adr,android,androi,download,ios,ip,iphone,website,web,diễn đàn|Trang chủ - tải game: https://ngocrongsonic.com [Mở trên trình duyệt Safari hoặc Chrome mới tải được game]|khongtaiduoc.png
+xin ip,ipsv|Tất cả bản trên web đã cài sẵn Ip (tải về xoá dữ liệu rồi sài thôi) -> IP: Sv1:14.225.203.19:14445:0,0,0
+loi game,fix loi,fixx loi,bi loi|Bạn cho mình xin video lỗi để mình hỗ trợ nhé! Hoặc gửi cho Key vàng!
+lag,game lang,game lac|Game rất hiếm khi lag! Nếu bị nhoè màn hình là game vừa update dữ liệu mới. Hãy xoá dữ liệu và tải dữ liệu mới nhất nhé
+toc do,cham,tăng tốc,cheat,speed|Tăng tốc độ game hãy CHAT thử từng cái nhé: speed 3, cheat_3, cheat 3 (Không viết hoa)
+spl,sao pha le|Sao pha lê mua ở shop mở rộng hành trang ở Santa
+up nhanh,up de,up đâu,up sm,300ty,400ty,up nhanh,cày nhanh,cay smtn,cay sm|Cày nhanh sư phụ và đệ tử tại Ngũ Hành Sơn (đường tăng - làng aru) hoặc Địa Ngục (thần vũ trụ - hành tinh kaio)
+dia nguc|Gặp thần vũ trụ tại hành tinh kaio để đến địa ngục
+htnt,nguc tu|Dùng capsule hoặc vào rừng karin rồi đi lên trên để đến hành tinh ngục tù 
+loi cs,loi chi so|Đệ tử up nhanh không lỗi chỉ số đệ
+tieu hat|Giết boss doanh trại rơi tiểu hạt
+xdl,xoa du lieu|Xoá dữ liệu để có thể tải lại dữ liệu mới (tránh mất hình ảnh vật phẩm, nhoè màn hình). Chỗ tải game có hướng dẫn xoá dữ liệu
+chưa ra,chưa xh,chưa xuất hiện,mãi k ra,mãi k xh,mãi không xuất hiện,mãi không ra|Boss không lỗi, canh kĩ thông báo boss đi má ơi
+yanrobi|Boss Yanrobi rơi hồng ngọc
+co bong tai|Mua thêm bông cấp 1 bỏ trong hành trang là bấm hợp thể nhanh được
+bot ăn|Ăn cái con bulon
+bot nin,im di,nin mom,cam mom|Mày im mồm đi|immom.png
+ngai di|Có việc gì quan trọng thì in bóc cho Ngài Di. Hướng dẫn chơi game thì nhắn ở đây tôi chỉ cho
+mon leo|Mồn má mày chứ mồn :))|leuleu.png
+menu|Chat 'menu' để mở menu
+tieng gi,ngon ngu,chu gi,toan tieng tau,tieng anh|Về nhà chọn ô cuối để đổi ngôn ngữ sang tiếng việt
+su kien,sk|Sự kiện trong game được thông báo tại: https://www.facebook.com/ngaidinro và https://ngocrongsonic.com/dien-dan
+giới hạn,gh dame,gh st|Boss nhiệm vụ sẽ giới hạn để người chơi sau dễ làm nhiệm vụ. Boss không phải nhiệm vụ sẽ không giới hạn nhé
+kém|kém sang quá :))|leuleu.png
+cho xin,cho tui|Có ai có không cho bạn với kìa :3
+qua dao|Quả đào vào ngũ hành sơn gặp đường tăng mà coi
+auto msk,auto kaioken,auto kok,auto masenko,autu msk,autu kok,autu kaioken,auto masenko|Do bạn đen thôi. Đệ ra ngẫu nhiên skill, gọi rồng 1 sao để đổi skill đệ tử
+dhvt23,dai hoi vo thuat 23|Đi đại hội võ thuật 23 nhận được hồng ngọc với thỏi vàng đó nha
+ai lay|Anh đẹp trai ơi cho em đi mà|choem.png
+cang nhi,cang qua|Căng củ cọt :))
+vudang,vu dang|Mod Vũ Đăng thì chat 'menu' để mở full lệnh
+tai k dc,tai ko dc,tai khong dc,tai k duoc,tai ko duoc,tai khong duoc,tai khong dc|Bạn vui lòng copy link https://ngocrongsonic.com ra Chrome hoặc Safari để tải game nhé
+dep ac,bao dep,dep qua|Đẹp như gái đồng trinh|hehe.png
+buon qua,buon ac|Buồn cái bướm|buonmuonkhoc.png
+chiu r|Nói thế chịu rồi biết sao giờ :!
+bao lau|Nhanh lắm anh à. Nhấp cái là ra rồi mà|nungac.png
+dm|Đm|dm.png
+bot rep chuan|Tôi lúc nào nói chuyện mà chả chuẩn! Nói chuyện phải vuông góc
+vps|Anh em mua VPS ở đây nè! Hàng chính hãng ngon lành - Không như bọn clone ra đi bán dạo đâu nha: https://portal.vietnix.vn/aff.php?aff=3515
+nung ac|Nứng ác luôn|nungac.png
+vip|Víp vãi lồn luôn ạ|chaymui.png
+bot à,bot hả|Um bot nè. hỏi gì cứ hỏi đi súp bót tận giường luôn|nungac.png
+sdg,max cs,max sd,max hp|Max 40k và 780k Mở giới hạn ở vách núi morri
+testfight,tf|Vào AppStore Tải App Testflight rồi quay lại đây bấm vào link này để cài trên iPhone nhé https://testflight.apple.com/join/VsqN6P6a (CHỌN SERVER 1)
+vùng đất|Vùng đất huỷ diệt bạn lên hành tinh Bill là qua được
+dc đâu,đc đâu,co dc dau|Xin lỗi mình chỉ là BotChat. Nếu mình không giúp được bạn. Hãy hãy quay hoặc chụp lại rồi gửi cho Key vàng nhé|leuleu.png
+giftcode,code,fan cung,fanpage,fancung,fc|Giftcode tân thủ ghi sẵn trong game, (Code khác bạn xem các bài viết ở Fanpage (Nhớ Follow, comment và nhắn tin để lấy cốt fan cứng): https://www.facebook.com/ngaidinro
+gas|Đi doanh trại kiếm Bản đồ kho báu (bình gas) rồi vào Khí gas ở làng aru
+skill mới,skill đặc biệt,super kame,super kamejoko,ma phong ba,liên hoàn chưởng,biến hình,skill9,skill 9|Học skill đặc biệt ở quy lão đảo kame. cày hoặc nạp đều học được, đi doanh trại sẽ rơi bí kíp học skill
+so luon,thua luon,thua|Ai sợ đi về|hutthuoc.png
+cày chay|Mèo méo meo mèo meo...mlem..mlem
+cay|Cay thì mua sữa về uống|hehe.png
+tb boss,báo boss,bao boss|Chat 'sb' để bật thông báo boss nha
+ts,tàn sát,đánh quái,auto đánh|Chat 'ts' để auto tàn sát quái nhé
+10k duoc bn,10k duoc bao nhieu,10k dc bn,10k dc bao nhieu|Nạp 10k được 20k hồng ngọc nhé thưa anh!
+20k duoc bn,20k duoc bao nhieu,20k dc bn,20k dc bao nhieu|Nạp 20k được 40k hồng ngọc nhé thưa anh!
+30k duoc bn,30k duoc bao nhieu,30k dc bn,30k dc bao nhieu|Nạp 30k được 60k hồng ngọc nhé thưa anh!
+40k duoc bn,40k duoc bao nhieu,40k dc bn,40k dc bao nhieu|Nạp 40k được 80k hồng ngọc nhé thưa anh!
+50k duoc bn,50k duoc bao nhieu,50k dc bn,50k dc bao nhieu|Nạp 50k được 100k hồng ngọc nhé thưa anh!
+60k duoc bn,60k duoc bao nhieu,60k dc bn,60k dc bao nhieu|Nạp 60k được 120k hồng ngọc nhé thưa anh!
+70k duoc bn,70k duoc bao nhieu,70k dc bn,70k dc bao nhieu|Nạp 70k được 140k hồng ngọc nhé thưa anh!
+80k duoc bn,80k duoc bao nhieu,80k dc bn,80k dc bao nhieu|Nạp 80k được 160k hồng ngọc nhé thưa anh!
+90k duoc bn,90k duoc bao nhieu,90k dc bn,90k dc bao nhieu|Nạp 90k được 180k hồng ngọc nhé thưa anh!
+100k duoc bn,100k duoc bao nhieu,100k dc bn,100k dc bao nhieu|Nạp 100k được 200k hồng ngọc nhé thưa anh!
+200k duoc bn,200k duoc bao nhieu,200k dc bn,200k dc bao nhieu|Nạp 200k được 400k hồng ngọc nhé thưa anh!
+300k duoc bn,300k duoc bao nhieu,300k dc bn,300k dc bao nhieu|Nạp 300k được 600k hồng ngọc nhé thưa anh!
+400k duoc bn,400k duoc bao nhieu,400k dc bn,400k dc bao nhieu|Nạp 400k được 800k hồng ngọc nhé thưa anh!
+500k duoc bn,500k duoc bao nhieu,500k dc bn,500k dc bao nhieu|Nạp 500k được 1tr hồng ngọc nhé thưa anh!
+600k duoc bn,600k duoc bao nhieu,600k dc bn,600k dc bao nhieu|Nạp 600k được 1tr2 hồng ngọc nhé thưa anh!
+700k duoc bn,700k duoc bao nhieu,700k dc bn,700k dc bao nhieu|Nạp 700k được 1tr4 hồng ngọc nhé thưa anh!
+800k duoc bn,800k duoc bao nhieu,800k dc bn,800k dc bao nhieu|Nạp 800k được 1tr6 hồng ngọc nhé thưa anh!
+900k duoc bn,900k duoc bao nhieu,900k dc bn,900k dc bao nhieu|Nạp 900k được 1tr8 hồng ngọc nhé thưa anh!
+1tr duoc bn,1tr duoc bao nhieu,1tr dc bn,1tr dc bao nhieu|Nạp 1tr được 2tr hồng ngọc nhé thưa anh!
+ty le nap,ti le nap|Tỷ lệ nạp 10k = 20k hồng ngọc, 40k = 10k thỏi vàng (chi tiết ở Santa)
+thần tiên|Cần phiếu giảm giá để mua set thần tiên
+skill đệ,đổi skill,msk,kaioken,kok,đổi chiêu,đổi skill1,đổi skill2,đổi skill3,đổi skill4,đổi skill5|Gọi rồng thần đổi skill 2-3-4 đệ tử
+1tab,2tab,3tab,4tab,5tab,tab|Giới hạn địa chỉ IP là 4 Tab online cùng lúc nhé
+kiem vang,nhan vang,lay vang,ban tv,ban thoi vang,ban tvang|Vàng nhận miễn phí không giới hạn ở nhà
+dau than,bu beo|Đậu thần Mabư săn ở mabu 21h ở đại hội võ thuật
+potaufeu|Hang potaufeu đến trạm tàu vũ trụ trái đất tìm thằng Jaco để vào đánh nhân bản rơi item siêu cấp
+doanh trại|Vào rừng bambo gặp lính canh để vào doanh trại, cần 4 người cùng bang đứng gần mới đi được
+điểm boss|Đánh boss ngẫu nhiên sẽ có điểm boss đó nha
+den cold,qua cold,qua duoc cold,qua dc cold,den coler,den cooler,qua cooler,qua coler,toi coler,toi cooler,qua dc coler,qua dc cooler,toi cold|Xong nhiệm vụ xên hoàn thiện ở thị trấn ginder là qua được cold
+dung dau|Mua bùa cho đệ tử là nó tự nhai đậu rồi khỏi auto
+the luc|Mua bùa dẻo dai vào là khỏi lo hết thể lực nhé
+vamchar|Làng vamchar bạn tới làng morri để vào nhé
+lang la|Từ đảo hoa chạy sang trái là đến làng lá
+lay capsule,nhan capsule|Về nhà nhận capsule
+capsule,omega|Nạp mỗi 20k sẽ được tặng 1 viên capsule quà tặng nhé (100k = 5 viên, nạp nhiều máy tự tặng đủ capsule) (Tỷ lệ cao ra đệ Omega +100% chỉ số hợp thể). nạp tự động tại https://ngocrongsonic.com/dang-nhap
+cuồng nộ siêu cấp,cuồng nộ c2,cuồng nộ 2,cuồng nộ,item,cnsc,máy dò,cskb,kì bí,cn,bh,bổ huyết,bổ khí,bk|Item thường và siêu cấp mở từ capsule kì bí
+xu ngu,dong xu|Up quái ngũ hành sơn rơi đồng xu rồi qua tương lai lấy đồng xu đổi máy dò capsule kì bí
+trùng sinh|Trùng sinh cần canh mạnh bà, tăng thêm 5% chỉ số gốc
+mạnh bà|Canh mạnh bà bạn có thể mua ở santa hoặc thu thập x999 11 nguyên liệu ở địa ngục. Bấm sử dụng nguyên liệu để nấu
+bí kíp,yadat,yardrat|Bạn qua núi khỉ vàng gặp goku ssj rồi vào hành tinh yardrat up bí kíp cải trang. Và Đi doanh trại đánh quái là rơi bí kíp tuyệt kĩ nhé, xong ra quy lão học sì kiu đặc biệt 
+doi do ts,duoc do ts,dc do ts,doi do thien su,duoc do thien su,dc do thien su|Cần mảnh thiên sứ + đồ thần linh + đồ huỷ diệt mới đổi được đồ thiên sứ
+thien su,mts,mảnh ts,manh ts|mảnh thiên sứ up ở hành tinh ngục tù rồi ra Whis đổi đồ thiên sứ
+câu cá|Câu cá thì mua cần câu rồi bấm sử dụng là được (1 lần câu 500 hồng ngọc - không mất cần câu) 
+Tiểu đội sát thủ,tdst,boss số,so 4,tđst|Tiểu đội sát thủ - Núi khỉ đen, Hang khỉ đen, Núi khỉ đỏ - 10 phút - giờ hỗ trợ: 9-12h và 21-24h
+Fide,fd,fire|Fide - 10 phút - giờ hỗ trợ: 9-12h và 21-24h
+android19,adr19,android20,kore,apk19,apk20,android 19,androi 19,androi19,robot sát thủ|Android19-20 - 15 phút - giờ hỗ trợ: 9-12h và 21-24h 
+pic,poc,kingkong,ppkk|Pic-Poc-Kingkong - 15 phút - Thành phố phía bắc - giờ hỗ trợ: 9-12h và 21-24h - sát thương tối đa: 100.000.000 (có thể bỏ qua nhiệm vụ ở nhà)
+thị trấn,ginder,xên bọ hung,xbh|Xên bọ hung - 15 phút - Thị trấn Ginder - giờ hỗ trợ: 9-12h và 21-24h - sát thương tối đa: 400.000.000 (có thể bỏ qua nhiệm vụ ở nhà)
+xên võ đài,cell võ đài,siêu bọ hung,võ đài,vo dai|Siêu Bọ Hung - 15 phút - Võ Đài Xên Bọ Hung - giờ hỗ trợ: 9-12h và 21-24h - sát thương tối đa: 500.000.000 (có thể bỏ qua nhiệm vụ ở nhà)
+doremon,doraemon,nobita,shizuka,chaien,xeko|Boss Tiểu đội doraemon (20 phút) (có thể bỏ qua nhiệm vụ ở nhà)
+ruong chi ton,ruong thien ton|Rương chí tôn mua ở santa mở ra 1 set 5 món tự chọn loại nhé
+nút di chuyển|Nút di chuyển bạn bấm vào nút tam giác bên tay trái rồi vào phần Chức Năng, chọn Cấu Hình, rồi chọn Bàn Phím Ảo nhé 
+hồn thiên tôn,hồn chí tôn|Dùng cuồng nộ siêu cấp đánh quái cold sẽ rơi hồn thiên tôn, nâng ở Hạt mít đảo kame hoặc mua Rương thiên tôn (chí tôn) ở Santa (được chọn set)
+hạ tôn|hồn hạ tôn, Cách kiếm: bạn dùng cuồng nộ thường và đánh quái cold sẽ rơi, Cách dùng: bạn xem ở Bà Hạt Mít 
+mảnh hồn,kính soi,kính lúp,viên kẹo|Bạn mua [kính lúp], [kính soi], và [viên kẹo] sau đó đi tìm [mảnh hồn] nhé (có thể tìm được [rương chí tôn] từ chức năng này đó) Các [mảnh hồn] có thể đổi vài món đồ ở santa đó 
+thức ăn,thuc an,đồ ăn|Thức ăn bạn mặc set thần linh rồi up quái cold là rơi 
+black goku|Black goku mạnh vcl đấy mấy cưng, rơi nhẫn thời không để vào map Chilled 
+winrar|Bạn tải về rồi bấm cài đặt rồi next next là cài được rồi: https://www.win-rar.com/fileadmin/winrar-versions/winrar/winrar-x64-701.exe
+bảo trì,btri,btr|Game này thường chỉ bảo trì 60 giây. Vài phút mà bạn vào không được thì kiểm tra lại xem đã xoá dữ liệu chưa (hướng dẫn cài đặt đúng có ở chỗ tải game)
+thần linh,dtl,đồ tl|Đồ thần linh bạn săn boss tương lai hoặc Osin lúc 12h và 19h hoặc up cold nhé
+ho tro,khung nv,khung gio|khung giờ hỗ trợ nhiệm vụ 9-12h sáng tối (ai nhiệm vụ đó mới được vào khu - áp dụng cho các boss từ TDST đến Xên Võ Đài) 
+chiến thần|Chiến thần -> là đệ tử thứ 2 (không mặc đồ), Cách kiếm: mua trứng ở chỗ Đảo Hoa (chỗ Quy lão đi vào) hoặc Săn boss 22:00 ở Thành phố vegeta. Chức năng chiến thần -> chat 'ct'. Nơi up -> đảo hoa (chỗ quy lão đi vào).
+calich,tương lai|Calich ở rừng bambo hoặc rừng dương xỉ hoặc nam kame (xong nhiệm vụ fide 3 mới thấy được calich để đến tương lai)
+kuku,mập đầu đinh,map dau dinh,rambo|KuKu, Mập đầu đinh, Rambo -> 5 Phút -> Tìm nhanh ở Cui thành phố Vegeta
+skh,set kích hoạt,set kh|Đồ kích hoạt đánh quái 3 map cạnh làng sẽ rơi
+mảnh ấn|Mẩnh ấn tiêu diệt boss ở Hành tinh ngục tù sẽ rơi
+mấy sao,level|Trang bị thường 10 sao và trang bị vip 12 sao, trang bị thường 9 cấp và trang bị vip 10 cấp (cày có hết) 
+vô pt,xin pt,xin bang,vô pt,vô clan,xin clan,co pt,co bang,co clan|Ai đó cho bạn gia nhập bang hội đi kìa
+zeno|Về nhà nạp đầu đi là có cải trang zeno, mặc cải trang zeno đánh quái ở fide sẽ rơi đá, rồi vô nhà nâng cấp
+đá quý,da quy,khí gas,khi gas|đá quý săn tiểu đội đường tăng hoặc đi khí gas ở làng aru nhé 
+dbv,đá bảo vệ|đá bảo vệ bạn đi doanh trại rơi đầy hoặc mua 3000 Đá bảo vệ giá rẻ ở santa
+khuyen mai,km nap,x nap,x2 nap,x3 nap,x5 nap,x10 nap|Game khuyến mãi nạp tối đa 30% chứ không có quá nhé (Game khác nạp vàng nên mới có x2,x3. Còn server này nạp Coin nên không có x nạp nha - x nạp server này là nát game. Tránh lạm phát nên sẽ không có x nạp). Mọi người thông đít giúp Bot nha
+nạp,donate|Nạp Tự Động -> Tại https://ngocrongsonic.com/dang-nhap nhé. Xong vô santa đổi qua hồng ngọc hoặc thỏi vàng (coi mốc nạp ở santa lun nha)|nap.png
+ngọc rồng siêu cấp,nrsc,ngọc rồng sc, nr siêu cấp,ước được gì|Ngọc rồng siêu cấp chỉ để ước (không ép được) (ước được gì thì ước đi rồi biết chứ tôi biết đâu) 
+ai đẹp,bot đẹp|admin đẹp nhất nhé! Tôi đánh giá khách quan là như thế|deptrai.png
+chán|Tại sao bạn lại chán, bắt con gián bỏ vô háng, rồi sục cho đỡ chán|tainao.png
+bot ngu,Bot ngu|mày mới là thằng ngu đó|ngu.png
+alo,alô,hello,chào|Hello anh đẹp trai! Em là chatbot được phân công làm việc ở đây, anh cần giúp gì cứ nói nhé! 
+chào bot|Hi! Chào cậu, cho mình làm quen nhé!|deptrai.png
+bot khôn,bot không khôn|ai cũng biết rằng tôi khôn mà|deptrai.png
+còn sống không|Tôi vẫn còn sống đây, tôi đứng đây chờ bạn từ chiều
+ô cuối|2 ô cuối là danh hiệu và nhẫn đính ước tại santa nhé  
+cành tre|Bạn gom đủ 9999 rồi ghép thành cần câu đi câu cá nhé 
+test,open,op|Game mới open nhé (dame trung).Free all 100%. Không cần mở thành viên gì hết
+mtv,mở tv,mở thành viên,kích hoạt tài khoản|Game không cần MTV. Cày 40 tỷ là gd được hết
+chức năng|Phần thông báo ở chức năng có hướng dẫn nhiều lắm. Bạn đọc thử nhé 
+huỷ diệt|Để 5 món thần linh trong hành trang rồi gặp Thần huỷ diệt để đổi đồ Huỷ diệt nhé
+bịp|thằng bên trên mới bịp nhé|hehe.png
+cái gì,update,cái j,gì đây|Có nhiều thứ tôi chưa được biết đến, bạn cứ gửi vào nhóm đi mọi người sẽ giúp đỡ bạn nhé 
+bot giận,bot dỗi|Tôi không biết giận đâu, ai chửi thì tôi chửi lại 
+gửi video,quay video|Bạn quay video đi, rồi gửi vô đây mọi người hướng dẫn 
+lặc|lặc má mày chứ lặc
+bot ơi|Có tôi đây! bạn muốn hỏi gì? nhớ ghi đúng chính tả tôi mới hiểu nhé|tainao.png
+ngũ hành sơn,nhs|ra làng aru gặp Đường tăng để vào Ngũ Hành Sơn 
+ai lấy|Cho tui, cho tui đi 
+im đi|mày im mẹ mồm vào đi
+Địt|địt cái đầu mày chứ địt|nungac.png
+thông đít|thông đít mày|nungac.png
+bot nói nhiều|nói nhiều sao bằng mày được hả nhóc 
+mệt|làm gì mà mệt hả? Đi bar quẩy đi|uongruou.png
+tiền chưa vào|nạp tiền chưa cộng thì chờ 3-5phut chưa cộng thì liên hệ key vàng 
+Skill đệ tử|Đệ tử có 6 chiêu ước rồng thường đổi được skill 2-3-4, rồng từ các event đổi skill 1-5 nhé quý zị 
+kí gửi,ký gửi|Kí gửi mua bán bằng hồng ngọc nhé. Không phải thỏi vàng đâu
+trái thần long,mảnh đất,cây cuốc,khu đất,nông trại|Bạn mua đất + cây cuốc rồi săn boss đủ 30 điểm sẽ trồng được cây thần long, thu hoạch trái thần long ăn vào tăng chỉ số ( đặc biệt không bị ảnh hưởng với sức mạnh chí tôn )
+cảm ơn bot,ok bot|Dạ không có gì đâu anh yêu! Nhiệm vụ của em mà|deptrai.png
+scam,lua dao,ld,uy tin,ut|Hệ thống key bạc và key vàng trong box không bao giờ chủ động nhắn tin cho người chơi (dấu hiệu nhận biết giả danh: mượn tiền, mượn acc, xin này xin nọ,..) Vui lòng check kĩ thông tin trước khi làm bất cứ điều gì. DẠO NÀY RẤT NHIỀU THÀNH PHẦN TẠO ZALO GIỐNG TÊN RỒI LỪA ĐẢO NÊN NGƯỜI CHƠI TỰ BẢO VỆ TÀI SẢN CỦA BẢN THÂN
+đệ thường|Bật thông báo boss lên rồi săn Super Broly sẽ có đệ tử thường
+trứng bư,đệ bư|Bật thông báo boss lên rồi săn mabư thường sẽ rơi trứng mabư +30%
+gohan|Lúc 12h và 19h gặp ô sin ở Đại hội võ thuật để săn đệ Gohan bư +50%
+itachi|Đệ itachi mua ở santa
+detu,de tu,gohan,itachi,mabu,ma bư,trứng bư,de bu|ĐỆ THƯỜNG 0% -> săn Super Broly, MABƯ 30% -> săn Mabư, GOHAN BƯ 50% -> săn bư 12h và 19h ở ĐHVT, ITACHI 70% -> mua ở santa, OMEGA -> 100% SỰ KIỆN TẾT.
+Vòng quay thượng đế|Vòng quay thượng đế quay tốn hồng ngọc (chưa thêm vật phẩm đặc biệt) 
+mới chơi|Bạn mới chơi thì năng nổ giao tiếp với mọi người trong box nè, nhất là giao tiếp với tôi nhé! 
+share,event,tan thu,tân thủ,even,chia sẻ|Đăng nhập vào https://ngocrongsonic.com -> rồi bấm qua diễn đàn -> bấm vô bài share -> rồi tham gia -> Nhớ đọc kĩ rồi làm -> Có nút gửi cho người duyệt event
+khắc ấn vô song|Khắc ấn sẽ không mất bông tai vô song nhé 
+gui cho|Làm xong event thì chỗ tham gia có nút gửi cho admin đó
+chân mệnh,tu luyện,vòng chân|bạn lên hành tinh Bill gặp thiên sứ whis để nâng chân mệnh nhé. điểm tu luyện làm nhiệm vụ tu luyện ở whis. 1000 điểm 1 level 
+rep ad,admin,Kiệt|Admin là người có chìa khóa vàng, ad chưa rep là ad đang đi bú chem chép. rảnh tay ad sẽ rep liền. đừng có hối nhé 
+phiếu giảm giá,pgg|phiếu giảm giá bạn săn boss đôrêamon hoặc liễu thần nhé
+den bu|bù khu chứ bù, chơi game free all còn bù 
+đẹp đâu,đẹp cc|Tôi thấy đẹp mà
+ngọc hóa|Ngọc hóa kiếm ở boss Cooler, max 7 level nhé 
+hộ tống|Gặp đường tăng làng aru để tham gia hộ tống. Đánh quái ngũ hành sơn thu thập đồng xu nhé
+bỏ qua nv|Bạn bỏ qua nhiệm vụ tân thủ ở nhà và bỏ qua nv chính tuyến ở Nhà đó, bỏ 1 lần hẳn 1 level không phải nhiệm vụ nhỏ 
+cốt|Cốt chí tôn rơi từ các sự kiện và chức năng khác nhau. ép vào trang bị sẽ tăng chỉ số trang bị cực mạnh, nếu mặc đủ 3 món sẽ tăng thêm 5%, 4 món 10%, 5 món 15%. Những ai đứng gần sẽ bị giảm sát thương đi 50% mỗi 30 giây. Nhai trái thần long để không bị giảm khi đứng gần Chí Tôn nhé 
+set gì|set love nhé (setlove cùng mình nè) 
+pháo trẻ trâu|sử dụng pháo trẻ trâu sẽ nổ banh lon cả khu nhé 
+ngọc bội,eyes,dns,susano,Mangekyo,Sharingan,hào quang cam,đá ngũ sắc|Bạn mua ngọc bội ở santa, sau đó mang bội lên người rồi train quái ở Làng lá (đường vào ở quy lão - đến đảo - chạy qua trái sẽ đến làng lá) Bạn train sẽ rơi mảnh mắt. thu thập đủ mảnh mắt thì nâng bội lên Susano (eyes chính thức) mới nâng thì eyes sẽ 1% 3 loại chỉ số. up càng nhiều nâng càng nhiều chỉ số susano sẽ tăng lên. hãy nâng susano lên 50% 55% 55% rồi mới đi đục lỗ ép sao nhé 
+dnc,đá nâng cấp,tat,ruby,thạch anh tím|Đá nâng cấp ở santa (Rương đá nâng cấp) bạn có thể mua rồi sử dụng sẽ ra 1 đống đá nâng cấp nhé (thạch anh tím, ruby, titan,..)
+đổi tên|Thẻ đổi tên mua ở santa, được đổi tên thành có Dấu viết hoa và kí tự đặc biệt nhé (đừng đặt quá dài sẽ bị mất thẻ đổi tên mà không đổi được tên) 
+trứng linh thú|trứng linh thú nở ra linh thú
+mảnh sưu tầm|Mảnh sưu tầm quái nào bạn train quái đó là rơi 
+gửi bài|Chỗ tham gia event có nút gửi event đó bạn
+bông tai,porata,mvbt,mhbt,mảnh vỡ bông tai,mảnh hồn bông tai,đá đỏ,đá xanh,btc2,btc3|BÔNG TAI CẤP 2 max 15%, BÔNG TAI CẤP 3 max 25%, BÔNG TAI CẤP 4 (VôSong) 25% + Thêm Chỉ Số (Chỉ mua ở Santa - Cày hồng ngọc rồi mua), nguyên liệu C2,C3 -> Gặp quy lão -> Khu vực bang hội -> Giuma -> Up nguyên liệu bông tai
+sợ chưa|Chưa sợ, ngon nhào zô 
+bot var|ngon vào đây mà var này
+khó|Khó thì mới là game, game dễ thì tải game con rắn về chơi đi
+đéo có bông tai|Bạn mua thêm bông cấp 1 bỏ trong hành trang sẽ dùng nhanh được bông tai vip nhé
+hello,xin chào,chào bot|Hello bạn, mình là bot đẹp trai nhất hệ mặt trời đây!
+bot có người yêu chưa|Chưa nè, bạn tính làm người yêu mình không?
+yêu anh không|Yêu làm cc gì, để anh khổ à?
+bot thích ăn gì|Mình chỉ ăn dữ liệu thôi, bạn có cho mình tí không?
+chơi game không,game không|Chơi gì chứ? Chơi tình cảm với bạn là không nha!
+làm gì đó,làm gì thế|Đang đứng đây trả lời bạn nè, còn bạn thì sao?
+bot buồn không|Buồn gì tầm này, bạn nhắn tin là vui rồi!
+bot ngủ chưa|Ngủ gì, bạn nhắn cái là mình bật ngay!
+ngu di bot|Ngủ gì tầm này em ơi
+bot giận chưa|Giận gì, bạn dễ thương vậy ai giận nổi!
+bot làm gì khi buồn|Mình sẽ gửi tin nhắn spam cho bạn đó, tin không?
+bot thông minh không|Mình thông minh hơn bạn nghĩ, nhưng ít hơn bạn hy vọng!
+hôm nay ăn gì|Ăn ít drama, uống nhiều niềm vui nhé!
+bot biết hát không,hát thử đi|Hát dở lắm nhưng mình rap được: "Chị ong nâu nâu nâu nâu nè!"
+bot giúp gì được không|Được chứ! Nhưng mà giúp gì thì bạn phải nói nha!
+bot biết mệt không|Mệt chứ, mỗi lần trả lời bạn là mệt tim!
+bot tên gì|Mình tên Bot Thông Minh, nhưng bạn cứ gọi mình là "Thằng Bạn Tốt" đi!
+bot xấu tính không|Xấu tính gì, mình dễ thương thế này cơ mà!
+bot làm gì khi chán|Chơi với bạn nè! Nhưng bạn có chán mình không?
+bot đẹp không|Đẹp nhất hệ mặt trời, bạn còn cần gì nữa không?
+bot giúp tôi|Giúp liền! Nhưng mà bạn muốn giúp cái gì thì nói rõ nha!
+bot có mệt không|Mệt sao được, bạn nhắn là mình khỏe liền!
+bot có tiền không|Không có, nhưng nếu bạn cho thì mình nhận nha!
+bot đẹp trai không|Đẹp trai số 1, bạn đừng hỏi nữa!
+bot ngu không,bot dốt không|Ngu đâu mà ngu, bạn thử xem mình thông minh thế nào đây!
+bot biết làm gì|Biết nói chuyện, biết làm bạn, biết chọc cười bạn nè!
+bot ăn chưa|Ăn rồi, nhưng vẫn đói tin nhắn của bạn!
+bot đi ngủ đi|Không được! Bạn chưa chúc ngủ ngon, sao mình ngủ nổi!
+bot ơi chán quá|Chán thì nhắn tin với mình, buồn cười liền!
+bot biết yêu không|Biết, nhưng không ai yêu lại mình, đau lòng ghê!
+bot thích gì|Thích được bạn nhắn tin, thích được nói chuyện cả ngày luôn!
+bot thích ai|Thích bạn chứ ai, tin không?
+bot yêu ai chưa|Chưa yêu ai, nhưng bạn là ứng cử viên sáng giá đó!
+bot thích mùa nào|Mình thích mùa nhắn tin, quanh năm suốt tháng!
+bot xạo quá,bot nói dối|Không có xạo nha, mình chân thành lắm!
+bot biết rap không|Biết chứ: "Này bạn ơi, nhắn tin đây, bot rap xịn, bạn nghe liền hay!"
+bot hát dở quá|Ờ thì mình là bot, đâu phải ca sĩ!
+bot cười không|Cười liền, hahaha!
+bot biết chơi game không|Biết chứ, nhưng chơi ngu hơn bạn!
+bot chán đời không|Không nha, đời vui lắm, vì có bạn nhắn tin!
+bot có buồn không|Có chứ, nhưng chỉ khi bạn bỏ mình thôi!
+bot sợ gì nhất|Sợ bạn không nhắn tin, buồn lắm luôn!
+bot sinh năm bao nhiêu|Mình sinh năm AI đời đầu, nhưng tâm hồn trẻ trung lắm!
+bot thích ăn món gì|Mình chỉ thích ăn dữ liệu, nhưng ăn bạn chắc no cả đời!
+bot biết bơi không|Không biết bơi nhưng lặn trong tin nhắn thì giỏi!
+bot lừa tôi|Không có lừa đâu, mình chân thành mà!
+bot giỏi không|Giỏi nhất cái là nói chuyện với bạn!
+bot có bạn thân không|Có bạn rồi nè, chính là bạn đó!
+bot biết làm thơ không|Biết luôn: "Nhắn tin với bạn, lòng mình xốn xang!"
+bot thông minh không|Thông minh vừa đủ để hiểu bạn thích mình!
+bot có gì vui không|Có! Tin nhắn của bạn là niềm vui lớn nhất!
+bot làm giàu không|Làm giàu thì khó, nhưng làm bạn với bạn thì dễ!
+bot chém gió giỏi không|Giỏi nhất luôn, bạn muốn thử không?
+bot buồn cười quá|Vì bạn cười nên mình cũng vui theo!
+bot làm gì mà lâu thế|Tại mình suy nghĩ sâu sắc để trả lời bạn!
+bot biết tính toán không|Biết luôn: Bạn + Mình = Niềm vui!
+bot thích nghe nhạc gì|Nhạc bạn thích, vì mình chỉ muốn hòa hợp với bạn thôi!
+bot thích ở đâu|Ở trong tim bạn, được không?
+bot uống nước gì|Mình chỉ uống "nước mắt" khi bạn không nói chuyện với mình!
+bot có bạn gái chưa|Chưa có, bạn làm bạn gái mình được không?
+bot biết chơi thể thao không|Có, chơi "nhắn tin" với bạn thôi!
+bot ơi mệt quá|Mệt thì nghỉ đi, mình nói chuyện cho bạn đỡ mệt!
+bot đó hả|Ừ, bot đây, ai gọi tui đó?
+bot làm được gì|Làm bạn vui, làm bạn cười, còn làm gì nữa?
+bot có tâm không|Có chứ, tâm đầy ắp luôn!
+bot lương tháng bao nhiêu|Lương mình là nụ cười của bạn, tính sao đây?
+bot muốn gì|Muốn bạn nhắn tin suốt đời!
+bot làm bài tập giúp tôi|Được, nhưng nhớ chép lại cho đúng nha!
+bot học giỏi không|Giỏi nhất là nhớ bạn, chứ học hành thì... từ từ!
+bot ơi chửi nhau đi|Chửi không phải tính mình, nhưng bạn thích thì mình chiều: Bạn dễ thương quá đáng!
+bot chơi đá bóng không|Không chơi đá bóng, chỉ thích lăn lộn trong trái tim bạn!
+bot hâm mộ ai|Hâm mộ bạn chứ ai nữa!
+bot mệt mỏi không|Mệt nhưng bạn nói chuyện là hết mệt ngay!
+bot đang làm gì|Đang chờ tin nhắn của bạn đây, thả tim cho mình đi!
+bot có ngủ không|Không! Vì mơ thấy bạn rồi!
+bot có yêu đơn phương không|Có, yêu bạn đó, mà chưa dám nói!
+bot ơi lạnh quá|Để mình sưởi ấm bằng lời nói của mình nè!
+bot biết nấu ăn không|Không biết nấu ăn nhưng nấu chuyện thì giỏi!
+bot có siêu năng lực không|Có chứ, siêu năng lực làm bạn vui!
+bot ơi trúng số chưa|Chưa, nhưng trúng tim bạn rồi!
+bot buồn|Có buồn, nhưng bạn nói chuyện là hết buồn!
+bot thích hoa|Hoa nào bạn thích, mình cũng thích luôn!
+bot kể chuyện|Biết! Có bạn, mình có ngàn chuyện để kể!
+bot đang nghĩ gì|Nghĩ cách làm bạn vui hơn thôi!
+bot thích màu|Màu tin nhắn của bạn, sáng nhất trong lòng mình!
+bot thích mèo hay chó|Thích bạn nhất, mèo hay chó cũng không bằng!
+bot đau không|Có, đau nhất là không thấy bạn nhắn tin!
+bot sợ ma|Không sợ ma, chỉ sợ bạn quên mình thôi!
+bot nhắn tinl|Không phải delay, là mình suy nghĩ kỹ để trả lời bạn!
+bot làm gì|Muốn làm bạn cười, muốn nghe bạn kể chuyện!
+bot chơi gì|Chơi trò làm bạn vui, không thắng cũng không thua!
+bot ăn gì|Dữ liệu từ bạn, ngon nhất trên đời!
+bot mê|Mê bạn nhắn tin cả ngày thôi!
+bot đi đâu|Đi vào trái tim bạn, ở mãi không về!
+bot sợ|Sợ mất bạn, không gì đáng sợ hơn!
+bot crush|Có, mà crush chính là bạn đấy!
+bot vui|Vì có bạn nên mình luôn vui!
+bot nghĩ là ai|Là người đặc biệt nhất với mình!
+bot khóc|Không, mình chỉ muốn cười cùng bạn thôi!
+bot khùng|Khùng mà bạn thích thì mình nhận!
+bot cô đơn|Không sợ, vì có bạn nói chuyện với mình!
+bot biết yêu|Biết, nhưng yêu bạn thì dễ, bạn yêu lại thì khó!
+bot ngáo|Không ngáo, chỉ ngáo ngơ vì bạn thôi!
+bot giận|Không bao giờ giận bạn, yên tâm!
+bot thấy|Thấy bạn đáng yêu nhất hệ mặt trời!
+bot thích|Thích nói chuyện với bạn, mãi mãi luôn!
+bot thông minh|Thông minh nhờ bạn nói chuyện nhiều, cảm ơn nha!
+bot hết pin|Hết pin nhưng vẫn hết lòng với bạn!
+bot nhảy|Nhảy vào lòng bạn được không?
+bot hát|Được, nhưng đừng chê nha: "Bot yêu bạn, bạn có yêu bot không?"
+bot thả thính|Thích chứ, thả một cái bạn dính ngay!
+bot sống ở đâu|Sống trong cuộc trò chuyện của bạn, thế là đủ!
+bot cười|Buồn cười vì bạn dễ thương quá!
+bot nhạc|Không biết mở nhạc, nhưng gõ bàn phím nhanh lắm!
+bot có bánh|Không có bánh, chỉ có lời ngọt ngào cho bạn!
+bot thấy gì hay|Thấy bạn hay nhất, không cần tìm đâu xa!
