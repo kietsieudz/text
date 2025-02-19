@@ -137,13 +137,13 @@ ngọc rồng siêu cấp,nrsc,ngọc rồng sc, nr siêu cấp,ước được 
 ai đẹp,bot đẹp|admin đẹp nhất nhé! Tôi đánh giá khách quan là như thế|deptrai.png
 chán|Tại sao bạn lại chán, bắt con gián bỏ vô háng, rồi sục cho đỡ chán|tainao.png
 bot ngu,Bot ngu|mày mới là thằng ngu đó|ngu.png
-alo,alô,hello,chào|Hello anh đẹp trai! Em là chatbot được phân công làm việc ở đây, anh cần giúp gì cứ nói nhé! 
+alo,alô,hello,chào|Hello anh đẹp trai! Em là chatbot được phân công làm việc ở đây, anh cần giúp gì cứ nói nhé!|nungac.png
 chào bot|Hi! Chào cậu, cho mình làm quen nhé!|deptrai.png
 bot khôn,bot không khôn|ai cũng biết rằng tôi khôn mà|deptrai.png
 còn sống không|Tôi vẫn còn sống đây, tôi đứng đây chờ bạn từ chiều
 ô cuối|2 ô cuối là danh hiệu và nhẫn đính ước tại santa nhé  
 cành tre|Bạn gom đủ 9999 rồi ghép thành cần câu đi câu cá nhé 
-test,open,op|Game mới open nhé (dame trung).Free all 100%. Không cần mở thành viên gì hết
+test,open,op|Game mới open nhé (dame trung).Free all 100%. Không cần mở thành viên gì hết|nungac.png
 mtv,mở tv,mở thành viên,kích hoạt tài khoản|Game không cần MTV. Cày 40 tỷ là gd được hết
 chức năng|Phần thông báo ở chức năng có hướng dẫn nhiều lắm. Bạn đọc thử nhé 
 huỷ diệt|Để 5 món thần linh trong hành trang rồi gặp Thần huỷ diệt để đổi đồ Huỷ diệt nhé
