@@ -136,7 +136,7 @@ nạp,donate|Nạp Tự Động -> Tại https://janemba.online nhé. Xong vô s
 ngọc rồng siêu cấp,nrsc,ngọc rồng sc, nr siêu cấp,ước được gì|Ngọc rồng siêu cấp chỉ để ước (không ép được) (ước được gì thì ước đi rồi biết chứ tôi biết đâu) 
 ai đẹp,bot đẹp|admin đẹp nhất nhé! Tôi đánh giá khách quan là như thế|deptrai.png
 chán|Tại sao bạn lại chán, bắt con gián bỏ vô háng, rồi sục cho đỡ chán|tainao.png
-bot ngu,Bot ngu|mày mới là thằng ngu đó|ngu.png
+bot ngu|mày mới là thằng ngu đó|ngu.png
 alo,alô,hello,chào|Hello anh đẹp trai! Em là chatbot được phân công làm việc ở đây, anh cần giúp gì cứ nói nhé!|nungac.png
 chào bot|Hi! Chào cậu, cho mình làm quen nhé!|deptrai.png
 bot khôn,bot không khôn|ai cũng biết rằng tôi khôn mà|deptrai.png
@@ -219,7 +219,6 @@ bot giúp tôi|Giúp liền! Nhưng mà bạn muốn giúp cái gì thì nói r�
 bot có mệt không|Mệt sao được, bạn nhắn là mình khỏe liền!
 bot có tiền không|Không có, nhưng nếu bạn cho thì mình nhận nha!
 bot đẹp trai không|Đẹp trai số 1, bạn đừng hỏi nữa!
-bot ngu không,bot dốt không|Ngu đâu mà ngu, bạn thử xem mình thông minh thế nào đây!
 bot biết làm gì|Biết nói chuyện, biết làm bạn, biết chọc cười bạn nè!
 bot ăn chưa|Ăn rồi, nhưng vẫn đói tin nhắn của bạn!
 bot đi ngủ đi|Không được! Bạn chưa chúc ngủ ngon, sao mình ngủ nổi!
