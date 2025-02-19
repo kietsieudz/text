@@ -93,7 +93,7 @@ the luc|Mua bùa dẻo dai vào là khỏi lo hết thể lực nhé
 vamchar|Làng vamchar bạn tới làng morri để vào nhé
 lang la|Từ đảo hoa chạy sang trái là đến làng lá
 lay capsule,nhan capsule|Về nhà nhận capsule
-capsule,omega|Nạp mỗi 20k sẽ được tặng 1 viên capsule quà tặng nhé (100k = 5 viên, nạp nhiều máy tự tặng đủ capsule) (Tỷ lệ cao ra đệ Omega +100% chỉ số hợp thể). nạp tự động tại https://ngocrongsonic.com/dang-nhap
+capsule,omega|Nạp mỗi 20k sẽ được tặng 1 viên capsule quà tặng nhé (100k = 5 viên, nạp nhiều máy tự tặng đủ capsule) (Tỷ lệ cao ra đệ Omega +100% chỉ số hợp thể). nạp tự động tại https://ngocrongsonic.com
 cuồng nộ siêu cấp,cuồng nộ c2,cuồng nộ 2,cuồng nộ,item,cnsc,máy dò,cskb,kì bí,cn,bh,bổ huyết,bổ khí,bk|Item thường và siêu cấp mở từ capsule kì bí
 xu ngu,dong xu|Up quái ngũ hành sơn rơi đồng xu rồi qua tương lai lấy đồng xu đổi máy dò capsule kì bí
 trùng sinh|Trùng sinh cần canh mạnh bà, tăng thêm 5% chỉ số gốc
@@ -131,7 +131,7 @@ zeno|Về nhà nạp đầu đi là có cải trang zeno, mặc cải trang zeno
 đá quý,da quy,khí gas,khi gas|đá quý săn tiểu đội đường tăng hoặc đi khí gas ở làng aru nhé 
 dbv,đá bảo vệ|đá bảo vệ bạn đi doanh trại rơi đầy hoặc mua 3000 Đá bảo vệ giá rẻ ở santa
 khuyen mai,km nap,x nap,x2 nap,x3 nap,x5 nap,x10 nap|Game khuyến mãi nạp tối đa 30% chứ không có quá nhé (Game khác nạp vàng nên mới có x2,x3. Còn server này nạp Coin nên không có x nạp nha - x nạp server này là nát game. Tránh lạm phát nên sẽ không có x nạp). Mọi người thông đít giúp Bot nha
-nạp,donate|Nạp Tự Động -> Tại https://ngocrongsonic.com/dang-nhap nhé. Xong vô santa đổi qua hồng ngọc hoặc thỏi vàng (coi mốc nạp ở santa lun nha)|nap.png
+nạp,donate|Nạp Tự Động -> Tại https://ngocrongsonic.com nhé. Xong vô santa đổi qua hồng ngọc hoặc thỏi vàng (coi mốc nạp ở santa lun nha)|nap.png
 ngọc rồng siêu cấp,nrsc,ngọc rồng sc, nr siêu cấp,ước được gì|Ngọc rồng siêu cấp chỉ để ước (không ép được) (ước được gì thì ước đi rồi biết chứ tôi biết đâu) 
 ai đẹp,bot đẹp|admin đẹp nhất nhé! Tôi đánh giá khách quan là như thế|deptrai.png
 chán|Tại sao bạn lại chán, bắt con gián bỏ vô háng, rồi sục cho đỡ chán|tainao.png
