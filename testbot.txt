@@ -172,9 +172,7 @@ itachi|Đệ itachi mua ở santa
 detu,de tu,gohan,itachi,mabu,ma bư,trứng bư,de bu|ĐỆ THƯỜNG 0% -> săn Super Broly, MABƯ 30% -> săn Mabư, GOHAN BƯ 50% -> săn bư 12h và 19h ở ĐHVT, ITACHI 70% -> mua ở santa, OMEGA -> 100% SỰ KIỆN TẾT.
 Vòng quay thượng đế|Vòng quay thượng đế quay tốn hồng ngọc (chưa thêm vật phẩm đặc biệt) 
 mới chơi|Bạn mới chơi thì năng nổ giao tiếp với mọi người trong box nè, nhất là giao tiếp với tôi nhé! 
-share,event,tan thu,tân thủ,even,chia sẻ|Đăng nhập vào https://ngocrongsonic.com -> rồi bấm qua diễn đàn -> bấm vô bài share -> rồi tham gia -> Nhớ đọc kĩ rồi làm -> Có nút gửi cho người duyệt event|share.png
-khắc ấn vô song|Khắc ấn sẽ không mất bông tai vô song nhé 
-gui cho|Làm xong event thì chỗ tham gia có nút gửi cho admin đó
+khắc ấn vô song|Khắc ấn sẽ không mất bông tai vô song nhé
 chân mệnh,tu luyện,vòng chân|bạn lên hành tinh Bill gặp thiên sứ whis để nâng chân mệnh nhé. điểm tu luyện làm nhiệm vụ tu luyện ở whis. 1000 điểm 1 level 
 rep ad,admin,Kiệt|Admin là người có chìa khóa vàng, ad chưa rep là ad đang đi bú chem chép. rảnh tay ad sẽ rep liền. đừng có hối nhé 
 phiếu giảm giá,pgg|phiếu giảm giá bạn săn boss đôrêamon hoặc liễu thần nhé
@@ -313,3 +311,4 @@ bot cười|Buồn cười vì bạn dễ thương quá!
 bot nhạc|Không biết mở nhạc, nhưng gõ bàn phím nhanh lắm!
 bot có bánh|Không có bánh, chỉ có lời ngọt ngào cho bạn!
 bot thấy gì hay|Thấy bạn hay nhất, không cần tìm đâu xa!
+share,event,tan thu,even,chia se|Đăng nhập vào https://ngocrongsonic.com -> rồi bấm qua diễn đàn -> bấm vô bài share -> rồi tham gia -> Nhớ đọc kĩ rồi làm -> Có nút gửi cho người duyệt event|share.png
