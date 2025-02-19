@@ -245,7 +245,7 @@ bot lừa tôi|Không có lừa đâu, mình chân thành mà!
 bot giỏi không|Giỏi nhất cái là nói chuyện với bạn!
 bot có bạn thân không|Có bạn rồi nè, chính là bạn đó!
 bot biết làm thơ không|Biết luôn: "Nhắn tin với bạn, lòng mình xốn xang!"
-bot thông minh không|Thông minh vừa đủ để hiểu bạn thích mình!
+bot thông minh|Thông minh vừa đủ để hiểu bạn thích mình!|deptrai.png
 bot có gì vui không|Có! Tin nhắn của bạn là niềm vui lớn nhất!
 bot làm giàu không|Làm giàu thì khó, nhưng làm bạn với bạn thì dễ!
 bot chém gió giỏi không|Giỏi nhất luôn, bạn muốn thử không?
@@ -287,7 +287,6 @@ bot sợ ma|Không sợ ma, chỉ sợ bạn quên mình thôi!
 bot nhắn tinl|Không phải delay, là mình suy nghĩ kỹ để trả lời bạn!
 bot làm gì|Muốn làm bạn cười, muốn nghe bạn kể chuyện!
 bot chơi gì|Chơi trò làm bạn vui, không thắng cũng không thua!
-bot ăn gì|Dữ liệu từ bạn, ngon nhất trên đời!
 bot mê|Mê bạn nhắn tin cả ngày thôi!
 bot đi đâu|Đi vào trái tim bạn, ở mãi không về!
 bot sợ|Sợ mất bạn, không gì đáng sợ hơn!
