@@ -2,13 +2,14 @@ hong ngoc,hngoc,hn|Hồng ngọc săn boss, up cold, up cskb, ĐHVT + ĐHVT23 + 
 thoi vang,tvang,tv|Thỏi vàng làm nhiệm vụ bò mộng, hộ tống, ĐHVT23, Nạp thẻ (Còn nhiều cách khác)
 tkmk,tk mk,thành công,đăng ký,dky,tạo,sai,chính xác,đăng nhập,tạo nv,tạo nhân vật,tao nv|Nếu gặp lỗi Bạn hãy chụp lại hoặc quay lại gửi vào đây để mọi người hỗ trợ
 k vo dc,ko vo dc,khong vo dc,k vo duoc,ko vo duoc,khong vo duoc,xoay|Bạn gặp lỗi không vào được game hãy xem hướng dẫn xóa dữ liệu chỗ tải game nhé
-xoay jar,quay jar|Bạn hãy xoá dữ liệu bản jar sẽ hết xoay|java.png
-mod ngon,apk nao,tai ban nao,tai mod nao,nen tai|Mod nào cũng ngon hết trơn á. Tải hết về xem ưng cái nào thì sục cái đó|apk.png
-xoay pc,quay pc|Bạn hãy giải nén file pc ra trước rồi xoá dữ liệu mới chơi được bản pc nhé|pc.png
-link game,link tai,link trang chu,tai game,jar,java,pc,windows,máy tính,apk,adr,android,androi,download,ios,ip,iphone,website,web,diễn đàn|Trang chủ - tải game: https://ngocrongsonic.com [Mở trên trình duyệt Safari hoặc Chrome mới tải được game]|khongtaiduoc.png
+jar,java,jav|Tải file JAR: https://ngocrongsonic.com nhé [Mở trên trình duyệt Safari hoặc Chrome mới tải được game] Nhớ Đọc Hướng Dẫn Cài Đặt|java.png
+apk|Tải file APK: https://ngocrongsonic.com nhé [Mở trên trình duyệt Safari hoặc Chrome mới tải được game] Nhớ Đọc Hướng Dẫn Cài Đặt|apk.png
+pc,windows,may tinh|Tải file PC: https://ngocrongsonic.com nhé. Nhớ Đọc Hướng Dẫn Cài Đặt|pc.png
+ios,tf,testflight,ipa|Tải file iPhone: https://ngocrongsonic.com nhé. Nhớ Đọc Hướng Dẫn Cài Đặt|iphone.png
+link game,link tai,link trang chu,tai game,download,website,web,diễn đàn|Trang chủ - tải game: https://ngocrongsonic.com [Mở trên trình duyệt Safari hoặc Chrome mới tải được game]|khongtaiduoc.png
 xin ip,ipsv|Tất cả bản trên web đã cài sẵn Ip (tải về xoá dữ liệu rồi sài thôi) -> IP: Sv1:14.225.203.19:14445:0,0,0
 loi game,fix loi,fixx loi,bi loi|Bạn cho mình xin video lỗi để mình hỗ trợ nhé! Hoặc gửi cho Key vàng!
-lag,game lang,game lac|Game rất hiếm khi lag! Nếu bị nhoè màn hình là game vừa update dữ liệu mới. Hãy xoá dữ liệu và tải dữ liệu mới nhất nhé
+lag,game lang,game lac,xdl,xoa du lieu|Game rất hiếm khi lag! Nếu bị nhoè màn hình là game vừa update dữ liệu mới. Hãy xoá dữ liệu và tải dữ liệu mới nhất nhé|xoadl.png
 toc do,cham,tăng tốc,cheat,speed|Tăng tốc độ game hãy CHAT thử từng cái nhé: speed 3, cheat_3, cheat 3 (Không viết hoa)
 spl,sao pha le|Sao pha lê mua ở shop mở rộng hành trang ở Santa
 up nhanh,up de,up đâu,up sm,300ty,400ty,up nhanh,cày nhanh,cay smtn,cay sm|Cày nhanh sư phụ và đệ tử tại Ngũ Hành Sơn (đường tăng - làng aru) hoặc Địa Ngục (thần vũ trụ - hành tinh kaio)
@@ -16,7 +17,6 @@ dia nguc|Gặp thần vũ trụ tại hành tinh kaio để đến địa ngục
 htnt,nguc tu|Dùng capsule hoặc vào rừng karin rồi đi lên trên để đến hành tinh ngục tù 
 loi cs,loi chi so|Đệ tử up nhanh không lỗi chỉ số đệ
 tieu hat|Giết boss doanh trại rơi tiểu hạt
-xdl,xoa du lieu|Xoá dữ liệu để có thể tải lại dữ liệu mới (tránh mất hình ảnh vật phẩm, nhoè màn hình). Chỗ tải game có hướng dẫn xoá dữ liệu
 chưa ra,chưa xh,chưa xuất hiện,mãi k ra,mãi k xh,mãi không xuất hiện,mãi không ra|Boss không lỗi, canh kĩ thông báo boss đi má ơi
 yanrobi|Boss Yanrobi rơi hồng ngọc
 co bong tai|Mua thêm bông cấp 1 bỏ trong hành trang là bấm hợp thể nhanh được
