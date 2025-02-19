@@ -1,1 +1,1 @@
-alo,hello,chao|xin chào mình là Bot|sonic\logo.png
+alo,hello,chao|xin chào mình là Bot|logo.png
