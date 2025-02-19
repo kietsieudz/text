@@ -55,7 +55,7 @@ fan cung,fanpage,fancung,fc|Code khác bạn xem các bài viết ở Fanpage (N
 giftcode,code|Code khác bạn xem các bài viết ở Fanpage (Nhớ Follow, comment và nhắn tin để lấy cốt fan cứng: https://www.facebook.com/ngocrongonlinevip|codetanthu.png
 gas|Đi doanh trại kiếm Bản đồ kho báu (bình gas) rồi vào Khí gas ở làng aru
 skill mới,skill đặc biệt,super kame,super kamejoko,ma phong ba,liên hoàn chưởng,biến hình,skill9,skill 9|Học skill đặc biệt ở quy lão đảo kame. cày hoặc nạp đều học được, đi doanh trại sẽ rơi bí kíp học skill
-so luon,thua luon,thua|Thua luôn|thualuon.png
+so luon,thua|Thua luôn|thualuon.png
 cày chay|Mèo méo meo mèo meo...mlem..mlem
 cay|Cay thì mua sữa về uống|hehe.png
 tb boss,báo boss,bao boss|Chat 'sb' để bật thông báo boss nha
