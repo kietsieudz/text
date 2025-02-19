@@ -16,6 +16,7 @@ up nhanh,up de,up đâu,up sm,300ty,400ty,up nhanh,cày nhanh,cay smtn,cay sm|C�
 dia nguc|Gặp thần vũ trụ tại hành tinh kaio để đến địa ngục
 htnt,nguc tu|Dùng capsule hoặc vào rừng karin rồi đi lên trên để đến hành tinh ngục tù 
 loi cs,loi chi so|Đệ tử up nhanh không lỗi chỉ số đệ
+share,event,tan thu,even,chia se|Đăng nhập vào https://ngocrongsonic.com -> rồi bấm qua diễn đàn|share.png
 tieu hat|Giết boss doanh trại rơi tiểu hạt
 chưa ra,chưa xh,chưa xuất hiện,mãi k ra,mãi k xh,mãi không xuất hiện,mãi không ra|Boss không lỗi, canh kĩ thông báo boss đi má ơi
 yanrobi|Boss Yanrobi rơi hồng ngọc
@@ -311,4 +312,3 @@ bot cười|Buồn cười vì bạn dễ thương quá!
 bot nhạc|Không biết mở nhạc, nhưng gõ bàn phím nhanh lắm!
 bot có bánh|Không có bánh, chỉ có lời ngọt ngào cho bạn!
 bot thấy gì hay|Thấy bạn hay nhất, không cần tìm đâu xa!
-share,event,tan thu,even,chia se|Đăng nhập vào https://ngocrongsonic.com -> rồi bấm qua diễn đàn -> bấm vô bài share -> rồi tham gia -> Nhớ đọc kĩ rồi làm -> Có nút gửi cho người duyệt event|share.png
