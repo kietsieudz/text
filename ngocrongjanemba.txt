@@ -21,7 +21,7 @@ tieu hat|Giết boss doanh trại rơi tiểu hạt
 chưa ra,chưa xh,chưa xuất hiện,mãi k ra,mãi k xh,mãi không xuất hiện,mãi không ra|Boss không lỗi, canh kĩ thông báo boss đi má ơi
 yanrobi|Boss Yanrobi rơi hồng ngọc
 co bong tai|Mua thêm bông cấp 1 bỏ trong hành trang là bấm hợp thể nhanh được
-bot ăn|Ăn cái con bulon
+bot ăn|Ăn mì gói|anmi.png
 bot nin,bot im,im mom,im di,nin mom,cam mom|Ông im mồm đi, để tôi súp bót cho các bạn|immom.png
 ngai di|Có việc gì quan trọng thì in bóc cho Ngài Di. Hướng dẫn chơi game thì nhắn ở đây tôi chỉ cho
 mon leo|Mồn má mày chứ mồn|leuleu.png
