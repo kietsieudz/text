@@ -39,7 +39,7 @@ cang nhi,cang qua|Căng củ cọt :))
 vudang,vu dang|Mod Vũ Đăng thì chat 'menu' để mở full lệnh
 tai k dc,tai ko dc,tai khong dc,tai k duoc,tai ko duoc,tai khong duoc,tai khong dc|Bạn vui lòng copy link https://ngocrongsonic.com ra Chrome hoặc Safari để tải game nhé
 dep ac,bao dep,dep qua|Đẹp như gái đồng trinh|hehe.png
-buon qua,buon ac|Buồn cái bướm|buonmuonkhoc.png
+buon qua,buon ac,buon vc|Buồn cái bướm|buonmuonkhoc.png
 chiu r|Nói thế chịu rồi biết sao giờ :!
 bao lau|Nhanh lắm anh à. Nhấp cái là ra rồi mà|nungac.png
 dm|Đm|dm.png
