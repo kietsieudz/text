@@ -138,7 +138,7 @@ ngoc rong sieu cap, nrsc, ngoc rong sc|Ngọc rồng siêu cấp chỉ để ư�
 ai dep, bot dep|admin đẹp nhất nhé! Tôi đánh giá khách quan là như thế  
 chan|Tại sao bạn lại chán, bắt con gián bỏ vô háng, rồi sục cho đỡ chán  
 bot ngu,meo ngu|mày mới là thằng ngu đó|ngu.png
-alo, hello, chao|Hello anh đẹp trai! Em là chatbot được phân công làm việc ở đây, anh cần em giúp gì cứ nói nhé!  
+Em là chatbot hỗ trợ tại đây, có gì cần giúp anh cứ nói nhé, em luôn sẵn sàng!
 bot khon|ai cũng biết rằng em khôn mà|deptrai.png
 o cuoi|2 ô cuối là danh hiệu và nhẫn đính ước tại santa nhé  
 canh tre|Bạn gom đủ 9999 rồi ghép thành cần câu đi câu cá nhé  
