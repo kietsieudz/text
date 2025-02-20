@@ -14,7 +14,7 @@ lag,game lang,game lac,xdl,xoa du lieu|Game rất hiếm khi lag! Nếu bị nho
 toc do,cham,tang toc,cheat,speed|Tăng tốc độ game hãy CHAT thử từng cái nhé: speed 3, cheat_3, cheat 3 (Không viết hoa)  
 spl,sao pha le|Sao pha lê mua ở shop mở rộng hành trang ở Santa  
 up nhanh,up de,up dt,up dau,up sm,300ty,400ty,cay nhanh,cay smtn,cay sm|Cày nhanh sư phụ và đệ tử tại Ngũ Hành Sơn (đường tăng - làng aru) hoặc Địa Ngục (thần vũ trụ - hành tinh kaio)  
-dia nguc|Gặp thần vũ trụ tại hành tinh kaio để đến địa ngục  
+dia nguc|Gặp thần vũ trụ tại hành tinh kaio để đến địa ngục
 htnt,nguc tu|Dùng capsule hoặc vào rừng karin rồi đi lên trên để đến hành tinh ngục tù  
 loi cs,loi chi so|Đệ tử up nhanh không lỗi chỉ số đệ  
 share,event,tan thu,even,chia se|Đăng nhập vào https://janemba.online -> rồi bấm qua diễn đàn|share.png  
