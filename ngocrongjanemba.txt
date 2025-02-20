@@ -95,7 +95,6 @@ the luc|Mua bùa dẻo dai vào là khỏi lo hết thể lực nhé
 vamchar|Làng vamchar bạn tới làng morri để vào nhé
 lang la|Từ đảo hoa chạy sang trái là đến làng lá
 lay capsule,nhan capsule|Về nhà nhận capsule
-capsule,omega|Nạp mỗi 20k sẽ được tặng 1 viên capsule quà tặng nhé (100k = 5 viên, nạp nhiều máy tự tặng đủ capsule) (Tỷ lệ cao ra đệ Omega +100% chỉ số hợp thể). nạp tự động tại https://janemba.online
 cuồng nộ siêu cấp,cuồng nộ c2,cuồng nộ 2,cuồng nộ,item,cnsc,máy dò,cskb,kì bí,cn,bh,bổ huyết,bổ khí,bk|Item thường và siêu cấp mở từ capsule kì bí
 xu ngu,dong xu|Up quái ngũ hành sơn rơi đồng xu rồi qua tương lai lấy đồng xu đổi máy dò capsule kì bí
 trùng sinh|Trùng sinh cần canh mạnh bà, tăng thêm 5% chỉ số gốc
@@ -165,11 +164,11 @@ kí gửi,ký gửi|Kí gửi mua bán bằng hồng ngọc nhé. Không phải 
 trái thần long,mảnh đất,cây cuốc,khu đất,nông trại|Bạn mua đất + cây cuốc rồi săn boss đủ 30 điểm sẽ trồng được cây thần long, thu hoạch trái thần long ăn vào tăng chỉ số ( đặc biệt không bị ảnh hưởng với sức mạnh chí tôn )
 cảm ơn bot,ok bot|Dạ không có gì đâu anh yêu! Nhiệm vụ của em mà|deptrai.png
 scam,lua dao,ld,uy tin,ut|Hệ thống key bạc và key vàng trong box không bao giờ chủ động nhắn tin cho người chơi (dấu hiệu nhận biết giả danh: mượn tiền, mượn acc, xin này xin nọ,..) Vui lòng check kĩ thông tin trước khi làm bất cứ điều gì. DẠO NÀY RẤT NHIỀU THÀNH PHẦN TẠO ZALO GIỐNG TÊN RỒI LỪA ĐẢO NÊN NGƯỜI CHƠI TỰ BẢO VỆ TÀI SẢN CỦA BẢN THÂN
-đệ thường|Bật thông báo boss lên rồi săn Super Broly sẽ có đệ tử thường
-trứng bư,đệ bư|Bật thông báo boss lên rồi săn mabư thường sẽ rơi trứng mabư +30%
-gohan|Lúc 12h và 19h gặp ô sin ở Đại hội võ thuật để săn đệ Gohan bư +50%
-itachi|Đệ itachi mua ở santa
-detu,de tu,gohan,itachi,mabu,ma bư,trứng bư,de bu|ĐỆ THƯỜNG 0% -> săn Super Broly, MABƯ 30% -> săn Mabư, GOHAN BƯ 50% -> săn bư 12h và 19h ở ĐHVT, ITACHI 70% -> mua ở santa, OMEGA -> 100% SỰ KIỆN TẾT.
+detu,de tu|Mabư +30% (săn Mabư), Gohan Bư +50% (săn ở Osin ĐHVT), Itachi +70% (mua ở Santa), OMEGA +100% (Capsule tết)
+gohan|Đệ tử Gohan Bư săn ở Osin Đại Hội Võ Thuật lúc 12h00 và 19h00
+mabu,ma bu,trung bu,de bu|Đệ tử Mabư săn ở Bư Béo tại Đảo Kame, bật thông báo boss lên là thấy
+itachi|Đệ tử itachi thì cày hồng ngọc rồi mua ở Santa
+capsule,omega|Nạp mỗi 20k sẽ được tặng 1 viên capsule quà tặng (100k = 5 viên, nạp nhiều máy tự tặng đủ capsule) (Tỷ lệ cao ra đệ Omega +100% chỉ số hợp thể)
 Vòng quay thượng đế|Vòng quay thượng đế quay tốn hồng ngọc (chưa thêm vật phẩm đặc biệt) 
 mới chơi|Bạn mới chơi thì năng nổ giao tiếp với mọi người trong box nè, nhất là giao tiếp với tôi nhé! 
 khắc ấn vô song|Khắc ấn sẽ không mất bông tai vô song nhé
