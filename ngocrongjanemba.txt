@@ -20,6 +20,7 @@ htnt,nguc tu|Dùng capsule hoặc vào rừng karin rồi đi lên trên để �
 loi cs,loi chi so|Đệ tử up nhanh không lỗi chỉ số đệ  
 share,event,tan thu,even,chia se|Đăng nhập vào https://janemba.online -> rồi bấm qua diễn đàn|share.png  
 tieu hat|Giết boss doanh trại rơi tiểu hạt  
+nan vc,nan qua,nan ghe,nan luon|Đã ai làm gì mà nản|buonmuonkhoc.png
 chua ra,chua xh,chua xuat hien,mai k ra,mai k xh,mai khong xuat hien,mai khong ra|Boss không lỗi, canh kĩ thông báo boss đi má ơi  
 yanrobi|Boss Yanrobi rơi hồng ngọc  
 co bong tai|Mua thêm bông cấp 1 bỏ trong hành trang là bấm hợp thể nhanh được  
