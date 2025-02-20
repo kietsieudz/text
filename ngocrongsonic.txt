@@ -132,7 +132,7 @@ zeno|Về nhà nạp đầu đi là có cải trang zeno, mặc cải trang zeno
 da quy, gas|đá quý săn tiểu đội đường tăng hoặc đi khí gas ở làng aru nhé (cần bản đồ rơi trong doanh trại)  
 dbv, da bao ve|đá bảo vệ bạn đi doanh trại rơi đầy hoặc mua 3000 Đá bảo vệ giá rẻ ở santa  
 khuyen mai, km nap, x nap, x2 nap, x3 nap, x5 nap, x10 nap|Game khuyến mãi nạp tối đa 30% chứ không có quá nhé (Game khác nạp vàng nên mới có x2,x3. Còn server này nạp Coin nên không có x nạp nha - x nạp server này là nát game. Tránh lạm phát nên sẽ không có x nạp). Mọi người thông đít giúp Bot nha  
-nap, donate|Nạp Tự Động -> Tại https://ngocrongsonic.com nhé. Xong vô santa đổi qua hồng ngọc hoặc thỏi vàng (coi mốc nạp ở santa lun nha)  
+nap, donate|Nạp Tự Động -> Tại https://ngocrongsonic.com nhé. Xong vô santa đổi qua hồng ngọc hoặc thỏi vàng (coi mốc nạp ở santa lun nha)|nap.png
 ngoc rong sieu cap, nrsc, ngoc rong sc|Ngọc rồng siêu cấp chỉ để ước (không ép được) (ước được gì thì ước đi rồi biết chứ tôi biết đâu)  
 ai dep, bot dep|admin đẹp nhất nhé! Tôi đánh giá khách quan là như thế  
 chan|Tại sao bạn lại chán, bắt con gián bỏ vô háng, rồi sục cho đỡ chán  
