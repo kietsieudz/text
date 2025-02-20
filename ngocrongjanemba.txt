@@ -137,7 +137,7 @@ nap, donate|Nạp Tự Động -> Tại https://janemba.online nhé. Xong vô sa
 ngoc rong sieu cap, nrsc, ngoc rong sc|Ngọc rồng siêu cấp chỉ để ước (không ép được) (ước được gì thì ước đi rồi biết chứ tôi biết đâu)  
 ai dep, bot dep|admin đẹp nhất nhé! Tôi đánh giá khách quan là như thế  
 chan|Tại sao bạn lại chán, bắt con gián bỏ vô háng, rồi sục cho đỡ chán|leuleu.png
-bot ngu|mày mới là thằng ngu đó|ngu.png
+bot ngu,meo ngu|mày mới là thằng ngu đó|ngu.png
 alo, hello, chao|Hello anh đẹp trai! Em là chatbot được phân công làm việc ở đây, anh cần em giúp gì cứ nói nhé!  
 bot khon|ai cũng biết rằng tôi khôn mà|deptrai.png
 o cuoi|2 ô cuối là danh hiệu và nhẫn đính ước tại santa nhé  
