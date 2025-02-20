@@ -82,7 +82,7 @@ ts,tàn sát,đánh quái,auto đánh|Chat 'ts' để auto tàn sát quái nhé
 1tr duoc bn,1tr duoc bao nhieu,1tr dc bn,1tr dc bao nhieu|Nạp 1tr được 2tr hồng ngọc nhé thưa anh!
 ty le nap,ti le nap|Tỷ lệ nạp 10k = 20k hồng ngọc, 40k = 10k thỏi vàng (chi tiết ở Santa)
 thần tiên|Cần phiếu giảm giá để mua set thần tiên
-skill đệ,đổi skill,msk,kaioken,kok,đổi chiêu,đổi skill1,đổi skill2,đổi skill3,đổi skill4,đổi skill5|Gọi rồng thần đổi skill 2-3-4 đệ tử
+doi skill,msk,kaioken,kok,đổi chiêu,doi skill1,doi skill2,doi skill3,doi skill4,doi skill5|Gọi rồng thần đổi skill 2-3-4 đệ tử
 1tab,2tab,3tab,4tab,5tab,tab|Giới hạn địa chỉ IP là 4 Tab online cùng lúc nhé
 kiem vang,nhan vang,lay vang,ban tv,ban thoi vang,ban tvang|Vàng nhận miễn phí không giới hạn ở nhà
 dau than,bu beo|Đậu thần Mabư săn ở mabu 21h ở đại hội võ thuật
@@ -94,8 +94,7 @@ dung dau|Mua bùa cho đệ tử là nó tự nhai đậu rồi khỏi auto
 the luc|Mua bùa dẻo dai vào là khỏi lo hết thể lực nhé
 vamchar|Làng vamchar bạn tới làng morri để vào nhé
 lang la|Từ đảo hoa chạy sang trái là đến làng lá
-lay capsule,nhan capsule|Về nhà nhận capsule
-capsule,omega|Nạp mỗi 20k sẽ được tặng 1 viên capsule quà tặng nhé (100k = 5 viên, nạp nhiều máy tự tặng đủ capsule) (Tỷ lệ cao ra đệ Omega +100% chỉ số hợp thể). nạp tự động tại https://ngocrongsonic.com
+lay capsule,nhan capsule|Về nhà nhận capsul
 cuồng nộ siêu cấp,cuồng nộ c2,cuồng nộ 2,cuồng nộ,item,cnsc,máy dò,cskb,kì bí,cn,bh,bổ huyết,bổ khí,bk|Item thường và siêu cấp mở từ capsule kì bí
 xu ngu,dong xu|Up quái ngũ hành sơn rơi đồng xu rồi qua tương lai lấy đồng xu đổi máy dò capsule kì bí
 trùng sinh|Trùng sinh cần canh mạnh bà, tăng thêm 5% chỉ số gốc
@@ -160,16 +159,15 @@ thông đít|thông đít mày|nungac.png
 bot nói nhiều|nói nhiều sao bằng mày được hả nhóc 
 mệt|làm gì mà mệt hả? Đi bar quẩy đi|uongruou.png
 tiền chưa vào|nạp tiền chưa cộng thì chờ 3-5phut chưa cộng thì liên hệ key vàng 
-Skill đệ tử|Đệ tử có 6 chiêu ước rồng thường đổi được skill 2-3-4, rồng từ các event đổi skill 1-5 nhé quý zị 
 kí gửi,ký gửi|Kí gửi mua bán bằng hồng ngọc nhé. Không phải thỏi vàng đâu
 trái thần long,mảnh đất,cây cuốc,khu đất,nông trại|Bạn mua đất + cây cuốc rồi săn boss đủ 30 điểm sẽ trồng được cây thần long, thu hoạch trái thần long ăn vào tăng chỉ số ( đặc biệt không bị ảnh hưởng với sức mạnh chí tôn )
 cảm ơn bot,ok bot|Dạ không có gì đâu anh yêu! Nhiệm vụ của em mà|deptrai.png
 scam,lua dao,ld,uy tin,ut|Hệ thống key bạc và key vàng trong box không bao giờ chủ động nhắn tin cho người chơi (dấu hiệu nhận biết giả danh: mượn tiền, mượn acc, xin này xin nọ,..) Vui lòng check kĩ thông tin trước khi làm bất cứ điều gì. DẠO NÀY RẤT NHIỀU THÀNH PHẦN TẠO ZALO GIỐNG TÊN RỒI LỪA ĐẢO NÊN NGƯỜI CHƠI TỰ BẢO VỆ TÀI SẢN CỦA BẢN THÂN
-đệ thường|Bật thông báo boss lên rồi săn Super Broly sẽ có đệ tử thường
-trứng bư,đệ bư|Bật thông báo boss lên rồi săn mabư thường sẽ rơi trứng mabư +30%
-gohan|Lúc 12h và 19h gặp ô sin ở Đại hội võ thuật để săn đệ Gohan bư +50%
-itachi|Đệ itachi mua ở santa
-detu,de tu,gohan,itachi,mabu,ma bư,trứng bư,de bu|ĐỆ THƯỜNG 0% -> săn Super Broly, MABƯ 30% -> săn Mabư, GOHAN BƯ 50% -> săn bư 12h và 19h ở ĐHVT, ITACHI 70% -> mua ở santa, OMEGA -> 100% SỰ KIỆN TẾT.
+detu,de tu|Mabư +30% (săn Mabư), Gohan Bư +50% (săn ở Osin ĐHVT), Itachi +70% (mua ở Santa), OMEGA +100% (Capsule tết)
+gohan|Đệ tử Gohan Bư săn ở Osin Đại Hội Võ Thuật lúc 12h00 và 19h00
+mabu,ma bu,trung bu,de bu|Đệ tử Mabư săn ở Bư Béo tại Đảo Kame, bật thông báo boss lên là thấy
+itachi|Đệ tử itachi thì cày hồng ngọc rồi mua ở Santa
+capsule,omega|Nạp mỗi 20k sẽ được tặng 1 viên capsule quà tặng (100k = 5 viên, nạp nhiều máy tự tặng đủ capsule) (Tỷ lệ cao ra đệ Omega +100% chỉ số hợp thể)
 Vòng quay thượng đế|Vòng quay thượng đế quay tốn hồng ngọc (chưa thêm vật phẩm đặc biệt) 
 mới chơi|Bạn mới chơi thì năng nổ giao tiếp với mọi người trong box nè, nhất là giao tiếp với tôi nhé! 
 khắc ấn vô song|Khắc ấn sẽ không mất bông tai vô song nhé
