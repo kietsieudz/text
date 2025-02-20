@@ -151,14 +151,14 @@ bot gian|Tôi không biết giận đâu, ai chửi thì tôi chửi lại
 gui video, quay video|Bạn quay video đi, rồi gửi vô đây mọi người hướng dẫn  
 bot oi|Có tôi đây! bạn muốn hỏi gì? nhớ ghi đúng chính tả tôi mới hiểu nhé  
 ngu hanh son, nhs|ra làng aru gặp Đường tăng để vào Ngũ Hành Sơn  
-dit|địt cái đầu mày chứ địt  
-thong dit|thông đít mày  
+dit|địt cái đầu mày chứ địt|nungac.png
+thong dit|thông đít mày|nungac.png
 bot noi nhieu|nói nhiều sao bằng mày được hả nhóc  
 met|làm gì mà mệt hả? Đi bar quẩy đi|uongruou.png
 tien chua vao|nạp tiền chưa cộng thì chờ 3-5 phút chưa cộng thì liên hệ key vàng  
 ki gui, ky gui|Kí gửi mua bán bằng hồng ngọc nhé. Không phải thỏi vàng đâu  
 trai than long, manh dat, cay cuoc, khu dat, nong trai|Bạn mua đất + cây cuốc rồi săn boss đủ 30 điểm sẽ trồng được cây thần long, thu hoạch trái thần long ăn vào tăng chỉ số (đặc biệt không bị ảnh hưởng với sức mạnh chí tôn)  
-cam on bot, ok bot|Dạ không có gì đâu anh yêu! Nhiệm vụ của em mà  
+cam on bot, ok bot|Dạ không có gì đâu anh yêu! Nhiệm vụ của em mà|deptrai.png
 scam, lua dao, ld, uy tin, ut|Hệ thống key bạc và key vàng trong box không bao giờ chủ động nhắn tin cho người chơi (dấu hiệu nhận biết giả danh: mượn tiền, mượn acc, xin này xin nọ,..) Vui lòng check kĩ thông tin trước khi làm bất cứ điều gì. DẠO NÀY RẤT NHIỀU THÀNH PHẦN TẠO ZALO GIỐNG TÊN RỒI LỪA ĐẢO NÊN NGƯỜI CHƠI TỰ BẢO VỆ TÀI SẢN CỦA BẢN THÂN  
 detu, de tu|Mabư +30% (săn Mabư), Gohan Bư +50% (săn ở Osin ĐHVT), Itachi +70% (mua ở Santa), OMEGA +100% (Capsule tết)  
 gohan|Đệ tử Gohan Bư săn ở Osin Đại Hội Võ Thuật lúc 12h00 và 19h00  
