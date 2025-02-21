@@ -59,7 +59,7 @@ giftcode,code|Code khác bạn xem các bài viết ở Fanpage (Nhớ Follow, c
 skill moi,skill dac biet,super kame,super kamejoko,ma phong ba,lien hoan chuong,bien hinh,skill9,skill 9|Học skill đặc biệt ở quy lão đảo kame. cày hoặc nạp đều học được, đi doanh trại sẽ rơi bí kíp học skill  
 so luon,thua|Thua luôn|thualuon.png  
 cay chay|Mèo méo meo mèo meo...mlem..mlem  
-cay|Cay thì mua sữa về uống|hehe.png  
+cay vl, cay vc,cay qua|Cay thì mua sữa về uống|hehe.png  
 tb boss,bao boss|Chat 'sb' để bật thông báo boss nha  
 ts,tan sat,danh quai,auto danh|Chat 'ts' để auto tàn sát quái nhé  
 10k duoc bn,10k duoc bao nhieu,10k dc bn,10k dc bao nhieu|Nạp 10k được 20k hồng ngọc nhé thưa anh!
