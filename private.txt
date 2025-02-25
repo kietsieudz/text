@@ -11,7 +11,7 @@ up nhanh,up de,up dt,up dau,up sm,300ty,400ty,cay nhanh,cay smtn,cay sm|Cày nha
 dia nguc|Gặp thần vũ trụ tại hành tinh kaio để đến địa ngục 
 htnt,nguc tu|Dùng capsule hoặc vào rừng karin rồi đi lên trên để đến hành tinh ngục tù  
 loi cs,loi chi so|Đệ tử up nhanh không lỗi chỉ số đệ  
-loi nap,ko thay coin,k thay coin,khong thay coin,mai k vao,mai ko vao,mai khong vao,tien k vao,tien ko vao,tien khong vao,k cong tien,ko cong tien, khong cong tien|Bạn chuyển khoản đầy đủ nội dung web đưa ra xong thì chờ 1-2p rồi thoát game vào lại sẽ thấy coin ở santa. mãi không vào thì hãy inbox admin. Zalo admin có ghi ở Santa nhé
+loi nap,tien k vo,tien ko vo,tien khong vo,ko thay coin,k thay coin,khong thay coin,mai k vao,mai ko vao,mai khong vao,mai k vo,mai ko vo,mai khong vo,tien k vao,tien ko vao,tien khong vao,k cong tien,ko cong tien, khong cong tien|Bạn chuyển khoản đầy đủ nội dung web đưa ra xong thì chờ 1-2p rồi thoát game vào lại sẽ thấy coin ở santa. mãi không vào thì hãy inbox admin. Zalo admin có ghi ở Santa nhé
 tai game,link game,xin link|Bạn tải game và tham gia các cộng đồng tại trang chủ game nhé
 share,event,tan thu,even,chia se|Đăng nhập vào trang chủ rồi bấm qua diễn đàn nhé|share.png  
 tieu hat|Giết boss doanh trại rơi tiểu hạt
