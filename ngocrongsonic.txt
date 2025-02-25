@@ -10,7 +10,7 @@ apk|Tải file APK: https://ngocrongsonic.com nhé [Mở trên trình duyệt Sa
 pc,windows,may tinh|Tải file PC: https://ngocrongsonic.com nhé. Nhớ Đọc Hướng Dẫn Cài Đặt|pc.png  
 ios,tf,testflight,ipa|Tải file iPhone: https://ngocrongsonic.com nhé. Nhớ Đọc Hướng Dẫn Cài Đặt|iphone.png  
 xin ip,ipsv|Tất cả bản trên web đã cài sẵn Ip (tải về xoá dữ liệu rồi sài thôi) -> IP: Sv1:14.225.203.19:14445:0,0,0  
-loi game,fix loi,fixx loi,bi loi|Bạn cho mình xin video lỗi để mình hỗ trợ nhé! Hoặc gửi cho Key vàng!  
+loi game,fix loi,fixx loi,bi loi|Bạn cho mình xin video lỗi để mình hỗ trợ nhé! Hoặc gửi cho Key vàng!
 lag,game lang,game lac,xdl,xoa du lieu|Game rất hiếm khi lag! Nếu bị nhoè màn hình là game vừa update dữ liệu mới. Hãy xoá dữ liệu và tải dữ liệu mới nhất nhé|xoadl.png  
 toc do,cham,tang toc,cheat,speed|Tăng tốc độ game hãy CHAT thử từng cái nhé: speed 3, cheat_3, cheat 3 (Không viết hoa)  
 spl,sao pha le|Sao pha lê mua ở shop mở rộng hành trang ở Santa  
@@ -33,8 +33,8 @@ tieng gi,ngon ngu,chu gi,toan tieng tau,tieng anh|Về nhà chọn ô cuối đ�
 su kien,sk|Sự kiện trong game được thông báo tại: https://www.facebook.com/ngaidinro và https://ngocrongsonic.com  
 gioi han,gh dame,gh st|Boss nhiệm vụ sẽ giới hạn để người chơi sau dễ làm nhiệm vụ. Boss không phải nhiệm vụ sẽ không giới hạn nhé  
 kem vc,kem sang,kem qua|kém sang quá :))|leuleu.png  
-cho xin,cho tui|Có ai có không cho bạn với kìa :3  
-qua dao|Quả đào vào ngũ hành sơn gặp đường tăng mà coi  
+cho xin,cho tui|Có ai có không cho bạn với kìa :3|bu.png
+qua dao|Quả đào vào ngũ hành sơn gặp đường tăng mà coi
 auto msk,auto kaioken,auto kok,auto masenko,autu msk,autu kok,autu kaioken,auto masenko|Do bạn đen thôi. Đệ ra ngẫu nhiên skill, gọi rồng 1 sao để đổi skill đệ tử  
 dhvt23,dai hoi vo thuat 23|Đi đại hội võ thuật 23 nhận được hồng ngọc với thỏi vàng đó nha  
 ai lay,cho xin,cho tui|Cho em xin|choem.png  
