@@ -11,6 +11,7 @@ up nhanh,up de,up dt,up dau,up sm,300ty,400ty,cay nhanh,cay smtn,cay sm|Cày nha
 dia nguc|Gặp thần vũ trụ tại hành tinh kaio để đến địa ngục 
 htnt,nguc tu|Dùng capsule hoặc vào rừng karin rồi đi lên trên để đến hành tinh ngục tù  
 loi cs,loi chi so|Đệ tử up nhanh không lỗi chỉ số đệ  
+tai game,link game,xin link|Bạn tải game và tham gia các cộng đồng tại trang chủ game nhé
 share,event,tan thu,even,chia se|Đăng nhập vào trang chủ rồi bấm qua diễn đàn nhé|share.png  
 tieu hat|Giết boss doanh trại rơi tiểu hạt
 nan vc,nan qua,nan ghe,nan luon|Đã ai làm gì mà nản|buonmuonkhoc.png
