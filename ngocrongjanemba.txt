@@ -41,7 +41,7 @@ ai lay,cho xin,cho tui|Cho em xin|choem.png
 cang nhi,cang qua|Căng củ cọt :))|meohutthuoc.png
 vudang,vu dang|Mod Vũ Đăng thì chat 'menu' để mở full lệnh  
 tai k dc,tai ko dc,tai khong dc,tai k duoc,tai ko duoc,tai khong duoc|Bạn vui lòng copy link https://janemba.online ra Chrome hoặc Safari để tải game nhé  
-dep ac,bao dep,dep qua|Đẹp như gái đồng trinh|hehe.png  
+dep ac,bao dep,dep qua|Đẹp như gái đồng trinh|gaixinh.png  
 buon qua,buon ac,buon vc|Buồn cái bướm|buonmuonkhoc.png  
 chiu r,chiu luon,chiu roi|Nói thế chịu rồi biết sao giờ :!  
 lau vc|Nhanh lắm anh à. Nhấp cái là ra rồi mà|nungac.png  
