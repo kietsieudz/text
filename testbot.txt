@@ -47,7 +47,7 @@ lau vc|Nhanh lắm anh à. Nhấp cái là ra rồi mà|nungac.png
 dm|Đm|dm.png  
 bot rep chuan|Tôi lúc nào nói chuyện mà chả chuẩn! Nói chuyện phải vuông góc  
 vps|Anh em mua VPS ở đây nè! Hàng chính hãng ngon lành - Không như bọn clone ra đi bán dạo đâu nha: https://portal.vietnix.vn/aff.php?aff=3515  
-nung ac|Nứng ác luôn|nungac.png  
+nung ac|Nứng ác luôn|nungac.jar 
 vip|Víp vãi lồn luôn ạ|chaymui.png  
 bot a,bot ha|Um bot nè. hỏi gì cứ hỏi đi súp bót tận giường luôn|nungac.png  
 sdg,max cs,max sd,max hp|Max 40k và 780k Mở giới hạn ở vách núi morri  
