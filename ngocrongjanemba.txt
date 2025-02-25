@@ -38,7 +38,7 @@ qua dao|Quả đào vào ngũ hành sơn gặp đường tăng mà coi
 auto msk,auto kaioken,auto kok,auto masenko,autu msk,autu kok,autu kaioken,auto masenko|Do bạn đen thôi. Đệ ra ngẫu nhiên skill, gọi rồng 1 sao để đổi skill đệ tử  
 dhvt23,dai hoi vo thuat 23|Đi đại hội võ thuật 23 nhận được hồng ngọc với thỏi vàng đó nha  
 ai lay,cho xin,cho tui|Cho em xin|choem.png  
-cang nhi,cang qua|Căng củ cọt :))  
+cang nhi,cang qua|Căng củ cọt :))|meohutthuoc.png
 vudang,vu dang|Mod Vũ Đăng thì chat 'menu' để mở full lệnh  
 tai k dc,tai ko dc,tai khong dc,tai k duoc,tai ko duoc,tai khong duoc|Bạn vui lòng copy link https://janemba.online ra Chrome hoặc Safari để tải game nhé  
 dep ac,bao dep,dep qua|Đẹp như gái đồng trinh|hehe.png  
