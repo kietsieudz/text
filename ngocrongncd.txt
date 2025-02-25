@@ -1,64 +1,54 @@
 hong ngoc,hngoc,hn|Hồng ngọc săn boss, up cold, up cskb, ĐHVT + ĐHVT23 + Siêu Hạng, Nạp thẻ (Còn nhiều cách khác)  
-thoi vang,tvang,tv|Thỏi vàng làm nhiệm vụ bò mộng, hộ tống, ĐHVT23, Nạp thẻ (Còn nhiều cách khác)  
-groupname|Groups Sonic  
-dam dang|Dâm đãng quá đi à|chaymui.png
-tkmk,tk mk,thanh cong,dang ky,dky,tao,sai,chinh xac,dang nhap,tao nv,tao nhan vat|Nếu gặp lỗi Bạn hãy chụp lại hoặc quay lại gửi vào đây để mọi người hỗ trợ  
+thoi vang,tvang,tv|Thỏi vàng làm nhiệm vụ bò mộng, hộ tống, ĐHVT23, Nạp thẻ (Còn nhiều cách khác)    
+dam dang|Dâm đãng quá đi à
+tkmk,tk mk,thanh cong,dang ky,dky,tao,sai,chinh xac,dang nhap,tao nv,tao nhan vat|Nếu gặp lỗi Bạn hãy chụp lại hoặc quay lại gửi vào đây để mọi người hỗ trợ or gửi cho key vàng
 k vo dc,ko vo dc,khong vo dc,k vo duoc,ko vo duoc,khong vo duoc,xoay|Bạn gặp lỗi không vào được game hãy xem hướng dẫn xóa dữ liệu chỗ tải game nhé  
-link game,link tai,link trang chu,tai game,download,website,web,dien dan|Trang chủ - tải game: https://ngocrongsonic.com [Mở trên trình duyệt Safari hoặc Chrome mới tải được game]|khongtaiduoc.png  
-jar,java,jav|Tải file JAR: https://ngocrongsonic.com nhé [Mở trên trình duyệt Safari hoặc Chrome mới tải được game] Nhớ Đọc Hướng Dẫn Cài Đặt|java.png  
-apk|Tải file APK: https://ngocrongsonic.com nhé [Mở trên trình duyệt Safari hoặc Chrome mới tải được game] Nhớ Đọc Hướng Dẫn Cài Đặt|apk.png  
-pc,windows,may tinh|Tải file PC: https://ngocrongsonic.com nhé. Nhớ Đọc Hướng Dẫn Cài Đặt|pc.png  
-ios,tf,testflight,ipa|Tải file iPhone: https://ngocrongsonic.com nhé. Nhớ Đọc Hướng Dẫn Cài Đặt|iphone.png  
-xin ip,ipsv|Tất cả bản trên web đã cài sẵn Ip (tải về xoá dữ liệu rồi sài thôi) -> IP: Sv1:14.225.203.19:14445:0,0,0  
+link game,link tai,link trang chu,tai game,download,website,web,dien dan|Trang chủ - tải game: https://ngocrongncd.online  [Mở trên trình duyệt Safari hoặc Chrome mới tải được game]
+jar,java,jav|Tải file JAR: ngocrongncd.online nhé [Mở trên trình duyệt Safari hoặc Chrome mới tải được game] 
+apk|Tải file APK: https://ngocrongncd.online  nhé [Mở trên trình duyệt Safari hoặc Chrome mới tải được game] 
+pc,windows,may tinh|Tải file PC: https://ngocrongncd.online  nhé. Nhớ Đọc Hướng Dẫn Cài Đặt
+ios,tf,testflight,ipa|Tải file iPhone: https://ngocrongncd.online  nhé. Nhớ Đọc Hướng Dẫn Cài Đặt
+xin ip,ipsv|Tất cả bản trên web đã cài sẵn Ip (tải về xoá dữ liệu rồi sài thôi) -> IP: NgocRongNCD:14.225.204.21:14445:0,0,0  
 loi game,fix loi,fixx loi,bi loi|Bạn cho mình xin video lỗi để mình hỗ trợ nhé! Hoặc gửi cho Key vàng!  
-lag,game lang,game lac,xdl,xoa du lieu|Game rất hiếm khi lag! Nếu bị nhoè màn hình là game vừa update dữ liệu mới. Hãy xoá dữ liệu và tải dữ liệu mới nhất nhé|xoadl.png  
-toc do,cham,tang toc,cheat,speed|Tăng tốc độ game hãy CHAT thử từng cái nhé: speed 3, cheat_3, cheat 3 (Không viết hoa)  
-spl,sao pha le|Sao pha lê mua ở shop mở rộng hành trang ở Santa  
+lag,game lang,game lac,xdl,xoa du lieu|Game rất hiếm khi lag! Nếu bị nhoè màn hình là game vừa update dữ liệu mới. Hãy xoá dữ liệu và tải dữ liệu mới nhất nhé 
+toc do,cham,tang toc,cheat,speed|Tăng tốc độ game hãy CHAT thử từng cái nhé: speed 3, cheat_3, cheat 3 (Không viết hoa)    
 up nhanh,up de,up dt,up dau,up sm,300ty,400ty,cay nhanh,cay smtn,cay sm|Cày nhanh sư phụ và đệ tử tại Ngũ Hành Sơn (đường tăng - làng aru) hoặc Địa Ngục (thần vũ trụ - hành tinh kaio)  
 dia nguc|Gặp thần vũ trụ tại hành tinh kaio để đến địa ngục  
 htnt,nguc tu|Dùng capsule hoặc vào rừng karin rồi đi lên trên để đến hành tinh ngục tù  
 loi cs,loi chi so|Đệ tử up nhanh không lỗi chỉ số đệ  
-share,event,tan thu,even,chia se|Đăng nhập vào https://ngocrongsonic.com -> rồi bấm qua diễn đàn|share.png  
+share,event,tan thu,even,chia se|Đăng nhập vào https://ngocrongncd.online -> rồi bấm qua diễn đàn
 tieu hat|Giết boss doanh trại rơi tiểu hạt  
 chua ra,chua xh,chua xuat hien,mai k ra,mai k xh,mai khong xuat hien,mai khong ra|Boss không lỗi, canh kĩ thông báo boss đi má ơi  
 yanrobi|Boss Yanrobi rơi hồng ngọc  
 co bong tai|Mua thêm bông cấp 1 bỏ trong hành trang là bấm hợp thể nhanh được  
-bot an|Ăn mì gói|anmi.png  
-bot nin,bot im,im mom,im di,nin mom,cam mom|Ông im mồm đi, để tôi súp bót cho các bạn|immom.png  
-ngai di|Có việc gì quan trọng thì in bóc cho Ngài Di. Hướng dẫn chơi game thì nhắn ở đây tôi chỉ cho  
-mon leo|Mồn má mày chứ mồn|leuleu.png  
-menu|Chat 'menu' để mở menu
-tieng gi,ngon ngu,chu gi,toan tieng tau,tieng anh|Về nhà chọn ô cuối để đổi ngôn ngữ sang tiếng việt  
-su kien,sk|Sự kiện trong game được thông báo tại: https://www.facebook.com/ngaidinro và https://ngocrongsonic.com  
+menu|Chat 'menu' để mở menu  
 gioi han,gh dame,gh st|Boss nhiệm vụ sẽ giới hạn để người chơi sau dễ làm nhiệm vụ. Boss không phải nhiệm vụ sẽ không giới hạn nhé  
-kem vc,kem sang,kem qua|kém sang quá :))|leuleu.png  
+kem vc,kem sang,kem qua|kém sang quá :))
 cho xin,cho tui|Có ai có không cho bạn với kìa :3  
 qua dao|Quả đào vào ngũ hành sơn gặp đường tăng mà coi  
 auto msk,auto kaioken,auto kok,auto masenko,autu msk,autu kok,autu kaioken,auto masenko|Do bạn đen thôi. Đệ ra ngẫu nhiên skill, gọi rồng 1 sao để đổi skill đệ tử  
 dhvt23,dai hoi vo thuat 23|Đi đại hội võ thuật 23 nhận được hồng ngọc với thỏi vàng đó nha  
-ai lay,cho xin,cho tui|Cho em xin|choem.png  
+ai lay,cho xin,cho tui|Cho em xin 
 cang nhi,cang qua|Căng củ cọt :))  
 vudang,vu dang|Mod Vũ Đăng thì chat 'menu' để mở full lệnh  
-tai k dc,tai ko dc,tai khong dc,tai k duoc,tai ko duoc,tai khong duoc|Bạn vui lòng copy link https://ngocrongsonic.com ra Chrome hoặc Safari để tải game nhé  
-dep ac,bao dep,dep qua|Đẹp như gái đồng trinh|hehe.png  
-buon qua,buon ac,buon vc|Buồn cái bướm|buonmuonkhoc.png  
+tai k dc,tai ko dc,tai khong dc,tai k duoc,tai ko duoc,tai khong duoc|Bạn vui lòng copy link https://ngocrongncd.online  ra Chrome hoặc Safari để tải game nhé  
+dep ac,bao dep,dep qua|Đẹp như gái 18
+buon qua,buon ac,buon vc|Buồn cái bướm 
 chiu r,chiu luon,chiu roi|Nói thế chịu rồi biết sao giờ :!  
-lau vc|Nhanh lắm anh à. Nhấp cái là ra rồi mà|nungac.png  
-dm|Đm|dm.png  
+lau vc|Nhanh lắm anh à. Nhấp cái là ra rồi mà 
+dm|Đm
 bot rep chuan|Tôi lúc nào nói chuyện mà chả chuẩn! Nói chuyện phải vuông góc  
 vps|Anh em mua VPS ở đây nè! Hàng chính hãng ngon lành - Không như bọn clone ra đi bán dạo đâu nha: https://portal.vietnix.vn/aff.php?aff=3515  
-nung ac|Nứng ác luôn|nungac.png  
-vip|Víp vãi lồn luôn ạ|chaymui.png  
-bot a,bot ha|Um bot nè. hỏi gì cứ hỏi đi súp bót tận giường luôn|nungac.png  
+nung ac|Nứng dị nè
+vip|Víp thế à 
+bot a,bot ha|Um bot nè. hỏi gì cứ hỏi đi súp bót tận nhà 
 sdg,max cs,max sd,max hp|Max 40k và 780k Mở giới hạn ở vách núi morri  
 vung dat|Vùng đất huỷ diệt bạn lên hành tinh Bill là qua được  
-dc dau,duoc dau,co dc dau|Xin lỗi mình chỉ là BotChat. Nếu mình không giúp được bạn. Hãy hãy quay hoặc chụp lại rồi gửi cho Key vàng nhé|leuleu.png  
-fan cung,fanpage,fancung,fc|Code khác bạn xem các bài viết ở Fanpage (Nhớ Follow, comment và nhắn tin để lấy cốt fan cứng: https://www.facebook.com/ngaidinro |fancung.png  
-giftcode,code|Code khác bạn xem các bài viết ở Fanpage (Nhớ Follow, comment và nhắn tin để lấy cốt fan cứng: https://www.facebook.com/ngaidinro|codetanthu.png  
-skill moi,skill dac biet,super kame,super kamejoko,ma phong ba,lien hoan chuong,bien hinh,skill9,skill 9|Học skill đặc biệt ở quy lão đảo kame. cày hoặc nạp đều học được, đi doanh trại sẽ rơi bí kíp học skill  
-so luon,thua|Thua luôn|thualuon.png  
-cay chay|Mèo méo meo mèo meo...mlem..mlem  
-cay|Cay thì mua sữa về uống|hehe.png  
+dc dau,duoc dau,co dc dau|Xin lỗi mình chỉ là BotChat. Nếu mình không giúp được bạn. Hãy hãy quay hoặc chụp lại rồi gửi cho Key vàng nhé 
+giftcode,code| ncd01,ncd02,ncd03,ncd04,ncd05 
+so luon,thua|Thua luôn 
+cay chay|thì cày đi  
+cay|Cay thì mua sữa về uống 
 tb boss,bao boss|Chat 'sb' để bật thông báo boss nha  
 ts,tan sat,danh quai,auto danh|Chat 'ts' để auto tàn sát quái nhé  
 10k duoc bn,10k duoc bao nhieu,10k dc bn,10k dc bao nhieu|Nạp 10k được 20k hồng ngọc nhé thưa anh!
@@ -106,11 +96,11 @@ cau ca|Câu cá thì mua cần câu rồi bấm sử dụng là được (1 lầ
 tieu doi sat thu,tdst,boss so,so 4,tdst|Tiểu đội sát thủ - Núi khỉ đen, Hang khỉ đen, Núi khỉ đỏ - 10 phút - giờ hỗ trợ: 9-12h và 21-24h  
 fide,fd,fire|Fide - 10 phút - giờ hỗ trợ: 9-12h và 21-24h  
 android19,adr19,android20,kore,apk19,apk20,android 19,androi19,robot sat thu|Android19-20 - 15 phút - giờ hỗ trợ: 9-12h và 21-24h  
-pic,poc,kingkong,ppkk|Pic-Poc-Kingkong - 15 phút - Thành phố phía bắc - giờ hỗ trợ: 9-12h và 21-24h - sát thương tối đa: 100.000.000 (có thể bỏ qua nhiệm vụ ở nhà)  
-thi tran,ginder,xen bo hung,xbh|Xên bọ hung - 15 phút - Thị trấn Ginder - giờ hỗ trợ: 9-12h và 21-24h - sát thương tối đa: 400.000.000 (có thể bỏ qua nhiệm vụ ở nhà)  
-xen vo dai,cell vo dai,sieu bo hung,vo dai|Siêu Bọ Hung - 15 phút - Võ Đài Xên Bọ Hung - giờ hỗ trợ: 9-12h và 21-24h - sát thương tối đa: 500.000.000 (có thể bỏ qua nhiệm vụ ở nhà)  
-doremon,doraemon,nobita,shizuka,chaien,xeko|Boss Tiểu đội doraemon (20 phút) (có thể bỏ qua nhiệm vụ ở nhà)  
-ruong chi ton,ruong thien ton|Rương chí tôn mua ở santa mở ra 1 set 5 món tự chọn loại nhé  
+pic,poc,kingkong,ppkk|Pic-Poc-Kingkong - 15 phút - Thành phố phía bắc - giờ hỗ trợ: 9-12h và 21-24h - sát thương tối đa: 100.000.000  
+thi tran,ginder,xen bo hung,xbh|Xên bọ hung - 15 phút - Thị trấn Ginder - giờ hỗ trợ: 9-12h và 21-24h - sát thương tối đa: 400.000.000  
+xen vo dai,cell vo dai,sieu bo hung,vo dai|Siêu Bọ Hung - 15 phút - Võ Đài Xên Bọ Hung - giờ hỗ trợ: 9-12h và 21-24h - sát thương tối đa: 500.000.000 
+doremon,doraemon,nobita,shizuka,chaien,xeko|Boss Tiểu đội doraemon (20 phút)   
+ruong tướng,|Rương tướng mua ở santa mở ra 1 set 5 món tự chọn loại nhé  
 nut di chuyen|Nút di chuyển bạn bấm vào nút tam giác bên tay trái rồi vào phần Chức Năng, chọn Cấu Hình, rồi chọn Bàn Phím Ảo nhé  
 hon thien ton,hon chi ton|Dùng cuồng nộ siêu cấp đánh quái cold sẽ rơi hồn thiên tôn, nâng ở Hạt mít đảo kame hoặc mua Rương thiên tôn (chí tôn) ở Santa (được chọn set)  
 ha ton|hồn hạ tôn, Cách kiếm: bạn dùng cuồng nộ thường và đánh quái cold sẽ rơi, Cách dùng: bạn xem ở Bà Hạt Mít  
@@ -127,12 +117,11 @@ kuku, map dau dinh, rambo|KuKu, Mập đầu đinh, Rambo -> 5 Phút -> Tìm nha
 skh, set kich hoat, set kh|Đồ kích hoạt đánh quái 3 map cạnh làng sẽ rơi  
 manh an|Mẩnh ấn tiêu diệt boss ở Hành tinh ngục tù sẽ rơi  
 may sao, level|Trang bị thường 10 sao và trang bị vip 12 sao, trang bị thường 9 cấp và trang bị vip 10 cấp (cày có hết)  
-vo pt, xin pt, xin bang, vo clan, xin clan, co pt, co bang, co clan|Ai đó cho bạn gia nhập bang hội đi kìa  
-zeno|Về nhà nạp đầu đi là có cải trang zeno, mặc cải trang zeno đánh quái ở fide sẽ rơi đá, rồi vô nhà nâng cấp  
+vo pt, xin pt, xin bang, vo clan, xin clan, co pt, co bang, co clan|Ai đó cho bạn gia nhập bang hội đi kìa    
 da quy, gas|đá quý săn tiểu đội đường tăng hoặc đi khí gas ở làng aru nhé (cần bản đồ rơi trong doanh trại)  
 dbv, da bao ve|đá bảo vệ bạn đi doanh trại rơi đầy hoặc mua 3000 Đá bảo vệ giá rẻ ở santa  
 khuyen mai, km nap, x nap, x2 nap, x3 nap, x5 nap, x10 nap|Game khuyến mãi nạp tối đa 30% chứ không có quá nhé (Game khác nạp vàng nên mới có x2,x3. Còn server này nạp Coin nên không có x nạp nha - x nạp server này là nát game. Tránh lạm phát nên sẽ không có x nạp). Mọi người thông đít giúp Bot nha  
-nap, donate|Nạp Tự Động -> Tại https://ngocrongsonic.com nhé. Xong vô santa đổi qua hồng ngọc hoặc thỏi vàng (coi mốc nạp ở santa lun nha)  
+nap, donate|Nạp Tự Động -> Tại ngocrongncd.online nhé. Xong vô santa đổi qua hồng ngọc hoặc thỏi vàng (coi mốc nạp ở santa lun nha)  
 ngoc rong sieu cap, nrsc, ngoc rong sc|Ngọc rồng siêu cấp chỉ để ước (không ép được) (ước được gì thì ước đi rồi biết chứ tôi biết đâu)  
 ai dep, bot dep|admin đẹp nhất nhé! Tôi đánh giá khách quan là như thế  
 chan|Tại sao bạn lại chán, bắt con gián bỏ vô háng, rồi sục cho đỡ chán  
@@ -160,11 +149,10 @@ ki gui, ky gui|Kí gửi mua bán bằng hồng ngọc nhé. Không phải thỏ
 trai than long, manh dat, cay cuoc, khu dat, nong trai|Bạn mua đất + cây cuốc rồi săn boss đủ 30 điểm sẽ trồng được cây thần long, thu hoạch trái thần long ăn vào tăng chỉ số (đặc biệt không bị ảnh hưởng với sức mạnh chí tôn)  
 cam on bot, ok bot|Dạ không có gì đâu anh yêu! Nhiệm vụ của em mà  
 scam, lua dao, ld, uy tin, ut|Hệ thống key bạc và key vàng trong box không bao giờ chủ động nhắn tin cho người chơi (dấu hiệu nhận biết giả danh: mượn tiền, mượn acc, xin này xin nọ,..) Vui lòng check kĩ thông tin trước khi làm bất cứ điều gì. DẠO NÀY RẤT NHIỀU THÀNH PHẦN TẠO ZALO GIỐNG TÊN RỒI LỪA ĐẢO NÊN NGƯỜI CHƠI TỰ BẢO VỆ TÀI SẢN CỦA BẢN THÂN  
-detu, de tu|Mabư +30% (săn Mabư), Gohan Bư +50% (săn ở Osin ĐHVT), Itachi +70% (mua ở Santa), OMEGA +100% (Capsule tết)  
+detu, de tu|Mabư +30% (săn Mabư), Gohan Bư +50% (săn ở Osin ĐHVT), Itachi +70% (mua ở Santa) 
 gohan|Đệ tử Gohan Bư săn ở Osin Đại Hội Võ Thuật lúc 12h00 và 19h00  
 mabu, ma bu, trung bu, de bu|Đệ tử Mabư săn ở Bư Béo tại Đảo Kame, bật thông báo boss lên là thấy  
-itachi|Đệ tử Itachi thì cày hồng ngọc rồi mua ở Santa  
-capsule, omega|Nạp mỗi 20k sẽ được tặng 1 viên capsule quà tặng (100k = 5 viên, nạp nhiều máy tự tặng đủ capsule) (Tỷ lệ cao ra đệ Omega +100% chỉ số hợp thể)  
+itachi|Đệ tử Itachi thì cày hồng ngọc rồi mua ở Santa    
 vong quay thuong de|Vòng quay thượng đế quay tốn hồng ngọc (chưa thêm vật phẩm đặc biệt)  
 moi choi|Bạn mới chơi thì năng nổ giao tiếp với mọi người trong box nè, nhất là giao tiếp với tôi nhé!  
 khac an vo song|Khắc ấn sẽ không mất bông tai vô song nhé  
@@ -176,7 +164,7 @@ dep dau, dep cc|Tôi thấy đẹp mà
 ngoc hoa|Ngọc hóa kiếm ở boss Cooler, max 7 level nhé  
 ho tong|Gặp Đường Tăng làng Aru để tham gia hộ tống. Đánh quái Ngũ Hành Sơn thu thập đồng xu nhé  
 bo qua nv|Bạn bỏ qua nhiệm vụ tân thủ ở nhà và bỏ qua nv chính tuyến ở Nhà đó, bỏ 1 lần hẳn 1 level không phải nhiệm vụ nhỏ  
-cot|Cốt Chí Tôn rơi từ các sự kiện và chức năng khác nhau. Ép vào trang bị sẽ tăng chỉ số trang bị cực mạnh, nếu mặc đủ 3 món sẽ tăng thêm 5%, 4 món 10%, 5 món 15%. Những ai đứng gần sẽ bị giảm sát thương đi 50% mỗi 30 giây. Nhai trái thần long để không bị giảm khi đứng gần Chí Tôn nhé  
+cot|Cốt  rơi từ các sự kiện và chức năng khác nhau. Ép vào trang bị sẽ tăng chỉ số trang bị cực mạnh, nếu mặc đủ 3 món sẽ tăng thêm 5%, 4 món 10%, 5 món 15%. Những ai đứng gần sẽ bị giảm sát thương đi 50% mỗi 30 giây. Nhai trái thần long để không bị giảm khi đứng gần Chí Tôn nhé  
 set gi|Set love nhé (setlove cùng mình nè)  
 phao tre trau|Sử dụng pháo trẻ trâu sẽ nổ banh lon cả khu nhé  
 ngoc boi, eyes, dns, susano, mangekyo, sharingan, hao quang cam, da ngu sac|Bạn mua ngọc bội ở Santa, sau đó mang bội lên người rồi train quái ở Làng Lá (đường vào ở Quy Lão - đến đảo - chạy qua trái sẽ đến Làng Lá). Bạn train sẽ rơi mảnh mắt. Thu thập đủ mảnh mắt thì nâng bội lên Susano (eyes chính thức), mới nâng thì eyes sẽ 1% 3 loại chỉ số. Up càng nhiều nâng càng nhiều chỉ số Susano sẽ tăng lên. Hãy nâng Susano lên 50% 55% 55% rồi mới đi đục lỗ ép sao nhé  
