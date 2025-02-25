@@ -5,7 +5,7 @@ dam dang|Dâm đãng quá đi à|chaymui.png
 tkmk,tk mk,thanh cong,dang ky,dky,tao,sai,chinh xac,dang nhap,tao nv,tao nhan vat|Nếu gặp lỗi Bạn hãy chụp lại hoặc quay lại gửi vào đây để mọi người hỗ trợ  
 k vo dc,ko vo dc,khong vo dc,k vo duoc,ko vo duoc,khong vo duoc,xoay|Bạn gặp lỗi không vào được game hãy xem hướng dẫn xóa dữ liệu chỗ tải game nhé  
 link game,link tai,link trang chu,tai game,download,website,web,dien dan|Trang chủ - tải game: https://ngocrongsonic.com [Mở trên trình duyệt Safari hoặc Chrome mới tải được game]|khongtaiduoc.png  
-jar,java,jav|Tải file JAR: https://ngocrongsonic.com nhé [Mở trên trình duyệt Safari hoặc Chrome mới tải được game] Nhớ Đọc Hướng Dẫn Cài Đặt|java.png  
+jar,java,jav|Tải file JAR: https://ngocrongsonic.com nhé [Mở trên trình duyệt Safari hoặc Chrome mới tải được game] Nhớ Đọc Hướng Dẫn Cài Đặt|hello.jar
 apk|Tải file APK: https://ngocrongsonic.com nhé [Mở trên trình duyệt Safari hoặc Chrome mới tải được game] Nhớ Đọc Hướng Dẫn Cài Đặt|apk.png  
 pc,windows,may tinh|Tải file PC: https://ngocrongsonic.com nhé. Nhớ Đọc Hướng Dẫn Cài Đặt|pc.png  
 ios,tf,testflight,ipa|Tải file iPhone: https://ngocrongsonic.com nhé. Nhớ Đọc Hướng Dẫn Cài Đặt|iphone.png  
