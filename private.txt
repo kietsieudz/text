@@ -1,7 +1,7 @@
 hong ngoc,hngoc,hn|Hồng ngọc săn boss, up cold, up cskb, ĐHVT + ĐHVT23 + Siêu Hạng, Nạp thẻ (Còn nhiều cách khác)  
 thoi vang,tvang,tv|Thỏi vàng làm nhiệm vụ bò mộng, hộ tống, ĐHVT23, Nạp thẻ (Còn nhiều cách khác)  
 dam dang|Dâm đãng quá đi à|chaymui.png
-xinfile|ok|hello.jar
+xinfile|ok|hello.png
 hi,alo,chao,hello,helo,ad,admin|Xin chào bạn! Mình là bot hỗ trợ các thắc mắc, bạn cần gì hãy vào trang chủ để tham gia vào các cộng đồng để được hỗ trợ nhanh nhất nhé!
 loi game,fix loi,fixx loi,bi loi,tkmk,tk mk,thanh cong,dang ky,dky,tao,sai,chinh xac,dang nhap,tao nv,tao nhan vat|Nếu gặp lỗi Bạn hãy chụp lại hoặc quay lại gửi cho key vàng nhé
 k vo dc,ko vo dc,khong vo dc,k vo duoc,ko vo duoc,khong vo duoc,xoay|Bạn gặp lỗi không vào được game hãy xem hướng dẫn xóa dữ liệu chỗ tải game nhé   
