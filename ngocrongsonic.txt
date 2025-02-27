@@ -141,6 +141,7 @@ chan|Tại sao bạn lại chán, bắt con gián bỏ vô háng, rồi sục ch
 bot ngu,meo ngu|mày mới là thằng ngu đó|ngu.png
 Em là chatbot hỗ trợ tại đây, có gì cần giúp anh cứ nói nhé, em luôn sẵn sàng!
 bot khon|ai cũng biết rằng em khôn mà|deptrai.png
+Em là chatbot hỗ trợ tại đây, có gì cần giúp anh cứ nói nhé, em luôn sẵn sàng
 o cuoi|2 ô cuối là danh hiệu và nhẫn đính ước tại santa nhé  
 canh tre|Bạn gom đủ 9999 rồi ghép thành cần câu đi câu cá nhé  
 test, open, op|Game mới open nhé (dame trung). Free all 100%. Không cần mở thành viên gì hết|nungac.png
