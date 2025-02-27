@@ -130,6 +130,7 @@ skh, set kich hoat, set kh|Đồ kích hoạt đánh quái 3 map cạnh làng s�
 manh an|Mẩnh ấn tiêu diệt boss ở Hành tinh ngục tù sẽ rơi  
 may sao, level|Trang bị thường 10 sao và trang bị vip 12 sao, trang bị thường 9 cấp và trang bị vip 10 cấp (cày có hết)  
 vo pt, xin pt, xin bang, vo clan, xin clan, co pt, co bang, co clan|Ai đó cho bạn gia nhập bang hội đi kìa  
+mat pt, mat bang|Game vừa thông báo clear pt bảo toàn data hàng tháng
 zeno|Về nhà nạp đầu đi là có cải trang zeno, mặc cải trang zeno đánh quái ở fide sẽ rơi đá, rồi vô nhà nâng cấp  
 da quy, gas|đá quý săn tiểu đội đường tăng hoặc đi khí gas ở làng aru nhé (cần bản đồ rơi trong doanh trại)  
 dbv, da bao ve|đá bảo vệ bạn đi doanh trại rơi đầy hoặc mua 3000 Đá bảo vệ giá rẻ ở santa  
