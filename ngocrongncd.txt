@@ -130,7 +130,7 @@ alo, hello, chao|Hello anh đẹp trai! Em là chatbot được phân công làm
 bot khon|ai cũng biết rằng tôi khôn mà  
 o cuoi|2 ô cuối là danh hiệu và nhẫn đính ước tại santa nhé  
 canh tre|Bạn gom đủ 9999 rồi ghép thành cần câu đi câu cá nhé  
-test, open, op|Game mới mở test nhé (dame trung). Free all 100%. Không cần mở thành viên gì hết  
+test, open, op|Game mới open nhé (dame trung). Free all 100%. Không cần mở thành viên gì hết  
 mtv, mo tv, mo thanh vien, kich hoat tai khoan|Game không cần MTV. Cày 40 tỷ là gd được hết  
 chuc nang|Cần hỏi chức năng gì thì cứ nói đi  
 huy diet|Để 5 món thần linh trong hành trang rồi gặp Thần huỷ diệt để đổi đồ Huỷ diệt nhé  
