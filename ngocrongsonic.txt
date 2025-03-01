@@ -5,7 +5,7 @@ game rac,game sap,lua ga,sap sap, sap sup,game r a c,suc sinh,pr ban,bon rac,bon
 co che|Cơ chế game đây https://kietsieudz.github.io/ThanhDi.github.io/cochegame.html
 suu tam|Thẻ nào đánh quái đó là rơi nhé, nghe ad đồn full 1 con cần 270 thẻ thì phải
 dam dang|Dâm đãng quá đi à|chaymui.png
-meo|Meo..mew
+meo,bot sua|Meo..mew
 tkmk,tk mk,thanh cong,dang ky,dky,tao,sai,chinh xac,dang nhap,tao nv,tao nhan vat|Nếu gặp lỗi Bạn hãy chụp lại hoặc quay lại gửi vào đây để mọi người hỗ trợ  
 k vo dc,ko vo dc,khong vo dc,k vo duoc,ko vo duoc,khong vo duoc,xoay|Bạn gặp lỗi không vào được game hãy xem hướng dẫn xóa dữ liệu chỗ tải game nhé  
 link game,link tai,link trang chu,tai game,download,website,web,dien dan|Trang chủ - tải game: https://ngocrongsonic.com [Mở trên trình duyệt Safari hoặc Chrome mới tải được game]|khongtaiduoc.png  
