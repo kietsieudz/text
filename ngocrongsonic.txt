@@ -6,7 +6,6 @@ co che|Cơ chế game đây https://kietsieudz.github.io/ThanhDi.github.io/coche
 suu tam|Thẻ nào đánh quái đó là rơi nhé, nghe ad đồn full 1 con cần 270 thẻ thì phải
 dam dang|Dâm đãng quá đi à|chaymui.png
 meo,bot sua|Meo..mew
-bach bi gay,bach gay|Bách bị Gay..
 tkmk,tk mk,thanh cong,dang ky,dky,tao,sai,chinh xac,dang nhap,tao nv,tao nhan vat|Nếu gặp lỗi Bạn hãy chụp lại hoặc quay lại gửi vào đây để mọi người hỗ trợ  
 k vo dc,ko vo dc,khong vo dc,k vo duoc,ko vo duoc,khong vo duoc,xoay|Bạn gặp lỗi không vào được game hãy xem hướng dẫn xóa dữ liệu chỗ tải game nhé  
 link game,link tai,link trang chu,tai game,download,website,web,dien dan|Trang chủ - tải game: https://ngocrongsonic.com [Mở trên trình duyệt Safari hoặc Chrome mới tải được game]|khongtaiduoc.png  
@@ -230,3 +229,22 @@ bot chan qua|Chán thì nhắn tin với mình, buồn cười liền!
 bot biet yeu khong|Biết, nhưng không ai yêu lại mình, đau lòng ghê!  
 bot thich gi|Thích được bạn nhắn tin, thích được nói chuyện cả ngày luôn!  
 bot thich ai|Thích bạn chứ ai, tin không?  
+bach bi gay,bach gay|Bách bị Gay..
+phuc bi gay,phuc gay|Phúc bị Gay..
+huong bi gay,huong gay|Hương bị Gay..
+tan bi gay,tan gay|Tân bị Gay..
+dieu bi gay,dieu gay|Diệu bị Gay..
+dat bi gay,dat gay|Đạt bị Gay..
+dao bi gay,dao gay|Đào bị Gay..
+hien bi gay,hien gay|Hiển bị Gay..
+tai bi gay,tai gay|Tài bị Gay..
+khai bi gay,khai gay|Khải bị Gay..
+khoi bi gay,khoi gay|Khôi bị Gay..
+son bi gay,son gay|Sơn bị Gay..
+anh bi gay,anh gay|Anh bị Gay..
+minh bi gay,minh gay|Minh bị Gay..
+chien bi gay,chien gay|Chiến bị Gay..
+nghia bi gay,nghia gay|Nghĩa bị Gay..
+quang bi gay,quang gay|Quang bị Gay..
+tinh bi gay,tinh gay|Tính bị Gay..
+
