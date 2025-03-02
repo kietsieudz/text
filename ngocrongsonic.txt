@@ -245,6 +245,7 @@ son bi gay,son gay|Sơn bị Gay..
 anh bi gay,anh gay|Anh bị Gay..
 minh bi gay,minh gay|Minh bị Gay..
 chien bi gay,chien gay|Chiến bị Gay..
+hieu bi gay,hieu gay|Hiếu bị Gay..
 nghia bi gay,nghia gay|Nghĩa bị Gay..
 quang bi gay,quang gay|Quang bị Gay..
 tinh bi gay,tinh gay|Tính bị Gay..
