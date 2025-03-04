@@ -13,7 +13,6 @@ fan cung,fanpage,fancung,fc|Code khác bạn xem các bài viết ở Fanpage (N
 giftcode,code|Code khác bạn xem các bài viết ở Fanpage (Nhớ Follow, comment và nhắn tin để lấy cốt fan cứng: https://www.facebook.com/ngaidinro|codetanthu.png  
 nap, donate|Nạp Tự Động -> Tại https://ngocrongsonic.com nhé. Xong vô santa đổi qua hồng ngọc hoặc thỏi vàng (coi mốc nạp ở santa lun nha)|nap.png
 winrar|Bạn tải về rồi bấm cài đặt rồi next next là cài được rồi: https://www.win-rar.com/fileadmin/winrar-versions/winrar/winrar-x64-701.exe
-
 hong ngoc,hngoc,hn|Hồng ngọc săn boss, up cold, up cskb, ĐHVT + ĐHVT23 + Siêu Hạng, Nạp thẻ (Còn nhiều cách khác)  
 thoi vang,tvang,tv|Thỏi vàng làm nhiệm vụ bò mộng, hộ tống, ĐHVT23, Nạp thẻ (Còn nhiều cách khác)  
 groupname|Groups Sonic
@@ -21,8 +20,9 @@ up cold|Up cold rơi: hồn hạ tôn, hồn thiên tôn, thức ăn, hồng ng�
 suu tam|Thẻ nào đánh quái đó là rơi nhé, nghe ad đồn full 1 con cần 270 thẻ thì phải
 dam dang|Dâm đãng quá đi à|chaymui.png
 rot cap,xit cap,ha cap,tut cap|Lúc nâng trang bị bà Hạt mít có thông báo rớt hay không, nếu rớt chắc chắn sẽ trừ chỉ số. Để an toàn hãy dùng đá bảo vệ ở Santa bỏ vào nhé
-tkmk,tk mk,thanh cong,dang ky,dky,tao,sai,chinh xac,dang nhap,tao nv,tao nhan vat|Nếu gặp lỗi Bạn hãy chụp lại hoặc quay lại gửi vào đây để mọi người hỗ trợ  
-k vo dc,ko vo dc,khong vo dc,k vo duoc,ko vo duoc,khong vo duoc,xoay|Bạn gặp lỗi không vào được game hãy xem hướng dẫn xóa dữ liệu chỗ tải game nhé  
+tkmk,tk mk,thanh cong,dang ky,dky,tao,sai,chinh xac,dang nhap|Kiểm tra xem đúng server Sonic chưa. Chỗ tải có chỉ cài đặt đúng đó, làm theo là vào được 100%
+chua tao nv,chua tao nhan vat|Mới tạo tài khoản xong thì phải vào game tạo nhân vật rồi mới đăng nhập ở web được nhé
+k vo dc,ko vo dc,khong vo dc,k vo duoc,ko vo duoc,khong vo duoc,xoay|Chỗ tải game có hướng dẫn cài đặt đúng đó ban, hãy xem hướng dẫn đi. Đảm bảo vào game được 100%
 loi game,fix loi,fixx loi,bi loi|Bạn cho mình xin video lỗi để mình hỗ trợ nhé! Hoặc gửi cho Key vàng!
 lag,game lang,game lac,xdl,xoa du lieu|Game rất hiếm khi lag! Nếu bị nhoè màn hình là game vừa update dữ liệu mới. Hãy xoá dữ liệu và tải dữ liệu mới nhất nhé|xoadl.png  
 toc do,cham,tang toc,cheat,speed|Tăng tốc độ game hãy CHAT thử từng cái nhé: speed 3, cheat_3, cheat 3 (Không viết hoa)  
