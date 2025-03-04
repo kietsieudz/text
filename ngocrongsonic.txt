@@ -192,7 +192,7 @@ doi ten|Thẻ đổi tên mua ở Santa, được đổi tên thành có Dấu v
 trung linh thu|Trứng linh thú nở ra linh thú (Online chờ 60 phút là nở)
 manh suu tam|Mảnh sưu tầm quái nào bạn train quái đó là rơi 
 gui bai|Chỗ tham gia event có nút gửi event đó bạn  
-bong tai, porata, btc2, btc3|BÔNG TAI CẤP 2 max 15%, BÔNG TAI CẤP 3 max 25%, BÔNG TAI CẤP 4 (Vô Song) 25% + Thêm Chỉ Số (Chỉ mua ở Santa - Cày hồng ngọc rồi mua), nguyên liệu C2, C3 -> Gặp Quy Lão -> Khu vực bang hội -> Giuma -> Up nguyên liệu bông tai  
+bong tai, porata,mvbt,mhbt, btc2, btc3|BÔNG TAI CẤP 2 max 15%, BÔNG TAI CẤP 3 max 25%, BÔNG TAI CẤP 4 (Vô Song) 25% + Thêm Chỉ Số (Chỉ mua ở Santa - Cày hồng ngọc rồi mua), nguyên liệu C2, C3 -> Gặp Quy Lão -> Khu vực bang hội -> Giuma -> Up nguyên liệu bông tai  
 so chua|Chưa sợ, ngon nhào zô  
 bot var|Ngon vào đây mà var này  
 kho|Khó thì mới là game, game dễ thì tải game con rắn về chơi đi  
