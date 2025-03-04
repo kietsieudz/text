@@ -5,6 +5,8 @@ up cold|Up cold rơi: hồn hạ tôn, hồn thiên tôn, thức ăn, hồng ng�
 co che|Cơ chế game đây https://thanhdi.top/cochegame.html
 suu tam|Thẻ nào đánh quái đó là rơi nhé, nghe ad đồn full 1 con cần 270 thẻ thì phải
 dam dang|Dâm đãng quá đi à|chaymui.png
+fan cung,fanpage,fancung,fc|Code khác bạn xem các bài viết ở Fanpage (Nhớ Follow, comment và nhắn tin để lấy cốt fan cứng: https://www.facebook.com/ngaidinro |fancung.png  
+giftcode,code|Code khác bạn xem các bài viết ở Fanpage (Nhớ Follow, comment và nhắn tin để lấy cốt fan cứng: https://www.facebook.com/ngaidinro|codetanthu.png
 rot cap,xit cap,ha cap,tut cap|Lúc nâng trang bị bà Hạt mít có thông báo rớt hay không, nếu rớt chắc chắn sẽ trừ chỉ số. Để an toàn hãy dùng đá bảo vệ ở Santa bỏ vào nhé
 tkmk,tk mk,thanh cong,dang ky,dky,tao,sai,chinh xac,dang nhap,tao nv,tao nhan vat|Nếu gặp lỗi Bạn hãy chụp lại hoặc quay lại gửi vào đây để mọi người hỗ trợ  
 k vo dc,ko vo dc,khong vo dc,k vo duoc,ko vo duoc,khong vo duoc,xoay|Bạn gặp lỗi không vào được game hãy xem hướng dẫn xóa dữ liệu chỗ tải game nhé  
@@ -32,7 +34,7 @@ bot an|Ăn mì gói|anmi.png
 bot nin,bot im,im mom,im di,nin mom,cam mom|Ông im mồm đi, để tôi súp bót cho các bạn|immom.png  
 ngai di|Có việc gì quan trọng thì in bóc cho Ngài Di. Hướng dẫn chơi game thì nhắn ở đây tôi chỉ cho  
 mon leo|Mồn má mày chứ mồn|leuleu.png  
-menu|Chat 'menu' để mở menu
+menu,mod|Chat 'menu' để mở menu mod
 tieng gi,ngon ngu,chu gi,toan tieng tau,tieng anh|Về nhà chọn ô cuối để đổi ngôn ngữ sang tiếng việt  
 su kien,sk|Sự kiện trong game được thông báo tại: https://www.facebook.com/ngaidinro và https://ngocrongsonic.com  
 gioi han,gh dame,gh st|Boss nhiệm vụ sẽ giới hạn để người chơi sau dễ làm nhiệm vụ. Boss không phải nhiệm vụ sẽ không giới hạn nhé  
@@ -52,13 +54,11 @@ dm|Đm|dm.png
 bot rep chuan|Tôi lúc nào nói chuyện mà chả chuẩn! Nói chuyện phải vuông góc  
 vps|Anh em mua VPS ở đây nè! Hàng chính hãng ngon lành - Không như bọn clone ra đi bán dạo đâu nha: https://portal.vietnix.vn/aff.php?aff=3515  
 nung ac|Nứng ác luôn|nungac.png
-vip|Víp vãi lồn luôn ạ|chaymui.png  
+vip k, vip chua,vip ch,vip ko,vip khong|Víp vãi lồn luôn ạ|chaymui.png  
 bot a,bot ha|Um bot nè. hỏi gì cứ hỏi đi súp bót tận giường luôn|nungac.png  
 sdg,max cs,max sd,max hp|Max 40k và 780k Mở giới hạn ở vách núi morri  
 vung dat|Vùng đất huỷ diệt bạn lên hành tinh Bill là qua được  
 dc dau,duoc dau,co dc dau|Xin lỗi mình chỉ là BotChat. Nếu mình không giúp được bạn. Hãy hãy quay hoặc chụp lại rồi gửi cho Key vàng nhé|leuleu.png  
-fan cung,fanpage,fancung,fc|Code khác bạn xem các bài viết ở Fanpage (Nhớ Follow, comment và nhắn tin để lấy cốt fan cứng: https://www.facebook.com/ngaidinro |fancung.png  
-giftcode,code|Code khác bạn xem các bài viết ở Fanpage (Nhớ Follow, comment và nhắn tin để lấy cốt fan cứng: https://www.facebook.com/ngaidinro|codetanthu.png  
 skill moi,skill dac biet,super kame,super kamejoko,ma phong ba,lien hoan chuong,bien hinh,skill9,skill 9|Học skill đặc biệt ở quy lão đảo kame. cày hoặc nạp đều học được, đi doanh trại sẽ rơi bí kíp học skill  
 so luon,thua|Thua luôn|thualuon.png  
 cay chay|Mèo méo meo mèo meo...mlem..mlem  
@@ -145,7 +145,7 @@ bot ngu,meo ngu|mày mới là thằng ngu đó|ngu.png
 Em là chatbot hỗ trợ tại đây, có gì cần giúp anh cứ nói nhé, em luôn sẵn sàng!
 bot khon|ai cũng biết rằng em khôn mà|deptrai.png
 Em là chatbot hỗ trợ tại đây, có gì cần giúp anh cứ nói nhé, em luôn sẵn sàng
-o cuoi|2 ô cuối là danh hiệu và nhẫn đính ước tại santa nhé  
+o cuoi,o duoi,o nay|2 ô cuối là danh hiệu và nhẫn đính ước tại santa nhé  
 canh tre|Bạn gom đủ 9999 rồi ghép thành cần câu đi câu cá nhé  
 test, open, op|Game mới open nhé (dame trung). Free all 100%. Không cần mở thành viên gì hết|nungac.png
 mtv, mo tv, mo thanh vien, kich hoat tai khoan|Game không cần MTV. Cày 40 tỷ là gd được hết  
