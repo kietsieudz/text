@@ -1,6 +1,7 @@
 hong ngoc,hngoc,hn|Hồng ngọc săn boss, up cold, up cskb, ĐHVT + ĐHVT23 + Siêu Hạng, Nạp thẻ (Còn nhiều cách khác)  
 thoi vang,tvang,tv|Thỏi vàng làm nhiệm vụ bò mộng, hộ tống, ĐHVT23, Nạp thẻ (Còn nhiều cách khác)  
-groupname|Groups Janemba  
+groupname|Groups Janemba 
+up cold|Up cold rơi: hồn hạ tôn, hồn thiên tôn, thức ăn, hồng ngọc, đồ thần linh,..
 thien ton, chi ton|Hồn thiên tôn dùng cuồng nộ siêu cấp và đánh quái cold sẽ rơi rồi ra Bà Hạt Mít nâng cấp hoặc mua Rương chí tôn ở Santa (được chọn set)  
 ha ton|Hồn hạ tôn dùng cuồng nộ thường và đánh quái cold sẽ rơi rồi ra Bà Hạt Mít nâng cấp
 game rac,game sap,lua ga,sap sap, sap sup,game r a c,suc sinh,pr ban,bon rac,bon lon,bon lol,ngheo rach,lu cho,suc vat|Meo..meo..|leuleu.png
