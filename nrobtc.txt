@@ -6,14 +6,14 @@ game rac,game sap,lua ga,sap sap, sap sup,game r a c,suc sinh,pr ban,bon rac,bon
 suu tam|Thẻ nào đánh quái đó là rơi nhé, nghe ad đồn full 1 con cần 270 thẻ thì phải
 dam dang|Dâm đãng quá đi à|chaymui.png
 rot cap,xit cap,ha cap,tut cap|Lúc nâng trang bị bà Hạt mít có thông báo rớt hay không, nếu rớt chắc chắn sẽ trừ chỉ số. Để an toàn hãy dùng đá bảo vệ ở Santa bỏ vào nhé
-alo,xin chao,hello,helo|Chào anh! Em là nhân viên phục vụ tại Gia Đình Sonic!
+alo,xin chao,hello,helo|Chào anh! Em là culi tại NroBtc!
 tkmk,tk mk,thanh cong,dang ky,dky,tao,sai,chinh xac,dang nhap,tao nv,tao nhan vat|Nếu gặp lỗi Bạn hãy chụp lại hoặc quay lại gửi vào đây để mọi người hỗ trợ  
 k vo dc,ko vo dc,khong vo dc,k vo duoc,ko vo duoc,khong vo duoc,xoay|Bạn gặp lỗi không vào được game hãy xem hướng dẫn xóa dữ liệu chỗ tải game nhé  
-link game,link tai,link trang chu,tai game,download,website,web,dien dan|Trang chủ - tải game: https://ngocrongbtc.com [Mở trên trình duyệt Safari hoặc Chrome mới tải được game]|khongtaiduoc.png  
-jar,java,jav|Tải file JAR: https://ngocrongbtc.com nhé [Mở trên trình duyệt Safari hoặc Chrome mới tải được game] Nhớ Đọc Hướng Dẫn Cài Đặt|java.png  
-apk|Tải file APK: https://ngocrongbtc.com nhé [Mở trên trình duyệt Safari hoặc Chrome mới tải được game] Nhớ Đọc Hướng Dẫn Cài Đặt|apk.png  
-pc,windows,may tinh|Tải file PC: https://ngocrongbtc.com nhé. Nhớ Đọc Hướng Dẫn Cài Đặt|pc.png  
-ios,tf,testflight,ipa|Tải file iPhone: https://ngocrongbtc.com nhé. Nhớ Đọc Hướng Dẫn Cài Đặt|iphone.png   
+link game,link tai,link trang chu,tai game,download,website,web,dien dan|Trang chủ - tải game: https://ngocrongbtc.com [Mở trên trình duyệt Safari hoặc Chrome mới tải được game]|download.png  
+jar,java,jav|Tải file JAR: https://ngocrongbtc.com/page?content=java [Mở trên trình duyệt Safari hoặc Chrome mới tải được game] Nhớ Đọc Hướng Dẫn Cài Đặt  
+apk|Tải file APK: https://ngocrongbtc.com/page?content=android [Mở trên trình duyệt Safari hoặc Chrome mới tải được game] Nhớ Đọc Hướng Dẫn Cài Đặt 
+pc,windows,may tinh|Tải file PC: https://ngocrongbtc.com/page?content=pc nhé. Nhớ Đọc Hướng Dẫn Cài Đặt|pc.png  
+ios,tf,testflight,ipa|Tải file iPhone: https://ngocrongbtc.com/page?content=ios nhé. Nhớ Đọc Hướng Dẫn Cài Đặt
 loi game,fix loi,fixx loi,bi loi|Bạn cho mình xin video lỗi để mình hỗ trợ nhé! Hoặc gửi cho Key vàng!  
 lag,game lang,game lac,xdl,xoa du lieu|Game rất hiếm khi lag! Nếu bị nhoè màn hình là game vừa update dữ liệu mới. Hãy xoá dữ liệu và tải dữ liệu mới nhất nhé|xoadl.png  
 toc do,cham,tang toc,cheat,speed|Tăng tốc độ game hãy CHAT thử từng cái nhé: speed 3, cheat_3, cheat 3 (Không viết hoa)  
@@ -22,7 +22,7 @@ up nhanh,up de,up dt,up dau,up sm,300ty,400ty,cay nhanh,cay smtn,cay sm|Cày nha
 dia nguc|Gặp thần vũ trụ tại hành tinh kaio để đến địa ngục
 htnt,nguc tu|Dùng capsule hoặc vào rừng karin rồi đi lên trên để đến hành tinh ngục tù  
 loi cs,loi chi so|Đệ tử up nhanh không lỗi chỉ số đệ  
-share,event,tan thu,even,chia se|Đăng nhập vào https://ngocrongbtc.com -> rồi bấm qua diễn đàn|share.png  
+share,event,tan thu,even,chia se|Đăng nhập vào https://ngocrongbtc.com -> rồi bấm qua diễn đàn
 tieu hat|Giết boss doanh trại rơi tiểu hạt  
 nan vc,nan qua,nan ghe,nan luon|Đã ai làm gì mà nản|buonmuonkhoc.png
 chua ra,chua xh,chua xuat hien,mai k ra,mai k xh,mai khong xuat hien,mai khong ra|Boss không lỗi, canh kĩ thông báo boss đi má ơi  
@@ -34,14 +34,14 @@ ngai di|Có việc gì quan trọng thì in bóc cho Ngài Di. Hướng dẫn ch
 mon leo|Mồn má mày chứ mồn|leuleu.png  
 menu|Chat 'menu' để mở menu
 tieng gi,ngon ngu,chu gi,toan tieng tau,tieng anh|Về nhà chọn ô cuối để đổi ngôn ngữ sang tiếng việt  
-su kien,sk|Sự kiện trong game được thông báo tại: https://www.facebook.com/ngocrongonlinevip và https://ngocrongbtc.com  
+su kien,sk|Sự kiện trong game được thông báo tại: https://www.facebook.com/people/Ngoc-Rong-BTC/61570449455694 và https://ngocrongbtc.com
 gioi han,gh dame,gh st|Boss nhiệm vụ sẽ giới hạn để người chơi sau dễ làm nhiệm vụ. Boss không phải nhiệm vụ sẽ không giới hạn nhé  
 kem vc,kem sang,kem qua|kém sang quá :))|leuleu.png  
 cho xin,cho tui,ai lay,cho tui|Có ai có không cho bạn với kìa :3|bu.png
 qua dao|Quả đào vào ngũ hành sơn gặp đường tăng mà coi  
 auto msk,auto kaioken,auto kok,auto masenko,autu msk,autu kok,autu kaioken,auto masenko|Do bạn đen thôi. Đệ ra ngẫu nhiên skill, gọi rồng 1 sao để đổi skill đệ tử  
 dhvt23,dai hoi vo thuat 23|Đi đại hội võ thuật 23 nhận được hồng ngọc với thỏi vàng đó nha  
-cang nhi,cang qua|Căng củ cọt :))|meohutthuoc.png
+cang nhi,cang qua|Căng thì đi mua xăng:))|cangqua.png
 vudang,vu dang|Mod Vũ Đăng thì chat 'menu' để mở full lệnh  
 tai k dc,tai ko dc,tai khong dc,tai k duoc,tai ko duoc,tai khong duoc|Bạn vui lòng copy link https://ngocrongbtc.com ra Chrome hoặc Safari để tải game nhé  
 dep ac,bao dep,dep qua|Đẹp như gái đồng trinh|gaixinh.png  
