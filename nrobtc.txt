@@ -2,7 +2,7 @@ hong ngoc,hngoc,hn|Hồng ngọc săn boss, up cold, up cskb, ĐHVT + ĐHVT23 + 
 thoi vang,tvang,tv|Thỏi vàng làm nhiệm vụ bò mộng, hộ tống, ĐHVT23, Nạp thẻ (Còn nhiều cách khác)  
 groupname|Groups NROBTC  
 btc|top 20 test sẽ được cơ hội nhận được nrobtc coin, 1nrobtc coin = 1000 coin, đánh boss sẽ nhận được nrobtc coin
-game rac,game sap,lua ga,sap sap, sap sup,game r a c,suc sinh,pr ban,bon rac,bon lon,bon lol,ngheo rach,lu cho,suc vat|Meo..meo..|leuleu.png
+game rac,game sap,lua ga,sap sap, sap sup,game r a c,suc sinh,pr ban,bon rac,bon lon,bon lol,ngheo rach,lu cho,suc vat|LEU..LEU..|leuleu.png
 suu tam|Thẻ nào đánh quái đó là rơi nhé, nghe ad đồn full 1 con cần 270 thẻ thì phải
 dam dang|Dâm đãng quá đi à|chaymui.png
 rot cap,xit cap,ha cap,tut cap|Lúc nâng trang bị bà Hạt mít có thông báo rớt hay không, nếu rớt chắc chắn sẽ trừ chỉ số. Để an toàn hãy dùng đá bảo vệ ở Santa bỏ vào nhé
@@ -147,7 +147,7 @@ alo, hello, chao|Em là chatbot hỗ trợ tại đây, có gì cần giúp anh 
 bot khon|ai cũng biết rằng tôi khôn mà|deptrai.png
 o cuoi|2 ô cuối là danh hiệu và nhẫn đính ước tại santa nhé  
 canh tre|Bạn gom đủ 9999 rồi ghép thành cần câu đi câu cá nhé  
-test, open, op|Game mới open nhé (dame trung). Free all 100%. Không cần mở thành viên gì hết  
+test, open, op|Game đang test nhé (dame trung). Free all 100%. Top 20 test sẽ nhận được NroBtc Coin, 1NroBtc coin = 1000 coin
 mtv, mo tv, mo thanh vien, kich hoat tai khoan|Game không cần MTV. Cày 40 tỷ là gd được hết  
 chuc nang|Cần hỏi chức năng gì thì cứ nói đi  
 huy diet|Để 5 món thần linh trong hành trang rồi gặp Thần huỷ diệt để đổi đồ Huỷ diệt nhé  
