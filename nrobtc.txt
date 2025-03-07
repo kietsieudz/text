@@ -145,7 +145,6 @@ chan|Tại sao bạn lại chán, bắt con gián bỏ vô háng, rồi sục ch
 bot ngu,meo ngu|mày mới là thằng ngu đó|ngu.png
 alo, hello, chao|Em là chatbot hỗ trợ tại đây, có gì cần giúp anh cứ nói nhé, em luôn sẵn sàng!
 bot khon|ai cũng biết rằng tôi khôn mà|deptrai.png
-o cuoi|2 ô cuối là danh hiệu và nhẫn đính ước tại santa nhé  
 canh tre|Bạn gom đủ 9999 rồi ghép thành cần câu đi câu cá nhé  
 test, open, op|Game đang test nhé (dame trung). Free all 100%. Top 20 test sẽ nhận được NroBtc Coin, 1NroBtc coin = 1000 coin
 mtv, mo tv, mo thanh vien, kich hoat tai khoan|Game không cần MTV. Cày 40 tỷ là gd được hết  
