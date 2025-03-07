@@ -6,7 +6,7 @@ game rac,game sap,lua ga,sap sap, sap sup,game r a c,suc sinh,pr ban,bon rac,bon
 suu tam|Thẻ nào đánh quái đó là rơi nhé, nghe ad đồn full 1 con cần 270 thẻ thì phải
 dam dang|Dâm đãng quá đi à|chaymui.png
 rot cap,xit cap,ha cap,tut cap|Lúc nâng trang bị bà Hạt mít có thông báo rớt hay không, nếu rớt chắc chắn sẽ trừ chỉ số. Để an toàn hãy dùng đá bảo vệ ở Santa bỏ vào nhé
-alo,xin chao,hello,helo|Chào anh! Em là culi tại NroBtc!
+alo,xin chao,hello,helo,hi,chao|Chào anh! Em là culi tại NroBtc!
 tkmk,tk mk,thanh cong,dang ky,dky,tao,sai,chinh xac,dang nhap,tao nv,tao nhan vat|Nếu gặp lỗi Bạn hãy chụp lại hoặc quay lại gửi vào đây để mọi người hỗ trợ  
 k vo dc,ko vo dc,khong vo dc,k vo duoc,ko vo duoc,khong vo duoc,xoay|Bạn gặp lỗi không vào được game hãy xem hướng dẫn xóa dữ liệu chỗ tải game nhé  
 link game,link tai,link trang chu,tai game,download,website,web,dien dan|Trang chủ - tải game: https://ngocrongbtc.com [Mở trên trình duyệt Safari hoặc Chrome mới tải được game]|download.png  
