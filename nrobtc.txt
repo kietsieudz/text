@@ -146,7 +146,7 @@ bot ngu,meo ngu|mày mới là thằng ngu đó|ngu.png
 alo, hello, chao|Em là chatbot hỗ trợ tại đây, có gì cần giúp anh cứ nói nhé, em luôn sẵn sàng!
 bot khon|ai cũng biết rằng tôi khôn mà|deptrai.png
 canh tre|Bạn gom đủ 9999 rồi ghép thành cần câu đi câu cá nhé  
-test, open, op|Game đang trải nghiệm nhé (dame trung). Free all 100%. Top 20 test sẽ nhận được NroBtc Coin, 1NroBtc coin = 1000 coin, xem sự kiện đua top test tại https://ngocrongbtc.com/topic
+test, open, op|Game đang test nhé (dame trung). Free all 100%. Top 20 test sẽ nhận được NroBtc Coin, 1NroBtc coin = 1000 coin
 mtv, mo tv, mo thanh vien, kich hoat tai khoan|Game không cần MTV. Cày 40 tỷ là gd được hết  
 chuc nang|Cần hỏi chức năng gì thì cứ nói đi  
 huy diet|Để 5 món thần linh trong hành trang rồi gặp Thần huỷ diệt để đổi đồ Huỷ diệt nhé  
@@ -165,10 +165,8 @@ ki gui, ky gui|Kí gửi mua bán bằng hồng ngọc nhé. Không phải thỏ
 trai than long, manh dat, cay cuoc, khu dat, nong trai|Bạn mua đất + cây cuốc rồi săn boss đủ 30 điểm sẽ trồng được cây thần long, thu hoạch trái thần long ăn vào tăng chỉ số (đặc biệt không bị ảnh hưởng với sức mạnh chí tôn)  
 cam on bot, ok bot|Dạ không có gì đâu anh yêu! Nhiệm vụ của em mà|deptrai.png
 scam, lua dao, ld, uy tin, ut|Hệ thống key bạc và key vàng trong box không bao giờ chủ động nhắn tin cho người chơi (dấu hiệu nhận biết giả danh: mượn tiền, mượn acc, xin này xin nọ,..) Vui lòng check kĩ thông tin trước khi làm bất cứ điều gì. DẠO NÀY RẤT NHIỀU THÀNH PHẦN TẠO ZALO GIỐNG TÊN RỒI LỪA ĐẢO NÊN NGƯỜI CHƠI TỰ BẢO VỆ TÀI SẢN CỦA BẢN THÂN  
-detu, de tu|Mabư +30% (săn Mabư), Jirrn +50% (săn ở Osin ĐHVT), Broly +70% (mua ở Santa)
-gohan|Đệ tử Gohan Bư săn ở Osin Đại Hội Võ Thuật lúc 12h00 và 19h00  
+detu, de tu|Mabư +30% (săn Mabư), Jiren +50% (săn ở Osin ĐHVT), Broly +70% (mua ở Santa)
 mabu, ma bu, trung bu, de bu|Đệ tử Mabư săn ở Bư Béo tại Đảo Kame, bật thông báo boss lên là thấy  
-itachi|Đệ tử Itachi thì cày hồng ngọc rồi mua ở Santa  
 vong quay thuong de|Vòng quay thượng đế quay tốn hồng ngọc (chưa thêm vật phẩm đặc biệt)  
 moi choi|Bạn mới chơi thì năng nổ giao tiếp với mọi người trong box nè, nhất là giao tiếp với tôi nhé!  
 khac an vo song|Khắc ấn sẽ không mất bông tai vô song nhé  
