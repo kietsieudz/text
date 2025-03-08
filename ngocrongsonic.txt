@@ -1,5 +1,6 @@
 hong ngoc,hngoc,hn|Hồng ngọc săn boss, up cold, up cskb, ĐHVT + ĐHVT23 + Siêu Hạng, Nạp thẻ (Còn nhiều cách khác)  
-thoi vang,tvang,tv|Thỏi vàng làm nhiệm vụ bò mộng, hộ tống, ĐHVT23, Nạp thẻ (Còn nhiều cách khác)  
+thoi vang,tvang,tv|Thỏi vàng làm nhiệm vụ bò mộng, hộ tống, ĐHVT23, Nạp thẻ (Còn nhiều cách khác)
+vang|Vàng nhận miễn phí không giới hạn ở nhà  
 groupname|Groups Sonic
 up cold|Up cold rơi: hồn hạ tôn, hồn thiên tôn, thức ăn, hồng ngọc, đồ thần linh,..
 co che|Cơ chế game đây https://thanhdi.top/cochegame.html
@@ -88,7 +89,6 @@ ty le nap,ti le nap|Tỷ lệ nạp 10k = 20k hồng ngọc, 40k = 10k thỏi v�
 than tien|Cần phiếu giảm giá để mua set thần tiên  
 doi skill,doi duoc skill,msk,kaioken,kok,doi chieu,doi skill1,doi skill2,doi skill3,doi skill4,doi skill5|Gọi rồng thần đổi skill 2-3-4 đệ tử  
 1tab,2tab,3tab,4tab,5tab,tab|Giới hạn địa chỉ IP là 4 Tab online cùng lúc nhé  
-kiem vang,nhan vang,lay vang,ban tv,ban thoi vang,ban tvang|Vàng nhận miễn phí không giới hạn ở nhà  
 dau than,bu beo|Đậu thần Mabư săn ở mabu 21h ở đại hội võ thuật  
 potaufeu|Hang potaufeu đến trạm tàu vũ trụ trái đất tìm thằng Jaco để vào đánh nhân bản rơi item siêu cấp  
 doanh trai|Vào rừng bambo gặp lính canh để vào doanh trại, cần 4 người cùng bang đứng gần mới đi được  
