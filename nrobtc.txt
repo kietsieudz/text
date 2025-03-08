@@ -62,7 +62,7 @@ fan cung,fanpage,fancung,fc|Code khác bạn xem các bài viết ở Fanpage (N
 giftcode,code|nrobtc1,nrobtc2 đến nrobtc9,Code khác bạn xem các bài viết ở Fanpage (Nhớ Follow, comment và nhắn tin để lấy cốt fan cứng: https://www.facebook.com/people/Ngoc-Rong-BTC/61570449455694/
 skill moi,skill dac biet,super kame,super kamejoko,ma phong ba,lien hoan chuong,bien hinh,skill9,skill 9|Học skill đặc biệt ở quy lão đảo kame. cày hoặc nạp đều học được, đi doanh trại sẽ rơi bí kíp học skill  
 so luon,thua|Thua luôn|thualuon.png  
-cay chay|Mèo méo meo mèo meo...mlem..mlem  
+cay chay|thoai mai nha !!!...mlem..mlem  
 cay vl, cay vc,cay qua|Cay cái mà lay xay|hehe.png  
 tb boss,bao boss|Chat 'sb' để bật thông báo boss nha  
 ts,tan sat,danh quai,auto danh|Chat 'ts' để auto tàn sát quái nhé  
