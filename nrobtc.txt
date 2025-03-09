@@ -48,7 +48,6 @@ tai k dc,tai ko dc,tai khong dc,tai k duoc,tai ko duoc,tai khong duoc|Bạn vui 
 dep ac,bao dep,dep qua|Đẹp như gái đồng trinh|gaixinh.png  
 buon qua,buon ac,buon vc|Buồn cái bướm|buonmuonkhoc.png  
 chiu r,chiu luon,chiu roi|Nói thế chịu rồi biết sao giờ :!  
-lau vc|Nhanh lắm anh à. Nhấp cái là ra rồi mà|nungac.png  
 dm|Đm|dm.png  
 bot rep chuan|Tôi lúc nào nói chuyện mà chả chuẩn! Nói chuyện phải vuông góc  
 vps|Anh em mua VPS ở đây nè! Hàng chính hãng ngon lành - Không như bọn clone ra đi bán dạo đâu nha: https://portal.vietnix.vn/aff.php?aff=3515  
