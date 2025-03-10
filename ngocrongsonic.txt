@@ -56,7 +56,7 @@ bot rep chuan|Tôi lúc nào nói chuyện mà chả chuẩn! Nói chuyện ph�
 vps|Anh em mua VPS ở đây nè! Hàng chính hãng ngon lành - Không như bọn clone ra đi bán dạo đâu nha: https://portal.vietnix.vn/aff.php?aff=3515  
 nung ac|Nứng ác luôn|nungac.png
 vip k, vip chua,vip ch,vip ko,vip khong|Víp vãi lồn luôn ạ|chaymui.png  
-bot a,bot ha|Um bot nè. hỏi gì cứ hỏi đi súp bót tận giường luôn|nungac.png  
+bot a,bot ha|Um bot nè. hỏi gì cứ hỏi đi súp bót tận giường luôn
 sdg,max cs,max sd,max hp|Max 40k và 780k Mở giới hạn ở vách núi morri  
 vung dat|Vùng đất huỷ diệt bạn lên hành tinh Bill là qua được  
 dc dau,duoc dau,co dc dau|Xin lỗi mình chỉ là BotChat. Nếu mình không giúp được bạn. Hãy hãy quay hoặc chụp lại rồi gửi cho Key vàng nhé|leuleu.png  
@@ -148,7 +148,7 @@ bot khon|ai cũng biết rằng em khôn mà|deptrai.png
 Em là chatbot hỗ trợ tại đây, có gì cần giúp anh cứ nói nhé, em luôn sẵn sàng
 o cuoi,o duoi,o nay|2 ô cuối là danh hiệu và nhẫn đính ước tại santa nhé  
 canh tre|Bạn gom đủ 9999 rồi ghép thành cần câu đi câu cá nhé  
-test, open, op|Game mới open nhé (dame trung). Free all 100%. Không cần mở thành viên gì hết. OPEN FREE HƠN CẢ TEST -> CHƠI LẠI KHÔNG RESET -> CHƠI TEST LÀM CHI|nungac.png
+test, open, op|Game mới open nhé (dame trung). Free all 100%. Không cần mở thành viên gì hết. OPEN FREE HƠN CẢ TEST -> CHƠI LẠI KHÔNG RESET -> CHƠI TEST LÀM CHIl
 mtv, mo tv, mo thanh vien, kich hoat tai khoan|Game không cần MTV. Cày 40 tỷ là gd được hết  
 chuc nang|Cần hỏi chức năng gì thì cứ nói đi  
 huy diet|Để 5 món thần linh trong hành trang rồi gặp Thần huỷ diệt để đổi đồ Huỷ diệt nhé  
