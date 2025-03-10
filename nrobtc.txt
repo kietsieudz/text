@@ -2,7 +2,7 @@ de vip,broly,de tu|Nhận Broly ở mốc nạp nhé
 hong ngoc,hngoc,hn|Hồng ngọc săn boss, up cold, up cskb, ĐHVT + ĐHVT23 + Siêu Hạng, Nạp thẻ (Còn nhiều cách khác)  
 thoi vang,tvang,tv|Thỏi vàng làm nhiệm vụ bò mộng, hộ tống, ĐHVT23, Nạp thẻ (Còn nhiều cách khác)  
 groupname|Groups NROBTC  
-btc|top 20 test sẽ được cơ hội nhận được nrobtc coin, 1nrobtc coin = 1000 coin, đánh boss sẽ nhận được nrobtc coin
+btc|top 15 test sẽ được cơ hội nhận được nrobtc coin, 1nrobtc coin = 1000 coin, đánh boss sẽ nhận được nrobtc coin
 game rac,game sap,lua ga,sap sap, sap sup,game r a c,suc sinh,pr ban,bon rac,bon lon,bon lol,ngheo rach,lu cho,suc vat|LEU..LEU..|leuleu.png
 suu tam|Thẻ nào đánh quái đó là rơi nhé, nghe ad đồn full 1 con cần 270 thẻ thì phải
 dam dang|Dâm đãng quá đi à|chaymui.png
