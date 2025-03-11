@@ -122,11 +122,11 @@ ki gui, ky gui|Kí gửi mua bán bằng hồng ngọc nhé. Không phải thỏ
 trai than long, manh dat, cay cuoc, khu dat, nong trai|Bạn mua đất + cây cuốc rồi săn boss đủ 30 điểm sẽ trồng được cây thần long, thu hoạch trái thần long ăn vào tăng chỉ số (đặc biệt không bị ảnh hưởng với sức mạnh chí tôn)  
 cam on bot, ok bot|Dạ không có gì đâu anh yêu! Nhiệm vụ của em mà|deptrai.png
 scam, lua dao, ld, uy tin, ut|Hệ thống key bạc và key vàng trong box không bao giờ chủ động nhắn tin cho người chơi (dấu hiệu nhận biết giả danh: mượn tiền, mượn acc, xin này xin nọ,..) Vui lòng check kĩ thông tin trước khi làm bất cứ điều gì. DẠO NÀY RẤT NHIỀU THÀNH PHẦN TẠO ZALO GIỐNG TÊN RỒI LỪA ĐẢO NÊN NGƯỜI CHƠI TỰ BẢO VỆ TÀI SẢN CỦA BẢN THÂN  
-detu, de tu|Mabư +30% (săn Mabư), Gohan Bư +50% (săn ở Osin ĐHVT), Itachi +70% (mua ở Santa), OMEGA +100% (Capsule tết)  
+detu, de tu|Mabư +30% (săn Mabư), Gohan Bư +50% (săn ở Osin ĐHVT), Itachi +70% (mua ở Santa), OMEGA +100% (SHARE BÀI)  
 gohan|Đệ tử Gohan Bư săn ở Osin Đại Hội Võ Thuật lúc 12h00 và 19h00  
 mabu, ma bu, trung bu, de bu|Đệ tử Mabư săn ở Bư Béo tại Đảo Kame, bật thông báo boss lên là thấy  
 itachi|Đệ tử Itachi thì cày hồng ngọc rồi mua ở Santa  
-capsule, omega|Nạp mỗi 20k sẽ được tặng 1 viên capsule quà tặng (100k = 5 viên, nạp nhiều máy tự tặng đủ capsule) (Tỷ lệ cao ra đệ Omega +100% chỉ số hợp thể)  
+capsule, omega|Share 10 bài gửi ad xong vào nhà nhận đệ omega
 vong quay thuong de|Vòng quay thượng đế quay tốn hồng ngọc (chưa thêm vật phẩm đặc biệt)  
 moi choi|Bạn mới chơi thì năng nổ giao tiếp với mọi người trong box nè, nhất là giao tiếp với tôi nhé!  
 khac an vo song|Khắc ấn sẽ không mất bông tai vô song nhé  
