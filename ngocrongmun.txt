@@ -23,7 +23,7 @@ up nhanh,up tnsm,up smtn,up de,up dt,up dau,up sm,300ty,400ty,cay nhanh,cay smtn
 dia nguc|Gặp thần vũ trụ tại hành tinh kaio để đến địa ngục  
 htnt,nguc tu|Dùng capsule hoặc vào rừng karin rồi đi lên trên để đến hành tinh ngục tù  
 loi cs,loi chi so|Đệ tử up nhanh không lỗi chỉ số đệ  
-coin,share,event,tan thu,even,chia se|10 Bài share + 1tr Coin (Tặng mốc nạp). Đăng nhập vào https://ngocrongmun.com/login -> rồi bấm qua diễn đàn -> chọn event tham gia để lấy bài share. Có nút gửi event cho người duyệt ở đó luôn|share.png
+coin,share,event,tan thu,even,chia se|10 Bài share + 1tr Coin (Tặng mốc nạp). Đăng nhập vào https://ngocrongmun.com/login -> rồi bấm qua diễn đàn -> chọn event tham gia để lấy bài share. Làm xong gửi Ngọc Rồng Mun (Duyệt từ 7h sáng -> 23h tối. Ngoài giờ đó ad ngủ rồi ae chờ nhé|share.png
 tieu hat|Giết boss doanh trại rơi tiểu hạt
 chua ra,chua xh,chua xuat hien,mai k ra,mai k xh,mai khong xuat hien,mai khong ra|Boss không lỗi, canh kĩ thông báo boss đi má ơi  
 yanrobi|Boss Yanrobi rơi hồng ngọc  
