@@ -28,7 +28,7 @@ chua ra,chua xh,chua xuat hien,mai k ra,mai k xh,mai khong xuat hien,mai khong r
 yanrobi|Boss Yanrobi rơi hồng ngọc  
 co bong tai|Mua thêm bông cấp 1 bỏ trong hành trang là bấm hợp thể nhanh được  
 thanh di|Có việc gì quan trọng thì in bóc cho Ngài Di. Hướng dẫn chơi game thì nhắn ở đây tôi chỉ cho  
-menu,mod|Chat 'menu' để mở menu mod
+menu,mod|Chat 'menu' để mở menu mod hoặc bấm vào logo game
 tieng gi,ngon ngu,chu gi,toan tieng tau,tieng anh|Về nhà chọn ô cuối để đổi ngôn ngữ sang tiếng việt  
 gioi han,gh dame,gh st|Boss nhiệm vụ sẽ giới hạn để người chơi sau dễ làm nhiệm vụ. Boss không phải nhiệm vụ sẽ không giới hạn nhé  
 qua dao|Quả đào vào ngũ hành sơn gặp đường tăng mà coi
