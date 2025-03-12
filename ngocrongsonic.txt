@@ -37,7 +37,7 @@ bot an|Ăn mì gói|anmi.png
 bot nin,bot im,im mom,im di,nin mom,cam mom|Ông im mồm đi, để tôi súp bót cho các bạn|immom.png  
 thanh di|Có việc gì quan trọng thì in bóc cho Ngài Di. Hướng dẫn chơi game thì nhắn ở đây tôi chỉ cho  
 mon leo|Mồn má mày chứ mồn|leuleu.png  
-menu,mod|Chat 'menu' để mở menu mod
+menu,mod|Chat 'menu' để mở menu mod hoặc bấm vào logo
 tieng gi,ngon ngu,chu gi,toan tieng tau,tieng anh|Về nhà chọn ô cuối để đổi ngôn ngữ sang tiếng việt  
 su kien,sk|Sự kiện trong game được thông báo tại: https://www.facebook.com/ngaidinro và https://ngocrongclan.com  
 gioi han,gh dame,gh st|Boss nhiệm vụ sẽ giới hạn để người chơi sau dễ làm nhiệm vụ. Boss không phải nhiệm vụ sẽ không giới hạn nhé  
