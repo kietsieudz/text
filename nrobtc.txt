@@ -3,7 +3,7 @@ de vip,broly,de tu|Nhận Broly ở mốc nạp nhé
 hong ngoc,hngoc,hn|Hồng ngọc săn boss, up cold, up cskb, ĐHVT + ĐHVT23 + Siêu Hạng, Nạp thẻ (Còn nhiều cách khác)  
 thoi vang,tvang,tv|Thỏi vàng làm nhiệm vụ bò mộng, hộ tống, ĐHVT23, Nạp thẻ (Còn nhiều cách khác)  
 groupname|Groups NROBTC  
-btc|top 15 test sẽ được cơ hội nhận được nrobtc coin, 1nrobtc coin = 1000 coin, đánh boss sẽ nhận được nrobtc coin
+btc,nrobtc|nrobtc coin là một đồng coin chỉ có trong ngocrongbtc, 1nrobtc coin = 1000 coin, đánh boss sẽ nhận được nrobtc coin, nrobtc coin khi săn boss sẽ có thể đổi thành usdt (25nrobtc coin = 1USDT), liên hệ ad, gửi địa chỉ ví để nhận.
 game rac,game sap,lua ga,sap sap, sap sup,game r a c,suc sinh,pr ban,bon rac,bon lon,bon lol,ngheo rach,lu cho,suc vat|LEU..LEU..|leuleu.png
 suu tam|Thẻ nào đánh quái đó là rơi nhé, nghe ad đồn full 1 con cần 270 thẻ thì phải
 dam dang|Dâm đãng quá đi à|chaymui.png
@@ -25,6 +25,7 @@ dia nguc|Gặp thần vũ trụ tại hành tinh kaio để đến địa ngục
 htnt,nguc tu|Dùng capsule hoặc vào rừng karin rồi đi lên trên để đến hành tinh ngục tù  
 loi cs,loi chi so|Đệ tử up nhanh không lỗi chỉ số đệ  
 share,event,tan thu,even,chia se|Đăng nhập vào https://ngocrongbtc.com -> rồi bấm qua diễn đàn, Hướng dẫn: https://docs.google.com/spreadsheets/d/1L8lX35Yl5Q03PVC-EPIVuxys0Cjulxx2ELZCNuxEy7U/edit?gid=0#gid=0
+event,sukien|Chốt top lúc 21h 12/03, Top 1: 20 NroBtc Coin, Top 2-5: 10 NroBtc Coin
 tieu hat|Giết boss doanh trại rơi tiểu hạt  
 nan vc,nan qua,nan ghe,nan luon|Đã ai làm gì mà nản|buonmuonkhoc.png
 chua ra,chua xh,chua xuat hien,mai k ra,mai k xh,mai khong xuat hien,mai khong ra|Boss không lỗi, canh kĩ thông báo boss đi má ơi  
