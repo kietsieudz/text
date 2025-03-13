@@ -23,9 +23,9 @@ toc do,cham,tang toc,cheat,speed|Tăng tốc độ game hãy CHAT thử từng c
 spl,sao pha le|Sao pha lê mua ở shop mở rộng hành trang ở Santa 
 up nhanh,up tnsm,up smtn,up de,up dt,up dau,up sm,300ty,400ty,cay nhanh,cay smtn,cay sm|Cày nhanh sư phụ và đệ tử tại Ngũ Hành Sơn (đường tăng - làng aru) hoặc Địa Ngục (thần vũ trụ - hành tinh kaio)  
 dia nguc|Gặp thần vũ trụ tại hành tinh kaio để đến địa ngục  
-htnt,nguc tu|Dùng capsule hoặc vào rừng karin rồi đi lên trên để đến hành tinh ngục tù  
-loi cs,loi chi so|Đệ tử up nhanh không lỗi chỉ số đệ  
-coin,share,event,tan thu,even,chia se|10 Bài share + 1tr Coin (Tặng mốc nạp). Đăng nhập vào https://ngocrongmun.com/login -> rồi bấm qua diễn đàn -> chọn event tham gia để lấy bài share. Làm xong gửi Ngọc Rồng Mun (Duyệt từ 7h sáng -> 23h tối. Ngoài giờ đó ad ngủ rồi ae chờ nhé|share.png
+htnt,nguc tu|Dùng capsule hoặc vào rừng karin rồi đi lên trên để đến hành tinh ngục tù
+loi cs,loi chi so|Đệ tử up nhanh không lỗi chỉ số đệ
+coin,share,event,tan thu,even,chia se|Share bài nhận quà tại NPC trong nhà. Đăng nhập vào https://ngocrongmun.com/login -> rồi bấm qua diễn đàn -> chọn event tham gia để lấy bài share. Làm xong gửi Ngọc Rồng Mun (Duyệt từ 7h sáng -> 23h tối. Ngoài giờ đó ad ngủ rồi ae chờ nhé|share.png
 duyet|AD chỉ duyệt từ 7h-23h tối (Ngoài giờ đó mn chờ ad dậy rồi duyệt nhé) Thông cảm vì ad cũng là con người cần được ngủ!
 tieu hat|Giết boss doanh trại rơi tiểu hạt
 dame|Game thấy sức đánh cao nhưng sát thương là gốc nhé. Cách tính dame server này không giống server khác (Sức đánh cao thì đánh vào boss chưa chắc đã cao). Boss từ TDST -> Xên sẽ giới hạn sát thương để hỗ trợ nhiệm vụ
@@ -57,7 +57,7 @@ dung dau|Mua bùa cho đệ tử là nó tự nhai đậu rồi khỏi auto
 the luc|Mua bùa dẻo dai vào là khỏi lo hết thể lực nhé  
 vamchar|Làng vamchar bạn tới làng morri để vào nhé  
 lang la|Từ đảo hoa chạy sang trái là đến làng lá  
-lay capsule,nhan capsule|Về nhà nhận capsul  
+lay capsule,nhan capsule|Về nhà nhận capsule
 cuong no sieu cap,cuong no c2,cuong no 2,cuong no,item,cnsc,may do,cskb,ki bi,cn,bh,bo huyet,bo khi,bk|Item thường và siêu cấp mở từ capsule kì bí  
 xu ngu,dong xu|Up quái ngũ hành sơn rơi đồng xu rồi qua tương lai lấy đồng xu đổi máy dò capsule kì bí  
 trung sinh|Trùng sinh cần canh mạnh bà, tăng thêm 5% chỉ số gốc  
@@ -107,7 +107,7 @@ bot khon|ai cũng biết rằng em khôn mà|deptrai.png
 Em là chatbot hỗ trợ tại đây, có gì cần giúp anh cứ nói nhé, em luôn sẵn sàng
 o cuoi,o duoi,o nay|2 ô cuối là danh hiệu và nhẫn đính ước tại santa nhé  
 canh tre|Bạn gom đủ 9999 rồi ghép thành cần câu đi câu cá nhé  
-test, open, op|Game chuẩn bị đua top test vào lúc 19h00 13/03/2025 nhé
+test, open, op|Game vừa mở đua top test vào lúc 19h00 13/03/2025 nhé
 mtv, mo tv, mo thanh vien, kich hoat tai khoan|Game không cần MTV. Cày 40 tỷ là gd được hết  
 chuc nang|Cần hỏi chức năng gì thì cứ nói đi  
 huy diet|Để 5 món thần linh trong hành trang rồi gặp Thần huỷ diệt để đổi đồ Huỷ diệt nhé  
@@ -127,11 +127,11 @@ ki gui, ky gui|Kí gửi mua bán bằng hồng ngọc nhé. Không phải thỏ
 trai than long, manh dat, cay cuoc, khu dat, nong trai|Bạn mua đất + cây cuốc rồi săn boss đủ 30 điểm sẽ trồng được cây thần long, thu hoạch trái thần long ăn vào tăng chỉ số (đặc biệt không bị ảnh hưởng với sức mạnh chí tôn)  
 cam on bot, ok bot|Dạ không có gì đâu anh yêu! Nhiệm vụ của em mà|deptrai.png
 scam, lua dao, ld, uy tin, ut|Hệ thống key bạc và key vàng trong box không bao giờ chủ động nhắn tin cho người chơi (dấu hiệu nhận biết giả danh: mượn tiền, mượn acc, xin này xin nọ,..) Vui lòng check kĩ thông tin trước khi làm bất cứ điều gì. DẠO NÀY RẤT NHIỀU THÀNH PHẦN TẠO ZALO GIỐNG TÊN RỒI LỪA ĐẢO NÊN NGƯỜI CHƠI TỰ BẢO VỆ TÀI SẢN CỦA BẢN THÂN  
-detu, de tu|Mabư +30% (săn Mabư), Gohan Bư +50% (săn ở Osin ĐHVT), Itachi +70% (mua ở Santa), OMEGA +100% (SHARE BÀI)  
+detu, de tu|Mabư +30% (săn Mabư), Gohan Bư +50% (săn ở Osin ĐHVT), Itachi +70% (mua ở Santa), OMEGA +100% (Quà nạp)  
 gohan|Đệ tử Gohan Bư săn ở Osin Đại Hội Võ Thuật lúc 12h00 và 19h00  
 mabu, ma bu, trung bu, de bu|Đệ tử Mabư săn ở Bư Béo tại Đảo Kame, bật thông báo boss lên là thấy  
 itachi|Đệ tử Itachi thì cày hồng ngọc rồi mua ở Santa  
-capsule, omega|Share 10 bài gửi ad xong vào nhà nhận đệ omega
+capsule, omega|Nạp mỗi 20k được 1 capsule may mắn mở ra đệ omega
 vong quay thuong de|Vòng quay thượng đế quay tốn hồng ngọc (chưa thêm vật phẩm đặc biệt)  
 moi choi|Bạn mới chơi thì năng nổ giao tiếp với mọi người trong box nè, nhất là giao tiếp với tôi nhé!  
 khac an vo song|Khắc ấn sẽ không mất bông tai vô song nhé  
