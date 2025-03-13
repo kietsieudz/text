@@ -28,7 +28,7 @@ loi cs,loi chi so|Đệ tử up nhanh không lỗi chỉ số đệ
 coin,share,event,tan thu,even,chia se|10 Bài share + 1tr Coin (Tặng mốc nạp). Đăng nhập vào https://ngocrongmun.com/login -> rồi bấm qua diễn đàn -> chọn event tham gia để lấy bài share. Làm xong gửi Ngọc Rồng Mun (Duyệt từ 7h sáng -> 23h tối. Ngoài giờ đó ad ngủ rồi ae chờ nhé|share.png
 duyet|AD chỉ duyệt từ 7h-23h tối (Ngoài giờ đó mn chờ ad dậy rồi duyệt nhé) Thông cảm vì ad cũng là con người cần được ngủ!
 tieu hat|Giết boss doanh trại rơi tiểu hạt
-dame gi,dame j|Dame trung
+dame|Game thấy sức đánh cao nhưng sát thương là gốc nhé. Cách tính dame server này không giống server khác (Sức đánh cao thì đánh vào boss chưa chắc đã cao)
 chua ra,chua xh,chua xuat hien,mai k ra,mai k xh,mai khong xuat hien,mai khong ra|Boss không lỗi, canh kĩ thông báo boss đi má ơi  
 yanrobi|Boss Yanrobi rơi hồng ngọc  
 co bong tai|Mua thêm bông cấp 1 bỏ trong hành trang là bấm hợp thể nhanh được  
