@@ -11,6 +11,7 @@ k tang|Đi mở giới hạn sức mạnh ở vách núi morri đi
 qua top,dua top,dua top,nhan gi, duoc gi, duoc j| Qùa đua top test đây nhé: https://thanhdi.top/duatop.html
 sp + dt, sp va dt, su phu va de, su phu + de|Đua top sức mạnh chỉ tính sư phụ nhé
 broly|Cải trang broly là bông tai cấp 5 tại santa
+k chinh xac,khong chinh xac, khong dung, k dung|Vô trang chủ https://ngocrongmun.com tạo tài khoản nhé bạn
 mo chua|Vừa mở trải nghiệm trước nè. ae zô trải nghiệm chung đi. https://ngocrongmun.com
 rot cap,xit cap,ha cap,tut cap|Lúc nâng trang bị bà Hạt mít có thông báo rớt hay không, nếu rớt chắc chắn sẽ trừ chỉ số. Để an toàn hãy dùng đá bảo vệ ở Santa bỏ vào nhé
 tkmk,tk mk,thanh cong,dang ky,dky,tao,sai,chinh xac,dang nhap,tao nv,tao nhan vat|Nếu gặp lỗi Bạn hãy chụp lại hoặc quay lại gửi vào đây để mọi người hỗ trợ  
@@ -28,7 +29,8 @@ up nhanh,up tnsm,up smtn,up de,up dt,up dau,up sm,300ty,400ty,cay nhanh,cay smtn
 dia nguc|Gặp thần vũ trụ tại hành tinh kaio để đến địa ngục  
 htnt,nguc tu|Dùng capsule hoặc vào rừng karin rồi đi lên trên để đến hành tinh ngục tù
 loi cs,loi chi so|Đệ tử up nhanh không lỗi chỉ số đệ
-coin,share,event,tan thu,even,chia se|Share bài nhận quà tại NPC trong nhà. Đăng nhập vào https://ngocrongmun.com/login -> rồi bấm qua diễn đàn -> chọn event tham gia để lấy bài share. Làm xong gửi Ngọc Rồng Mun (Duyệt từ 7h sáng -> 23h tối. Ngoài giờ đó ad ngủ rồi ae chờ nhé|share.png
+
+share,event,tan thu,even,chia se|Share bài nhận quà tại NPC trong nhà. Đăng nhập vào https://ngocrongmun.com/login -> rồi bấm qua diễn đàn -> chọn event tham gia để lấy bài share. Làm xong gửi Ngọc Rồng Mun (Duyệt từ 7h sáng -> 23h tối. Ngoài giờ đó ad ngủ rồi ae chờ nhé|share.png
 duyet|AD chỉ duyệt từ 7h-23h tối (Ngoài giờ đó mn chờ ad dậy rồi duyệt nhé) Thông cảm vì ad cũng là con người cần được ngủ!
 tieu hat|Giết boss doanh trại rơi tiểu hạt
 dame|Game thấy sức đánh cao nhưng sát thương là gốc nhé. Cách tính dame server này không giống server khác (Sức đánh cao thì đánh vào boss chưa chắc đã cao). Boss từ TDST -> Xên sẽ giới hạn sát thương để hỗ trợ nhiệm vụ
