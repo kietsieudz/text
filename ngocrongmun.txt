@@ -19,7 +19,7 @@ k chinh xac,khong chinh xac, khong dung, k dung|Vô trang chủ https://ngocrong
 mo chua|Vừa mở trải nghiệm trước nè. ae zô trải nghiệm chung đi. https://ngocrongmun.com
 rot cap,xit cap,ha cap,tut cap|Lúc nâng trang bị bà Hạt mít có thông báo rớt hay không, nếu rớt chắc chắn sẽ trừ chỉ số. Để an toàn hãy dùng đá bảo vệ ở Santa bỏ vào nhé
 tkmk,tk mk,thanh cong,dang ky,dky,tao,sai,chinh xac,dang nhap,tao nv,tao nhan vat|Nếu gặp lỗi Bạn hãy chụp lại hoặc quay lại gửi vào đây để mọi người hỗ trợ  
-k vo dc,ko vo dc,khong vo dc,k vo duoc,ko vo duoc,khong vo duoc,xoay,quay|Nhập sai tk mk sẽ bị xoay nhé. Bạn gặp lỗi không vào được game hãy xem hướng dẫn xóa dữ liệu chỗ tải game nhé  
+k vo dc,ko vo dc,khong vo dc,k vo duoc,ko vo duoc,khong vo duoc,xoay,quay|Bạn gặp lỗi không vào được game hãy xem hướng dẫn xóa dữ liệu chỗ tải game nhé  
 link game,link tai,link trang chu,tai game,download,website,web,dien dan|Trang chủ - tải game: https://ngocrongmun.com [Mở trên trình duyệt Safari hoặc Chrome mới tải được game]
 jar,java,jav|Tải file JAR: https://ngocrongmun.com nhé [Mở trên trình duyệt Safari hoặc Chrome mới tải được game] Nhớ Đọc Hướng Dẫn Cài Đặt
 apk|Tải file APK: https://ngocrongmun.com nhé [Mở trên trình duyệt Safari hoặc Chrome mới tải được game] Nhớ Đọc Hướng Dẫn Cài Đặt
