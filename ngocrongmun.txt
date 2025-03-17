@@ -8,6 +8,7 @@ ip|Mun:14.225.231.9:14445:0,0,0
 nap k,nap ko, nap khong|Bạn kiểm tra xem ghi nội dung chuyển khoản chưa, nếu ghi đúng nội dung ở trang nạp rồi thì chờ vài phút là web tự động cộng! Đôi khi ngân hàng kẹt đơn thì sẽ cộng chậm hơn bình thường. Bạn thông cảm!
 giftcode,code|Code nromun1 -> 15 nhé
 ve tinh|Vệ tinh mua ở santa
+top nap,top nv, top sm, top nhiem vu,top suc manh|Đăng nhập vào trang chủ rồi qua diễn đàn để xem top nhé
 xui qua|Capsule mở ra xui quá sẽ tăng tỷ lệ ra omega cho viên tiếp theo (cộng dồn may mắn)
 lenh chat|bấm vào logo có auto mod
 k rep,rep tn,ad check,ad rep,duyet|Ad kích hoạt quà share từ 7h sáng tới 23h tối thôi. Các giờ khác ad đi ngủ rồi 🤣. Liên hệ admin tại: https://thanhdi.top/admin.html
