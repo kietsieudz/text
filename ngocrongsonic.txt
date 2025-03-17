@@ -11,8 +11,8 @@ dam dang|Dâm đãng quá đi à|chaymui.png
 mo lau,mo khi nao, mo chua|Game mới mở open chính thức nhé
 dame|Game thấy sức đánh cao nhưng sát thương là gốc nhé. Cách tính dame server này không giống server khác (Sức đánh cao thì đánh vào boss chưa chắc đã cao). Boss từ TDST -> Xên sẽ giới hạn sát thương để hỗ trợ nhiệm vụ
 top|Chat riêng đi tui cho xem Bảng Xếp Hạng mõm nè. Quà hồng ngọc nứng ác luôn nha
-fan cung,fanpage,fancung,fc|Code khác bạn xem các bài viết ở Fanpage (Nhớ Follow, comment và nhắn tin để lấy cốt fan cứng: 🔗https://www.facebook.com/ngaidinro |fancung.png  
-giftcode,code|Code khác bạn xem các bài viết ở Fanpage (Nhớ Follow, comment và nhắn tin để lấy cốt fan cứng: 🔗https://www.facebook.com/ngaidinro|codetanthu.png
+giftcode,code,fan cung,fanpage,fancung,fc|🔸Đây là code tân thủ|codetanthu.png
+giftcode,code,fan cung,fanpage,fancung,fc|🔸Code khác bạn xem các bài viết ở Fanpage (Nhớ Follow, comment và nhắn tin để lấy cốt fan cứng: 🔗https://www.facebook.com/ngaidinro
 rot cap,xit cap,ha cap,tut cap|Lúc nâng trang bị bà Hạt mít có thông báo rớt hay không, nếu rớt chắc chắn sẽ trừ chỉ số. Để an toàn hãy dùng đá bảo vệ ở Santa bỏ vào nhé
 tkmk,tk mk,thanh cong,dang ky,dky,tao,sai,chinh xac,dang nhap,tao nv,tao nhan vat|Nếu gặp lỗi Bạn hãy chụp lại hoặc quay lại gửi vào đây để mọi người hỗ trợ  
 k vo dc,ko vo dc,khong vo dc,k vo duoc,ko vo duoc,khong vo duoc,xoay|Nhập sai tk mk sẽ bị xoay nhé. Bạn gặp lỗi không vào được game hãy xem hướng dẫn xóa dữ liệu chỗ tải game nhé  
