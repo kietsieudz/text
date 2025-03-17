@@ -1,8 +1,7 @@
 hong ngoc,hngoc,hn|Hồng ngọc săn boss, up cold, up cskb, ĐHVT + ĐHVT23 + Siêu Hạng, Nạp thẻ (💥Đặc biệt: đua top nói nhiều trong box này: ib tôi để biết thêm chi tiết)  
-thoi vang,tvang,tv|Thỏi vàng làm nhiệm vụ bò mộng, hộ tống, ĐHVT23, Nạp thẻ (Còn nhiều cách khác)
-vang|❌Thỏi vàng không bán ✅Vàng nhận miễn phí không giới hạn ở nhà  
+thoi vang,tvang,tv,vang|🔸Thỏi vàng làm nhiệm vụ bò mộng, hộ tống, ĐHVT23, Nạp thẻ (Còn nhiều cách khác)
+thoi vang,tvang,tv,vang|🔸Vàng nhận miễn phí không giới hạn ở nhà  
 groupname|Groups Sonic
-
 300ti,300ty,400ti,400ty, 300 ty, 300 ti, 400 ti ,400 ty|300-400 tỷ qua vách núi morri mở giới hạn vô cực ở Quốc vương
 k len,khong len, k tang, ko tang, khong tang,ko len|Ra vách núi morri mở giới hạn sức mạnh đi
 up cold|Up cold rơi: hồn hạ tôn, hồn thiên tôn, thức ăn, hồng ngọc, đồ thần linh,..
