@@ -2,6 +2,7 @@ hong ngoc,hngoc,hn|Hồng ngọc săn boss, up cold, up cskb, ĐHVT + ĐHVT23 + 
 thoi vang,tvang,tv|Thỏi vàng làm nhiệm vụ bò mộng, hộ tống, ĐHVT23, Nạp thẻ (Còn nhiều cách khác)
 vang|❌Thỏi vàng không bán ✅Vàng nhận miễn phí không giới hạn ở nhà  
 groupname|Groups Sonic
+
 300ti,300ty,400ti,400ty, 300 ty, 300 ti, 400 ti ,400 ty|300-400 tỷ qua vách núi morri mở giới hạn vô cực ở Quốc vương
 k len,khong len, k tang, ko tang, khong tang,ko len|Ra vách núi morri mở giới hạn sức mạnh đi
 up cold|Up cold rơi: hồn hạ tôn, hồn thiên tôn, thức ăn, hồng ngọc, đồ thần linh,..
@@ -198,7 +199,9 @@ doi ten|Thẻ đổi tên mua ở Santa, được đổi tên thành có Dấu v
 trung linh thu|Trứng linh thú nở ra linh thú (Online chờ 60 phút là nở)
 manh suu tam|Mảnh sưu tầm quái nào bạn train quái đó là rơi 
 gui bai|Chỗ tham gia event có nút gửi event đó bạn  
-bong tai, porata,mvbt,mhbt, btc2, btc3|BÔNG TAI CẤP 2 max 15%, BÔNG TAI CẤP 3 max 25%, BÔNG TAI CẤP 4 (Vô Song) 25% + Thêm Chỉ Số (Chỉ mua ở Santa - Cày hồng ngọc rồi mua), nguyên liệu C2, C3 -> Gặp Quy Lão -> Khu vực bang hội -> Giuma -> Up nguyên liệu bông tai  
+bong tai, porata, btc2, btc3,mvbt,mhbt|🔸Bông tai cấp 2 max chỉ số là 15%. Nguyên liệu rơi ở các map bang hội (tại quy lão vào map bang gặp Giuma để vào map up nguyên liệu)
+bong tai, porata, btc2, btc3,mvbt,mhbt|🔸Bông tai cấp 3 max chỉ số là 25%. Nguyên liệu rơi ở các map bang hội (tại quy lão vào map bang gặp Giuma để vào map up nguyên liệu)
+bong tai, porata, btc2, btc3,mvbt,mhbt|🔸Nâng bông tại tại Bà Hạt Mít ở vách núi của các làng nhé
 so chua|Chưa sợ, ngon nhào zô  
 bot var|Ngon vào đây mà var này  
 kho|Khó thì mới là game, game dễ thì tải game con rắn về chơi đi  
