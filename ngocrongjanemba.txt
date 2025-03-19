@@ -42,7 +42,7 @@ ngai di|Có việc gì quan trọng thì in bóc cho Ngài Di. Hướng dẫn ch
 mon leo|Mồn má mày chứ mồn|leuleu.png  
 menu,mod|Chat 'menu' để mở menu mod hoặc bấm vào logo
 tieng gi,ngon ngu,chu gi,toan tieng tau,tieng anh|Về nhà chọn ô cuối để đổi ngôn ngữ sang tiếng việt  
-su kien,sk|Sự kiện trong game được thông báo tại: https://www.facebook.com/ngocrongonlinevio và https://ngocrongtamquoc.com  
+su kien,sk|Sự kiện trong game được thông báo tại: https://www.facebook.com/ngocrongonlinevip và https://ngocrongtamquoc.com  
 gioi han,gh dame,gh st|Boss nhiệm vụ sẽ giới hạn để người chơi sau dễ làm nhiệm vụ. Boss không phải nhiệm vụ sẽ không giới hạn nhé  
 kem vc,kem sang,kem qua|kém sang quá :))|leuleu.png  
 cho xin,cho tui,ai lay,cho tui|Có ai có không cho bạn với kìa :3|bu.png
