@@ -206,9 +206,10 @@ doi ten|Thẻ đổi tên mua ở Santa, được đổi tên thành có Dấu v
 trung linh thu|Trứng linh thú nở ra linh thú (Online chờ 60 phút là nở)
 manh suu tam|Mảnh sưu tầm quái nào bạn train quái đó là rơi 
 gui bai|Chỗ tham gia event có nút gửi event đó bạn  
-bong tai, porata, btc2, btc3,mvbt,mhbt|🔸Bông tai cấp 2 max chỉ số là 15%. Nguyên liệu rơi ở các map bang hội (tại quy lão vào map bang gặp Giuma để vào map up nguyên liệu)
-bong tai, porata, btc2, btc3,mvbt,mhbt|🔸Bông tai cấp 3 max chỉ số là 25%. Nguyên liệu rơi ở các map bang hội (tại quy lão vào map bang gặp Giuma để vào map up nguyên liệu)
-bong tai, porata, btc2, btc3,mvbt,mhbt|🔸Nâng bông tại tại Bà Hạt Mít ở vách núi của các làng nhé
+bong tai, porata, btc2, btc3, btc4,mvbt,mhbt|🔸Bông tai cấp 2 max chỉ số là 15%. Nguyên liệu rơi ở các map bang hội (tại quy lão vào map bang gặp Giuma để vào map up nguyên liệu)
+bong tai, porata, btc2, btc3,btc4,mvbt,mhbt|🔸Bông tai cấp 3 max chỉ số là 25%. Nguyên liệu rơi ở các map bang hội (tại quy lão vào map bang gặp Giuma để vào map up nguyên liệu)
+bong tai, porata, btc2, btc3,btc4,mvbt,mhbt|🔸Bông tai cấp 4 max chỉ số là 25% + 15% sức đánh đẹp + Được đục lỗ ép sao. Nguyên liệu tham gia event share 3 tại diễn đàn game (vô trang chủ -> vào diễn đàn)
+bong tai, porata, btc2, btc3,btc4,mvbt,mhbt|🔸Nâng bông tại tại Bà Hạt Mít ở vách núi của các làng nhé
 so chua|Chưa sợ, ngon nhào zô  
 bot var|Ngon vào đây mà var này  
 kho|Khó thì mới là game, game dễ thì tải game con rắn về chơi đi  
