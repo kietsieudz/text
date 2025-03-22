@@ -9,7 +9,6 @@ dam dang|Dâm đãng quá đi à|chaymui.png
 300ti,300ty,400ti,400ty, 300 ty, 300 ti, 400 ti ,400 ty|300-400 tỷ qua vách núi morri mở giới hạn vô cực ở Quốc vương
 k len,khong len, k tang, ko tang, khong tang,ko len|Ra vách núi morri mở giới hạn sức mạnh đi
 top|Chat riêng đi tui cho xem Bảng Xếp Hạng mõm nè. Quà hồng ngọc nứng ác luôn nha
-mo lau,mo khi nao, mo chua|Game mới mở open chính thức nhé
 fan cung,fanpage,fancung,fc|Code khác bạn xem các bài viết ở Fanpage (Nhớ Follow, comment và nhắn tin để lấy cốt fan cứng: https://www.facebook.com/ngocrongonlinevip |fancung.png  
 giftcode,code|Code khác bạn xem các bài viết ở Fanpage (Nhớ Follow, comment và nhắn tin để lấy cốt fan cứng: https://www.facebook.com/ngocrongonlinevip|codetanthu.png
 rot cap,xit cap,ha cap,tut cap|Lúc nâng trang bị bà Hạt mít có thông báo rớt hay không, nếu rớt chắc chắn sẽ trừ chỉ số. Để an toàn hãy dùng đá bảo vệ ở Santa bỏ vào nhé
@@ -160,7 +159,7 @@ bot khon|ai cũng biết rằng em khôn mà|deptrai.png
 Em là chatbot hỗ trợ tại đây, có gì cần giúp anh cứ nói nhé, em luôn sẵn sàng
 o cuoi,o duoi,o nay|2 ô cuối là danh hiệu và nhẫn đính ước tại santa nhé  
 canh tre|Bạn gom đủ 9999 rồi ghép thành cần câu đi câu cá nhé  
-test, open, op|Game mới open nhé (dame trung). Free all 100%. Không cần mở thành viên gì hết. OPEN FREE HƠN CẢ TEST -> CHƠI LẠI KHÔNG RESET -> CHƠI TEST LÀM CHI|nungac.png
+test, open, op,mo lau,mo khi nao, mo chua|Game vừa mới open hôm qua (free mtv)
 mtv, mo tv, mo thanh vien, kich hoat tai khoan|Game không cần MTV. Cày 40 tỷ là gd được hết  
 chuc nang|Cần hỏi chức năng gì thì cứ nói đi  
 huy diet|Để 5 món thần linh trong hành trang rồi gặp Thần huỷ diệt để đổi đồ Huỷ diệt nhé  
