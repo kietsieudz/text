@@ -264,4 +264,7 @@ hieu bi gay,hieu gay|Hiếu bị Gay..
 nghia bi gay,nghia gay|Nghĩa bị Gay..
 quang bi gay,quang gay|Quang bị Gay..
 tinh bi gay,tinh gay|Tính bị Gay..
+thien bi gay,thien gay|Thiện bị Gay..
+kien bi gay,kien gay|Kiên bị Gay..
+
 
