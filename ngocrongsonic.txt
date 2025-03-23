@@ -269,3 +269,8 @@ kien bi gay,kien gay|Kiên bị Gay..
 duy bi gay,duy gay|Duy bị Gay..
 hung bi gay,hung gay|Hùng bị Gay..
 manh bi gay,manh gay|Mạnh bị Gay..
+huy bi gay,huy gay|Huy bị Gay..
+hoang bi gay,hoang gay|Hoàng bị Gay..
+khanh bi gay,khanh gay|Khánh bị Gay..
+thang bi gay,thang gay|Thắng bị Gay..
+
