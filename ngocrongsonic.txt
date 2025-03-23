@@ -267,5 +267,5 @@ tinh bi gay,tinh gay|Tính bị Gay..
 thien bi gay,thien gay|Thiện bị Gay..
 kien bi gay,kien gay|Kiên bị Gay..
 duy bi gay,duy gay|Duy bị Gay..
-
-
+hung bi gay,hung gay|Hùng bị Gay..
+manh bi gay,manh gay|Mạnh bị Gay..
