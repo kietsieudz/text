@@ -24,7 +24,7 @@ up nhanh,up de,up dt,up dau,up sm,300ty,400ty,cay nhanh,cay smtn,cay sm|Cày nha
 dia nguc|Gặp thần vũ trụ tại hành tinh kaio để đến địa ngục
 htnt,nguc tu|Dùng capsule hoặc vào rừng karin rồi đi lên trên để đến hành tinh ngục tù  
 loi cs,loi chi so|Đệ tử up nhanh không lỗi chỉ số đệ  
-share,event,tan thu,even,chia se|Đăng nhập vào https://ngocrongbtc.com -> rồi bấm qua diễn đàn, Hướng dẫn: https://docs.google.com/spreadsheets/d/1L8lX35Yl5Q03PVC-EPIVuxys0Cjulxx2ELZCNuxEy7U/edit?gid=0#gid=0
+share,event,tan thu,even,chia se|Đăng nhập vào https://ngocrongbtc.com -> rồi bấm qua diễn đàn, Sau KHI SHARE XONG GUI KEY VANG, Hướng dẫn: https://docs.google.com/spreadsheets/d/1L8lX35Yl5Q03PVC-EPIVuxys0Cjulxx2ELZCNuxEy7U/edit?gid=0#gid=0
 tieu hat|Giết boss doanh trại rơi tiểu hạt  
 nan vc,nan qua,nan ghe,nan luon|Đã ai làm gì mà nản|buonmuonkhoc.png
 chua ra,chua xh,chua xuat hien,mai k ra,mai k xh,mai khong xuat hien,mai khong ra|Boss không lỗi, canh kĩ thông báo boss đi má ơi  
