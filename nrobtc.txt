@@ -82,7 +82,7 @@ ts,tan sat,danh quai,auto danh|Chat 'ts' để auto tàn sát quái nhé
 800k duoc bn,800k duoc bao nhieu,800k dc bn,800k dc bao nhieu|Nạp 800k được 1tr6 hồng ngọc nhé thưa anh!
 900k duoc bn,900k duoc bao nhieu,900k dc bn,900k dc bao nhieu|Nạp 900k được 1tr8 hồng ngọc nhé thưa anh!
 1tr duoc bn,1tr duoc bao nhieu,1tr dc bn,1tr dc bao nhieu|Nạp 1tr được 2tr hồng ngọc nhé thưa anh!  
-ty le nap,ti le nap|Tỷ lệ nạp 10k = 20k hồng ngọc, 40k = 10k thỏi vàng (chi tiết ở Santa)  
+ty le nap,ti le nap|Tỷ lệ nạp 10k = 20k hồng ngọc, 30k = 10k thỏi vàng (chi tiết ở Santa)  
 than tien|Cần phiếu giảm giá để mua set thần tiên  
 doi skill,msk,kaioken,kok,doi chieu,doi skill1,doi skill2,doi skill3,doi skill4,doi skill5|Gọi rồng thần đổi skill 2-3-4 đệ tử  
 1tab,2tab,3tab,4tab,5tab,tab|Giới hạn địa chỉ IP là 4 Tab online cùng lúc nhé  
