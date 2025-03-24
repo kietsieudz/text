@@ -6,7 +6,7 @@ groupname|Groups NROBTC
 btc,nrobtc|nrobtc coin là một đồng coin chỉ có trong ngocrongbtc, 1nrobtc coin = 1000 coin, đánh boss sẽ nhận được nrobtc coin, nrobtc coin khi săn boss sẽ có thể đổi thành usdt (25nrobtc coin = 1USDT), liên hệ ad, gửi địa chỉ ví để nhận.
 game rac,game sap,lua ga,sap sap, sap sup,game r a c,suc sinh,pr ban,bon rac,bon lon,bon lol,ngheo rach,lu cho,suc vat|LEU..LEU..|leuleu.png
 suu tam|Thẻ nào đánh quái đó là rơi nhé, nghe ad đồn full 1 con cần 270 thẻ thì phải
-dam dang|Dâm đãng quá đi à|chaymui.png
+dam dang|NO NO|chaymui.png
 rot cap,xit cap,ha cap,tut cap|Lúc nâng trang bị bà Hạt mít có thông báo rớt hay không, nếu rớt chắc chắn sẽ trừ chỉ số. Để an toàn hãy dùng đá bảo vệ ở Santa bỏ vào nhé
 alo,xin chao,hello,helo,hi,chao|Chào anh! Em là culi tại NroBtc!
 tkmk,tk mk,thanh cong,dang ky,dky,tao,sai,chinh xac,dang nhap,tao nv,tao nhan vat|Nếu gặp lỗi Bạn hãy chụp lại hoặc quay lại gửi vào đây để mọi người hỗ trợ  
@@ -38,7 +38,7 @@ su kien,sk|Sự kiện trong game được thông báo tại: https://www.facebo
 gioi han,gh dame,gh st|Boss nhiệm vụ sẽ giới hạn để người chơi sau dễ làm nhiệm vụ. Boss không phải nhiệm vụ sẽ không giới hạn nhé  
 kem vc,kem sang,kem qua|kém sang quá :))|leuleu.png  
 cho xin,cho tui,ai lay,cho tui|Có ai có không cho bạn với kìa :3|bu.png
-qua dao|Quả đào vào ngũ hành sơn gặp đường tăng mà coi  
+qua dao|Quả đào vào ngũ hành sơn gặp đường tăng  
 auto msk,auto kaioken,auto kok,auto masenko,autu msk,autu kok,autu kaioken,auto masenko|Do bạn đen thôi. Đệ ra ngẫu nhiên skill, gọi rồng 1 sao để đổi skill đệ tử  
 dhvt23,dai hoi vo thuat 23|Đi đại hội võ thuật 23 nhận được hồng ngọc với thỏi vàng đó nha  
 cang nhi,cang qua|Căng thì đi mua xăng:))|cangqua.png
@@ -46,11 +46,9 @@ vudang,vu dang|Mod Vũ Đăng thì chat 'menu' để mở full lệnh
 tai k dc,tai ko dc,tai khong dc,tai k duoc,tai ko duoc,tai khong duoc|Bạn vui lòng copy link https://ngocrongbtc.com ra Chrome hoặc Safari để tải game nhé  
 dep ac,bao dep,dep qua|Đẹp như gái đồng trinh|gaixinh.png  
 buon qua,buon ac,buon vc|Buồn cái bướm|buonmuonkhoc.png  
-chiu r,chiu luon,chiu roi|Nói thế chịu rồi biết sao giờ :!  
-dm|Định mệnh ta gặp nhao!!!|dm.png  
-bot rep chuan|Tôi lúc nào nói chuyện mà chả chuẩn! Nói chuyện phải vuông góc  
-vps|Anh em mua VPS ở đây nè! Hàng chính hãng ngon lành - Không như bọn clone ra đi bán dạo đâu nha: https://portal.vietnix.vn/aff.php?aff=3515  
-nung ac|Nứng ác luôn|nungac.png  
+chiu r,chiu luon,chiu roi|Chịuuuu:!  
+dm|Định mệnh ta gặp nhaoooo!!!|dm.png  
+bot rep chuan|Tôi lúc nào nói chuyện mà chả chuẩn! Oyeahhh 
 bot a,bot ha|Um bot nè. hỏi gì cứ hỏi đi súp bót tận giường luôn|nungac.png  
 sdg,max cs,max sd,max hp|Max 40k và 780k Mở giới hạn ở vách núi morri  
 vung dat|Vùng đất huỷ diệt bạn lên hành tinh Bill là qua được  
@@ -59,29 +57,10 @@ fan cung,fanpage,fancung,fc|Code khác bạn xem các bài viết ở Fanpage (N
 giftcode,code|cuoituanvuive,nrobtcopen,nrobtc1,nrobtc2 đến nrobtc9,Code khác bạn xem các bài viết ở Fanpage (Nhớ Follow, comment và nhắn tin để lấy cốt fan cứng: https://www.facebook.com/people/Ngoc-Rong-BTC/61570449455694/
 skill moi,skill dac biet,super kame,super kamejoko,ma phong ba,lien hoan chuong,bien hinh,skill9,skill 9|Học skill đặc biệt ở quy lão đảo kame. cày hoặc nạp đều học được, đi doanh trại sẽ rơi bí kíp học skill  
 so luon,thua|Thua luôn|thualuon.png  
-cay chay|thoai mai nha !!!...mlem..mlem  
+cay chay|cay thoai mai nha !!!...mlem..mlem  
 cay vl, cay vc,cay qua|Cay cái mà lay xay|hehe.png  
 tb boss,bao boss|Chat 'sb' để bật thông báo boss nha  
 ts,tan sat,danh quai,auto danh|Chat 'ts' để auto tàn sát quái nhé  
-10k duoc bn,10k duoc bao nhieu,10k dc bn,10k dc bao nhieu|Nạp 10k được 20k hồng ngọc nhé thưa anh!
-20k duoc bn,20k duoc bao nhieu,20k dc bn,20k dc bao nhieu|Nạp 20k được 40k hồng ngọc nhé thưa anh!
-30k duoc bn,30k duoc bao nhieu,30k dc bn,30k dc bao nhieu|Nạp 30k được 60k hồng ngọc nhé thưa anh!
-40k duoc bn,40k duoc bao nhieu,40k dc bn,40k dc bao nhieu|Nạp 40k được 80k hồng ngọc nhé thưa anh!
-50k duoc bn,50k duoc bao nhieu,50k dc bn,50k dc bao nhieu|Nạp 50k được 100k hồng ngọc nhé thưa anh!
-60k duoc bn,60k duoc bao nhieu,60k dc bn,60k dc bao nhieu|Nạp 60k được 120k hồng ngọc nhé thưa anh!
-70k duoc bn,70k duoc bao nhieu,70k dc bn,70k dc bao nhieu|Nạp 70k được 140k hồng ngọc nhé thưa anh!
-80k duoc bn,80k duoc bao nhieu,80k dc bn,80k dc bao nhieu|Nạp 80k được 160k hồng ngọc nhé thưa anh!
-90k duoc bn,90k duoc bao nhieu,90k dc bn,90k dc bao nhieu|Nạp 90k được 180k hồng ngọc nhé thưa anh!
-100k duoc bn,100k duoc bao nhieu,100k dc bn,100k dc bao nhieu|Nạp 100k được 200k hồng ngọc nhé thưa anh!
-200k duoc bn,200k duoc bao nhieu,200k dc bn,200k dc bao nhieu|Nạp 200k được 400k hồng ngọc nhé thưa anh!
-300k duoc bn,300k duoc bao nhieu,300k dc bn,300k dc bao nhieu|Nạp 300k được 600k hồng ngọc nhé thưa anh!
-400k duoc bn,400k duoc bao nhieu,400k dc bn,400k dc bao nhieu|Nạp 400k được 800k hồng ngọc nhé thưa anh!
-500k duoc bn,500k duoc bao nhieu,500k dc bn,500k dc bao nhieu|Nạp 500k được 1tr hồng ngọc nhé thưa anh!
-600k duoc bn,600k duoc bao nhieu,600k dc bn,600k dc bao nhieu|Nạp 600k được 1tr2 hồng ngọc nhé thưa anh!
-700k duoc bn,700k duoc bao nhieu,700k dc bn,700k dc bao nhieu|Nạp 700k được 1tr4 hồng ngọc nhé thưa anh!
-800k duoc bn,800k duoc bao nhieu,800k dc bn,800k dc bao nhieu|Nạp 800k được 1tr6 hồng ngọc nhé thưa anh!
-900k duoc bn,900k duoc bao nhieu,900k dc bn,900k dc bao nhieu|Nạp 900k được 1tr8 hồng ngọc nhé thưa anh!
-1tr duoc bn,1tr duoc bao nhieu,1tr dc bn,1tr dc bao nhieu|Nạp 1tr được 2tr hồng ngọc nhé thưa anh!  
 ty le nap,ti le nap|Tỷ lệ nạp 10k = 20k hồng ngọc, 30k = 10k thỏi vàng (chi tiết ở Santa)  
 than tien|Cần phiếu giảm giá để mua set thần tiên  
 doi skill,msk,kaioken,kok,doi chieu,doi skill1,doi skill2,doi skill3,doi skill4,doi skill5|Gọi rồng thần đổi skill 2-3-4 đệ tử  
@@ -102,8 +81,7 @@ xu ngu,dong xu|Up quái ngũ hành sơn rơi đồng xu rồi qua tương lai l�
 trung sinh|Trùng sinh cần canh mạnh bà, tăng thêm 5% chỉ số gốc  
 manh ba|Canh mạnh bà bạn có thể mua ở santa hoặc thu thập x999 11 nguyên liệu ở địa ngục. Bấm sử dụng nguyên liệu để nấu  
 bi kip,yadat,yardrat|Bạn qua núi khỉ vàng gặp goku ssj rồi vào hành tinh yardrat up bí kíp cải trang. Và Đi doanh trại đánh quái là rơi bí kíp tuyệt kĩ nhé, xong ra quy lão học sì kiu đặc biệt  
-doi do ts,duoc do ts,dc do ts,doi do thien su,duoc do thien su,dc do thien su|Cần mảnh thiên sứ + đồ thần linh + đồ huỷ diệt mới đổi được đồ thiên sứ  
-thien su,mts,manh ts|mảnh thiên sứ up ở hành tinh ngục tù rồi ra Whis đổi đồ thiên sứ  
+doi do ts,duoc do ts,dc do ts,doi do thien su,duoc do thien su,dc do thien su|Cần mảnh thiên sứ + đồ thần linh + đồ huỷ diệt mới đổi được đồ thiên sứ thien su,mts,manh ts|mảnh thiên sứ up ở hành tinh ngục tù rồi ra Whis đổi đồ thiên sứ  
 cau ca|Câu cá thì mua cần câu rồi bấm sử dụng là được (1 lần câu 500 hồng ngọc - không mất cần câu)  
 tieu doi sat thu,tdst,boss so,so 4,tdst|Tiểu đội sát thủ - Núi khỉ đen, Hang khỉ đen, Núi khỉ đỏ - 10 phút - giờ hỗ trợ: 9-12h và 21-24h  
 fide,fd,fire|Fide - 10 phút - giờ hỗ trợ: 9-12h và 21-24h  
