@@ -93,7 +93,7 @@ doremon,doraemon,nobita,shizuka,chaien,xeko|Boss Tiểu đội doraemon (20 phú
 ruong chi ton,ruong long vu|Rương long vu mua ở santa mở ra 1 set 5 món tự chọn loại nhé  
 nut di chuyen|Nút di chuyển bạn bấm vào nút tam giác bên tay trái rồi vào phần Chức Năng, chọn Cấu Hình, rồi chọn Bàn Phím Ảo nhé  
 hon chi ton|Dùng cuồng nộ siêu cấp đánh quái cold sẽ rơi hồn chí tôn, nâng ở Hạt mít đảo kame hoặc mua Rương Long vũ ở Santa (được chọn set)  
-set sam|hồn xám, Cách kiếm: bạn dùng cuồng nộ thường và đánh quái cold sẽ rơi, Cách dùng: bạn xem ở Bà Hạt Mít  
+set sam, hon xam|hồn xám, Cách kiếm: bạn dùng cuồng nộ thường và đánh quái cold sẽ rơi, Cách dùng: bạn xem ở Bà Hạt Mít  
 manh hon, kinh soi, kinh lup, vien keo|Bạn mua [kính lúp], [kính soi], và [viên kẹo] sau đó đi tìm [mảnh hồn] nhé (có thể tìm được [rương chí tôn] từ chức năng này đó) Các [mảnh hồn] có thể đổi vài món đồ ở santa đó  
 thuc an, do an|Thức ăn bạn mặc set thần linh rồi up quái cold là rơi  
 black goku|Black goku mạnh vcl đấy mấy cưng, rơi nhẫn thời không để vào map Chilled  
