@@ -3,7 +3,7 @@ de vip,broly,de tu|Nhận Broly ở mốc nạp nhé
 hong ngoc,hngoc,hn|Hồng ngọc săn boss, up cold, up cskb, ĐHVT + ĐHVT23 + Siêu Hạng, Nạp thẻ (Còn nhiều cách khác)  
 thoi vang,tvang,tv|Thỏi vàng làm nhiệm vụ bò mộng, hộ tống, ĐHVT23, Nạp thẻ (Còn nhiều cách khác)  
 groupname|Groups NROBTC  
-btc,nrobtc|nrobtc coin là một đồng coin chỉ có trong ngocrongbtc, 1nrobtc coin = 1000 coin, đánh boss sẽ nhận được nrobtc coin, nrobtc coin khi săn boss sẽ có thể đổi thành usdt (25nrobtc coin = 1USDT), liên hệ ad, gửi địa chỉ ví để nhận.
+btc,nrobtc|nrobtc coin là một đồng coin chỉ có trong ngocrongbtc, 1nrobtc coin = 1000 coin, đánh boss sẽ nhận được nrobtc coin, Đổi 20NroBtc coin sang 40K Hồng ngọc hoặc 30 NroBtcCoin sang 10k Thỏi Vàng tại Shop Linh Tinh ở santa 
 game rac,game sap,lua ga,sap sap, sap sup,game r a c,suc sinh,pr ban,bon rac,bon lon,bon lol,ngheo rach,lu cho,suc vat|LEU..LEU..|leuleu.png
 suu tam|Thẻ nào đánh quái đó là rơi nhé, nghe ad đồn full 1 con cần 270 thẻ thì phải
 dam dang|NO NO|chaymui.png
