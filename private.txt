@@ -1,7 +1,7 @@
-rac,svat,suc vat,lua,sup,sap,.,j,jv,cc,dm,dcmm,deo,dmm,!,?,??,???,:))|🥲 Gửi nhầm, sorry!
+rac,svat,suc vat,lua,sup,sap,j,jv,cc,dm,dcmm,deo,dmm|🥲 Gửi nhầm, sorry!
 nao,op,open,test,sv,mo|Vô đi
-ad,xin,link,box,zalo|Link trên kìa ông 👆
-tf,testflight|Có đủ
+ad,xin,link,box,zalo,tai,nhom|Link đó 👆
+tf,testflight,jar,jav|Có đủ
 dame,st|Dame trung
 
 
