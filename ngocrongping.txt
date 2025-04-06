@@ -109,14 +109,6 @@ mat pt, mat bang|Game vừa thông báo clear pt bảo toàn data hàng tháng
 zeno|Về nhà nạp đầu đi là có cải trang zeno, mặc cải trang zeno đánh quái ở fide sẽ rơi đá, rồi vô nhà nâng cấp  
 da quy, gas|đá quý săn tiểu đội đường tăng hoặc đi khí gas ở làng aru nhé (cần bản đồ rơi trong doanh trại)  
 dbv, da bao ve|đá bảo vệ bạn đi doanh trại rơi đầy hoặc mua 3000 Đá bảo vệ giá rẻ ở santa  
-khuyen mai, km nap, x nap, x2 nap, x3 nap, x5 nap, x10 nap|Game khuyến mãi nạp tối đa 30% chứ không có quá nhé (Game khác nạp vàng nên mới có x2,x3. Còn server này nạp Coin nên không có x nạp nha - x nạp server này là nát game. Tránh lạm phát nên sẽ không có x nạp). Mọi người thông đít giúp Bot nha  
-nap sao, nap s,nap, nap kieu, nap ntn, nap nhu, muon nap, nap tien,nap atm,nap banking, nap bank, chuyen khoan, nap card, nap car, nap cac, donate, nap dau, nap lan dau|🔸Nạp tự động tại trang chủ https://ngocrongping.com nhé. 
-nap sao, nap s, nap,nap kieu, nap ntn, nap nhu, muon nap, nap tien,nap atm,nap banking, nap bank, chuyen khoan, nap card, nap car, nap cac, donate, nap dau, nap lan dau|🔸Xong vô santa đổi qua hồng ngọc hoặc thỏi vàng (coi mốc nạp ở santa lun nha)
-nap sao, nap s, nap,nap kieu, nap ntn, nap nhu, muon nap, nap tien,nap atm,nap banking, nap bank, chuyen khoan, nap card, nap car, nap cac, donate, nap dau, nap lan dau|🔸Hiện tại đang có event nạp mỗi 20k tặng capsule có tỷ lệ xuất hiện đệ tử Omega tăng đến 100% chỉ số nữa đấy
-nap sao, nap s, nap,nap kieu, nap ntn, nap nhu, muon nap, nap tien,nap atm,nap banking, nap bank, chuyen khoan, nap card, nap car, nap cac, donate, nap dau, nap lan dau|🔸Ngoài ra: nạp đầu 50k bạn sẽ được tặng thêm một cải trang Zeno gồm 4 bậc nữa đấy. có kèm +50% SMTN nữa nhé.
-nap k, nap ko, nap khong, nap mai, nap hoai|🔸Bước 1: Bạn kiểm tra lại xem đã ghi đúng nội dung chuyển khoản chưa? nếu chưa thì liên hệ cho ad kèm bill chuyển khoản (lịch sử) 
-nap k, nap ko, nap khong, nap mai, nap hoai|🔸Bước 2: Bạn kiểm tra trên website đã hiện coin chưa, hiện rồi thì bạn thoát game vào lại sẽ thấy coin tại santa.
-nap k, nap ko, nap khong, nap mai, nap hoai|💥Đôi khi ngân hàng kẹt đơn thì bạn phải chờ hơi lâu để ngân hàng xét duyệt. Mong bạn thông cảm nếu sự cố này xảy ra 🤗
 ngoc rong sieu cap, nrsc, ngoc rong sc|Ngọc rồng siêu cấp chỉ để ước (không ép được) (ước được gì thì ước đi rồi biết chứ tôi biết đâu)
 1 sao, 2 sao|Ép từ bộ 3 sao ad cho ở Bà Hạt Mít
 ai dep, bot dep|admin đẹp nhất nhé! Tôi đánh giá khách quan là như thế  
