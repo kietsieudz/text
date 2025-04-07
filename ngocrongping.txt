@@ -7,6 +7,7 @@ xin bai, bai dau, bai share, xin noi dung|Đăng nhập vô trang chủ rồi b�
 ip|NroPing:14.225.213.56:14445:0,0,0
 giftcode,code|Code nroping1 -> 15 nhé
 ve tinh|Vệ tinh mua ở santa
+ngoc|ngọc săn boss cooler rơi rương ngọc mở ra lấy ngọc ép vào ở bà hạt mít
 skh nao,skh vip,skh,set nao, set kh nao, set kh vip|Set kích hoạt Chí tôn vip nhất mua ở santa hoặc cày ở hạt mít
 top nap,top nv, top sm, top nhiem vu,top suc manh|Đăng nhập vào trang chủ rồi qua diễn đàn để xem top nhé
 xui qua|Capsule mở ra xui quá sẽ tăng tỷ lệ ra omega cho viên tiếp theo (cộng dồn may mắn)
