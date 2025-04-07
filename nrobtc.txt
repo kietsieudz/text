@@ -117,7 +117,7 @@ nap, donate|Nạp Tự Động -> Tại https://ngocrongbtc.com nhé. Rồi vào
 moc nap|xem -> Tại https://ngocrongbtc.com/gift. Hoặc ở Santa.
 ngoc rong sieu cap, nrsc, ngoc rong sc|Ngọc rồng siêu cấp chỉ để ước (không ép được) (ước được gì thì ước đi rồi biết chứ tôi biết đâu)  
 ai dep, bot dep|admin đẹp nhất nhé! Tôi đánh giá khách quan là như thế  
-chan|Chán chả muốn nói :))) |leuleu.png
+chan|Chán chả buồn nói :))) |leuleu.png
 bot ngu,meo ngu|mày mới là thằng ngu đó|ngu.png
 alo, hello, chao|Em là chatbot hỗ trợ tại đây, có gì cần giúp anh cứ nói nhé, em luôn sẵn sàng!
 bot khon|ai cũng biết rằng tôi khôn mà|deptrai.png
