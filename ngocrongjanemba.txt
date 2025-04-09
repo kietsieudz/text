@@ -263,5 +263,6 @@ chien bi gay,chien gay|Chiến bị Gay..
 hieu bi gay,hieu gay|Hiếu bị Gay..
 nghia bi gay,nghia gay|Nghĩa bị Gay..
 quang bi gay,quang gay|Quang bị Gay..
+da bi gay, da gay|Dạ bị Gay..
 tinh bi gay,tinh gay|Tính bị Gay..
 
