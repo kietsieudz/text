@@ -1,3 +1,25 @@
-ad,xin,link,box,zalo,tai,nhom|Link đó 👆
-tf,testflight,jar,jav|Có đủ
-dame,st|Dame trung
+ad,xin,link,box,zalo,tai,nhom|Link: https://thanhdi.top
+tf,testflight,jar,jav,ios|Có đủ
+dame,st|Dame trung nha
+hay|Hay nha
+cc|Cc gì má
+code,giftcode|Giftcode ghi thẳng khi vô web lun nha https://thanhdi.top
+vang,ngoc|Free vàng ngọc má ơi
+a du|Á đù
+nhu|Như gì má
+open,test,op|Mới open đó
+cl j|Cl gì má
+hot|Hot lắm
+ai|Tui nè má
+dt,de tu,detu|Free đệ tử nha má
+Oki,ok|Oki
+gi day|Gì đâu má, ai biết gì
+ha|Hả gì má
+on|Ổn
+ngon|Ngon
+
+
+
+
+
+
