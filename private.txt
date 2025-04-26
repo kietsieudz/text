@@ -8,6 +8,7 @@ vang,ngoc|Free vàng ngọc má ơi
 a du|Á đù
 nhu|Như gì má
 open,test,op|Mới open đó
+game j,game gi|Game ngọc rồng đó má
 cl j|Cl gì má
 hot|Hot lắm
 ai|Tui nè má
