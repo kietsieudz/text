@@ -9,7 +9,7 @@ hong ngoc,hngoc,hn|🔹 Săn boss Bojack, Boss Bujin, Boss Zangya, Boss Bido, Bo
 hong ngoc,hngoc,hn|🔹 Săn Boss Yanrobi, Boss Brook, Boss Luffy, Boss Nami, Boss Bido, Boss Sanji
 hong ngoc,hngoc,hn|🔹 Săn Boss Super Bojack, Boss Liễu thần, Boss Gohan NN, etc...
 thoi vang,tvang,tv|🔹 Thỏi vàng làm nhiệm hộ tống, nhiệm vụ bò mộng, ĐHVT23, Săn Boss, Nạp thẻ, và nhiều cách nữa
-thoi vang|🔹 Đang sự kiện điểm danh tại nhà, điểm danh ngày 1 nhận 500 tv, + 100 tv cho những ngày tiếp theo, liên tuc 15 ngày
+thoi vang,tvang,tv|🔹 Đang sự kiện điểm danh tại nhà, điểm danh ngày 1 nhận 500 tv, + 100 tv cho những ngày tiếp theo, liên tuc 15 ngày
 groupname|Groups NROBTC  
 btc,nrobtc|🔹 nrobtc coin là một đồng coin chỉ có trong ngocrongbtc, 1nrobtc coin = 1000 coin, đánh boss sẽ nhận được nrobtc coin, Đổi 20NroBtc coin sang 40K Hồng ngọc hoặc 30 NroBtcCoin sang 10k Thỏi Vàng tại Shop Linh Tinh ở santa
 btc,nrobtc|🔹 Hoặc đủ 25nrobtc coin liên hệ ad để đổi sang USDT
