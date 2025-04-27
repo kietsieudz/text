@@ -65,6 +65,7 @@ dc dau,duoc dau,co dc dau|Xin lỗi mình chỉ là BotChat. Nếu mình không 
 fan cung,fanpage,fancung,fc|Code khác bạn xem các bài viết ở Fanpage (Nhớ Follow, comment và nhắn tin để lấy cốt fan cứng: https://www.facebook.com/people/Ngoc-Rong-BTC/61570449455694/
 giftcode,code|🔹 Code Tân thủ: nrobtc1,nrobtc2 đến nrobtc9
 giftcode,code|🔹 Code Tuần:cuoituanvuive
+giftcode,code|🔹 Code SK 30/04:nrobtc3004, xetang3004
 giftcode,code|🔹 Code Fancung, xem các bài viết ở Fanpage (Nhớ Follow, comment và nhắn tin để lấy cốt fan cứng: https://www.facebook.com/people/Ngoc-Rong-BTC/61570449455694/
 skill moi,skill dac biet,super kame,super kamejoko,ma phong ba,lien hoan chuong,bien hinh,skill9,skill 9|Học skill đặc biệt ở quy lão đảo kame. cày hoặc nạp đều học được, đi doanh trại sẽ rơi bí kíp học skill  
 so luon,thua|Thua luôn|thualuon.png  
