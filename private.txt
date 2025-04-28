@@ -1,4 +1,4 @@
-ad,xin,link,box,zalo,tai,nhom|Link: https://thanhdi.top
+ad,xin,link,box,zalo,tai,nhom,zl|Link: https://thanhdi.top
 tf,testflight,jar,jav,ios,ip|Có đủ
 dame,dmae,dam,st|Dame trung nha
 hay|Hay nha
@@ -15,7 +15,6 @@ nhu|Như gì má
 gui ad,gui event,gui bai share, gui sk,gui su kien|Gửi cho key vàng đi má
 game ao|Ảo đâu má, bình thường mà
 smtn,tnsm|Cao nha
-open,test,tets,op,mo,bh,baoh,bao h|Mới open đó
 game j,game gi|Game ngọc rồng đó má
 cl j|Cl gì má
 hot|Hot lắm
@@ -23,14 +22,37 @@ ong,ad,admin|Ad key vàng trong box zalo nha mẹ. hong phải tui
 ban nao|Có tên kìa má
 fan cung,fancung,fc|Code fancung: YEUFANPAGE nha má
 ai|Tui nè má
+what,wtf|What gì mẹ, có gì nói đi mẹ
 free|Free
 dt,de tu,detu|Free đệ tử nha má
 Oki,ok|Oki
-gi day,j day,jz,j z|Gì đâu má, ai biết gì
+gi day,j day,jz,j z, j the,gi the|Gì đâu má, ai biết gì
 ha|Hả gì má
-
 on|Ổn
+tu van|Tư vấn gì mẹ
+3 sao|3 sao free 999 bộ từ code nhá
+lol|Lol gì mẹ
+lag|Lag đâu mẹ. zô web cài cho đúng là được mà mẹ
+k choi, ko choi, khong choi|Sao z mẹ, nói nghe bùn z mẹ
+mtv,mo tv,mo thanh vien|Free mtv nha mẹ. tạo nv là kích hoạt sẵn
+gdtg|Hỏi ad thử má
+sao bt,sao biet|Ai biết gì đâu mẹ. Tôi bị oan
+muon acc,xin acc|Acc đâu mà cho mẹ
+open chua,op chua,op ch,open ch|Mới open lun nha má
+test ma, test a, tets ma,tets a,tets lau,test lau|Open nha mẹ
+op a,open a,op ha, open ha|Đúng rồi má
+bao gio,bh, baoh, bao h|Open chính thức rồi má ơi. Free all ko cần mtv
+test ha|Mới open chính thức nha mẹ
+mo khi nao,khi nao op, khi nao open, open luc nao, op luc nao|Kêu là mới open rồi má ơi
+mo chua|Mở rồi đó má
+hai,hi|Ba
+an lol,an lon|Ăn chứ
+wow|Wao
+sao bac,sao z,sao vay,sao day|Sao gì đâu má, ai biết gì đâu
+dc k,duoc k, dc khong,duoc khong|Được nha má
+alo,lo|Lô gì má
 ngon|Ngon
+
 
 
 
