@@ -1,26 +1,34 @@
 ad,xin,link,box,zalo,tai,nhom|Link: https://thanhdi.top
-tf,testflight,jar,jav,ios|Có đủ
-dame,st|Dame trung nha
+tf,testflight,jar,jav,ios,ip|Có đủ
+dame,dmae,dam,st|Dame trung nha
 hay|Hay nha
 cc|Cc gì má
-ghe|Ghee
+ghe|Ghê lắm nha mẹ
+goc hay ao|Trung nha má. hong có ảo
 oi|Oi
 code,giftcode|Giftcode ghi thẳng khi vô web lun nha https://thanhdi.top
 vang,ngoc|Free vàng ngọc má ơi
 a du|Á đù
-jv, j vay|Ai biết gì má
+jv, j vay,gi z, gi v|Ai biết gì má
 skh|đánh quái rơi
 nhu|Như gì má
+gui ad,gui event,gui bai share, gui sk,gui su kien|Gửi cho key vàng đi má
+game ao|Ảo đâu má, bình thường mà
 smtn,tnsm|Cao nha
-open,test,tets,op,mo|Mới open đó
+open,test,tets,op,mo,bh,baoh,bao h|Mới open đó
 game j,game gi|Game ngọc rồng đó má
 cl j|Cl gì má
 hot|Hot lắm
+ong,ad,admin|Ad key vàng trong box zalo nha mẹ. hong phải tui
+ban nao|Có tên kìa má
+fan cung,fancung,fc|Code fancung: YEUFANPAGE nha má
 ai|Tui nè má
+free|Free
 dt,de tu,detu|Free đệ tử nha má
 Oki,ok|Oki
-gi day|Gì đâu má, ai biết gì
+gi day,j day,jz,j z|Gì đâu má, ai biết gì
 ha|Hả gì má
+
 on|Ổn
 ngon|Ngon
 
