@@ -3,11 +3,16 @@ tf,testflight,jar,jav,ios|Có đủ
 dame,st|Dame trung nha
 hay|Hay nha
 cc|Cc gì má
+ghe|Ghee
+oi|Oi
 code,giftcode|Giftcode ghi thẳng khi vô web lun nha https://thanhdi.top
 vang,ngoc|Free vàng ngọc má ơi
 a du|Á đù
+jv, j vay|Ai biết gì má
+skh|đánh quái rơi
 nhu|Như gì má
-open,test,op|Mới open đó
+smtn,tnsm|Cao nha
+open,test,tets,op,mo|Mới open đó
 game j,game gi|Game ngọc rồng đó má
 cl j|Cl gì má
 hot|Hot lắm
