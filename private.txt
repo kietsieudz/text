@@ -1,4 +1,4 @@
-ad,xin,link,box,zalo,tai,nhom,zl|Link: https://thanhdi.top
+ad,xin,link,box,zalo,tai,nhom,zl|Link trên đó
 tf,testflight,jar,jav,ios,ip|Có đủ
 dame,dmae,dam,st|Dame trung nha
 hay|Hay nha
