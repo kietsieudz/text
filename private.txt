@@ -1,7 +1,8 @@
 ad,xin,link,box,zalo,tai,nhom,zl|Link trên đó
 tf,testflight,jar,jav,ios,ip|Có đủ
-dame,dmg,dmae,dam,st|Dame trung nha
+dame,dmg,dmae,dam,st,ao hay,trung hay,goc hay|Dame trung nha
 hay|Hay nha
+lau chua,sv mo|Mới nha
 loi roi,game loi,loi game|Bạn thử xoá dữ liệu game tải lại là ổn nha
 ban acc|Không có nha
 hong ngoc,hngoc,hn|Hồng ngọc cày cuốc nha. Có thể nạp rồi vô santa đổi với tỉ lệ 1:2
@@ -28,10 +29,11 @@ ong,ad,admin|Ad key vàng trong box zalo nha mẹ. hong phải tui
 ban nao|Có tên kìa má
 fan cung,fancung,fc|Code fancung: YEUFANPAGE nha má
 ai|Tui nè má
+tui|Bạn ông mà
 what,wtf|What gì mẹ, có gì nói đi mẹ
 free|Free
 dt,de tu,detu|Free đệ tử nha má
-Oki,ok|Oki
+Oki,ok,oce|Oki
 gi day,j day,jz,j z, j the,gi the|Gì đâu má, ai biết gì
 on|Ổn
 tu van|Tư vấn gì mẹ
@@ -44,7 +46,7 @@ gdtg|Hỏi ad thử má
 sao bt,sao biet|Ai biết gì đâu mẹ. Tôi bị oan
 muon acc,xin acc|Acc đâu mà cho mẹ
 open chua,op chua,op ch,open ch|Mới open lun nha má
-test ma, test a, tets ma,tets a,tets lau,test lau|Open nha mẹ
+test ma, test hay, test vv, test vinh vien,test a, tets ma,tets a,tets lau,test lau|Open nha mẹ
 op a,open a,op ha, open ha|Đúng rồi má
 bao gio,bh, baoh, bao h|Open chính thức rồi má ơi. Free all ko cần mtv
 test ha|Mới open chính thức nha mẹ
