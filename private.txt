@@ -3,6 +3,7 @@ tf,testflight,jar,jav,ios,ip|Có đủ
 dame,dmae,dam,st|Dame trung nha
 hay|Hay nha
 cc|Cc gì má
+k dc,ko dc,khong dc,k duoc,ko duoc,khong duoc|Copy link ra chrome hoặc safari nha má
 ghe|Ghê lắm nha mẹ
 goc hay ao|Trung nha má. hong có ảo
 oi|Oi
