@@ -28,7 +28,6 @@ free|Free
 dt,de tu,detu|Free đệ tử nha má
 Oki,ok|Oki
 gi day,j day,jz,j z, j the,gi the|Gì đâu má, ai biết gì
-ha|Hả gì má
 on|Ổn
 tu van|Tư vấn gì mẹ
 3 sao|3 sao free 999 bộ từ code nhá
