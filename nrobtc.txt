@@ -133,8 +133,9 @@ mat pt, mat bang|Game vừa thông báo clear pt bảo toàn data hàng tháng
 da quy, gas|đá quý săn tiểu đội đường tăng hoặc đi khí gas ở làng aru nhé (cần bản đồ rơi trong doanh trại)  
 dbv, da bao ve|đá bảo vệ bạn đi doanh trại rơi đầy hoặc mua 3000 Đá bảo vệ giá rẻ ở santa  
 khuyen mai, km nap, x nap, x2 nap, x3 nap, x5 nap, x10 nap|Tránh lạm phát và lâu dài, nên sẽ không có x nạp kiểu x2.x3 nhé. 
-nap, donate|Nạp Tự Động -> Tại https://ngocrongbtc.com nhé. Rồi vào santa đổi qua hồng ngọc hoặc thỏi vàng.
-moc nap|xem -> Tại https://ngocrongbtc.com/gift. Hoặc ở Santa.
+nap, donate, atm| 🔹 Nạp Tự Động -> Tại https://ngocrongbtc.com. Rồi vào santa dùng coin đổi qua hồng ngọc hoặc thỏi vàng.
+nap, donate, atm| 🔹 Hiện có sk nạp mỗi 20k được quay vòng quay may mắn tại web, đc thêm coin
+nap, donate, atm| 🔹 Hiện có sk nạp mỗi 50k được mở túi mù tại web, mở ra mảnh trứng Đệ Vip SSJ4 (+100% khi hợp thể)
 ngoc rong sieu cap, nrsc, ngoc rong sc|Ngọc rồng siêu cấp chỉ để ước (không ép được) (ước được gì thì ước đi rồi biết chứ tôi biết đâu)  
 ai dep, bot dep|admin đẹp nhất nhé! Tôi đánh giá khách quan là như thế  
 chan|Chán chả buồn nói :))) |leuleu.png
