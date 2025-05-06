@@ -21,7 +21,7 @@ thoi vang,tvang,tv|🔹 Thỏi vàng làm nhiệm hộ tống, nhiệm vụ bò 
 thoi vang,tvang,tv|🔹 Đang sự kiện điểm danh tại nhà, điểm danh ngày 1 nhận 500 tv, + 100 tv cho những ngày tiếp theo, liên tuc 15 ngày
 groupname|Groups NROBTC  
 nrobtc|🔹 nrobtc coin là một đồng coin chỉ có trong ngocrongbtc, 1nrobtc coin = 1000 coin, đánh boss sẽ nhận được nrobtc coin, Đổi 20NroBtc coin sang 40K Hồng ngọc hoặc 30 NroBtcCoin sang 10k Thỏi Vàng tại Shop Linh Tinh ở santa
-btc,nrobtc|🔹 Hoặc đủ 25nrobtc coin liên hệ ad để đổi sang USDT
+nrobtc|🔹 Hoặc đủ 25nrobtc coin liên hệ ad để đổi sang USDT
 game rac,game sap,lua ga,sap sap, sap sup,game r a c,suc sinh,pr ban,bon rac,bon lon,bon lol,ngheo rach,lu cho,suc vat|LEU..LEU..|leuleu.png
 suu tam|Thẻ nào đánh quái đó là rơi nhé, nghe ad đồn full 1 con cần 270 thẻ thì phải
 dam dang|NO NO|chaymui.png
