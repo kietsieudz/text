@@ -112,7 +112,8 @@ pic,poc,kingkong,ppkk|Pic-Poc-Kingkong - 15 phút - Thành phố phía bắc(có
 thi tran,ginder,xen bo hung,xbh|Xên bọ hung - 15 phút - Thị trấn Ginder - giờ hỗ trợ: 9-12h và 21-24h - sát thương tối đa: 400.000.000 (có thể bỏ qua nhiệm vụ ở nhà)  
 xen vo dai,cell vo dai,sieu bo hung,vo dai|Siêu Bọ Hung - 15 phút - Võ Đài Xên Bọ Hung - giờ hỗ trợ: 9-12h và 21-24h - sát thương tối đa: 500.000.000 (có thể bỏ qua nhiệm vụ ở nhà)  
 doremon,doraemon,nobita,shizuka,chaien,xeko|Boss Tiểu đội doraemon (20 phút) (có thể bỏ qua nhiệm vụ ở nhà)  
-ruong chi ton,ruong long vu|Rương long vu mua ở santa mở ra 1 set 5 món tự chọn loại nhé  
+ruong chi ton,ruong long vu, long vu|🔹 Rương long vu mua ở santa mở ra 1 set 5 món tự chọn
+ruong chi ton,ruong long vu, long vu|🔹 Có thể Dùng Set Thần tiên để đổi rương long vũ ở bà hạt mít
 nut di chuyen|Nút di chuyển bạn bấm vào nút tam giác bên tay trái rồi vào phần Chức Năng, chọn Cấu Hình, rồi chọn Bàn Phím Ảo nhé  
 hon chi ton|Dùng cuồng nộ siêu cấp đánh quái cold sẽ rơi hồn chí tôn, nâng ở Hạt mít đảo kame hoặc mua Rương Long vũ ở Santa (được chọn set)  
 set sam, hon xam|hồn xám, Cách kiếm: bạn dùng cuồng nộ thường và đánh quái cold sẽ rơi, Cách dùng: bạn xem ở Bà Hạt Mít  
