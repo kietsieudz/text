@@ -2,7 +2,7 @@ ad,xin,link,box,zalo,tai,nhom,zl|Link trên đó
 tf,testflight,jar,jav,ios,ip|Có đủ
 dame,dmg,dmae,dam,st,ao hay,trung hay,goc hay|Dame trung nha
 hay|Hay nha
-lau chua,sv mo|Mới nha
+lau chua,sv mo,lau ch|Mới nha
 loi roi,game loi,loi game|Bạn thử xoá dữ liệu game tải lại là ổn nha
 ban acc|Không có nha
 hong ngoc,hngoc,hn|Hồng ngọc cày cuốc nha. Có thể nạp rồi vô santa đổi với tỉ lệ 1:2
