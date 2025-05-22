@@ -7,6 +7,7 @@ loi roi,game loi,loi game|Bạn thử xoá dữ liệu game tải lại là ổn
 ban acc|Không có nha
 hong ngoc,hngoc,hn|Hồng ngọc cày cuốc nha. Có thể nạp rồi vô santa đổi với tỉ lệ 1:2
 cc|Cc gì má
+k tai, ko tai, khong tai, tai k, tai ko, tai khong|Copy link ra chrome hoặc safari tải nhé
 nap lau,lau qua,cong tien|Lỗi nạp thì nhắn cho key vàng trong box chat nha. k phải tui
 share|Đăng nhập vô trang chủ rồi bấm qua diễn đàn để tham gia nha
 k dc,ko dc,khong dc,k duoc,ko duoc,khong duoc|Copy link ra chrome hoặc safari nha má
