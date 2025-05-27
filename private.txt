@@ -14,6 +14,9 @@ dao khoang san, may dao|Máy đào là mua 1 tháng thì mỗi ngày thu 1 lư�
 ua|Ủa alo
 free bao nhieu, free bn, free bnhieu, free bnhiu|Free bao nhiều lun
 dm bot|Wtf
+up sao|Cày nhanh ở ngũ hành sơn á, game dễ cày
+sap k, sup k, sup ko, sup khong,sap khong, sap ko|Không, đông vcl sao sập
+dong k, dong ko, dong khong|Đông nhót lun kkk
 co all|Có all
 out game, roi game, bo game, nghi game|Chơi lại đi năn nỉ mà, game nhiều cái zui lắm bà ơi
 cai j,cai gi|Cái game
@@ -27,7 +30,7 @@ ghe|Ghê lắm nha mẹ
 goc hay ao|Trung nha má. hong có ảo
 oi|Oi
 k co,ko co,khong co|Bạn copy link ra chrome nha
-kb di,acept,dong y,ket ban|Chờ xíu mình chấp nhận kb nha
+kb di,acept,dong y,ket ban,kb roi,kb rui,kb r, ket ban roi, ket ban rui, ket ban r|Chờ xíu mình chấp nhận kb nha
 code,giftcode|Giftcode ghi thẳng khi vô web link trên kia nha
 vang,ngoc|Free vàng ngọc má ơi
 a du|Á đù
@@ -76,10 +79,3 @@ sao bac,sao z,sao vay,sao day|Sao gì đâu má, ai biết gì đâu
 dc k,duoc k, dc khong,duoc khong|Được nha má
 alo,lo|Lô gì má
 ngon|Ngon
-
-
-
-
-
-
-
