@@ -9,6 +9,7 @@ hong ngoc,hngoc,hn|Hồng ngọc cày cuốc nha. Có thể nạp rồi vô sant
 cc|Cc gì má
 lon gi,cac gi|????
 co all|Có all
+game gi,game j,gem gi,gem j|Game ngọc rồng nha
 ??,???,????,?????|Sao nè
 k tai, ko tai, khong tai, tai k, tai ko, tai khong|Copy link ra chrome hoặc safari tải nhé
 nap lau,lau qua,cong tien|Lỗi nạp thì nhắn cho key vàng trong box chat nha. k phải tui
