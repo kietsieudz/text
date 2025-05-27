@@ -8,6 +8,7 @@ ban acc|Không có nha
 hong ngoc,hngoc,hn|Hồng ngọc cày cuốc nha. Có thể nạp rồi vô santa đổi với tỉ lệ 1:2
 cc|Cc gì má
 lon gi,cac gi|????
+dm bot|Wtf
 co all|Có all
 game gi,game j,gem gi,gem j|Game ngọc rồng nha
 ??,???,????,?????|Sao nè
