@@ -70,7 +70,7 @@ gdtg|Hỏi ad thử má
 sao v,sao z,sao vay,sao zay,sao a|Sao đâu
 sao bt,sao biet|Ai biết gì đâu mẹ. Tôi bị oan
 muon acc,xin acc|Acc đâu mà cho mẹ
-open chua,op chua,op ch,open ch,open khi|Mới open lun nha má
+open chua,open chx,op chua,op ch,open ch,open khi|Mới open lun nha má
 test ma, test hay,tes ha,tet ha, test vv, test vinh vien,test a, tets ma,tets a,tets lau,test lau, test hay, tet hay, open hay, op hay|Open nha mẹ
 op a,open a,op ha, open ha|Đúng rồi má
 bao gio,bh, baoh, bao h|Open chính thức rồi má ơi. Free all ko cần mtv
