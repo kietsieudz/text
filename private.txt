@@ -16,6 +16,7 @@ lon gi,cac gi|????
 mat song|Bạn chọn sv xog chờ vài giây để game tạo kết nối đã nha
 dao khoang san, may dao|Máy đào là mua 1 tháng thì mỗi ngày thu 1 lượng hồng ngọc nhiều hơn nạp
 ua|Ủa alo
+tht k, tht ko, tht khong, that k, that ko, that khong,thiet k,thiet ko,thiet khong|Thật chứ kkk
 free bao nhieu, free bn, free bnhieu, free bnhiu|Free bao nhiều lun
 dm bot|Wtf
 up sao|Cày nhanh ở ngũ hành sơn á, game dễ cày
