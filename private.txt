@@ -8,6 +8,7 @@ ban acc|Không có nha
 hong ngoc,hngoc,hn|Hồng ngọc cày cuốc nha. Có thể nạp rồi vô santa đổi với tỉ lệ 1:2
 cc|Cc gì má
 lon gi,cac gi|????
+co all|Có all
 ??,???,????,?????|Sao nè
 k tai, ko tai, khong tai, tai k, tai ko, tai khong|Copy link ra chrome hoặc safari tải nhé
 nap lau,lau qua,cong tien|Lỗi nạp thì nhắn cho key vàng trong box chat nha. k phải tui
