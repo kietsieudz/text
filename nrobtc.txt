@@ -1,7 +1,7 @@
 Pet rong|🔹 Thu thập đủ 10 mảnh mở trứng pet để mở ra 1 pet rồng từ 1 đến 7Sao, 4Sao VIP nhất
 Summon Pet,Pet rong|🔹 Vào Bà hạt mít để summon, sau khi Summon pet tham gia summon hiện sẽ ko mất
-Summon Pet,Pet rong|🔹 Summon thường: cần 4 pet, summon tỉ ra pet Thần Thoại (4S VIP nhất)
-Summon Pet,Pet rong|🔹 Summon Thần Long: cần 6 pet, summon tỉ ra pet Thần Long, tỉ lệ ra 1 trong các hệ (Lửa, Nước, Sét, Đất, ...)
+Summon Pet,Pet rong|🔹 Summon thường: cần 4 pet, summon tỉ lệ ra pet Thần Thoại (4S VIP nhất)
+Summon Pet,Pet rong|🔹 Summon Thần Long: cần 6 pet, summon tỉ lệ ra pet Thần Long, và 1 trong các hệ (Lửa, Nước, Sét, Đất, ...)
 chu an| UP ngu hanh son, lúc 20h
 open, game open,sv op|🔹 Game mới open, Game Free MTV 100%. Cày 40 tỷ là gd được
 Tan Thu|🔹 Vào Quỷ lảo Kame, để đến Map Hỗ Trợ Tân Thủ (Ac mới tạo dưới 8 ngày)
