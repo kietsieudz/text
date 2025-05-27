@@ -52,6 +52,7 @@ lag|Lag đâu mẹ. zô web cài cho đúng là được mà mẹ
 k choi, ko choi, khong choi|Sao z mẹ, nói nghe bùn z mẹ
 mtv,mo tv,mo thanh vien|Free mtv nha mẹ. tạo nv là kích hoạt sẵn
 gdtg|Hỏi ad thử má
+sao v,sao z,sao vay,sao zay,sao a|Sao đâu
 sao bt,sao biet|Ai biết gì đâu mẹ. Tôi bị oan
 muon acc,xin acc|Acc đâu mà cho mẹ
 open chua,op chua,op ch,open ch,open khi|Mới open lun nha má
