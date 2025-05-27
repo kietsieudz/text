@@ -10,6 +10,7 @@ cc|Cc gì má
 lon gi,cac gi|????
 dm bot|Wtf
 co all|Có all
+cai j,cai gi|Cái game
 game gi,game j,gem gi,gem j|Game ngọc rồng nha
 ??,???,????,?????|Sao nè
 k tai, ko tai, khong tai, tai k, tai ko, tai khong|Copy link ra chrome hoặc safari tải nhé
