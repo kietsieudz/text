@@ -12,7 +12,7 @@ ua|Ủa alo
 dm bot|Wtf
 co all|Có all
 cai j,cai gi|Cái game
-game gi,game j,gem gi,gem j|Game ngọc rồng nha
+game gi,game j,gem gi,gem j,gi cz, gi z|Game ngọc rồng nha
 ??,???,????,?????|Sao nè
 k tai, ko tai, khong tai, tai k, tai ko, tai khong|Copy link ra chrome hoặc safari tải nhé
 nap lau,lau qua,cong tien|Lỗi nạp thì nhắn cho key vàng trong box chat nha. k phải tui
