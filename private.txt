@@ -1,6 +1,6 @@
 sv nao,server nao, sever nao,seve nao,xin,link,box,zalo,tai,nhom,zl|Link trên đó
 tf,testflight,jar,jav,ios,ip|Có đủ
-dame,dmg,dmae,dam,st,ao hay,trung hay,goc hay|Dame trung nha
+dame,dmg,dmae,dam,st,ao hay,trung hay,goc hay,dame trung|Dame trung nha
 hay k, hay khong, hay ko|Hay nha
 lau chua,sv mo,lau ch|Mới nha
 loi roi,game loi,loi game|Bạn thử xoá dữ liệu game tải lại là ổn nha
