@@ -4,14 +4,18 @@ dame,dmg,dmae,dam,st,ao hay,trung hay,goc hay|Dame trung nha
 hay k, hay khong, hay ko|Hay nha
 lau chua,sv mo,lau ch|Mới nha
 loi roi,game loi,loi game|Bạn thử xoá dữ liệu game tải lại là ổn nha
+k thay,k tim thay|Bạn nhìn kĩ đi có mà
 ban acc|Không có nha
 hong ngoc,hngoc,hn|Hồng ngọc cày cuốc nha. Có thể nạp rồi vô santa đổi với tỉ lệ 1:2
 cc|Cc gì má
 lon gi,cac gi|????
+mat song|Bạn chọn sv xog chờ vài giây để game tạo kết nối đã nha
+dao khoang san, may dao|Máy đào là mua 1 tháng thì mỗi ngày thu 1 lượng hồng ngọc nhiều hơn nạp
 ua|Ủa alo
 free bao nhieu, free bn, free bnhieu, free bnhiu|Free bao nhiều lun
 dm bot|Wtf
 co all|Có all
+out game, roi game, bo game, nghi game|Chơi lại đi năn nỉ mà, game nhiều cái zui lắm bà ơi
 cai j,cai gi|Cái game
 game gi,game j,gem gi,gem j,gi cz, gi z|Game ngọc rồng nha
 ??,???,????,?????|Sao nè
