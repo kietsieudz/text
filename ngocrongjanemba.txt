@@ -262,3 +262,6 @@ hoang bi gay,hoang gay|Hoàng bị Gay..
 khanh bi gay,khanh gay|Khánh bị Gay..
 thang bi gay,thang gay|Thắng bị Gay..
 khuong bi gay,khuong gay|Khương bị Gay..
+da bi gay,da gay|Dạ bị Gay...
+vuong bi gay, vuong gay|Vượng bị Gay..
+hoang bi gay, hoang gay|Hoàng bị Gay..
