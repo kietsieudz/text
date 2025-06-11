@@ -234,32 +234,3 @@ co pr k, co pr ko, co qc ko, co qc k|Có PR mới có mem chứ má
 game loi, loi roi|Lỗi gì má. Nói rõ lỗi ra đi má. Quay video lỗi gửi zô đây lun đi má
 bot var|Ngon vào đây mà var này  
 kho|Khó thì mới là game, game dễ thì tải game con rắn về chơi đi   
-bach bi gay,bach gay|Bách bị Gay..
-phuc bi gay,phuc gay|Phúc bị Gay..
-huong bi gay,huong gay|Hương bị Gay..
-tan bi gay,tan gay|Tân bị Gay..
-dieu bi gay,dieu gay|Diệu bị Gay..
-dat bi gay,dat gay|Đạt bị Gay..
-dao bi gay,dao gay|Đào bị Gay..
-hien bi gay,hien gay|Hiển bị Gay..
-tai bi gay,tai gay|Tài bị Gay..
-khai bi gay,khai gay|Khải bị Gay..
-khoi bi gay,khoi gay|Khôi bị Gay..
-son bi gay,son gay|Sơn bị Gay..
-anh bi gay,anh gay|Anh bị Gay..
-minh bi gay,minh gay|Minh bị Gay..
-chien bi gay,chien gay|Chiến bị Gay..
-hieu bi gay,hieu gay|Hiếu bị Gay..
-nghia bi gay,nghia gay|Nghĩa bị Gay..
-quang bi gay,quang gay|Quang bị Gay..
-tinh bi gay,tinh gay|Tính bị Gay..
-thien bi gay,thien gay|Thiện bị Gay..
-kien bi gay,kien gay|Kiên bị Gay..
-duy bi gay,duy gay|Duy bị Gay..
-hung bi gay,hung gay|Hùng bị Gay..
-manh bi gay,manh gay|Mạnh bị Gay..
-huy bi gay,huy gay|Huy bị Gay..
-hoang bi gay,hoang gay|Hoàng bị Gay..
-khanh bi gay,khanh gay|Khánh bị Gay..
-thang bi gay,thang gay|Thắng bị Gay..
-khuong bi gay,khuong gay|Khương bị Gay..
