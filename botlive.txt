@@ -21,12 +21,12 @@ jar,java,jav|Bạn vào trang chủ [Mở trên trình duyệt Safari hoặc Chr
 apk|Bạn vào trang chủ [Mở trên trình duyệt Safari hoặc Chrome mới tải được game]|apk.png  
 pc,windows,may tinh|Bạn vào trang chủ [Mở trên trình duyệt Safari hoặc Chrome mới tải được game]|pc.png 
 ios,tf,testflight,ipa|Bạn vào trang chủ [Mở trên trình duyệt Safari hoặc Chrome mới tải được game]|iphone.png  
-su kien,sk|Sự kiện trong game được thông báo tại Fanpage: https://www.facebook.com/ngocrongnthevmax
+su kien,sk|Sự kiện trong game được thông báo tại Fanpage
 tai k dc,tai ko dc,tai khong dc,tai k duoc,tai ko duoc,tai khong duoc|Bạn vui lòng copy link trang chủ ra Chrome hoặc Safari để tải game nhé
-vps|Anh em mua VPS ở đây nè! Hàng chính hãng ngon lành - Không như bọn clone ra đi bán dạo đâu nha: https://portal.vietnix.vn/aff.php?aff=3515 
-winrar|Bạn tải về rồi bấm cài đặt rồi next next là cài được rồi: https://www.win-rar.com/fileadmin/winrar-versions/winrar/winrar-x64-701.exe 
+vps|Anh em mua VPS ở đây nè! Hàng chính hãng ngon lành - Không như bọn clone ra đi bán dạo đâu nha
+winrar|Bạn tải về rồi bấm cài đặt rồi next next là cài được rồ
 nap|Bạn đăng nhập vào trang chủ rồi chọn nút nạp nhé. Nạp xong chờ 1 vài phút rồi thoát game vào lại NPC trong nhà sẽ có Coin nhé
-co che|Cơ chế game đây 🔗https://thanhdi.top/cochegame.html
+co che|Cơ chế game đây
 bn sm gd,bao nhieu suc manh, bn suc manh, bao nhieu sm, bnhieu sm|40 tỷ giao dịch được nhé bé
 loi laze, loi bom, loi boom, boom xit, laze xit|Giảm tốc độ game xuống đi mới dùng được. Nhanh quá là xịt
 hong ngoc,hngoc,hn|Hồng ngọc săn boss, up cold, up cskb, ĐHVT + ĐHVT23 + Siêu Hạng, Nạp thẻ
