@@ -94,7 +94,7 @@ so luon,thua|Thua luôn|thualuon.png
 cay chay|cay thoai mai nha !!!...mlem..mlem  
 cay vl, cay vc,cay qua|Cay cái mà lay xay|hehe.png  
 tb boss,bao boss|Chat 'sb' để bật thông báo boss nha  
-ts,tan sat,danh quai,auto danh|Chat 'ts' để auto tàn sát quái nhé  
+ts,tan sat,danh quai,auto danh|Bấm vào Logo Game là có  
 ty le nap,ti le nap|Tỷ lệ nạp 10k = 20k hồng ngọc, 30k = 10k thỏi vàng (chi tiết ở Santa)  
 than tien|Cần phiếu giảm giá để mua set thần tiên  
 doi skill,msk,kaioken,kok,doi chieu,doi skill1,doi skill2,doi skill3,doi skill4,doi skill5|Gọi rồng thần đổi skill 2-3-4 đệ tử  
