@@ -148,7 +148,7 @@ da quy, gas|đá quý săn tiểu đội đường tăng hoặc đi khí gas ở
 dbv, da bao ve|đá bảo vệ bạn đi doanh trại rơi đầy hoặc mua 3000 Đá bảo vệ giá rẻ ở santa  
 khuyen mai, km nap, x nap, x2 nap, x3 nap, x5 nap, x10 nap|Tránh lạm phát và lâu dài, nên sẽ không có x nạp kiểu x2.x3 nhé. 
 nap, donate, atm| 🔹 Nạp Tự Động -> Tại https://ngocrongbtc.com. Rồi vào santa dùng coin đổi qua hồng ngọc hoặc thỏi vàng.
-nap, donate, atm| 🔹 Mừng sát nhập tỉnh, KM Duy nhất 35% đến hết 02/07
+nap, donate, atm| 🔹 Xem Quà mốc nạp tại Santa hoặc https://ngocrongbtc.com/gift
 ngoc rong sieu cap, nrsc, ngoc rong sc|Ngọc rồng siêu cấp chỉ để ước (không ép được) (ước được gì thì ước đi rồi biết chứ tôi biết đâu)  
 ai dep, bot dep|admin đẹp nhất nhé! Tôi đánh giá khách quan là như thế  
 chan|Chán chả buồn nói :))) |leuleu.png
