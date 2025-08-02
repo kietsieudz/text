@@ -146,115 +146,106 @@ chien than|🔸Chiến thần là đệ tử thứ 2 dùng chung được với 
 chien than|🔸Có thể mua trứng chiến thần ở chỗ Đảo Hoa (chỗ Quy lão đi vào) hoặc Săn boss 22:00 ở Thành phố vegeta.
 chien than|🔸Chat 'ct' để mở menu chiến thần nhé. Up ở đảo hoa nhiều Exp nhất.
 chien than|🔸Hết thức ăn chiến thần không mất đâu nhé. Cho ăn lại sẽ đánh lại như thường
-calich, tuong lai|Calich ở rừng bambo hoặc rừng dương xỉ hoặc nam kame (xong nhiệm vụ fide 3 mới thấy được calich để đến tương lai)  
-kuku, map dau dinh, rambo|KuKu, Mập đầu đinh, Rambo -> 5 Phút -> Tìm nhanh ở Cui thành phố Vegeta  
-skh, set kich hoat, set kh|Đồ kích hoạt đánh quái 3 map cạnh làng sẽ rơi  
-manh an|Mẩnh ấn tiêu diệt boss ở Hành tinh ngục tù sẽ rơi  
-may sao, level|Trang bị thường 10 sao và trang bị vip 12 sao, trang bị thường 9 cấp và trang bị vip 10 cấp (cày có hết)  
-vo pt, xin pt, xin bang, vo clan, xin clan, co pt, co bang, co clan|Ai đó cho bạn gia nhập bang hội đi kìa  
-mat pt, mat bang|Game vừa thông báo clear pt bảo toàn data hàng tháng
-zeno|Về nhà nạp đầu đi là có cải trang zeno, mặc cải trang zeno đánh quái ở fide sẽ rơi đá, rồi vô nhà nâng cấp  
-da quy, gas|đá quý săn tiểu đội đường tăng hoặc đi khí gas ở làng aru nhé (cần bản đồ rơi trong doanh trại)  
-dbv, da bao ve|đá bảo vệ bạn đi doanh trại rơi đầy hoặc mua 3000 Đá bảo vệ giá rẻ ở santa  
-khuyen mai, km nap, x nap, x2 nap, x3 nap, x5 nap, x10 nap|Game khuyến mãi nạp tối đa 30% chứ không có quá nhé (Game khác nạp vàng nên mới có x2,x3. Còn server này nạp Coin nên không có x nạp nha - x nạp server này là nát game. Tránh lạm phát nên sẽ không có x nạp). Mọi người thông đít giúp Bot nha 
-ngoc rong sieu cap, nrsc, ngoc rong sc|Ngọc rồng siêu cấp chỉ để ước (không ép được) (ước được gì thì ước đi rồi biết chứ tôi biết đâu)
-ngoc rong, nr|Ép từ 3 sao của ad cho ở bà hạt mít hoặc săn từ boss
-ai dep, bot dep|admin đẹp nhất nhé! Tôi đánh giá khách quan là như thế  
-chan|Tại sao bạn lại chán, bắt con gián bỏ vô háng, rồi sục cho đỡ chán  
-bot ngu,meo ngu|mày mới là thằng ngu đó
+calich, tuong lai|🔸Calich ở rừng bambo hoặc rừng dương xỉ hoặc nam kame (xong nhiệm vụ fide 3 mới thấy được calich để đến tương lai)  
+kuku, map dau dinh, rambo|🔸KuKu, Mập đầu đinh, Rambo -> 5 Phút -> Tìm nhanh ở Cui thành phố Vegeta  
+skh, set kich hoat, set kh|🔸Đồ kích hoạt đánh quái 3 map cạnh làng sẽ rơi  
+manh an|🔸Mẩnh ấn tiêu diệt boss ở Hành tinh ngục tù sẽ rơi  
+may sao, level|🔸Trang bị thường 10 sao và trang bị vip 12 sao, trang bị thường 9 cấp và trang bị vip 10 cấp (cày có hết)  
+vo pt, xin pt, xin bang, vo clan, xin clan, co pt, co bang, co clan|🔸Ai đó cho bạn gia nhập bang hội đi kìa  
+mat pt, mat bang|🔸Game vừa thông báo clear pt bảo toàn data hàng tháng
+zeno|🔸Về nhà nạp đầu đi là có cải trang zeno, mặc cải trang zeno đánh quái ở fide sẽ rơi đá, rồi vô nhà nâng cấp  
+da quy, gas|🔸đá quý săn tiểu đội đường tăng hoặc đi khí gas ở làng aru nhé (cần bản đồ rơi trong doanh trại)  
+dbv, da bao ve|🔸đá bảo vệ bạn đi doanh trại rơi đầy hoặc mua 3000 Đá bảo vệ giá rẻ ở santa  
+khuyen mai, km nap, x nap, x2 nap, x3 nap, x5 nap, x10 nap|🔸Game khuyến mãi nạp tối đa 30% chứ không có quá nhé (Game khác nạp vàng nên mới có x2,x3. Còn server này nạp Coin nên không có x nạp nha - x nạp server này là nát game. Tránh lạm phát nên sẽ không có x nạp). Mọi người thông đít giúp Bot nha 
+ngoc rong sieu cap, nrsc, ngoc rong sc|🔸Ngọc rồng siêu cấp chỉ để ước (không ép được) (ước được gì thì ước đi rồi biết chứ tôi biết đâu)
+ngoc rong, nr|🔸Ép từ 3 sao của ad cho ở bà hạt mít hoặc săn từ boss
+ai dep, bot dep|🔸admin đẹp nhất nhé! Tôi đánh giá khách quan là như thế  
+chan|🔸Tại sao bạn lại chán, bắt con gián bỏ vô háng, rồi sục cho đỡ chán  
+bot ngu,meo ngu|🔸mày mới là thằng ngu đó
 Em là chatbot hỗ trợ tại đây, có gì cần giúp anh cứ nói nhé, em luôn sẵn sàng!
-bot khon|ai cũng biết rằng em khôn mà
+bot khon|🔸ai cũng biết rằng em khôn mà
 Em là chatbot hỗ trợ tại đây, có gì cần giúp anh cứ nói nhé, em luôn sẵn sàng
-o cuoi,o duoi,o nay|2 ô cuối là danh hiệu và nhẫn đính ước tại santa nhé  
-canh tre|Bạn gom đủ 9999 rồi ghép thành cần câu đi câu cá nhé  
-test, open, op,mo lau,mo khi nao, mo chua|Game vừa mới open (free mtv, free vàng, free ngọc, free skh, free ngọc rồng, free đệ,..)
-mtv, mo tv, mo thanh vien, kich hoat tai khoan|Game không cần MTV. Cày 40 tỷ là gd được hết  
-chuc nang|Cần hỏi chức năng gì thì cứ nói đi  
-huy diet|Để 5 món thần linh trong hành trang rồi gặp Thần huỷ diệt để đổi đồ Huỷ diệt nhé  
-bip|thằng bên trên mới bịp nhé  
-alo,xin chao,hello,helo|Thưa ngài! Em là nhân viên phục vụ tại đây. Em có thể giúp gì cho ngài?
-cai gi, update, cai j, gi day|Có nhiều thứ tôi chưa được biết đến, bạn cứ gửi vào nhóm đi mọi người sẽ giúp đỡ bạn nhé  
-bot gian|Tôi không biết giận đâu, ai chửi thì tôi chửi lại  
-gui video, quay video|Bạn quay video đi, rồi gửi vô đây mọi người hướng dẫn  
-bot oi|Có tôi đây! bạn muốn hỏi gì? nhớ ghi đúng chính tả tôi mới hiểu nhé  
-ngu hanh son, nhs|ra làng aru gặp Đường tăng để vào Ngũ Hành Sơn  
-dit|địt cái đầu mày chứ địt
-thong dit|thông đít mày
-bot noi nhieu|nói nhiều sao bằng mày được hả nhóc  
-met|làm gì mà mệt hả? Đi bar quẩy đi
-tien chua vao|nạp tiền chưa cộng thì chờ 3-5 phút chưa cộng thì liên hệ key vàng  
-ki gui, ky gui|Kí gửi mua bán bằng hồng ngọc nhé. Không phải thỏi vàng đâu  
-trai than long, manh dat, cay cuoc, khu dat, nong trai|Bạn mua đất + cây cuốc rồi săn boss đủ 30 điểm sẽ trồng được cây thần long, thu hoạch trái thần long ăn vào tăng chỉ số (đặc biệt không bị ảnh hưởng với sức mạnh chí tôn)  
-cam on bot, ok bot|Dạ không có gì đâu anh yêu! Nhiệm vụ của em mà
-scam, lua dao, ld, uy tin, ut|Hệ thống key bạc và key vàng trong box không bao giờ chủ động nhắn tin cho người chơi (dấu hiệu nhận biết giả danh: mượn tiền, mượn acc, xin này xin nọ,..) Vui lòng check kĩ thông tin trước khi làm bất cứ điều gì. DẠO NÀY RẤT NHIỀU THÀNH PHẦN TẠO ZALO GIỐNG TÊN RỒI LỪA ĐẢO NÊN NGƯỜI CHƠI TỰ BẢO VỆ TÀI SẢN CỦA BẢN THÂN  
-detu, de tu|Mabư +30% (săn Mabư), Gohan Bư +50% (săn ở Osin ĐHVT), Itachi +70% (mua ở Santa), OMEGA +100% (Capsule tết)  
-gohan|Đệ tử Gohan Bư săn ở Osin Đại Hội Võ Thuật lúc 12h00 và 19h00  
-mabu, ma bu, trung bu, de bu|Đệ tử Mabư săn ở Bư Béo tại Đảo Kame, bật thông báo boss lên là thấy  
-itachi|Đệ tử Itachi thì cày hồng ngọc rồi mua ở Santa  
-capsule, omega|Nạp mỗi 20k sẽ được tặng 1 viên capsule quà tặng (100k = 5 viên, nạp nhiều máy tự tặng đủ capsule) (Tỷ lệ cao ra đệ Omega +100% chỉ số hợp thể)  
-vong quay thuong de|Vòng quay thượng đế quay tốn hồng ngọc (chưa thêm vật phẩm đặc biệt)  
-moi choi|Bạn mới chơi thì năng nổ giao tiếp với mọi người trong box nè, nhất là giao tiếp với tôi nhé!  
-khac an vo song|Khắc ấn sẽ không mất bông tai vô song nhé  
-chan menh, tu luyen, vong chan|Bạn lên hành tinh Bill gặp thiên sứ Whis để nâng chân mệnh nhé. Điểm tu luyện làm nhiệm vụ tu luyện ở Whis. 1000 điểm 1 level  
-phieu giam gia, pgg|Phiếu giảm giá bạn săn boss Đôrêamon hoặc Liễu Thần nhé  
-den bu|Bù khu chứ bù, chơi game free all còn bù  
-dep dau, dep cc|Tôi thấy đẹp mà  
-ngoc hoa|Ngọc hóa kiếm ở boss Cooler, max 7 level nhé  
-ho tong|Gặp Đường Tăng làng Aru để tham gia hộ tống. Đánh quái Ngũ Hành Sơn thu thập đồng xu nhé  
-bo qua nv|Bạn bỏ qua nhiệm vụ tân thủ ở nhà và bỏ qua nv chính tuyến ở Nhà đó, bỏ 1 lần hẳn 1 level không phải nhiệm vụ nhỏ  
-cot|Cốt Chí Tôn rơi từ các sự kiện và chức năng khác nhau. Ép vào trang bị sẽ tăng chỉ số trang bị cực mạnh, nếu mặc đủ 3 món sẽ tăng thêm 5%, 4 món 10%, 5 món 15%. Những ai đứng gần sẽ bị giảm sát thương đi 50% mỗi 30 giây. Nhai trái thần long để không bị giảm khi đứng gần Chí Tôn nhé  
-set gi|Set love nhé (setlove cùng mình nè)
-phao tre trau|Sử dụng pháo trẻ trâu sẽ nổ banh lon cả khu nhé  
-ngoc boi, eyes, dns, susano, mangekyo, sharingan, hao quang cam, da ngu sac|Bạn mua ngọc bội ở Santa, sau đó mang bội lên người rồi train quái ở Làng Lá (đường vào ở Quy Lão - đến đảo - chạy qua trái sẽ đến Làng Lá). Bạn train sẽ rơi mảnh mắt. Thu thập đủ mảnh mắt thì nâng bội lên Susano (eyes chính thức), mới nâng thì eyes sẽ 1% 3 loại chỉ số. Up càng nhiều nâng càng nhiều chỉ số Susano sẽ tăng lên. Hãy nâng Susano lên 50% 55% 55% rồi mới đi đục lỗ ép sao nhé  
-dnc, da nang cap, tat, ruby, thach anh tim|Đá nâng cấp ở Santa (Rương đá nâng cấp), bạn có thể mua rồi sử dụng sẽ ra 1 đống đá nâng cấp nhé (thạch anh tím, ruby, titan,...)  
-doi ten|Thẻ đổi tên mua ở Santa, được đổi tên thành có Dấu viết hoa và kí tự đặc biệt nhé (đừng đặt quá dài sẽ bị mất thẻ đổi tên mà không đổi được tên)  
-trung linh thu|Trứng linh thú nở ra linh thú (Online chờ 60 phút là nở)
-manh suu tam|Mảnh sưu tầm quái nào bạn train quái đó là rơi 
-gui bai|Chỗ tham gia event có nút gửi event đó bạn
-bong tai,mvbt,mhbt,porata,btai, b tai|Bạn cần hỏi thông tin bông tai cấp nào? [ghi rõ bông tai + cấp] nhé
+o cuoi,o duoi,o nay|🔸2 ô cuối là danh hiệu và nhẫn đính ước tại santa nhé  
+canh tre|🔸Bạn gom đủ 9999 rồi ghép thành cần câu đi câu cá nhé  
+test, open, op,mo lau,mo khi nao, mo chua|🔸Game vừa mới open (free mtv, free vàng, free ngọc, free skh, free ngọc rồng, free đệ,..)
+mtv, mo tv, mo thanh vien, kich hoat tai khoan|🔸Game không cần MTV. Cày 40 tỷ là gd được hết  
+chuc nang|🔸Cần hỏi chức năng gì thì cứ nói đi  
+huy diet|🔸Để 5 món thần linh trong hành trang rồi gặp Thần huỷ diệt để đổi đồ Huỷ diệt nhé  
+bip|🔸thằng bên trên mới bịp nhé  
+alo,xin chao,hello,helo|🔸Thưa ngài! Em là nhân viên phục vụ tại đây. Em có thể giúp gì cho ngài?
+cai gi, update, cai j, gi day|🔸Có nhiều thứ tôi chưa được biết đến, bạn cứ gửi vào nhóm đi mọi người sẽ giúp đỡ bạn nhé  
+bot gian|🔸Tôi không biết giận đâu, ai chửi thì tôi chửi lại  
+gui video, quay video|🔸Bạn quay video đi, rồi gửi vô đây mọi người hướng dẫn  
+bot oi|🔸Có tôi đây! bạn muốn hỏi gì? nhớ ghi đúng chính tả tôi mới hiểu nhé  
+ngu hanh son, nhs|🔸ra làng aru gặp Đường tăng để vào Ngũ Hành Sơn  
+bot noi nhieu|🔸nói nhiều sao bằng mày được hả nhóc  
+tien chua vao|🔸nạp tiền chưa cộng thì chờ 3-5 phút chưa cộng thì liên hệ key vàng  
+ki gui, ky gui|🔸Kí gửi mua bán bằng hồng ngọc nhé. Không phải thỏi vàng đâu  
+trai than long, manh dat, cay cuoc, khu dat, nong trai|🔸Bạn mua đất + cây cuốc rồi săn boss đủ 30 điểm sẽ trồng được cây thần long, thu hoạch trái thần long ăn vào tăng chỉ số (đặc biệt không bị ảnh hưởng với sức mạnh chí tôn)  
+cam on bot, ok bot, ok, cam on, ok ad, ok admin, ok adm|🔸Dạ không có gì đâu anh yêu! Nhiệm vụ của em mà
+scam, lua dao, ld, uy tin, ut|🔸Hệ thống key bạc và key vàng trong box không bao giờ chủ động nhắn tin cho người chơi (dấu hiệu nhận biết giả danh: mượn tiền, mượn acc, xin này xin nọ,..) Vui lòng check kĩ thông tin trước khi làm bất cứ điều gì. DẠO NÀY RẤT NHIỀU THÀNH PHẦN TẠO ZALO GIỐNG TÊN RỒI LỪA ĐẢO NÊN NGƯỜI CHƠI TỰ BẢO VỆ TÀI SẢN CỦA BẢN THÂN  
+detu, de tu|🔸Mabư +30% (săn Mabư), Gohan Bư +50% (săn ở Osin ĐHVT), Itachi +70% (mua ở Santa), OMEGA +100% (Capsule tết)  
+gohan|🔸Đệ tử Gohan Bư săn ở Osin Đại Hội Võ Thuật lúc 12h00 và 19h00  
+mabu, ma bu, trung bu, de bu|🔸Đệ tử Mabư săn ở Bư Béo tại Đảo Kame, bật thông báo boss lên là thấy  
+itachi|🔸Đệ tử Itachi thì cày hồng ngọc rồi mua ở Santa  
+capsule, omega|🔸Nạp mỗi 20k sẽ được tặng 1 viên capsule quà tặng (100k = 5 viên, nạp nhiều máy tự tặng đủ capsule) (Tỷ lệ cao ra đệ Omega +100% chỉ số hợp thể)  
+vong quay thuong de|🔸Vòng quay thượng đế quay tốn hồng ngọc (chưa thêm vật phẩm đặc biệt)  
+moi choi|🔸Bạn mới chơi thì năng nổ giao tiếp với mọi người trong box nè, nhất là giao tiếp với tôi nhé!  
+khac an vo song|🔸Khắc ấn sẽ không mất bông tai vô song nhé  
+chan menh, tu luyen, vong chan|🔸Bạn lên hành tinh Bill gặp thiên sứ Whis để nâng chân mệnh nhé. Điểm tu luyện làm nhiệm vụ tu luyện ở Whis. 1000 điểm 1 level  
+phieu giam gia, pgg|🔸Phiếu giảm giá bạn săn boss Đôrêamon hoặc Liễu Thần nhé  
+den bu|🔸Bù khu chứ bù, chơi game free all còn bù  
+dep dau, dep cc|🔸Tôi thấy đẹp mà  
+ngoc hoa|🔸Ngọc hóa kiếm ở boss Cooler, max 7 level nhé  
+ho tong|🔸Gặp Đường Tăng làng Aru để tham gia hộ tống. Đánh quái Ngũ Hành Sơn thu thập đồng xu nhé  
+bo qua nv|🔸Bạn bỏ qua nhiệm vụ tân thủ ở nhà và bỏ qua nv chính tuyến ở Nhà đó, bỏ 1 lần hẳn 1 level không phải nhiệm vụ nhỏ  
+cot|🔸Cốt Chí Tôn rơi từ các sự kiện và chức năng khác nhau. Ép vào trang bị sẽ tăng chỉ số trang bị cực mạnh, nếu mặc đủ 3 món sẽ tăng thêm 5%, 4 món 10%, 5 món 15%. Những ai đứng gần sẽ bị giảm sát thương đi 50% mỗi 30 giây. Nhai trái thần long để không bị giảm khi đứng gần Chí Tôn nhé  
+set gi|🔸Set love nhé (setlove cùng mình nè)
+phao tre trau|🔸Sử dụng pháo trẻ trâu sẽ nổ banh lon cả khu nhé  
+ngoc boi, eyes, dns, susano, mangekyo, sharingan, hao quang cam, da ngu sac|🔸Bạn mua ngọc bội ở Santa, sau đó mang bội lên người rồi train quái ở Làng Lá (đường vào ở Quy Lão - đến đảo - chạy qua trái sẽ đến Làng Lá). Bạn train sẽ rơi mảnh mắt. Thu thập đủ mảnh mắt thì nâng bội lên Susano (eyes chính thức), mới nâng thì eyes sẽ 1% 3 loại chỉ số. Up càng nhiều nâng càng nhiều chỉ số Susano sẽ tăng lên. Hãy nâng Susano lên 50% 55% 55% rồi mới đi đục lỗ ép sao nhé  
+dnc, da nang cap, tat, ruby, thach anh tim|🔸Đá nâng cấp ở Santa (Rương đá nâng cấp), bạn có thể mua rồi sử dụng sẽ ra 1 đống đá nâng cấp nhé (thạch anh tím, ruby, titan,...)  
+doi ten|🔸Thẻ đổi tên mua ở Santa, được đổi tên thành có Dấu viết hoa và kí tự đặc biệt nhé (đừng đặt quá dài sẽ bị mất thẻ đổi tên mà không đổi được tên)  
+trung linh thu|🔸Trứng linh thú nở ra linh thú (Online chờ 60 phút là nở)
+manh suu tam|🔸Mảnh sưu tầm quái nào bạn train quái đó là rơi 
+gui bai|🔸Chỗ tham gia event có nút gửi event đó bạn
+bong tai,mvbt,mhbt,porata,btai, b tai|🔸Bạn cần hỏi thông tin bông tai cấp nào? [ghi rõ bông tai + cấp] nhé
 bong tai cap 2, btc2, porata cap 2, porata c2, bong tai c2, btai c2, btai cap 2, bt cap 2, cap 2|🔸Bông tai cấp 2 max chỉ số là 15%. Nguyên liệu rơi ở các map bang hội (tại quy lão vào map bang gặp Giuma để vào map up nguyên liệu)
 bong tai cap 3, btc3, porata cap 3, porata c3, bong tai c3, btai c3, btai cap 3, bt cap 3, cap 3|🔸Bông tai cấp 3 max chỉ số là 25%. Nguyên liệu rơi ở các map bang hội (tại quy lão vào map bang gặp Giuma để vào map up nguyên liệu)
 bong tai cap 4, btc4, porata cap 4, porata c4, bong tai c4, btai c4, btai cap 4, bt cap 4, cap 4|🔸Bông tai cấp 4 max chỉ số là 25% + 15% sức đánh đẹp + Được đục lỗ ép sao. Nguyên liệu tham gia event share 3 tại diễn đàn game (vô trang chủ -> vào diễn đàn)
 bong tai cap 5, btc5, porata cap 5, porata c5, bong tai c5, btai c5, btai cap 5, bt cap 5, cap 5|🔸Bông tai cấp 5 max chỉ số là 40% + 15% sức đánh đẹp + Được đục lỗ ép sao. Mua ở santa
-so chua|Chưa sợ, ngon nhào zô  
-thue pr k, thue pr ko, thue pr khong, thue qc khong, thue qc ko, thue qc k, thue quang cao k, thue quang cao ko, thue quang cao khong| Admin tự quảng cáo rồi má. Không cần thuê đâu má
-live free, live cho, live tiktok cho, live dum|Wow thật vinh hạnh khi được bạn live free cho game. Yêu bạn!
-co pr k, co pr ko, co qc ko, co qc k|Có PR mới có mem chứ má
-game loi, loi roi|Lỗi gì má. Nói rõ lỗi ra đi má. Quay video lỗi gửi zô đây lun đi má
-hay k, hay khong, hay ko|Hay nha
-loi roi,game loi,loi game|Bạn thử xoá dữ liệu game tải lại là ổn nha
-k thay,k tim thay|Bạn nhìn kĩ đi có mà
-mat song|Bạn chọn sv xog chờ vài giây để game tạo kết nối đã nha
-dao khoang san, may dao|Máy đào là mua 1 tháng thì mỗi ngày thu 1 lượng hồng ngọc nhiều hơn nạp
-dm bot|Wtf
-up sao|Cày nhanh ở ngũ hành sơn á, game dễ cày
-sap k, sup k, sup ko, sup khong,sap khong, sap ko|Không, đông vcl sao sập
-dong k, dong ko, dong khong|Đông nhót lun kkk
-co all|Có all
-out game, roi game, bo game, nghi game|Chơi lại đi năn nỉ mà, game nhiều cái zui lắm bà ơi
-cai j,cai gi|Cái game
-game gi,game j,gem gi,gem j,gi cz, gi z|Game ngọc rồng nha
-k tai, ko tai, khong tai, tai k, tai ko, tai khong|Copy link ra chrome hoặc safari tải nhé
-nap lau,lau qua,cong tien|Lỗi nạp thì nhắn cho key vàng trong box chat nha. k phải tui
-share|Đăng nhập vô trang chủ rồi bấm qua diễn đàn để tham gia nha
-k dc,ko dc,khong dc,k duoc,ko duoc,khong duoc|Copy link ra chrome hoặc safari nha má
-ghe|Ghê lắm nha mẹ
-goc hay ao|Trung nha má. hong có ảo
-oi|Oi
-k co,ko co,khong co|Bạn copy link ra chrome nha
-kb di,acept,dong y,ket ban,kb roi,kb rui,kb r, ket ban roi, ket ban rui, ket ban r|Chờ xíu mình chấp nhận kb nha
-vang,ngoc|Free vàng ngọc má ơi
-a du|Á đù
-jv, j vay,gi z, gi v|Ai biết gì má
-skh|đánh quái rơi
-nhu|Như gì má
-gui ad,gui event,gui bai share, gui sk,gui su kien|Gửi cho key vàng đi má
-game ao|Ảo đâu má, bình thường mà
-smtn,tnsm|Cao nha
-game j,game gi|Game ngọc rồng đó má
-cl j|Cl gì má
-mtv,mo tv,mo thanh vien|Free mtv nha mẹ. tạo nv là kích hoạt sẵn
-alo,lo|Lô gì má
-ngon|Ngon
-hup, hupp|Húp sùn sụt
-ban acc|Không có nha
+so chua|🔸Chưa sợ, ngon nhào zô  
+thue pr k, thue pr ko, thue pr khong, thue qc khong, thue qc ko, thue qc k, thue quang cao k, thue quang cao ko, thue quang cao khong| 🔸Admin tự quảng cáo rồi má. Không cần thuê đâu má
+live free, live cho, live tiktok cho, live dum|🔸Wow thật vinh hạnh khi được bạn live free cho game. Yêu bạn!
+co pr k, co pr ko, co qc ko, co qc k|🔸Có PR mới có mem chứ má
+game loi, loi roi|🔸Lỗi gì má. Nói rõ lỗi ra đi má. Quay video lỗi gửi zô đây lun đi má
+hay k, hay khong, hay ko|🔸Hay nha
+loi roi,game loi,loi game|🔸Bạn thử xoá dữ liệu game tải lại là ổn nha
+k thay,k tim thay|🔸Bạn nhìn kĩ đi có mà
+mat song|🔸Bạn chọn sv xog chờ vài giây để game tạo kết nối đã nha
+dao khoang san, may dao|🔸Máy đào là mua 1 tháng thì mỗi ngày thu 1 lượng hồng ngọc nhiều hơn nạp
+dm bot|🔸Wtf
+up sao|🔸Cày nhanh ở ngũ hành sơn á, game dễ cày
+sap k, sup k, sup ko, sup khong,sap khong, sap ko|🔸Không, đông vcl sao sập
+dong k, dong ko, dong khong|🔸Đông nhót lun kkk
+co all|🔸Có all
+out game, roi game, bo game, nghi game|🔸Chơi lại đi năn nỉ mà, game nhiều cái zui lắm bà ơi
+cai j,cai gi|🔸Cái game
+game gi,game j,gem gi,gem j,gi cz, gi z|🔸Game ngọc rồng nha
+k tai, ko tai, khong tai, tai k, tai ko, tai khong|🔸Copy link ra chrome hoặc safari tải nhé
+nap lau,lau qua,cong tien|🔸Lỗi nạp thì nhắn cho key vàng trong box chat nha. k phải tui
+share|🔸Đăng nhập vô trang chủ rồi bấm qua diễn đàn để tham gia nha
+k dc,ko dc,khong dc,k duoc,ko duoc,khong duoc|🔸Copy link ra chrome hoặc safari nha má
+ghe|🔸Ghê lắm nha mẹ
+goc hay ao|🔸Trung nha má. hong có ảo
+k co,ko co,khong co|🔸Bạn copy link ra chrome nha
+vang,ngoc|🔸Free vàng ngọc má ơi
+skh|🔸đánh quái rơi
+gui ad,gui event,gui bai share, gui sk,gui su kien|🔸Gửi event xíu ad duyệt cho nha
+game ao|🔸Ảo đâu má, bình thường mà
+smtn,tnsm|🔸Cao nha
+game j,game gi|🔸Game ngọc rồng đó má
+mtv,mo tv,mo thanh vien|🔸Free mtv nha mẹ. tạo nv là kích hoạt sẵn
+alo,lo|🔸Lô gì má
+ngon|🔸Ngon
+hup, hupp|🔸Húp sùn sụt
+ban acc|🔸Không có nha
