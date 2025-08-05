@@ -38,7 +38,7 @@ deo co bong tai,co bong tai, f khong, f ko, f k, ht nhanh, hop the nhanh, hthe n
 moi choi,ms choi|🔸Mới chơi thì nên up sức mạnh trước nha má. cần hướng dẫn gì cứ nói tôi chỉ cho nè
 xa linh|🔸23h->3h sáng gặp Thượng đế để đến con Đường Xà linh
 ok k, ok ko, ok khong|🔸ô kê con dê
-xong roi, xong r, xog roi, xog r, event 3, event 1, event 2, event 4, danh gia|🔸Xong thì chờ xíu rảnh ad rep liền á!
+xong roi, xong r, xog roi, xog r, share 1, share 2, share 3, share 4, event 3, event 1, event 2, event 4, danh gia|🔸Xong thì chờ xíu rảnh ad rep liền á!
 20k duoc de|🔸Tỷ lệ ra đệ omega nha má
 la co,xe tang|🔸Vô fanpage coi bài viết có code đó má
 chilled|🔸Chilled là boss nhiệm vụ không rơi đồ
