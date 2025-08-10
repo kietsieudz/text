@@ -4,7 +4,6 @@ dao hoa|Gặp quy lão để vào đảo hoa nhé
 cha gio,chai cuke|Làm nv KOL ở quy lão
 vao gam bao sai|Kiểm tra kĩ đúng server chưa nhé bạn
 bot dam, meo dam|Dâm má mày chứ dâm
-coin|Game đang đua test, bạn có thể đăng nhập vào trang chủ https://nrokid.com ->Diễn đàn -> Nhiệm vụ tân thủ -> Tham gia 10 bài được 500k Coin (tính mốc nạp) (Không giới hạn)
 thay trunk, thay trunks, banh bao, con bo, nia tre, la tra|Đọc thông tin sự kiện ở đây nhé: https://www.facebook.com/share/p/1QJYLGRFLs/
 nang skh,nang dc skh,nang duoc skh, nang duoc set kh, nang dc set kh, nang set kh|Ra bà hạt mít có chỉ nguyên liệu tạo set kích hoạt
 Khi gas|Thu thập bản đồ trong doanh trại để đi khí gas ở Popo (làng aru)
@@ -21,7 +20,7 @@ code moi|Theo dõi Fanpage: https://nrokid.com để canh lấy code mới nha m
 giftcode,code,fan cung,fanpage,fancung,fc|🔸Đây là code tân thủ: open1 -> open15.
 xin ip,ipsv|Tất cả bản trên web đã cài sẵn Ip (tải về xoá dữ liệu rồi sài thôi) -> IP: Kid:14.225.230.172:14445:0,0,0 
 giftcode,code,fan cung,fanpage,fancung,fc|🔸Code khác bạn xem các bài viết ở Fanpage (Nhớ Follow, comment và nhắn tin để lấy cốt fan cứng: https://nrokid.com
-share,event,tan thu,even,chia se|Bạn đăng nhập vào trang chủ https://nrokid.com sau đó chọn vào -> DIỄN ĐÀN -> CHỌN NHIỆM VỤ TÂN THỦ -> sẽ có event để tham gia nhé (10 BÀI ĐƯỢC 500K Coin). CHÚ Ý ĐỌC KĨ THỂ LỆ. Ở đó có nút zalo của người duyệt event luôn nhé
+share,event,tan thu,even,chia se|Bạn đăng nhập vào trang chủ https://nrokid.com sau đó chọn vào -> DIỄN ĐÀN -> CHỌN NHIỆM VỤ TÂN THỦ -> sẽ có event để tham gia nhé. CHÚ Ý ĐỌC KĨ THỂ LỆ. Ở đó có nút zalo của người duyệt event luôn nhé
 link game,link tai,link trang chu,tai game,download,website,web,dien dan|Trang chủ - tải game: 🔗https://nrokid.com [Mở trên trình duyệt Safari hoặc Chrome mới tải được game]|khongtaiduoc.png  
 jar,java,jav|Tải file JAR: https://nrokid.com nhé [Mở trên trình duyệt Safari hoặc Chrome mới tải được game] Nhớ Đọc Hướng Dẫn Cài Đặt|jar.png
 apk|Tải file APK: https://nrokid.com nhé [Mở trên trình duyệt Safari hoặc Chrome mới tải được game] Nhớ Đọc Hướng Dẫn Cài Đặt|apk.png  
@@ -175,7 +174,7 @@ bot khon|ai cũng biết rằng em khôn mà|deptrai.png
 Em là chatbot hỗ trợ tại đây, có gì cần giúp anh cứ nói nhé, em luôn sẵn sàng
 o cuoi,o duoi,o nay|2 ô cuối là danh hiệu và nhẫn đính ước tại santa nhé  
 canh tre|Bạn gom đủ 9999 rồi ghép thành cần câu đi câu cá nhé  
-test, open, op,mo lau,mo khi nao, mo chua|Game vừa mới mở đua test (free mtv, free vàng, free ngọc, free skh, free ngọc rồng, free đệ,..)
+test, open, op,mo lau,mo khi nao, mo chua|Game vừa mới mở đua open chính thức (không reset) (free mtv, free vàng, free ngọc, free skh, free ngọc rồng, free đệ,..)
 mtv, mo tv, mo thanh vien, kich hoat tai khoan|Game không cần MTV. Cày 40 tỷ là gd được hết  
 chuc nang|Cần hỏi chức năng gì thì cứ nói đi  
 huy diet|Để 5 món thần linh trong hành trang rồi gặp Thần huỷ diệt để đổi đồ Huỷ diệt nhé  
