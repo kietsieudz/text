@@ -4,6 +4,7 @@ dao hoa|🔸Gặp quy lão để vào đảo hoa nhé
 cha gio,chai cuke|🔸Làm nv KOL ở quy lão
 vao gam bao sai|🔸Kiểm tra kĩ đúng server chưa nhé bạn
 bot dam, meo dam|🔸Dâm má mày chứ dâm
+free all|🔸Free all, k cần mtv
 thay trunk, thay trunks, banh bao, con bo, nia tre, la tra|🔸Đọc thông tin sự kiện ở đây nhé: https://www.facebook.com/share/p/1QJYLGRFLs/
 nang skh,nang dc skh,nang duoc skh, nang duoc set kh, nang dc set kh, nang set kh|🔸Ra bà hạt mít có chỉ nguyên liệu tạo set kích hoạt
 Khi gas|🔸Thu thập bản đồ trong doanh trại để đi khí gas ở Popo (làng aru)
@@ -21,7 +22,7 @@ giftcode,code,fan cung,fanpage,fancung,fc|🔸Code tân thủ: open1 -> open15.
 xin ip,ipsv|🔸Tất cả bản trên web đã cài sẵn Ip (tải về xoá dữ liệu rồi sài thôi)
 giftcode,code,fan cung,fanpage,fancung,fc|🔸Code Fan cứng: yeufanpage
 share,event,tan thu,even,chia se|🔸Bạn đăng nhập vào trang chủ sẽ có event để tham gia nhé. CHÚ Ý ĐỌC KĨ THỂ LỆ. Ở đó có nút zalo của người duyệt event luôn nhé
-link game,link tai,link trang chu,tai game,download,website,web,dien dan|🔸Trang chủ - tải game: 🔗https://ngocrongplay.com [Copy ra trình duyệt Safari hoặc Chrome mới tải được game] 
+link game,link tai,link trang chu,tai game,download,website,web,dien dan|🔸Trang chủ - tải game: 🔗https://thanhdi.top [Copy ra trình duyệt Safari hoặc Chrome mới tải được game] 
 jar,java,jav,apk,pc,windows,may tinh,ios,tf,testflight,ipa|🔸Tải ở trang chủ nhé. bạn copy ra Chrome hoặc Safari để tải  
 su kien,sk|🔸Sự kiện trong game được thông báo tại Fanpage: https://www.facebook.com/ngocrongnthevmax
 tai k dc,tai ko dc,tai khong dc,tai k duoc,tai ko duoc,tai khong duoc|🔸Bạn vui lòng copy link ra Chrome hoặc Safari để tải game nhé
