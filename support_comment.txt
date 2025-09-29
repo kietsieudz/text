@@ -1,13 +1,2 @@
-giftcode,code,fan cung,fanpage,fancung,fc|🔸Đây là code tân thủ: open1 -> open15
-share,event,tan thu,even,chia se|Bạn đăng nhập vào trang chủ sẽ có event để tham gia nhé. CHÚ Ý ĐỌC KĨ THỂ LỆ. Ở đó có nút zalo của người duyệt event luôn nhé
-nap|🔸Nạp tự động tại trang chủ nhé. Quà nạp (mốc nạp) ở chỗ nạp luôn
-bn sm gd,bao nhieu suc manh, bn suc manh, bao nhieu sm, bnhieu sm|40 tỷ giao dịch được nhé bé
-ok k, ok ko, ok khong|ô kê con dê
-so luon,thua|Thua luôn
-cay chay|Mèo méo meo mèo meo...mlem..mlem  
-cay qua,cay ac,cay vl|Cay thì mua sữa về uống
-tb boss,bao boss|Chat 'sb' để bật thông báo boss nha  
-ts,tan sat,danh quai,auto danh|Chat 'ts' để auto tàn sát quái nhé  
-ty le nap,ti le nap|Tỷ lệ nạp xem tại NPC trong nhà nhé  
-than tien|Cần phiếu giảm giá để mua set thần tiên  
-doi skill,doi duoc skill,msk,kaioken,kok,doi chieu,doi skill1,doi skill2,doi skill3,doi skill4,doi skill5|Gọi rồng thần 1 sao đổi skill 2-3-4 đệ tử  
+khoai to|TO THIỆT HÔNG?
+xin code|Bạn nhắn tin vào Fanpage để mình gửi Code nhé!
