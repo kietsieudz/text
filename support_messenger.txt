@@ -38,7 +38,6 @@ menu,mod,auto, xin lenh|🤖Bot: Chat 'menu' để mở menu mod hoặc bấm v�
 deo co bong tai,co bong tai, f khong, f ko, f k, ht nhanh, hop the nhanh, hthe nhanh, phim tat|🤖Bot: Mua thêm bông cấp 1 bỏ trong hành trang là bấm hợp thể nhanh được
 moi choi,ms choi|🤖Bot: Mới chơi thì nên up sức mạnh trước nha má. cần hướng dẫn gì cứ nói tôi chỉ cho nè
 xa linh|🤖Bot: 23h->3h sáng gặp Thượng đế để đến con Đường Xà linh
-ok k, ok ko, ok khong|🤖Bot: ô kê con dê
 xong roi, xong r, xog roi, xog r, share 1, share 2, share 3, share 4, event 3, event 1, event 2, event 4, danh gia|🤖Bot: Xong thì chờ xíu rảnh ad rep liền á!
 20k duoc de|🤖Bot: Tỷ lệ ra đệ omega nha má
 la co,xe tang|🤖Bot: Vô fanpage coi bài viết có code đó má
@@ -183,7 +182,7 @@ bot noi nhieu|🤖Bot: nói nhiều sao bằng mày được hả nhóc
 tien chua vao|🤖Bot: nạp tiền chưa cộng thì chờ 3-5 phút chưa cộng thì liên hệ key vàng  
 ki gui, ky gui|🤖Bot: Kí gửi mua bán bằng hồng ngọc nhé. Không phải thỏi vàng đâu  
 trai than long, manh dat, cay cuoc, khu dat, nong trai|🤖Bot: Bạn mua đất + cây cuốc rồi săn boss đủ 30 điểm sẽ trồng được cây thần long, thu hoạch trái thần long ăn vào tăng chỉ số (đặc biệt không bị ảnh hưởng với sức mạnh chí tôn)  
-cam on bot, ok bot, ok, cam on, ok ad, ok admin, ok adm|🤖Bot: Dạ không có gì đâu anh yêu! Nhiệm vụ của em mà
+cam on, ok|🤖Bot: Dạ không có gì đâu anh yêu! Nhiệm vụ của em mà
 scam, lua dao, ld, uy tin, ut|🤖Bot: Hệ thống key bạc và key vàng trong box không bao giờ chủ động nhắn tin cho người chơi (dấu hiệu nhận biết giả danh: mượn tiền, mượn acc, xin này xin nọ,..) Vui lòng check kĩ thông tin trước khi làm bất cứ điều gì. DẠO NÀY RẤT NHIỀU THÀNH PHẦN TẠO ZALO GIỐNG TÊN RỒI LỪA ĐẢO NÊN NGƯỜI CHƠI TỰ BẢO VỆ TÀI SẢN CỦA BẢN THÂN  
 detu, de tu|🤖Bot: Mabư +30% (săn Mabư), Gohan Bư +50% (săn ở Osin ĐHVT), Itachi +70% (mua ở Santa), OMEGA +100% (Capsule tết)  
 gohan|🤖Bot: Đệ tử Gohan Bư săn ở Osin Đại Hội Võ Thuật lúc 12h00 và 19h00  
