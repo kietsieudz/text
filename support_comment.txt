@@ -10,6 +10,8 @@ giay | [Dịch jcl sang giày là sai rùi nèo|Jean ca lich mà đâu phải gi
 
 jay | [Dịch jcl sang giày là sai rùi nèo|Jean ca lich mà đâu phải giày đâu ông kẹ|Quần Jean Ca lich không phải giày đâu|Haha đọc giày là sai ròi]
 
+don gian | [Dễ nhưng dễ sai đó nhá|Ông thử dịch tui xem thử| Ông đọc xem thử chứ sáng giờ nhiều người sai quá|Dễ nhưng loay hoay đi hỏi vẫn sai nè|Dễ sai đó chứ, trên ảnh có chỗ hiểu lầm]
+
 de | [Dễ nhưng dễ sai đó nhá|Ông thử dịch tui xem thử| Ông đọc xem thử chứ sáng giờ nhiều người sai quá|Dễ nhưng loay hoay đi hỏi vẫn sai nè|Dễ sai đó chứ, trên ảnh có chỗ hiểu lầm]
 
 ngon ngu|[Thứ ngôn ngữ mà chỉ có thần mới hiểu|Ngôn ngữ của người trong ngành|Người trong ngành may ra hiểu đúng được câu này thôi|Đâu phải tự nhiên được gọi là thần đâu nhỉ]
