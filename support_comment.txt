@@ -10,6 +10,8 @@ giay | [Dịch jcl sang giày là sai rùi nèo|Jean ca lich mà đâu phải gi
 
 de | [Dễ nhưng dễ sai đó nhá|Ông thử dịch tui xem thử| Ông đọc xem thử chứ sáng giờ nhiều người sai quá|Dễ nhưng loay hoay đi hỏi vẫn sai nè|Dễ sai đó chứ, trên ảnh có chỗ hiểu lầm]
 
+ga | [Dễ nhưng dễ sai đó nhá|Ông thử dịch tui xem thử| Ông đọc xem thử chứ sáng giờ nhiều người sai quá|Dễ nhưng loay hoay đi hỏi vẫn sai nè|Dễ sai đó chứ, trên ảnh có chỗ hiểu lầm]
+
 nghe | [Dễ nhưng dễ sai đó nhá|Ông thử dịch tui xem thử| Ông đọc xem thử chứ sáng giờ nhiều người sai quá|Dễ nhưng loay hoay đi hỏi vẫn sai nè|Dễ sai đó chứ, trên ảnh có chỗ hiểu lầm]
 
 nganh | [Dễ nhưng dễ sai đó nhá|Ông thử dịch tui xem thử| Ông đọc xem thử chứ sáng giờ nhiều người sai quá|Dễ nhưng loay hoay đi hỏi vẫn sai nè|Dễ sai đó chứ, trên ảnh có chỗ hiểu lầm]
