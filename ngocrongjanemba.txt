@@ -23,6 +23,7 @@ giftcode,code,fan cung,fanpage,fancung,fc|🔸Đây là code tân thủ: open1 -
 giftcode,code,fan cung,fanpage,fancung,fc|🔸Code khác bạn xem các bài viết ở Fanpage (Nhớ Follow, comment và nhắn tin để lấy cốt fan cứng: https://m.facebook.com/ngocrongnthevmax/ )
 xin ip,ipsv|Tất cả bản trên web đã cài sẵn Ip (tải về xoá dữ liệu rồi sài thôi) -> IP: TamQuoc:14.225.213.101:14445:0,0,0 
 share,event,tan thu,even,chia se|Bạn đăng nhập vào trang chủ nro3q.com sẽ có event để tham gia nhé. CHÚ Ý ĐỌC KĨ THỂ LỆ. Ở đó có nút zalo của người duyệt event luôn nhé
+share,event,tan thu,even,chia se,vang|Event mới húp thỏi vàng vô hạn nè https://www.facebook.com/share/p/1FftnFYhNQ/
 link game,link tai,link trang chu,tai game,download,website,web,dien dan|Trang chủ - tải game: 🔗nro3q.com [Mở trên trình duyệt Safari hoặc Chrome mới tải được game]|khongtaiduoc.png  
 jar,java,jav|Tải file JAR: nro3q.com nhé [Mở trên trình duyệt Safari hoặc Chrome mới tải được game] Nhớ Đọc Hướng Dẫn Cài Đặt|jar.png
 apk|Tải file APK: nro3q.com nhé [Mở trên trình duyệt Safari hoặc Chrome mới tải được game] Nhớ Đọc Hướng Dẫn Cài Đặt|apk.png  
