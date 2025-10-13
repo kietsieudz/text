@@ -12,9 +12,9 @@ giay, jay | [Dịch jcl sang giày là sai rùi nèo|Jean ca lich mà đâu ph�
 
 don gian, de ,ga, nghe, nganh, nghanh, doc duoc| [Dễ nhưng dễ sai đó nhá|Ông thử dịch tui xem thử| Ông đọc xem thử chứ sáng giờ nhiều người sai quá|Dễ nhưng loay hoay đi hỏi vẫn sai nè|Dễ sai đó chứ, trên ảnh có chỗ hiểu lầm]
 
-ngon ngu|[Thứ ngôn ngữ mà chỉ có thần mới hiểu|Ngôn ngữ của người trong ngành|Người trong ngành may ra hiểu đúng được câu này thôi|Đâu phải tự nhiên được gọi là thần đâu nhỉ]
+ngon ngu, tu dong dich,easy,khong thieu|[Thứ ngôn ngữ mà chỉ có thần mới hiểu|Ngôn ngữ của người trong ngành|Người trong ngành may ra hiểu đúng được câu này thôi|Đâu phải tự nhiên được gọi là thần đâu nhỉ]
 
-than | [Toàn thần với thần thôi|Vô game toàn thần td xd nm|Thần với thần gặp nhau chỉ để trao nhau vài đoạn chat|Khó nhưng đã có thần lo]
+than, 1 thoi, kiem loi,nam truoc| [Toàn thần với thần thôi|Vô game toàn thần td xd nm|Thần với thần gặp nhau chỉ để trao nhau vài đoạn chat|Khó nhưng đã có thần lo]
 
 that | [Thật 100% luôn ông 😎.|Chuẩn thiệt sự nha má 😂, má tin chưa?|Yên tâm ní ạ 😏, không có xạo đâu.|Ông còn nghi hả 🤔, ad đưa bằng chứng cho coi?]
 
@@ -26,7 +26,7 @@ chac khong | [Chắc chắn luôn 😏.|Không chắc thì còn gì nữa má �
 
 hay | [Hay vãi luôn ông ạ 😆.|Game này hay bá cháy 🤣, má có thử chưa?|Càng chơi càng cuốn ní ạ 😏, ní công nhận hông?|Đã hay còn đông nữa 😎, ông nghĩ sao?]
 
-biet | [Cái này ai cũng biết rồi ông 😂.|Mình biết sạch từ A tới Z luôn 😆, má cần nghe chi tiết không?|Ní chắc cũng rành vụ này ha 🤭?|Biết rõ ràng luôn 😎, ông muốn test không?]
+biet, 1 met| [Cái này ai cũng biết rồi ông 😂.|Mình biết sạch từ A tới Z luôn 😆, má cần nghe chi tiết không?|Ní chắc cũng rành vụ này ha 🤭?|Biết rõ ràng luôn 😎?]
 
 chat | [Chất lượng phết đó ông 🤣.|Game này mượt ghê má 😆, má có thử chưa?|Uy tín vãi ní ạ 😏, ní chơi chưa?|Ông thấy đông người cày chưa, chứng minh chất lượng đó 😎.]
 
