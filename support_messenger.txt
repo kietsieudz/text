@@ -23,6 +23,7 @@ giftcode,code|🤖Bot: Code Fan cứng: yeufanpage
 giftcode,code|🤖Bot: Còn nhiều code trên các bài viết fanpage còn hạn dùng (Nhớ follow để húp code nhanh hơn) 
 share,event,tan thu,even,chia se|🤖Bot: Bạn đăng nhập vào trang chủ sẽ có event để tham gia nhé. CHÚ Ý ĐỌC KĨ THỂ LỆ. Ở đó có nút zalo của người duyệt event luôn nhé
 link game,link tai,link trang chu,tai game,download,website,web,dien dan|🤖Bot: Trang chủ - tải game: 🔗https://thanhdi.top [Copy ra trình duyệt Safari hoặc Chrome mới tải được game] 
+no ra, 60p, 60 phut|Trứng linh thú 60 phút từ lúc mua bấm sử dụng sẽ nở
 jar,java,jav,apk,pc,windows,may tinh,ios,tf,testflight,ipa|🤖Bot: Tải ở trang chủ nhé. bạn copy ra Chrome hoặc Safari để tải  
 su kien,sk|🤖Bot: Sự kiện trong game được thông báo tại Fanpage: https://www.facebook.com/ngocrongnthevmax
 tai k dc,tai ko dc,tai khong dc,tai k duoc,tai ko duoc,tai khong duoc|🤖Bot: Bạn vui lòng copy link ra Chrome hoặc Safari để tải game nhé
@@ -71,7 +72,7 @@ loi game,fix loi,fixx loi,bi loi,loi ad,loi roi|🤖Bot: Bạn cho mình xin vid
 lag,game lang,game lac,xdl,xoa du lieu|🤖Bot: Game rất hiếm khi lag! Nếu bị nhoè màn hình là game vừa update dữ liệu mới. Hãy xoá dữ liệu và tải dữ liệu mới nhất nhé
 toc do,cham,tang toc,cheat,speed|🤖Bot: Tăng tốc độ game hãy CHAT thử từng cái nhé: speed 3, cheat_3, cheat 3 (hoặc bấm vào Logo) (pc bấm phím x) 
 spl,sao pha le|🤖Bot: Sao pha lê mua ở shop mở rộng hành trang ở Santa  
-up nhanh,up tnsm,up smtn,tang sm, tang suc manh,up de,up dt,up dau,up sm,300ty,400ty,cay nhanh,cay smtn,cay sm|🤖Bot: Cày nhanh sư phụ và đệ tử tại Ngũ Hành Sơn (đường tăng - làng aru) hoặc Địa Ngục (thần vũ trụ - hành tinh kaio)  
+up sp,up nhanh,up tnsm,up smtn,tang sm, tang suc manh, up suc manh,up de,up dt,up dau,up sm,300ty,400ty,cay nhanh,cay smtn,cay sm|🤖Bot: Cày nhanh sư phụ và đệ tử tại Ngũ Hành Sơn (đường tăng - làng aru) hoặc Địa Ngục (thần vũ trụ - hành tinh kaio)  
 dia nguc|🤖Bot: Gặp thần vũ trụ tại hành tinh kaio để đến địa ngục  
 htnt,nguc tu|🤖Bot: Dùng capsule hoặc vào rừng karin rồi đi lên trên để đến hành tinh ngục tù  
 loi cs,loi chi so|🤖Bot: Đệ tử up nhanh không lỗi chỉ số đệ  
