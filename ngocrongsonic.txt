@@ -252,6 +252,7 @@ nghia bi gay,nghia gay|Nghĩa bị Gay..
 quang bi gay,quang gay|Quang bị Gay..
 tinh bi gay,tinh gay|Tính bị Gay..
 thien bi gay,thien gay|Thiện bị Gay..
+trong gay, trong bi gay|Trọng lỏ dái bị Gay..
 kien bi gay,kien gay|Kiên bị Gay..
 duy bi gay,duy gay|Duy bị Gay..
 hung bi gay,hung gay|Hùng bị Gay..
