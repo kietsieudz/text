@@ -10,7 +10,7 @@ pc,windows,may tinh|Tải file PC: https://ngocrongncd.online  nhé. Nhớ Đọ
 ios,tf,testflight,ipa|Tải file iPhone: https://ngocrongncd.online  nhé. Nhớ Đọc Hướng Dẫn Cài Đặt
 xin ip,ipsv|Tất cả bản trên web đã cài sẵn Ip (tải về xoá dữ liệu rồi sài thôi) -> IP: NgocRongNCD:14.225.204.21:14445:0,0,0  
 loi game,fix loi,fixx loi,bi loi|Bạn cho mình xin video lỗi để mình hỗ trợ nhé! Hoặc gửi cho Key vàng!  
-lag,game lang,game lac,xdl,xoa du lieu|Game rất hiếm khi lag! Nếu bị nhoè màn hình là game vừa update dữ liệu mới. Hãy xoá dữ liệu và tải dữ liệu mới nhất nhé 
+lag,game lang,game lac,xdl|Mạng viễn thông việt nam VNPT đang bị tấn công (đéo phải do game, chờ VNPT fix nhé)|hello.jpg
 toc do,cham,tang toc,cheat,speed|Tăng tốc độ game hãy CHAT thử từng cái nhé: speed 3, cheat_3, cheat 3 (Không viết hoa)    
 up nhanh,up de,up dt,up dau,up sm,300ty,400ty,cay nhanh,cay smtn,cay sm|Cày nhanh sư phụ và đệ tử tại Ngũ Hành Sơn (đường tăng - làng aru) hoặc Địa Ngục (thần vũ trụ - hành tinh kaio)  
 dia nguc|Gặp thần vũ trụ tại hành tinh kaio để đến địa ngục  
