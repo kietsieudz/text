@@ -23,7 +23,8 @@ giftcode,code,fan cung,fanpage,fancung,fc|🤖Bot: Code tân thủ: open1 -> ope
 giftcode,code|🤖Bot: Code Fan cứng: yeufanpage
 giftcode,code|🤖Bot: Còn nhiều code trên các bài viết fanpage còn hạn dùng (Nhớ follow để húp code nhanh hơn) 
 share,event,tan thu,even,chia se|🤖Bot: Bạn đăng nhập vào trang chủ sẽ có event để tham gia nhé. CHÚ Ý ĐỌC KĨ THỂ LỆ. Ở đó có nút zalo của người duyệt event luôn nhé
-link game,link tai,link trang chu,tai game,download,website,web,dien dan|🤖Bot: Trang chủ - tải game: 🔗https://thanhdi.top [Copy ra trình duyệt Safari hoặc Chrome mới tải được game] 
+link,trang chu,tai game,download,website,web,dien dan|🤖Bot: Trang chủ - tải game: 🔗https://thanhdi.top [Copy ra trình duyệt Safari hoặc Chrome mới tải được game]
+link,trang chu,tai game,download,website,web,dien dan|Video review (Nhớ Đăng ký kênh + like video nhá) https://youtu.be/q6zIuy8raIM
 no ra, 60p, 60 phut|🤖Bot: Trứng linh thú 60 phút từ lúc mua bấm sử dụng sẽ nở
 jar,java,jav,apk,pc,windows,may tinh,ios,tf,testflight,ipa|🤖Bot: Tải ở trang chủ nhé. bạn copy ra Chrome hoặc Safari để tải  
 su kien,sk|🤖Bot: Sự kiện trong game được thông báo tại Fanpage: https://www.facebook.com/ngocrongnthevmax
