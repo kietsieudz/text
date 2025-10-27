@@ -31,7 +31,7 @@ su kien,sk|🤖Bot: Sự kiện trong game được thông báo tại Fanpage: h
 tai k dc,tai ko dc,tai khong dc,tai k duoc,tai ko duoc,tai khong duoc|🤖Bot: Bạn vui lòng copy link ra Chrome hoặc Safari để tải game nhé
 vps|🤖Bot: Anh em mua VPS ở đây nè! Hàng chính hãng ngon lành - Không như bọn clone ra đi bán dạo đâu nha: https://portal.vietnix.vn/aff.php?aff=3515 
 winrar|🤖Bot: Bạn tải về rồi bấm cài đặt rồi next next là cài được rồi: https://www.win-rar.com/fileadmin/winrar-versions/winrar/winrar-x64-701.exe 
-nap|🤖Bot: Nạp tự động tại trang chủ nhé. Quà nạp (mốc nạp) ở chỗ nạp luôn
+nap|🤖Bot: Đăng nhập vào trang chủ sẽ có nút nạp nha. Quà nạp (mốc nạp) ở chỗ nạp luôn. Trong nhà có quà mốc và tỉ lệ quy đổi luôn
 bn sm gd,bao nhieu suc manh, bn suc manh, bao nhieu sm, bnhieu sm|🤖Bot: 40 tỷ giao dịch được nhé bé
 loi laze, loi bom, loi boom, boom xit, laze xit|🤖Bot: Giảm tốc độ game xuống đi mới dùng được. Nhanh quá là xịt
 hong ngoc,hngoc,hn|🤖Bot: Hồng ngọc săn boss, up cold, up cskb, ĐHVT + ĐHVT23 + Siêu Hạng, Nạp thẻ
@@ -74,7 +74,7 @@ loi game,fix loi,fixx loi,bi loi,loi ad,loi roi|🤖Bot: Bạn cho mình xin vid
 lag,game lang,game lac,xdl,xoa du lieu|🤖Bot: Game rất hiếm khi lag! Nếu bị nhoè màn hình là game vừa update dữ liệu mới. Hãy xoá dữ liệu và tải dữ liệu mới nhất nhé
 toc do,cham,tang toc,cheat,speed|🤖Bot: Tăng tốc độ game hãy CHAT thử từng cái nhé: speed 3, cheat_3, cheat 3 (hoặc bấm vào Logo) (pc bấm phím x) 
 spl,sao pha le|🤖Bot: Sao pha lê mua ở shop mở rộng hành trang ở Santa  
-up sp,up nhanh,up tnsm,up smtn,tang sm, tang suc manh, up suc manh,up de,up dt,up dau,up sm,300ty,400ty,cay nhanh,cay smtn,cay sm|🤖Bot: Cày nhanh sư phụ và đệ tử tại Ngũ Hành Sơn (đường tăng - làng aru) hoặc Địa Ngục (thần vũ trụ - hành tinh kaio)  
+up sp,up nhanh,up tnsm,up smtn,tang sm,up lau, tang suc manh, up suc manh,up de,up dt,up dau,up sm,300ty,400ty,cay nhanh,cay smtn,cay sm|🤖Bot: Cày nhanh sư phụ và đệ tử tại Ngũ Hành Sơn (đường tăng - làng aru) hoặc Địa Ngục (thần vũ trụ - hành tinh kaio)  
 dia nguc|🤖Bot: Gặp thần vũ trụ tại hành tinh kaio để đến địa ngục  
 htnt,nguc tu|🤖Bot: Dùng capsule hoặc vào rừng karin rồi đi lên trên để đến hành tinh ngục tù  
 loi cs,loi chi so|🤖Bot: Đệ tử up nhanh không lỗi chỉ số đệ  
@@ -185,9 +185,9 @@ bot noi nhieu|🤖Bot: nói nhiều sao bằng mày được hả nhóc
 tien chua vao|🤖Bot: nạp tiền chưa cộng thì chờ 3-5 phút chưa cộng thì liên hệ key vàng  
 ki gui, ky gui|🤖Bot: Kí gửi mua bán bằng hồng ngọc nhé. Không phải thỏi vàng đâu  
 trai than long, manh dat, cay cuoc, khu dat, nong trai|🤖Bot: Bạn mua đất + cây cuốc rồi săn boss đủ 30 điểm sẽ trồng được cây thần long, thu hoạch trái thần long ăn vào tăng chỉ số (đặc biệt không bị ảnh hưởng với sức mạnh chí tôn)  
-cam on, ok|🤖Bot: Dạ không có gì đâu anh yêu! Nhiệm vụ của em mà
+cam on, ok,tks, thank, thanks, |🤖Bot: Dạ không có gì đâu anh yêu! Nhiệm vụ của em mà
 scam, lua dao, ld, uy tin, ut|🤖Bot: Hệ thống key bạc và key vàng trong box không bao giờ chủ động nhắn tin cho người chơi (dấu hiệu nhận biết giả danh: mượn tiền, mượn acc, xin này xin nọ,..) Vui lòng check kĩ thông tin trước khi làm bất cứ điều gì. DẠO NÀY RẤT NHIỀU THÀNH PHẦN TẠO ZALO GIỐNG TÊN RỒI LỪA ĐẢO NÊN NGƯỜI CHƠI TỰ BẢO VỆ TÀI SẢN CỦA BẢN THÂN  
-detu, de tu|🤖Bot: Mabư +30% (săn Mabư), Gohan Bư +50% (săn ở Osin ĐHVT), Itachi +70% (mua ở Santa), OMEGA +100% (Capsule tết)  
+detu, de tu, de kiem sao, de tu kiem sao|🤖Bot: Mabư +30% (săn Mabư), Gohan Bư +50% (săn ở Osin ĐHVT), Itachi +70% (mua ở Santa), OMEGA +100% (Capsule tết)  
 gohan|🤖Bot: Đệ tử Gohan Bư săn ở Osin Đại Hội Võ Thuật lúc 12h00 và 19h00  
 mabu, ma bu, trung bu, de bu|🤖Bot: Đệ tử Mabư săn ở Bư Béo tại Đảo Kame, bật thông báo boss lên là thấy  
 itachi|🤖Bot: Đệ tử Itachi thì cày hồng ngọc rồi mua ở Santa  
@@ -243,12 +243,11 @@ goc hay ao|🤖Bot: Trung nha má. hong có ảo
 k co,ko co,khong co|🤖Bot: Bạn copy link ra chrome nha
 vang,ngoc|🤖Bot: Free vàng ngọc má ơi
 skh|🤖Bot: đánh quái rơi
+cuc bang|Ra NPC trước nhà có cực băng
 gui ad,gui event,gui bai share, gui sk,gui su kien|🤖Bot: Gửi event xíu ad duyệt cho nha
 game ao|🤖Bot: Ảo đâu má, bình thường mà
-smtn,tnsm|🤖Bot: Cao nha
 game j,game gi|🤖Bot: Game ngọc rồng đó má
 mtv,mo tv,mo thanh vien|🤖Bot: Free mtv nha mẹ. tạo nv là kích hoạt sẵn
-alo,lo|🤖Bot: Lô gì má
 ngon|🤖Bot: Ngon
 hup, hupp|🤖Bot: Húp sùn sụt
 ban acc|🤖Bot: Không có nha
