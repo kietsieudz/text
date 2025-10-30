@@ -220,15 +220,16 @@ set gi| Set love nhé (setlove cùng mình nè)
 phao tre trau| Sử dụng pháo trẻ trâu sẽ nổ banh lon cả khu nhé  
 ngoc boi, eyes, dns, susano, mangekyo, sharingan, hao quang cam, da ngu sac| Bạn mua ngọc bội ở Santa, sau đó mang bội lên người rồi train quái ở Làng Lá (đường vào ở Quy Lão - đến đảo - chạy qua trái sẽ đến Làng Lá). Bạn train sẽ rơi mảnh mắt. Thu thập đủ mảnh mắt thì nâng bội lên Susano (eyes chính thức), mới nâng thì eyes sẽ 1% 3 loại chỉ số. Up càng nhiều nâng càng nhiều chỉ số Susano sẽ tăng lên. Hãy nâng Susano lên 50% 55% 55% rồi mới đi đục lỗ ép sao nhé  
 dnc, da nang cap, tat, ruby, thach anh tim| Đá nâng cấp ở Santa (Rương đá nâng cấp), bạn có thể mua rồi sử dụng sẽ ra 1 đống đá nâng cấp nhé (thạch anh tím, ruby, titan,...)  
-doi ten| Thẻ đổi tên mua ở Santa, được đổi tên thành có Dấu viết hoa và kí tự đặc biệt nhé (đừng đặt quá dài sẽ bị mất thẻ đổi tên mà không đổi được tên)  
+doi ten| Thẻ đổi tên mua ở Santa, được đổi tên thành có Dấu viết hoa và kí tự đặc biệt nhé (đừng đặt quá dài sẽ bị mất thẻ đổi tên mà không đổi được tên)
 trung linh thu| Trứng linh thú nở ra linh thú (Online chờ 60 phút là nở)
 manh suu tam| Mảnh sưu tầm quái nào bạn train quái đó là rơi 
 gui bai| Chỗ tham gia event có nút gửi event đó bạn
 bong tai,mvbt,mhbt,porata,btai, b tai| Bạn cần hỏi thông tin bông tai cấp nào? [ghi rõ bông tai + cấp] nhé
-bong tai cap 2, btc2, porata cap 2, porata c2, bong tai c2, btai c2, btai cap 2, bt cap 2, cap 2| Bông tai cấp 2 max chỉ số là 15%. Nguyên liệu rơi ở các map bang hội (tại quy lão vào map bang gặp Giuma để vào map up nguyên liệu)
-bong tai cap 3, btc3, porata cap 3, porata c3, bong tai c3, btai c3, btai cap 3, bt cap 3, cap 3| Bông tai cấp 3 max chỉ số là 25%. Nguyên liệu rơi ở các map bang hội (tại quy lão vào map bang gặp Giuma để vào map up nguyên liệu)
-bong tai cap 4, btc4, porata cap 4, porata c4, bong tai c4, btai c4, btai cap 4, bt cap 4, cap 4| Bông tai cấp 4 max chỉ số là 25% + 15% sức đánh đẹp + Được đục lỗ ép sao. Nguyên liệu tham gia event share 3 tại diễn đàn game (vô trang chủ -> vào diễn đàn)
-bong tai cap 5, btc5, porata cap 5, porata c5, bong tai c5, btai c5, btai cap 5, bt cap 5, cap 5| Bông tai cấp 5 max chỉ số là 40% + 15% sức đánh đẹp + Được đục lỗ ép sao. Mua ở santa
+bong tai cap 2, btc2, porata cap 2, porata c2, bong tai c2, btai c2, btai cap 2, bt cap 2, cap 2, porata2, porata 2| Bông tai cấp 2 max chỉ số là 15%. Nguyên liệu rơi ở các map bang hội (tại quy lão vào map bang gặp Giuma để vào map up nguyên liệu)
+bong tai cap 3, btc3, porata cap 3, porata c3, bong tai c3, btai c3, btai cap 3, bt cap 3, cap 3, porata3, porata 3| Bông tai cấp 3 max chỉ số là 25%. Nguyên liệu rơi ở các map bang hội (tại quy lão vào map bang gặp Giuma để vào map up nguyên liệu)
+bong tai cap 4, btc4, porata cap 4, porata c4, bong tai c4, btai c4, btai cap 4, bt cap 4, cap 4, porata4, porata 4| Bông tai cấp 4 max chỉ số là 25% + 15% sức đánh đẹp + Được đục lỗ ép sao. Nguyên liệu: tham gia event share 3 tại trang chủ
+bong tai cap 5, btc5, porata cap 5, porata c5, bong tai c5, btai c5, btai cap 5, bt cap 5, cap 5, porata5, porata 5| Bông tai cấp 5 mua ở santa
+bong tai cap 6, btc6, porata cap 6, porata c6, bong tai c6, btai c6, btai cap 6, bt cap 6, cap 6, porata6, porata 6| Bông tai cấp 6 mua ở santa
 so chua| Chưa sợ, ngon nhào zô  
 thue pr k, thue pr ko, thue pr khong, thue qc khong, thue qc ko, thue qc k, thue quang cao k, thue quang cao ko, thue quang cao khong|  Admin tự quảng cáo rồi má. Không cần thuê đâu má
 live free, live cho, live tiktok cho, live dum| Wow thật vinh hạnh khi được bạn live free cho game. Yêu bạn!
@@ -239,11 +240,9 @@ loi roi,game loi,loi game| Bạn thử xoá dữ liệu game tải lại là ổ
 k thay,k tim thay| Bạn nhìn kĩ đi có mà
 mat song| Bạn chọn sv xog chờ vài giây để game tạo kết nối đã nha
 dao khoang san, may dao| Máy đào là mua 1 tháng thì mỗi ngày thu 1 lượng hồng ngọc nhiều hơn nạp
-dm bot| Wtf
 up sao| Cày nhanh ở ngũ hành sơn á, game dễ cày
 sap k, sup k, sup ko, sup khong,sap khong, sap ko| Không, đông vcl sao sập
 dong k, dong ko, dong khong| Đông nhót lun kkk
-co all| Có all
 out game, roi game, bo game, nghi game| Chơi lại đi năn nỉ mà, game nhiều cái zui lắm bà ơi
 cai j,cai gi| Cái game
 game gi,game j,gem gi,gem j,gi cz, gi z| Game ngọc rồng nha
@@ -251,16 +250,3 @@ k tai, ko tai, khong tai, tai k, tai ko, tai khong| Copy link ra chrome hoặc s
 nap lau,lau qua,cong tien| Lỗi nạp thì nhắn cho key vàng trong box chat nha. k phải tui
 share| Đăng nhập vô trang chủ rồi bấm qua diễn đàn để tham gia nha
 k dc,ko dc,khong dc,k duoc,ko duoc,khong duoc| Copy link ra chrome hoặc safari nha má
-ghe| Ghê lắm nha mẹ
-goc hay ao| Trung nha má. hong có ảo
-k co,ko co,khong co| Bạn copy link ra chrome nha
-vang,ngoc| Free vàng ngọc má ơi
-skh| đánh quái rơi
-cuc bang|Ra NPC trước nhà có cực băng
-gui ad,gui event,gui bai share, gui sk,gui su kien| Gửi event xíu ad duyệt cho nha
-game ao| Ảo đâu má, bình thường mà
-game j,game gi| Game ngọc rồng đó má
-mtv,mo tv,mo thanh vien| Free mtv nha mẹ. tạo nv là kích hoạt sẵn
-ngon| Ngon
-hup, hupp| Húp sùn sụt
-ban acc| Không có nha
