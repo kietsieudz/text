@@ -31,7 +31,8 @@ no ra, 60p, 60 phut|🤖Bot: Trứng linh thú 60 phút từ lúc mua bấm sử
 su kien,sk|🤖Bot: Sự kiện trong game được thông báo tại Fanpage [TDStudio] và [TDStudio - Game Mobile] nhé
 vps|🤖Bot: Anh em mua VPS ở đây nè! Hàng chính hãng ngon lành - Không như bọn clone ra đi bán dạo đâu nha: https://portal.vietnix.vn/aff.php?aff=3515 
 winrar|🤖Bot: Bạn tải về rồi bấm cài đặt rồi next next là cài được rồi: https://www.win-rar.com/fileadmin/winrar-versions/winrar/winrar-x64-701.exe 
-nap|Đăng nhập vào trang chủ sẽ có nút nạp nha. Quà nạp (mốc nạp) ở chỗ nạp luôn. Trong nhà có quà mốc và tỉ lệ quy đổi luôn [Anh cần em gửi link server cho anh không? anh nói tên server đang chơi để em gửi link nhé [Clan, 3Q, Mun, Ping, Kid]
+nap|Vào trang chủ sẽ thấy nút nạp nhé! Quà theo mốc nằm ngay chỗ nạp, có luôn tỉ lệ quy đổi trong game
+nap|Anh cần link server không? Cho em biết tên server (Clan, 3Q, Mun, Ping, Kid) để em gửi chính xác nhé.
 sv1,clan,server 1, sever 1, sv 1|Link server 1: https://nroclan.com
 sv1,clan,server 1, sever 1, sv 1|Anh copy link ra chrome hoặc safari dùm em nhé!
 sv2,3q,server 2, sever 2, sv 2|Link server 2: https://nro3q.com
