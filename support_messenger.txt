@@ -25,7 +25,7 @@ xin ip,ipsv| Tất cả bản trên web đã cài sẵn Ip (tải về xoá dữ
 giftcode,code|Code tân thủ: open1 -> open15, yeufanpage
 giftcode,code|Video hướng dẫn lấy code sự kiện: https://youtube.com/shorts/-Wi1UxGJ3Zo
 share,event,tan thu,even,chia se|Đăng nhập vào trang chủ rồi lướt xuống dưới sẽ có event tân thủ nhận quà nhá
-link,trang chu,tai game,download,website,web,dien dan,jar,java,jav,apk,pc,windows,may tinh,ios,tf,testflight,ipa|Trang chủ & tải game: 🔗 https://thanhdi.top
+link,trang chu,tai game,download,website,web,dien dan,jar,java,jav,apk,pc,windows,may tinh,ios,tf,testflight,ipa|Trang chủ & tải game: 🔗 https://thanhdi.com
 link,trang chu,tai game,download,website,web,dien dan,tai k dc,tai ko dc,tai khong dc,tai k duoc,tai ko duoc,tai khong duoc|Copy link và mở bằng trình duyệt Safari hoặc Chrome để tải game nhé!
 link,trang chu,tai game,download,website,web,dien dan|Video review game: https://youtu.be/q6zIuy8raIM
 no ra, 60p, 60 phut| Trứng linh thú 60 phút từ lúc mua bấm sử dụng sẽ nở
