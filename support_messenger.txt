@@ -25,7 +25,7 @@ xin ip,ipsv| Tất cả bản trên web đã cài sẵn Ip (tải về xoá dữ
 giftcode,code|Code tân thủ: open1 -> open15, yeufanpage
 giftcode,code|Video hướng dẫn lấy code sự kiện: https://youtube.com/shorts/-Wi1UxGJ3Zo
 share,event,tan thu,even,chia se|Đăng nhập vào trang chủ rồi lướt xuống dưới sẽ có event tân thủ nhận quà nhá
-link,trang chu,tai game,download,website,web,dien dan,jar,java,jav,apk,pc,windows,may tinh,ios,tf,testflight,ipa|Trang chủ & tải game: 🔗 https://thanhdi.com
+link,trang chu,tai game,download,website,web,dien dan,jar,java,jav,apk,pc,windows,may tinh,ios,tf,testflight,ipa,sv1,sv2,sv3,sv4,sv5,server|Trang chủ & tải game: 🔗 https://thanhdi.com
 link,trang chu,tai game,download,website,web,dien dan,tai k dc,tai ko dc,tai khong dc,tai k duoc,tai ko duoc,tai khong duoc|Copy link và mở bằng trình duyệt Safari hoặc Chrome để tải game nhé!
 link,trang chu,tai game,download,website,web,dien dan|Video review game: https://youtu.be/q6zIuy8raIM
 no ra, 60p, 60 phut| Trứng linh thú 60 phút từ lúc mua bấm sử dụng sẽ nở
@@ -36,16 +36,6 @@ top up|Kamu akan melihat tombol top-up di beranda! Hadiah berdasarkan tingkat ad
 top up|Jika ada masalah saat top-up, tunggu sebentar ya — admin akan segera membantu kamu.
 nap|Vào trang chủ sẽ thấy nút nạp nhé! Quà theo mốc nằm ngay chỗ nạp, có luôn tỉ lệ quy đổi trong game
 nap|Anh cần link server không? Cho em biết tên server (Clan, 3Q, Mun, Ping, Kid) để em gửi chính xác nhé.
-sv1,clan,server 1, sever 1, sv 1|Link server 1: https://nroclan.com
-sv1,clan,server 1, sever 1, sv 1|Anh copy link ra chrome hoặc safari dùm em nhé!
-sv2,3q,server 2, sever 2, sv 2|Link server 2: https://nro3q.com
-sv2,3q,server 2, sever 2, sv 2|Anh copy link ra chrome hoặc safari dùm em nhé!
-sv3,mun,server 3, sever 3, sv 3|Link server 3: https://nromun.com
-sv3,mun,server 3, sever 3, sv 3|Anh copy link ra chrome hoặc safari dùm em nhé!
-sv4,ping,server 4, sever 4, sv 4|Link server 4: https://nroping.com
-sv1,ping,server 4, sever 4, sv 4|Anh copy link ra chrome hoặc safari dùm em nhé!
-sv5,kid,server 5, sever 5, sv 5|Link server 5: https://nrokid.com
-sv5,kid,server 5, sever 5, sv 5|Anh copy link ra chrome hoặc safari dùm em nhé!
 bn sm gd,bao nhieu suc manh, bn suc manh, bao nhieu sm, bnhieu sm| 40 tỷ giao dịch được nhé bé
 loi laze, loi bom, loi boom, boom xit, laze xit| Giảm tốc độ game xuống đi mới dùng được. Nhanh quá là xịt
 hong ngoc,hngoc,hn| Hồng ngọc săn boss, up cold, up cskb, ĐHVT + ĐHVT23 + Siêu Hạng, Nạp thẻ
