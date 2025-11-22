@@ -73,7 +73,7 @@ rot cap,xit cap,ha cap,tut cap|Lúc nâng trang bị bà Hạt mít có thông b
 tkmk,tk mk,thanh cong,dang ky,dky,tao,sai,chinh xac,dang nhap,tao nv,tao nhan vat|Nếu gặp lỗi Bạn hãy chụp lại hoặc quay lại gửi vào đây để mọi người hỗ trợ  
 k vo dc,ko vo dc,khong vo dc,k vo duoc,ko vo duoc,khong vo duoc,xoay|Nhập sai tk mk sẽ bị xoay nhé. Bạn gặp lỗi không vào được game hãy xem hướng dẫn xóa dữ liệu chỗ tải game nhé   
 loi game,fix loi,fixx loi,bi loi,loi ad,loi roi|Bạn cho mình xin video lỗi để mình hỗ trợ nhé! Hoặc gửi cho Key vàng!
-lag,game lang,game lac,xdl|Mạng viễn thông việt nam VNPT đang bị tấn công (đéo phải do game, chờ VNPT fix nhé)|hello.jpg
+lag,game lang,game lac,xdl|Mạng có lẽ lag xíu từ hết
 toc do,cham,tang toc,cheat,speed|Tăng tốc độ game hãy CHAT thử từng cái nhé: speed 3, cheat_3, cheat 3 (hoặc bấm vào Logo) (pc bấm phím x) 
 spl,sao pha le|Sao pha lê mua ở shop mở rộng hành trang ở Santa  
 up nhanh,up tnsm,up smtn,up de,up dt,up dau,up sm,300ty,400ty,cay nhanh,cay smtn,cay sm|Cày nhanh sư phụ và đệ tử tại Ngũ Hành Sơn (đường tăng - làng aru) hoặc Địa Ngục (thần vũ trụ - hành tinh kaio)  
