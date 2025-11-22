@@ -24,7 +24,7 @@ giftcode,code,fan cung,fanpage,fancung,fc|Video hướng dẫn lấy code sự k
 xin ip,ipsv|Tất cả bản trên web đã cài sẵn Ip (tải về xoá dữ liệu rồi sài thôi) -> IP: TamQuoc:14.225.213.101:14445:0,0,0 
 share,event,tan thu,even,chia se|Bạn đăng nhập vào trang chủ thanhdi.com sẽ có event để tham gia nhé. CHÚ Ý ĐỌC KĨ THỂ LỆ. Ở đó có nút zalo của người duyệt event luôn nhé
 share,event,tan thu,even,chia se,vang|Event mới húp thỏi vàng vô hạn nè https://www.facebook.com/share/p/1FftnFYhNQ/
-link game,link tai,link trang chu,tai game,download,website,web,dien dan|Trang chủ - tải game: 🔗thanhdi.com [Mở trên trình duyệt Safari hoặc Chrome mới tải được game]|khongtaiduoc.png  
+link game,link tai,link trang chu,tai game,download,website,web,dien dan|Trang chủ - tải game: 🔗thanhdi.com [Mở trên trình duyệt Safari hoặc Chrome mới tải được game]
 jar,java,jav|Tải file JAR: thanhdi.com nhé [Mở trên trình duyệt Safari hoặc Chrome mới tải được game] Nhớ Đọc Hướng Dẫn Cài Đặt|jar.png
 apk|Tải file APK: thanhdi.com nhé [Mở trên trình duyệt Safari hoặc Chrome mới tải được game] Nhớ Đọc Hướng Dẫn Cài Đặt|apk.png  
 pc,windows,may tinh|Tải file PC: thanhdi.com nhé. Nhớ Đọc Hướng Dẫn Cài Đặt|pc.png  
