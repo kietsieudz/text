@@ -6,6 +6,7 @@ cha gio,chai cuke| Làm nv KOL ở quy lão
 vao gam bao sai| Kiểm tra kĩ đúng server chưa nhé bạn
 bot dam, meo dam| Dâm má mày chứ dâm
 free all| Free all, k cần mtv
+nhap code|Vào npc trong nhà chọn nhập code nhé (đúng bản tải từ https://thanhdi.com mới nhập được)
 boss manh ba|Qua địa ngục dò khu hoặc canh thông báo nhé, tỷ lệ rơi nước mắt
 pet,canh|Pet vs Cánh hiện tại chỉ người mới lập nick nhập code tân thủ sẽ có (chỉ số thấp). Sắp tới sẽ có event nhận 2 cái đó chỉ số cao!
 nro lau, lau a, server lau, sever lau, sv lau, ngoc rong lau|Game này là Dragon Boy Global (Phiên bản quốc tế nha, Hỗ trợ full ngôn ngữ) Nhiều người việt, indo, mỹ chơi lắm
