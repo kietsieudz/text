@@ -6,3 +6,4 @@ sv gi, sv nao, nro gi, nro nao, server nao, server gi, server j, sv j, nro j, ga
 mtv, kich hoat, phi tv, phi thanh vien, mo thanh vien|khong_mtv.mp3
 hello, alo, xin chao, chao, helo, hi|nhan_vien.mp3
 tai game, link, download|tai_game.mp3
+moi choi, newbie, up dau, tnsm, tiem nang, suc manh|moi_choi.mp3
