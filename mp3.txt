@@ -10,3 +10,4 @@ moi choi, newbie, up dau, tnsm, tiem nang, suc manh|moi_choi.mp3
 ho tro, htro, khung nv, khung gio|ho_tro_nv.mp3
 ct, chien than, cthan|chien_than.mp3
 tang toc, game cham, toc do|toc_do.mp3
+server nao moi, sv nao moi, choi sv nao, choi server nao, choi sever nao, sever nao moi|server_nao.mp3
