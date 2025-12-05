@@ -14,3 +14,4 @@ server nao moi, sv nao moi, choi sv nao, choi server nao, choi sever nao, sever 
 dame|dame.mp3
 cam on, ok, oki, okey, okay|ok.mp3
 spl,sao pha le|sao_pha_le.mp3
+de tu, dtu, dt|de_tu.mp3
