@@ -1,1 +1,3 @@
-
+giftcode,code|code.pm3
+hong ngoc,hngoc,hn|hong_ngoc.mp3
+thoi vang,tvang,tv,vang, ngoc|vang_ngoc.mp3
