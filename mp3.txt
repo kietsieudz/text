@@ -15,3 +15,4 @@ dame|dame.mp3
 cam on, ok, oki, okey, okay|ok.mp3
 spl,sao pha le|sao_pha_le.mp3
 de tu, dtu, dt|de_tu.mp3
+doi skill,doi duoc skill,msk,kaioken,kok,doi chieu,doi skill1,doi skill2,doi skill3,doi skill4,doi skill5|skill.mp3
