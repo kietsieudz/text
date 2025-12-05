@@ -1,0 +1,6 @@
+giftcode,code|code.pm3
+hong ngoc,hngoc,hn|hong_ngoc.mp3
+thoi vang,tvang,tv,vang, ngoc|vang_ngoc.mp3
+test, open, op,mo lau,mo khi nao, mo chua|game_moi_open.mp3
+sv gi, sv nao, nro gi, nro nao, server nao, server gi, server j, sv j, nro j, game j, game gi, game nao, sever j, sever gi, sever nao|game_gi.mp3
+mtv, kich hoat, phi tv, phi thanh vien, mo thanh vien|khong_mtv.mp3
