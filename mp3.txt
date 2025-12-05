@@ -13,3 +13,4 @@ tang toc, game cham, toc do|toc_do.mp3
 server nao moi, sv nao moi, choi sv nao, choi server nao, choi sever nao, sever nao moi|server_nao.mp3
 dame|dame.mp3
 cam on, ok, oki, okey, okay|ok.mp3
+spl,sao pha le|sao_pha_le.mp3
