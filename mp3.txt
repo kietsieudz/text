@@ -20,3 +20,4 @@ suu tap, suu tam, quy dat|so_suu_tam.mp3
 manh an|manhan.mp3
 dao xanh, dao hong, qua dao|quadao.mp3
 bong tai,mvbt,mhbt,porata,btai, b tai|bongtai.mp3
+cuong no sieu cap,cuong no c2,cuong no 2,cuong no,item,cnsc,may do,cskb,ki bi,cn,bh,bo huyet,bo khi,bk|item.mp3
