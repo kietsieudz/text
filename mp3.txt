@@ -23,3 +23,4 @@ bong tai,mvbt,mhbt,porata,btai, b tai|bongtai.mp3
 cuong no sieu cap,cuong no c2,cuong no 2,cuong no,item,cnsc,may do,cskb,ki bi,cn,bh,bo huyet,bo khi,bk|item.mp3
 xu ngu,dong xu|dongxu.mp3
 nau canh, manh ba|canhmanhba.mp3
+bi kip,yadat,yardrat|bikip.mp3
