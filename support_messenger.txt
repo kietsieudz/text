@@ -6,7 +6,7 @@ cha gio,chai cuke| Làm nv KOL ở quy lão
 vao gam bao sai| Kiểm tra kĩ đúng server chưa nhé bạn
 testimage|Check test|https://i.pinimg.com/736x/5f/54/26/5f5426329dc948d4d6a707ac4082f0d4.jpg
 bot dam, meo dam| Dâm má mày chứ dâm
-free all| Free all, k cần mtv
+free all| Free all, k cần mtv|https://i.pinimg.com/736x/74/de/7f/74de7f5abab5d4a1cc0709f9233a1fa5.jpg
 nhap code|Vào npc trong nhà chọn nhập code nhé (đúng bản tải từ https://thanhdi.com mới nhập được)|https://i.pinimg.com/736x/70/f1/21/70f121282e86ee9dc86372768c28ac10.jpg
 boss manh ba|Qua địa ngục dò khu hoặc canh thông báo nhé, tỷ lệ rơi nước mắt
 pet,canh|Pet vs Cánh hiện tại chỉ người mới lập nick nhập code tân thủ sẽ có (chỉ số thấp). Sắp tới sẽ có event nhận 2 cái đó chỉ số cao!
@@ -14,7 +14,7 @@ nro lau, lau a, server lau, sever lau, sv lau, ngoc rong lau|Game này là Drago
 thay trunk, thay trunks, banh bao, con bo, nia tre, la tra| Đọc thông tin sự kiện ở đây nhé: https://www.facebook.com/share/p/1QJYLGRFLs/
 nang skh,nang dc skh,nang duoc skh, nang duoc set kh, nang dc set kh, nang set kh| Ra bà hạt mít có chỉ nguyên liệu tạo set kích hoạt
 Khi gas| Thu thập bản đồ trong doanh trại để đi khí gas ở Popo (làng aru)
-may hom, lau ch, lau chua, ngay nao| Mới mở vài hôm
+may hom, lau ch, lau chua, ngay nao| Mới mở vài hôm|https://i.pinimg.com/736x/74/de/7f/74de7f5abab5d4a1cc0709f9233a1fa5.jpg
 ruong long hai| Là rương mở ra cốt chí tôn ở chức năng câu cá, cần cành tre để tạo cần câu
 ruong an| Rương ấn là rương mở ra ấn để khắc ấn vào trang bị tại bà Hạt Mít
 baby| Boss Baby đọc ở đây (nhớ like + cmt): https://www.facebook.com/share/p/1H1VUaYK72/
