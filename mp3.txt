@@ -2,7 +2,7 @@ giftcode,code|code.pm3
 hong ngoc,hngoc,hn|hong_ngoc.mp3
 thoi vang,tvang,tv,vang, ngoc|vang_ngoc.mp3
 test, open, op,mo lau,mo khi nao, mo chua, lau chua, khi nao, luc nao|game_moi_open.mp3
-sv gi, sv nao, nro gi, nro nao, server nao, server gi, server j, sv j, nro j, game j, game gi, game nao, sever j, sever gi, sever nao|game_gi.mp3
+sv gi, sv nao, nro gi, nro nao, server nao, server gi, server j, sv j, nro j, game j, game gi, game nao, sever j, sever gi, sever nao, nr j, nr gi, nr nao|game_gi.mp3
 mtv, kich hoat, phi tv, phi thanh vien, mo thanh vien|khong_mtv.mp3
 hello, alo, xin chao, chao, helo, hi|nhan_vien.mp3
 tai game, link, download|tai_game.mp3
