@@ -2,14 +2,12 @@ dao xanh, dao hong|Quả đào qua gặp đường tăng ở ngũ hành sơn mà
 dao hoa|Gặp quy lão để vào đảo hoa nhé
 bot dam, meo dam|Dâm má mày chứ dâm
 group,gr, groups, grp|Link group facebook: https://www.facebook.com/share/g/165TJ69V2T
-
 thay trunk, thay trunks, banh bao, con bo, nia tre, la tra|Đọc thông tin sự kiện ở đây nhé: https://www.facebook.com/share/p/1QJYLGRFLs/
 nang skh,nang dc skh,nang duoc skh, nang duoc set kh, nang dc set kh, nang set kh|Ra bà hạt mít có chỉ nguyên liệu tạo set kích hoạt
 Khi gas|Thu thập bản đồ trong doanh trại để đi khí gas ở Popo (làng aru)
 may hom, lau ch, lau chua, ngay nao|Mới mở vài hôm
 ruong long hai|Là rương mở ra cốt chí tôn ở chức năng câu cá, cần cành tre để tạo cần câu
 vao gam bao sai|Kiểm tra kĩ đúng server chưa nhé bạn
-mkn, mat ket noi, dis, vang game|Nhà cung cấp đang kiểm tra DDos cao quá nên ảnh hưởng tới người chơi thật. Vui lòng chờ nhà cung cấp xử lý giảm bớt. Vui lòng bớt than cho đến khi vấn đề được xử lý
 ruong an|Rương ấn là rương mở ra ấn để khắc ấn vào trang bị tại bà Hạt Mít
 co 50 smtn,co 50 tnsm, co 50% smtn, co 50% sntm|Cải trang zeno nâng bậc free lên 4 là có nhé
 cha gio,chai cuke|Làm nhiệm vụ KOL ở quy lỏ sẽ có nha má
@@ -72,7 +70,7 @@ dam dang|Dâm đãng quá đi à|chaymui.png
 dame|Dame trung trên gốc xíu nha má. dễ chơi còn lâu dài. Boss từ TDST -> Xên sẽ giới hạn sát thương để hỗ trợ nhiệm vụ
 rot cap,xit cap,ha cap,tut cap|Lúc nâng trang bị bà Hạt mít có thông báo rớt hay không, nếu rớt chắc chắn sẽ trừ chỉ số. Để an toàn hãy dùng đá bảo vệ ở Santa bỏ vào nhé
 tkmk,tk mk,thanh cong,dang ky,dky,tao,sai,chinh xac,dang nhap,tao nv,tao nhan vat|Nếu gặp lỗi Bạn hãy chụp lại hoặc quay lại gửi vào đây để mọi người hỗ trợ  
-k vo dc,ko vo dc,khong vo dc,k vo duoc,ko vo duoc,khong vo duoc,xoay|Bạn thử xóa dữ liệu game tải lại dữ liệu mới xem, nếu vẫn chưa được hãy tải bản mới nhất ở trang chủ nhé! Vẫn không được thì chờ xíu admin sẽ hỗ trợ  
+k vo dc,ko vo dc,khong vo dc,k vo duoc,ko vo duoc,khong vo duoc,xoay,mkn, mat ket noi, dis, vang game|Bạn thử xóa dữ liệu game tải lại dữ liệu mới xem, nếu vẫn chưa được hãy tải bản mới nhất ở trang chủ nhé! Vẫn không được thì chờ xíu admin sẽ hỗ trợ [XEM THÔNG TIN MỚI: https://thanhdi.com/trangthai]
 loi game,fix loi,fixx loi,bi loi,loi ad,loi roi|Bạn cho mình xin video lỗi để mình hỗ trợ nhé! Hoặc gửi cho Key vàng!
 lag,game lang,game lac,xdl,xoa du lieu|Game rất hiếm khi lag! Nếu bị nhoè màn hình là game vừa update dữ liệu mới. Hãy xoá dữ liệu và tải dữ liệu mới nhất nhé|xoadl.png  
 toc do,cham,tang toc,cheat,speed|Tăng tốc độ game hãy CHAT thử từng cái nhé: speed 3, cheat_3, cheat 3 (hoặc bấm vào Logo) (pc bấm phím x) 
