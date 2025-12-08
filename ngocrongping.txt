@@ -4,6 +4,7 @@ dao hoa|Gặp quy lão để vào đảo hoa nhé
 bot dam, meo dam|Dâm má mày chứ dâm
 group,gr, groups, grp|Link group facebook: https://www.facebook.com/share/g/165TJ69V2T
 thay trunk, thay trunks, banh bao, con bo, nia tre, la tra|Đọc thông tin sự kiện ở đây nhé: https://www.facebook.com/share/p/1QJYLGRFLs/
+mkn, mat ket noi, dis, vang game|Nhà cung cấp đang kiểm tra DDos cao quá nên ảnh hưởng tới người chơi thật. Vui lòng chờ nhà cung cấp xử lý giảm bớt. Vui lòng bớt than cho đến khi vấn đề được xử lý
 vao gam bao sai|Kiểm tra kĩ đúng server chưa nhé bạn
 nang skh,nang dc skh,nang duoc skh, nang duoc set kh, nang dc set kh, nang set kh|Ra bà hạt mít có chỉ nguyên liệu tạo set kích hoạt
 Khi gas|Thu thập bản đồ trong doanh trại để đi khí gas ở Popo (làng aru)
