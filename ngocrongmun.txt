@@ -6,7 +6,6 @@ thay trunk, thay trunks, banh bao, con bo, nia tre, la tra|Đọc thông tin s�
 dao hoa|Gặp quy lão để vào đảo hoa nhé
 nang skh,nang dc skh,nang duoc skh, nang duoc set kh, nang dc set kh, nang set kh|Ra bà hạt mít có chỉ nguyên liệu tạo set kích hoạt
 Khi gas|Thu thập bản đồ trong doanh trại để đi khí gas ở Popo (làng aru)
-mkn, mat ket noi, dis, vang game|Nhà cung cấp đang kiểm tra DDos cao quá nên ảnh hưởng tới người chơi thật. Vui lòng chờ nhà cung cấp xử lý giảm bớt. Vui lòng bớt than cho đến khi vấn đề được xử lý
 may hom, lau ch, lau chua, ngay nao|Mới mở vài hôm
 ruong long hai|Là rương mở ra cốt chí tôn ở chức năng câu cá, cần cành tre để tạo cần câu
 ruong an|Rương ấn là rương mở ra ấn để khắc ấn vào trang bị tại bà Hạt Mít
@@ -73,7 +72,7 @@ dame|Dame trung trên gốc xíu nha má. dễ chơi còn lâu dài. Boss từ T
 top|Chat riêng đi tui cho xem Bảng Xếp Hạng mõm nè. Quà hồng ngọc nứng ác luôn nha
 rot cap,xit cap,ha cap,tut cap|Lúc nâng trang bị bà Hạt mít có thông báo rớt hay không, nếu rớt chắc chắn sẽ trừ chỉ số. Để an toàn hãy dùng đá bảo vệ ở Santa bỏ vào nhé
 tkmk,tk mk,thanh cong,dang ky,dky,tao,sai,chinh xac,dang nhap,tao nv,tao nhan vat|Nếu gặp lỗi Bạn hãy chụp lại hoặc quay lại gửi vào đây để mọi người hỗ trợ  
-k vo dc,ko vo dc,khong vo dc,k vo duoc,ko vo duoc,khong vo duoc,xoay|Bạn thử xóa dữ liệu game tải lại dữ liệu mới xem, nếu vẫn chưa được hãy tải bản mới nhất ở trang chủ nhé! Vẫn không được thì chờ xíu admin sẽ hỗ trợ
+k vo dc,ko vo dc,khong vo dc,k vo duoc,ko vo duoc,khong vo duoc,xoay,mkn, mat ket noi, dis, vang game|Bạn thử xóa dữ liệu game tải lại dữ liệu mới xem, nếu vẫn chưa được hãy tải bản mới nhất ở trang chủ nhé! Vẫn không được thì chờ xíu admin sẽ hỗ trợ [XEM THÔNG TIN MỚI: https://thanhdi.com/trangthai]
 loi game,fix loi,fixx loi,bi loi,loi ad,loi roi|Bạn cho mình xin video lỗi để mình hỗ trợ nhé! Hoặc gửi cho Key vàng!
 lag,game lang,game lac,xdl|Mạng có lẽ lag xíu từ hết
 toc do,cham,tang toc,cheat,speed|Tăng tốc độ game hãy CHAT thử từng cái nhé: speed 3, cheat_3, cheat 3 (hoặc bấm vào Logo) (pc bấm phím x) 
