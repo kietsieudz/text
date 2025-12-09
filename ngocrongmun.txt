@@ -71,7 +71,7 @@ dam dang|Dâm đãng quá đi à|chaymui.png
 dame|Dame trung trên gốc xíu nha má. dễ chơi còn lâu dài. Boss từ TDST -> Xên sẽ giới hạn sát thương để hỗ trợ nhiệm vụ
 top|Chat riêng đi tui cho xem Bảng Xếp Hạng mõm nè. Quà hồng ngọc nứng ác luôn nha
 rot cap,xit cap,ha cap,tut cap|Lúc nâng trang bị bà Hạt mít có thông báo rớt hay không, nếu rớt chắc chắn sẽ trừ chỉ số. Để an toàn hãy dùng đá bảo vệ ở Santa bỏ vào nhé
-k vo dc,ko vo dc,khong vo dc,k vo duoc,ko vo duoc,khong vo duoc,xoay,mkn, mat ket noi, dis, vang game, bi out, bi vang,bao tri, btri, btr,loi game,fix loi,fixx loi,bi loi,loi ad,loi roi,lag,game lang,game lac,xdl,xoa du lieu,tkmk,tk mk,thanh cong,dang ky,dky,tao,sai,chinh xac,dang nhap,tao nv,tao nhan vat|Bạn đang gặp lỗi, Truy cập đây xem hướng dẫn nhé: https://thanhdi.com/trangthai |loi.png
+k vo dc,ko vo dc,khong vo dc,k vo duoc,ko vo duoc,khong vo duoc,xoay,mkn, mat ket noi, dis, vang game, bi out, bi vang,bao tri, btri, btr,loi game,fix loi,fixx loi,bi loi,loi ad,loi roi,lag,game lang,game lac,xdl,xoa du lieu,tkmk,tk mk,thanh cong,dang ky,dky,tao,sai,chinh xac,dang nhap,tao nv,tao nhan vat|Bạn đang gặp lỗi, Truy cập đây xem hướng dẫn nhé: https://thanhdi.com/trangthai 
 toc do,cham,tang toc,cheat,speed|Tăng tốc độ game hãy CHAT thử từng cái nhé: speed 3, cheat_3, cheat 3 (hoặc bấm vào Logo) (pc bấm phím x) 
 spl,sao pha le|Sao pha lê mua ở shop mở rộng hành trang ở Santa  
 up nhanh,up tnsm,up smtn,up de,up dt,up dau,up sm,300ty,400ty,cay nhanh,cay smtn,cay sm|Cày nhanh sư phụ và đệ tử tại Ngũ Hành Sơn (đường tăng - làng aru) hoặc Địa Ngục (thần vũ trụ - hành tinh kaio)  
