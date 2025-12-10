@@ -4,7 +4,6 @@ dao hoa| Gặp quy lão để vào đảo hoa nhé
 dau bu, dau than|Đậu bư đi osin ở đại hội võ thuật lúc 21:00 nhé
 cha gio,chai cuke| Làm nv KOL ở quy lão
 vao gam bao sai| Kiểm tra kĩ đúng server chưa nhé bạn
-testimage|Check test|https://i.pinimg.com/736x/5f/54/26/5f5426329dc948d4d6a707ac4082f0d4.jpg
 bot dam, meo dam| Dâm má mày chứ dâm
 free all| Free all, k cần mtv|https://i.pinimg.com/736x/74/de/7f/74de7f5abab5d4a1cc0709f9233a1fa5.jpg
 nhap code|Vào npc trong nhà chọn nhập code nhé (đúng bản tải từ https://thanhdi.com mới nhập được)|https://i.pinimg.com/736x/70/f1/21/70f121282e86ee9dc86372768c28ac10.jpg
