@@ -36,8 +36,7 @@ vps| Anh em mua VPS ở đây nè! Hàng chính hãng ngon lành - Không như b
 winrar| Bạn tải về rồi bấm cài đặt rồi next next là cài được rồi: https://www.win-rar.com/fileadmin/winrar-versions/winrar/winrar-x64-701.exe 
 top up|Kamu akan melihat tombol top-up di beranda! Hadiah berdasarkan tingkat ada di sana, lengkap dengan rasio penukaran dalam game.
 top up|Jika ada masalah saat top-up, tunggu sebentar ya — admin akan segera membantu kamu.
-nap|Vào trang chủ sẽ thấy nút nạp nhé! Quà theo mốc nằm ngay chỗ nạp, có luôn tỉ lệ quy đổi trong game
-nap|Anh cần link server không? Cho em biết tên server (Clan, 3Q, Mun, Ping, Kid) để em gửi chính xác nhé.
+nap, card|Vào đăng nhập vào trang chủ sẽ thấy nút nạp nhé! Quà theo mốc nằm ngay chỗ nạp, có luôn tỉ lệ quy đổi trong game|https://i.pinimg.com/736x/26/6e/d9/266ed9e24053b6de392e53feb861de6a.jpg
 bn sm gd,bao nhieu suc manh, bn suc manh, bao nhieu sm, bnhieu sm| 40 tỷ giao dịch được nhé bé
 loi laze, loi bom, loi boom, boom xit, laze xit| Giảm tốc độ game xuống đi mới dùng được. Nhanh quá là xịt
 hong ngoc,hngoc,hn| Hồng ngọc săn boss, up cold, up cskb, ĐHVT + ĐHVT23 + Siêu Hạng, Nạp thẻ
@@ -236,6 +235,5 @@ out game, roi game, bo game, nghi game| Chơi lại đi năn nỉ mà, game nhi�
 cai j,cai gi| Cái game
 game gi,game j,gem gi,gem j,gi cz, gi z| Game ngọc rồng nha
 k tai, ko tai, khong tai, tai k, tai ko, tai khong| Copy link ra chrome hoặc safari tải nhé
-nap lau,lau qua,cong tien| Lỗi nạp thì nhắn cho key vàng trong box chat nha. k phải tui
 share| Đăng nhập vô trang chủ rồi bấm qua diễn đàn để tham gia nha
 k dc,ko dc,khong dc,k duoc,ko duoc,khong duoc| Copy link ra chrome hoặc safari nha má
