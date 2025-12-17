@@ -355,6 +355,6 @@ noi dung,dung roi,chuan luon|[Chuẩn luôn, đúng y như vậy 😆|Nghe là t
 dung het,het y,het bai|[Đúng hết rồi không sót gì 😆|Nghe mà gật đầu liên tục 🤝|Chuẩn ký ức chung 😭]
 haha that,cuoi that,kkk|[Cười mà nhớ lại thấy ngu ghê 😆|Haha nhưng vui thật 🤝|Một thời để kể lại 😭]
 hoi do,xua kia,thoi ay|[Hồi đó chơi khác bây giờ nhiều 😆|Thời đó đúng kiểu liều 🤝|Nhắc lại vẫn thấy đáng nhớ 😭]
-
+nhanh, mau, le|[Từ từ ní ơi gấp quá gấp rồi😆|Sắp rồi mấy má ơi, hối quá 😆|Sắp rồi đó ní, hối gì mà hối ác😆]
 
 
