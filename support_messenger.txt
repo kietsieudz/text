@@ -126,7 +126,7 @@ the luc| Mua bùa dẻo dai vào là khỏi lo hết thể lực nhé
 vamchar| Làng vamchar bạn tới làng morri để vào nhé  
 lang la| Từ đảo hoa chạy sang trái là đến làng lá  
 lay capsule,nhan capsule| Về nhà nhận capsul  
-cuong no sieu cap,cuong no c2,cuong no 2,cuong no,item,cnsc,may do,cskb,ki bi,cn,bh,bo huyet,bo khi,bk| Item thường và siêu cấp mở từ capsule kì bí  
+cuong no sieu cap,cuong no c2,cuong no 2,cuong no,item,cnsc,may do,cskb,ki bi,cn,bh,bo huyet,bo khi,bk| Item thường mở từ capsule kì bí và siêu cấp hạ gục Trung úy xanh lơ ở Bản đồ kho báu 
 xu ngu,dong xu| Up quái ngũ hành sơn rơi đồng xu rồi qua tương lai lấy đồng xu đổi máy dò capsule kì bí  
 trung sinh| Trùng sinh cần canh mạnh bà, tăng thêm 5% chỉ số gốc  
 manh ba| Canh mạnh bà bạn có thể mua ở santa hoặc thu thập x999 11 nguyên liệu ở địa ngục. Bấm sử dụng nguyên liệu để nấu  
