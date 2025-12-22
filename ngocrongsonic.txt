@@ -17,7 +17,7 @@ ma namec, than ma|Boss Thần Ma Namec đọc ở đây (nhớ like + cmt): http
 tay karin|Boss Tây Karin đọc ở đây (nhớ like + cmt): https://www.facebook.com/share/p/18f7oQWDtJ/
 co vn,la co,co viet nam,giai phong,xe tang| Quà giải phóng đọc ở đây (nhớ like + cmt): https://www.facebook.com/share/p/161GNNmKwn/
 k tai|Copy link: https://thanhdi.com ra dán vào chrome hoặc safari mới tải được, đừng bấm thẳng vào link ở zalo
-xin ip,ipsv|Tất cả bản trên web đã cài sẵn Ip (tải về xoá dữ liệu rồi sài thôi) -> IP: Clan:14.225.203.19:14445:0,0,0 
+xin ip,ipsv|Tất cả bản trên web đã cài sẵn Ip (tải về xoá dữ liệu rồi sài thôi)
 code moi|Theo dõi Fanpage: https://m.facebook.com/tdstudiogame/ để canh lấy code mới nha mấy má
 giftcode,code,fan cung,fanpage,fancung,fc|🔸Đây là code tân thủ: open1 -> open15.
 giftcode,code,fan cung,fanpage,fancung,fc|Video hướng dẫn lấy code sự kiện: https://youtube.com/shorts/-Wi1UxGJ3Zo
@@ -27,7 +27,7 @@ jar,java,jav|Tải file JAR: https://thanhdi.com nhé [Mở trên trình duyệt
 apk|Tải file APK: https://thanhdi.com nhé [Mở trên trình duyệt Safari hoặc Chrome mới tải được game] Nhớ Đọc Hướng Dẫn Cài Đặt|apk.png  
 pc,windows,may tinh|Tải file PC: https://thanhdi.com nhé. Nhớ Đọc Hướng Dẫn Cài Đặt|pc.png  
 ios,tf,testflight,ipa|Tải file iPhone: https://thanhdi.com nhé. Nhớ Đọc Hướng Dẫn Cài Đặt|iphone.png  
-su kien,sk,update,cap nhat|Sự kiện trong game được thông báo tại Fanpage: https://thanhdi.com/event.html
+su kien,sk,update,cap nhat|Sự kiện trong game được thông báo tại Fanpage: https://thanhdi.com
 tai k dc,tai ko dc,tai khong dc,tai k duoc,tai ko duoc,tai khong duoc|Bạn vui lòng copy link https://thanhdi.com ra Chrome hoặc Safari để tải game nhé
 vps|Anh em mua VPS ở đây nè! Hàng chính hãng ngon lành - Không như bọn clone ra đi bán dạo đâu nha: https://portal.vietnix.vn/aff.php?aff=3515 
 winrar|Bạn tải về rồi bấm cài đặt rồi next next là cài được rồi: https://www.win-rar.com/fileadmin/winrar-versions/winrar/winrar-x64-701.exe 
