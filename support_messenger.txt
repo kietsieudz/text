@@ -6,6 +6,13 @@ dau bu, dau than|Đậu bư đi osin ở đại hội võ thuật lúc 21:00 nh�
 cha gio,chai cuke| Làm nv KOL ở quy lão
 vao gam bao sai| Kiểm tra kĩ đúng server chưa nhé bạn
 bot dam, meo dam| Dâm má mày chứ dâm
+sv1,sever1,server1, sv 1, sever 1, server 1|Link đăng nhập server 1 đây nhé: https://sv1.thanhdi.games/login
+sv2,sever2,server2, sv 2, sever 2, server 2|Link đăng nhập server 2 đây nhé: https://sv2.thanhdi.games/login
+sv3,sever3,server3, sv 3, sever 3, server 3|Link đăng nhập server 3 đây nhé: https://sv3.thanhdi.games/login
+sv4,sever4,server4, sv 4, sever 4, server 4|Link đăng nhập server 4 đây nhé: https://sv4.thanhdi.games/login
+sv5,sever5,server5, sv 5, sever 5, server 5|Link đăng nhập server 5 đây nhé: https://sv5.thanhdi.games/login
+sv6,sever6,server6, sv 6, sever 6, server 6|Link đăng nhập server 6 đây nhé: https://sv6.thanhdi.games/login
+svindo,severindo,serverindo, sv indo, sever indo, server indo|Link đăng nhập server indo đây nhé: https://indo.thanhdi.games/login
 free all| Free all, k cần mtv|https://i.pinimg.com/736x/74/de/7f/74de7f5abab5d4a1cc0709f9233a1fa5.jpg
 nhap code|Vào npc trong nhà chọn nhập code nhé (đúng bản tải từ https://thanhdi.com mới nhập được)|https://i.pinimg.com/736x/70/f1/21/70f121282e86ee9dc86372768c28ac10.jpg
 boss manh ba|Qua địa ngục dò khu hoặc canh thông báo nhé, tỷ lệ rơi nước mắt
