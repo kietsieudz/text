@@ -33,7 +33,7 @@ share|Đăng nhập vô trang chủ rồi bấm qua diễn đàn để tham gia 
 k dc,ko dc,khong dc,k duoc,ko duoc,khong duoc|Copy link ra chrome hoặc safari nha má
 ghe|Ghê lắm nha mẹ
 goc hay ao|Trung nha má. hong có ảo
-oi|Oi
+oi|Oi https://thanhdi.com/support
 k co,ko co,khong co|Bạn copy link ra chrome nha
 kb di,acept,dong y,ket ban,kb roi,kb rui,kb r, ket ban roi, ket ban rui, ket ban r|Chờ xíu mình chấp nhận kb nha
 code,giftcode|Giftcode ghi thẳng khi vô web link trên kia nha
@@ -72,15 +72,15 @@ sao bt,sao biet|Ai biết gì đâu mẹ. Tôi bị oan
 muon acc,xin acc|Acc đâu mà cho mẹ
 open chua,open chx,op chua,op ch,open ch,open khi|Mới open lun nha má
 test ma,test a, test hay,tes ha,tet ha, test vv, test vinh vien,test a, tets ma,tets a,tets lau,test lau, test hay, tet hay, open hay, op hay|Open nha mẹ
-op a,open a,op ha, open ha|Đúng rồi má
+op a,open a,op ha, open ha|Đúng rồi má https://thanhdi.com/support
 bao gio,bh, baoh, bao h|Open chính thức rồi má ơi. Free all ko cần mtv
-test ha|Mới open chính thức nha mẹ
+test ha|Mới open chính thức nha mẹ https://thanhdi.com/support
 mo khi nao,khi nao op, khi nao open, open luc nao, op luc nao|Kêu là mới open rồi má ơi
-mo chua|Mở rồi đó má
+mo chua|Mở rồi đó má https://thanhdi.com/support
 hai,hi|Ba
 an lol,an lon|Ăn chứ
 wow|Wao
 sao bac,sao z,sao vay,sao day|Sao gì đâu má, ai biết gì đâu
 dc k,duoc k, dc khong,duoc khong|Được nha má
-alo,lo|Lô gì má
+alo,lo|Lô gì má https://thanhdi.com/support
 ngon|Ngon
