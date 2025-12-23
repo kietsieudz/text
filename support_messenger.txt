@@ -3,7 +3,7 @@ co 50 smtn,co 50 tnsm, co 50% smtn, co 50% sntm| Cải trang zeno nâng bậc fr
 dao hoa| Gặp quy lão để vào đảo hoa nhé
 dau bu, dau than|Đậu bư đi osin ở đại hội võ thuật lúc 21:00 nhé
 cha gio,chai cuke| Làm nv KOL ở quy lão
-vao gam bao sai| Kiểm tra kĩ đúng server chưa nhé bạn
+vao game bao sai| Kiểm tra kĩ đúng server chưa nhé bạn
 hong xanh, qua hong|Bạn ra gặp Đường tăng ở map 3 ngũ hành sơn nha
 sv1,sever1,server1, sv 1, sever 1, server 1|Link đăng nhập server 1 đây nhé: https://sv1.thanhdi.games/login
 sv2,sever2,server2, sv 2, sever 2, server 2|Link đăng nhập server 2 đây nhé: https://sv2.thanhdi.games/login
@@ -16,7 +16,7 @@ free all| Free all, k cần mtv|https://i.pinimg.com/736x/74/de/7f/74de7f5abab5d
 nhap code|Vào npc trong nhà chọn nhập code nhé (đúng bản tải từ https://thanhdi.com mới nhập được)|https://i.pinimg.com/736x/70/f1/21/70f121282e86ee9dc86372768c28ac10.jpg
 boss manh ba|Qua địa ngục dò khu hoặc canh thông báo nhé, tỷ lệ rơi nước mắt
 pet,canh|Pet vs Cánh hiện tại chỉ người mới lập nick nhập code tân thủ sẽ có (chỉ số thấp). Sắp tới sẽ có event nhận 2 cái đó chỉ số cao!
-nro lau, lau a, server lau, sever lau, sv lau, ngoc rong lau|Game này là Dragon Boy Global (Phiên bản quốc tế nha, Hỗ trợ full ngôn ngữ) Nhiều người việt, indo, mỹ chơi lắm|https://i.pinimg.com/736x/61/91/1f/61911f3af0553c91a2ea02fa00b9e98c.jpg
+nro lau, lau a, server lau, sever lau, sv lau, ngoc rong lau|Bạn tải game tại https://thanhdi.com nha
 thay trunk, thay trunks, banh bao, con bo, nia tre, la tra| Đọc thông tin sự kiện ở đây nhé: https://www.facebook.com/share/p/1QJYLGRFLs/
 nang skh,nang dc skh,nang duoc skh, nang duoc set kh, nang dc set kh, nang set kh| Ra bà hạt mít có chỉ nguyên liệu tạo set kích hoạt
 Khi gas| Thu thập bản đồ trong doanh trại để đi khí gas ở Popo (làng aru)
