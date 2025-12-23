@@ -51,7 +51,7 @@ loi laze, loi bom, loi boom, boom xit, laze xit| Giảm tốc độ game xuống
 hong ngoc,hngoc,hn| Hồng ngọc săn boss, up cold, up cskb, ĐHVT + ĐHVT23 + Siêu Hạng, Nạp thẻ
 thoi vang,tvang,tv,vang| Thỏi vàng làm nhiệm vụ bò mộng, hộ tống, ĐHVT23, Nạp thẻ (Còn nhiều cách khác)  Vàng nhận nhận miễn phí không giới hạn ở nhà
 hn, tv,top,rank,mom| Chat riêng "rank" tui cho coi bảng xếp hạng nói nhiều nè. quà là Coin
-menu,mod,auto, xin lenh| Chat 'menu' để mở menu mod hoặc bấm vào logo (bản pc bấm phím x)
+menu,mod,auto, xin lenh| Bấm vào logo (bản pc bấm phím x) để mở menu mod
 deo co bong tai,co bong tai, f khong, f ko, f k, ht nhanh, hop the nhanh, hthe nhanh, phim tat| Mua thêm bông cấp 1 bỏ trong hành trang là bấm hợp thể nhanh được
 moi choi,ms choi| Mới chơi thì nên up sức mạnh trước nha má. cần hướng dẫn gì cứ nói tôi chỉ cho nè
 xa linh| 23h->3h sáng gặp Thượng đế để đến con Đường Xà linh
