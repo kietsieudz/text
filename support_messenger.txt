@@ -38,7 +38,8 @@ dk xong, dky, dang ky, dang ki, dki|Hãy đăng ký ở link https://thanhdi.com
 share,event,tan thu,even,chia se|Đăng nhập vào trang chủ rồi lướt xuống dưới sẽ có event tân thủ nhận quà nhá
 link,trang chu,tai game,download,website,web,dien dan,jar,java,jav,apk,pc,windows,may tinh,ios,tf,testflight,ipa|BTN:\nXem hướng dẫn\nHướng dẫn tải=https://thanhdi.com/huongdantai
 co che|BTN:\nCơ chế game nha\nCơ chế=https://ngocrongtdstudio.com
-link,trang chu,tai game,download,website,web,dien dan,jar,java,jav,apk,pc,windows,may tinh,ios,tf,testflight,ipa,tai k dc,tai ko dc,tai khong dc,tai k duoc,tai ko duoc,tai khong duoc|Anh nhớ copy link [ https://ThanhDi.Com ] và mở bằng trình duyệt Safari hoặc Chrome để tải game nhé!
+link,trang chu,tai game,download,website,web,dien dan,jar,java,jav,apk,pc,windows,may tinh,ios,tf,testflight,ipa,tai k dc,tai ko dc,tai khong dc,tai k duoc,tai ko duoc,tai khong duoc|Anh copy link và mở bằng Safari hoặc Chrome mới tải được game nhé!
+link,trang chu,tai game,download,website,web,dien dan,jar,java,jav,apk,pc,windows,may tinh,ios,tf,testflight,ipa,tai k dc,tai ko dc,tai khong dc,tai k duoc,tai ko duoc,tai khong duoc|https://thanhdi.com
 no ra, 60p, 60 phut| Trứng linh thú 60 phút từ lúc mua bấm sử dụng sẽ nở
 su kien,sk|Sự kiện trong game được thông báo tại Fanpage [TDStudio] và [TDStudio - Game Mobile] nhé
 winrar|Bạn tải về rồi bấm cài đặt rồi next next là cài được rồi: https://www.win-rar.com/fileadmin/winrar-versions/winrar/winrar-x64-701.exe 
