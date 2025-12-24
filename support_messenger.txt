@@ -207,13 +207,7 @@ doi ten| Thẻ đổi tên mua ở Santa, được đổi tên thành có Dấu 
 trung linh thu| Trứng linh thú nở ra linh thú (Online chờ 60 phút là nở)
 manh suu tam| Mảnh sưu tầm quái nào bạn train quái đó là rơi 
 gui bai| Chỗ tham gia event có nút gửi event đó bạn
-bong tai,mvbt,mhbt,porata,btai, b tai| Bạn cần hỏi thông tin bông tai cấp nào? [ghi rõ bông tai + cấp] nhé
-bong tai cap 2, btc2, porata cap 2, porata c2, bong tai c2, btai c2, btai cap 2, bt cap 2, cap 2, porata2, porata 2| Bông tai cấp 2 max chỉ số là 15%. Nguyên liệu rơi ở các map bang hội (tại quy lão vào map bang gặp Giuma để vào map up nguyên liệu)
-bong tai cap 3, btc3, porata cap 3, porata c3, bong tai c3, btai c3, btai cap 3, bt cap 3, cap 3, porata3, porata 3| Bông tai cấp 3 max chỉ số là 25%. Nguyên liệu rơi ở các map bang hội (tại quy lão vào map bang gặp Giuma để vào map up nguyên liệu)
-bong tai cap 4, btc4, porata cap 4, porata c4, bong tai c4, btai c4, btai cap 4, bt cap 4, cap 4, porata4, porata 4| Bông tai cấp 4 max chỉ số là 25% + 15% sức đánh đẹp + Được đục lỗ ép sao. Nguyên liệu: tham gia event share 3 tại trang chủ
-bong tai cap 5, btc5, porata cap 5, porata c5, bong tai c5, btai c5, btai cap 5, bt cap 5, cap 5, porata5, porata 5| Bông tai cấp 5 mua ở santa
-bong tai cap 6, btc6, porata cap 6, porata c6, bong tai c6, btai c6, btai cap 6, bt cap 6, cap 6, porata6, porata 6| Bông tai cấp 6 mua ở santa
-so chua| Chưa sợ, ngon nhào zô  
+bong tai,mvbt,mhbt,porata,btai, b tai|BTN:\n👉 Thông tin tất cả bông tai\nChi tiết=https://ngocrongtdstudio.com/posts/bong-tai-porata.html
 thue pr k, thue pr ko, thue pr khong, thue qc khong, thue qc ko, thue qc k, thue quang cao k, thue quang cao ko, thue quang cao khong|  Admin tự quảng cáo rồi má. Không cần thuê đâu má
 live free, live cho, live tiktok cho, live dum| Wow thật vinh hạnh khi được bạn live free cho game. Yêu bạn!
 co pr k, co pr ko, co qc ko, co qc k| Có PR mới có mem chứ má
