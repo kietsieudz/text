@@ -33,15 +33,16 @@ co vn,la co,co viet nam,giai phong,xe tang| Quà giải phóng đọc ở đây 
 k tai| Copy link ra dán vào chrome hoặc safari mới tải được, đừng bấm thẳng vào link ở zalo
 xin ip,ipsv| Tất cả bản trên web đã cài sẵn Ip (tải về xoá dữ liệu rồi sài thôi)
 giftcode,code|Code tân thủ: open1 -> open15, yeufanpage|https://i.pinimg.com/736x/70/f1/21/70f121282e86ee9dc86372768c28ac10.jpg
+giftcode,code|Page luôn có người trực. Anh cần giftcode hoặc hỗ trợ thêm cứ nhắn, em và ad sẽ hỗ trợ ngay ạ 🥰
 dk xong, dky, dang ky, dang ki, dki|Hãy đăng ký ở link https://thanhdi.com
-giftcode,code|Vô trang chủ cũng có thêm cả đống Giftcode
 share,event,tan thu,even,chia se|Đăng nhập vào trang chủ rồi lướt xuống dưới sẽ có event tân thủ nhận quà nhá
-link,trang chu,tai game,download,website,web,dien dan,jar,java,jav,apk,pc,windows,may tinh,ios,tf,testflight,ipa,sv1,sv2,sv3,sv4,sv5,server|Trang chủ & tải game: 🔗 https://thanhdi.com
+link,trang chu,tai game,download,website,web,dien dan,jar,java,jav,apk,pc,windows,may tinh,ios,tf,testflight,ipa|👉 Trang chủ & tải game: 🔗 https://thanhdi.com 👉 Hướng dẫn tải: https://thanhdi.com/huongdantai
+
 co che|👉 Cơ chế game đây https://ngocrongtdstudio.com
-link,trang chu,tai game,download,website,web,dien dan,tai k dc,tai ko dc,tai khong dc,tai k duoc,tai ko duoc,tai khong duoc|Copy link và mở bằng trình duyệt Safari hoặc Chrome để tải game nhé! Hướng dẫn cài: https://thanhdi.com/huongdantai.html
+link,trang chu,tai game,download,website,web,dien dan,tai k dc,tai ko dc,tai khong dc,tai k duoc,tai ko duoc,tai khong duoc|Anh nhớ copy link và mở bằng trình duyệt Safari hoặc Chrome để tải game nhé!
 no ra, 60p, 60 phut| Trứng linh thú 60 phút từ lúc mua bấm sử dụng sẽ nở
-su kien,sk| Sự kiện trong game được thông báo tại Fanpage [TDStudio] và [TDStudio - Game Mobile] nhé
-winrar| Bạn tải về rồi bấm cài đặt rồi next next là cài được rồi: https://www.win-rar.com/fileadmin/winrar-versions/winrar/winrar-x64-701.exe 
+su kien,sk|Sự kiện trong game được thông báo tại Fanpage [TDStudio] và [TDStudio - Game Mobile] nhé
+winrar|Bạn tải về rồi bấm cài đặt rồi next next là cài được rồi: https://www.win-rar.com/fileadmin/winrar-versions/winrar/winrar-x64-701.exe 
 top up|Kamu akan melihat tombol top-up di beranda! Hadiah berdasarkan tingkat ada di sana, lengkap dengan rasio penukaran dalam game.
 top up|Jika ada masalah saat top-up, tunggu sebentar ya — admin akan segera membantu kamu.
 nap|🟡 Trang hướng dẫn nạp và báo lỗi nạp ở đây nha (Đầy đủ mọi thứ quà mốc, quà top): https://thanhdi.com/nap
