@@ -44,7 +44,7 @@ no ra, 60p, 60 phut| Trứng linh thú 60 phút từ lúc mua bấm sử dụng 
 su kien,sk|BTN:\nSự kiện Xem ở đây\nTrang Hỗ Trợ=https://thanhdi.com/support 
 top up|Kamu akan melihat tombol top-up di beranda! Hadiah berdasarkan tingkat ada di sana, lengkap dengan rasio penukaran dalam game.
 top up|Jika ada masalah saat top-up, tunggu sebentar ya — admin akan segera membantu kamu.
-nap|BTN:\nTrang hướng dẫn nạp và báo lỗi nạp\nHướng dẫn nạp=https://thanhdi.com/nap\nQuà mốc nạp=https://thanhdi.com/mocnap.html\nQuà top nạp=https://thanhdi.com/quaduatop.html
+nap|BTN:\nTrang hướng dẫn nạp và báo lỗi\nHướng dẫn nạp=https://thanhdi.com/nap\nQuà mốc nạp=https://thanhdi.com/mocnap.html\nQuà top nạp=https://thanhdi.com/quaduatop.html
 bn sm gd,bao nhieu suc manh, bn suc manh, bao nhieu sm, bnhieu sm| 40 tỷ giao dịch được nhé bé
 loi laze, loi bom, loi boom, boom xit, laze xit| Giảm tốc độ game xuống đi mới dùng được. Nhanh quá là xịt
 hong ngoc,hngoc,hn| Hồng ngọc săn boss, up cold, up cskb, ĐHVT + ĐHVT23 + Siêu Hạng, Nạp thẻ
@@ -109,8 +109,7 @@ sdg,max cs,max sd,max hp| Max 40k và 780k Mở giới hạn ở vách núi morr
 vung dat| Vùng đất huỷ diệt bạn lên hành tinh Bill là qua được  
 dc dau,duoc dau,co dc dau| Xin lỗi mình chỉ là BotChat. Nếu mình không giúp được bạn. Hãy hãy quay hoặc chụp lại rồi gửi cho Key vàng nhé
 skill moi,skill dac biet,super kame,super kamejoko,ma phong ba,lien hoan chuong,bien hinh,skill9,skill 9| Học skill đặc biệt ở quy lão đảo kame. cày hoặc nạp đều học được, đi doanh trại sẽ rơi bí kíp học skill  
-so luon,thua| Thua luôn
-box, group, groups, grup, gr, nhom, cong dong|Tham gia cộng đồng tại đây: https://thanhdi.com/groups
+box, group, groups, grup, gr, nhom, cong dong|BTN:\nCộng đồng Game\nCộng đồng=https://thanhdi.com/groups
 cay chay| Mèo méo meo mèo meo...mlem..mlem  
 cay qua,cay ac,cay vl| Cay thì mua sữa về uống
 tb boss,bao boss| Chat 'sb' để bật thông báo boss nha  
@@ -152,7 +151,7 @@ thuc an, do an|Thức ăn bạn mặc set thần linh rồi up quái cold là r�
 black goku|Black goku mạnh vcl đấy mấy cưng, rơi nhẫn thời không để vào map Chilled  
 than linh, dtl, do tl|Đồ thần linh bạn săn boss tương lai hoặc Osin lúc 12h và 19h hoặc up cold nhé  
 ho tro, khung nv, khung gio|khung giờ hỗ trợ nhiệm vụ 9-11h, 15-17h 21-23h (ai nhiệm vụ đó mới được vào khu - áp dụng cho các boss từ TDST đến Xên thị trấn Ginder)  
-chien than|👉 Chiến thần là gì? Chi tiết: https://ngocrongtdstudio.com/posts/de-tu-chien-than-la-gi-up-sao-cho-nhanh.html
+chien than|BTN:\n👉 Chiến thần là gì?\nChiến thần=https://ngocrongtdstudio.com/posts/de-tu-chien-than-la-gi-up-sao-cho-nhanh.html
 calich, tuong lai| Calich ở rừng bambo hoặc rừng dương xỉ hoặc nam kame (xong nhiệm vụ fide 3 mới thấy được calich để đến tương lai)  
 kuku, map dau dinh, rambo| KuKu, Mập đầu đinh, Rambo -> 5 Phút -> Tìm nhanh ở Cui thành phố Vegeta  
 skh, set kich hoat, set kh| Đồ kích hoạt đánh quái 3 map cạnh làng sẽ rơi  
@@ -166,13 +165,8 @@ dbv, da bao ve| đá bảo vệ bạn đi doanh trại rơi đầy hoặc mua 30
 khuyen mai, km nap, x nap, x2 nap, x3 nap, x5 nap, x10 nap| Game khuyến mãi nạp tối đa 30% chứ không có quá nhé (Game khác nạp vàng nên mới có x2,x3. Còn server này nạp Coin nên không có x nạp nha - x nạp server này là nát game. Tránh lạm phát nên sẽ không có x nạp). Mọi người thông đít giúp Bot nha 
 ngoc rong sieu cap, nrsc, ngoc rong sc| Ngọc rồng siêu cấp chỉ để ước (không ép được) (ước được gì thì ước đi rồi biết chứ tôi biết đâu)
 ngoc rong, nr| Ép từ 3 sao của ad cho ở bà hạt mít hoặc săn từ boss
-ai dep, bot dep| admin đẹp nhất nhé! Tôi đánh giá khách quan là như thế  
-chan| Tại sao bạn lại chán, bắt con gián bỏ vô háng, rồi sục cho đỡ chán  
-bot ngu,meo ngu| mày mới là thằng ngu đó
-Em là chatbot hỗ trợ tại đây, có gì cần giúp anh cứ nói nhé, em luôn sẵn sàng!
-bot khon| ai cũng biết rằng em khôn mà
 Em là chatbot hỗ trợ tại đây, có gì cần giúp anh cứ nói nhé, em luôn sẵn sàng
-o nay, o nao,o cuoi,o duoi,o nay, 1 o, 2 o, 3 o, 4 o, 5 o|Xem các ô trên người tại đây nhé: https://thanhdi.com/body
+o nay, o nao,o cuoi,o duoi,o nay, 1 o, 2 o, 3 o, 4 o, 5 o|BTN:\n👉 Coi các ô trên người ở đây\nÔ trên người=https://thanhdi.com/body
 canh tre| Bạn gom đủ 9999 rồi ghép thành cần câu đi câu cá nhé  
 test, open, op,mo lau,mo khi nao, mo chua, tes, text|🔴 Xem các server open hay test ở đây ạ: https://thanhdi.com/serverstatus
 mtv, mo tv, mo thanh vien, kich hoat tai khoan| Game không cần MTV. Cày 40 tỷ là gd được hết  
