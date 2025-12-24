@@ -28,9 +28,8 @@ fanpage|BTN:\nCác trang fanpage của game\nTrang hỗ trợ=https://www.facebo
 baby| Boss Baby đọc ở đây (nhớ like + cmt): https://www.facebook.com/share/p/1H1VUaYK72/
 golden, fide vang| Boss Fide vàng đọc ở đây (nhớ like + cmt): https://www.facebook.com/share/p/16UDUzvgYZ/
 5m,5tr|Game đua top rồi nên không có tặng coin nữa nha ní. Xem chi tiết: https://thanhdi.com/giaithich.html
-ma namec, than ma|BTN:\n👉 Boss Thần Ma Namec\nBoss Thần Ma=https://ngocrongtdstudio.com/posts/boss-than-ma-namec.html
+ma namec, than ma,xa linh|BTN:\n👉 Boss Thần Ma Namec\nBoss Thần Ma=https://ngocrongtdstudio.com/posts/boss-than-ma-namec.html
 tay karin| Boss Tây Karin đọc ở đây (nhớ like + cmt): https://www.facebook.com/share/p/18f7oQWDtJ/
-co vn,la co,co viet nam,giai phong,xe tang| Quà giải phóng đọc ở đây (nhớ like + cmt): https://www.facebook.com/share/p/161GNNmKwn/
 k tai| Copy link ra dán vào chrome hoặc safari mới tải được, đừng bấm thẳng vào link ở zalo
 xin ip,ipsv| Tất cả bản trên web đã cài sẵn Ip (tải về xoá dữ liệu rồi sài thôi)
 giftcode,code|🎁 Code tân thủ: open1 -> open15, yeufanpage|https://i.pinimg.com/736x/70/f1/21/70f121282e86ee9dc86372768c28ac10.jpg
@@ -42,8 +41,7 @@ co che|BTN:\nCơ chế game nha\nCơ chế=https://ngocrongtdstudio.com
 link,trang chu,tai game,download,website,web,dien dan,jar,java,jav,apk,pc,windows,may tinh,ios,tf,testflight,ipa,tai k dc,tai ko dc,tai khong dc,tai k duoc,tai ko duoc,tai khong duoc|❌ Bấm link trực tiếp trong Messenger sẽ không tải hoặc không đăng nhập được game. Anh copy link, rồi mở bằng Safari hoặc Chrome để tải và chơi nhé 👍
 link,trang chu,tai game,download,website,web,dien dan,jar,java,jav,apk,pc,windows,may tinh,ios,tf,testflight,ipa,tai k dc,tai ko dc,tai khong dc,tai k duoc,tai ko duoc,tai khong duoc|👉 Link trang chủ: https://thanhdi.com
 no ra, 60p, 60 phut| Trứng linh thú 60 phút từ lúc mua bấm sử dụng sẽ nở
-su kien,sk|Sự kiện trong game được thông báo tại Fanpage [TDStudio] và [TDStudio - Game Mobile] nhé
-winrar|Bạn tải về rồi bấm cài đặt rồi next next là cài được rồi: https://www.win-rar.com/fileadmin/winrar-versions/winrar/winrar-x64-701.exe 
+su kien,sk|BTN:\nSự kiện Xem ở đây\nTrang Hỗ Trợ=https://thanhdi.com/support 
 top up|Kamu akan melihat tombol top-up di beranda! Hadiah berdasarkan tingkat ada di sana, lengkap dengan rasio penukaran dalam game.
 top up|Jika ada masalah saat top-up, tunggu sebentar ya — admin akan segera membantu kamu.
 nap|BTN:\nTrang hướng dẫn nạp và báo lỗi nạp\nHướng dẫn nạp=https://thanhdi.com/nap\nQuà mốc nạp=https://thanhdi.com/mocnap.html\nQuà top nạp=https://thanhdi.com/quaduatop.html
@@ -54,7 +52,6 @@ thoi vang,tvang,tv,vang| Thỏi vàng làm nhiệm vụ bò mộng, hộ tống,
 menu,mod,auto, xin lenh| Bấm vào logo (bản pc bấm phím x) để mở menu mod
 deo co bong tai,co bong tai, f khong, f ko, f k, ht nhanh, hop the nhanh, hthe nhanh, phim tat| Mua thêm bông cấp 1 bỏ trong hành trang là bấm hợp thể nhanh được
 moi choi,ms choi| Mới chơi thì nên up sức mạnh trước nha má. cần hướng dẫn gì cứ nói tôi chỉ cho nè
-xa linh| 23h->3h sáng gặp Thượng đế để đến con Đường Xà linh
 xong roi, xong r, xog roi, xog r, share 1, share 2, share 3, share 4, event 3, event 1, event 2, event 4, danh gia| Xong thì chờ xíu rảnh ad rep liền á!
 20k duoc de| Tỷ lệ ra đệ omega nha má
 la co,xe tang| Vô fanpage coi bài viết có code đó má
@@ -78,12 +75,10 @@ ngoc| ngọc săn boss cooler rơi rương ngọc mở ra lấy ngọc ép vào 
 k len,khong len, k tang, ko tang, khong tang,ko len| Ra vách núi morri mở giới hạn sức mạnh đi
 up cold| Up cold rơi: hồn hạ tôn, hồn thiên tôn, thức ăn, hồng ngọc, đồ thần linh,..
 suu tam| Thẻ nào đánh quái đó là rơi nhé, nghe ad đồn full 1 con cần 270 thẻ thì phải
-dam dang| Dâm đãng quá đi à
 dame| Dame trung trên gốc xíu nha má. dễ chơi còn lâu dài. Boss từ TDST -> Xên sẽ giới hạn sát thương để hỗ trợ nhiệm vụ
-top| Chat riêng đi tui cho xem Bảng Xếp Hạng mõm nè. Quà hồng ngọc nứng ác luôn nha
 rot cap,xit cap,ha cap,tut cap| Lúc nâng trang bị bà Hạt mít có thông báo rớt hay không, nếu rớt chắc chắn sẽ trừ chỉ số. Để an toàn hãy dùng đá bảo vệ ở Santa bỏ vào nhé
 k vo dc,ko vo dc,khong vo dc,k vo duoc,ko vo duoc,khong vo duoc,xoay,mkn, mat ket noi, dis, vang game, bi out, bi vang,loi game,loi roi,game loi,loi game,fix loi,fixx loi,bi loi,loi ad,loi roi,lag,game lang,game lac,xdl,xoa du lieu,tkmk,tk mk,thanh cong,dang ky,dky,tao,sai,chinh xac,dang nhap,tao nv,tao nhan vat|Nếu gặp lỗi, vào đây xem cách fix nhé: https://thanhdi.com/trangthai
-bao tri, btri, btr|Xem trạng thái server tại đây: https://thanhdi.games/trangthai.php
+bao tri, btri, btr|BTN:\nXem Server bảo trì hay không tại đây\nTrạng thái=https://thanhdi.games/trangthai.php
 toc do,cham,tang toc,cheat,speed| Tăng tốc độ game hãy CHAT thử từng cái nhé: 's3' hoặc 's 3' (hoặc bấm vào Logo) (pc bấm phím x) 
 spl,sao pha le| Sao pha lê mua ở shop mở rộng hành trang ở Santa  
 up sp,up nhanh,up tnsm,up smtn,tang sm,up lau, tang suc manh, up suc manh,up de,up dt,up dau,up sm,300ty,400ty,cay nhanh,cay smtn,cay sm| Cày nhanh sư phụ và đệ tử tại Ngũ Hành Sơn (đường tăng - làng aru) hoặc Địa Ngục (thần vũ trụ - hành tinh kaio)  
