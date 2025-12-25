@@ -96,7 +96,7 @@ tieng gi,ngon ngu,chu gi,toan tieng tau,tieng anh| Về nhà chọn ô cuối đ
 gioi han,gh dame,gh st| Boss nhiệm vụ sẽ giới hạn để người chơi sau dễ làm nhiệm vụ. Boss không phải nhiệm vụ sẽ không giới hạn nhé  
 kem vc,kem sang,kem qua| kém sang quá :))
 qua dao| Quả đào vào ngũ hành sơn gặp đường tăng mà coi
-auto msk,auto kaioken,auto kok,auto masenko,autu msk,autu kok,autu kaioken,auto masenko| Do bạn đen thôi. Đệ ra ngẫu nhiên skill, gọi rồng 1 sao để đổi skill đệ tử  
+auto msk,auto kaioken,auto kok,auto masenko,autu msk,autu kok,autu kaioken,auto masenko,doi skill, skill de, skill detu, skill dtu, skin de, skin de tu, skin detu, skin dtu, skil de, skin de, skil detu, skil dtu| Do bạn đen thôi. Đệ ra ngẫu nhiên skill, gọi rồng 1 sao để đổi skill đệ tử  
 dhvt23,dai hoi vo thuat 23| Đi đại hội võ thuật 23 nhận được hồng ngọc với thỏi vàng đó nha  
 cang nhi,cang qua| Căng củ cọt :))
 vudang,vu dang| Mod Vũ Đăng thì chat 'menu' để mở full lệnh  
