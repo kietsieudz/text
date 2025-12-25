@@ -1,11 +1,11 @@
 sv nao,server nao, sever nao,seve nao,xin,link,box,zalo,tai,nhom,zl|https://thanhdi.com/support
-tf,testflight,jar,jav,ios,ip|Có đủ
-dame,dmg,dmae,dam,st,ao hay,trung hay,goc hay,dame trung|Dame trung nha
+tf,testflight,jar,jav,ios,ip|Có đủ https://thanhdi.com/support
+dame,dmg,dmae,dam,st,ao hay,trung hay,goc hay,dame trung|Dame trung nha https://thanhdi.com/support
 hay k, hay khong, hay ko|Hay nha
 loi roi,game loi,loi game|Bạn thử xoá dữ liệu game tải lại là ổn nha
 k thay,k tim thay|Bạn nhìn kĩ đi có mà
 ban acc|Không có nha
-hong ngoc,hngoc,hn|Hồng ngọc cày cuốc nha. Có thể nạp rồi vô santa đổi với tỉ lệ 1:2
+hong ngoc,hngoc,hn|Hồng ngọc cày cuốc nha. https://thanhdi.com/support
 cc|Cc gì má
 co che|Cơ chế đây: https://thanhdi.com/support
 nhan o dau, nhan dau, nhan cho|Nhận trong NPC trong nhà đó
@@ -14,7 +14,7 @@ tuong lai,tlai|Xong nhiệm vụ fide 3 tìm calich ở Bambo, Rừng Dương X�
 lon gi,cac gi|????
 mat song|Bạn chọn sv xog chờ vài giây để game tạo kết nối đã nha
 dao khoang san, may dao|Máy đào là mua 1 tháng thì mỗi ngày thu 1 lượng hồng ngọc nhiều hơn nạp
-ua|Ủa alo
+ua|Ủa alo https://thanhdi.com/support
 tht k, tht ko, tht khong, that k, that ko, that khong,thiet k,thiet ko,thiet khong|Thật chứ kkk
 free bao nhieu, free bn, free bnhieu, free bnhiu|Free bao nhiều lun
 dm bot|Wtf
@@ -26,35 +26,37 @@ out game, roi game, bo game, nghi game|Chơi lại đi năn nỉ mà, game nhi�
 cai j,cai gi|Cái game
 game gi,game j,gem gi,gem j,gi cz, gi z|Game ngọc rồng nha
 ??,???,????,?????|Sao nè
-k tai, ko tai, khong tai, tai k, tai ko, tai khong|Copy link ra chrome hoặc safari tải nhé
-nap lau,lau qua,cong tien|Lỗi nạp thì nhắn cho key vàng trong box chat nha. k phải tui
-share|Đăng nhập vô trang chủ rồi bấm qua diễn đàn để tham gia nha
-k dc,ko dc,khong dc,k duoc,ko duoc,khong duoc|Copy link ra chrome hoặc safari nha má
+k tai, ko tai, khong tai, tai k, tai ko, tai khong|Copy link ra chrome hoặc safari tải nhé https://thanhdi.com/support
+nap lau,lau qua,cong tien|Lỗi nạp thì nhắn cho key vàng trong box chat nha. k phải tui https://thanhdi.com/support
+share|Đăng nhập vô trang chủ rồi bấm qua diễn đàn để tham gia nha https://thanhdi.com/support
+k dc,ko dc,khong dc,k duoc,ko duoc,khong duoc|Copy link ra chrome hoặc safari nha má https://thanhdi.com/support
 ghe|Ghê lắm nha mẹ
 goc hay ao|Trung nha má. hong có ảo
 oi|Oi
-k co,ko co,khong co|Bạn copy link ra chrome nha
+k co,ko co,khong co|Bạn copy link ra chrome nha https://thanhdi.com/support
 kb di,acept,dong y,ket ban,kb roi,kb rui,kb r, ket ban roi, ket ban rui, ket ban r|Chờ xíu mình chấp nhận kb nha
-code,giftcode|Giftcode ghi thẳng khi vô web link trên kia nha
-vang,ngoc|Free vàng ngọc má ơi
+code,giftcode|Giftcode ghi thẳng khi vô web link trên kia nha https://thanhdi.com/support
+vang,ngoc|Free vàng ngọc má ơi https://thanhdi.com/support
 a du|Á đù
 jv, j vay,gi z, gi v|Ai biết gì má
 skh|đánh quái rơi
 nhu|Như gì má
 gui ad,gui event,gui bai share, gui sk,gui su kien|Gửi cho key vàng đi má
 game ao|Ảo đâu má, bình thường mà
-smtn,tnsm|Cao nha
+smtn,tnsm|Cao nha https://thanhdi.com/support
 game j,game gi|Game ngọc rồng đó má
 cl j|Cl gì má
 hot|Hot lắm
-ong,ha ad,admin|Ad key vàng trong box zalo nha mẹ. hong phải tui
+ong,ha ad,admin|Ad key vàng trong box zalo nha mẹ. hong phải tui https://thanhdi.com/support
 ban nao|Có tên kìa má
-fan cung,fancung,fc|Code fancung: YEUFANPAGE nha má
+nap|Nạp ở đây nè: https://thanhdi.com/support
+ho tro,alo,hello|Hỗ trợ ở đây nha: https://thanhdi.com/support
+fan cung,fancung,fc|Code fancung: YEUFANPAGE nha má https://thanhdi.com/support
 ai|Tui nè má
 tui|Bạn ông mà
 what,wtf|What gì mẹ, có gì nói đi mẹ
 free|Free
-dt,de tu,detu|Free đệ tử nha má
+dt,de tu,detu|Free đệ tử nha má https://thanhdi.com/support
 Oki,ok,oce,oke|Oki
 lua dao,scam|Không scam nha má
 gi day,j day,jz,j z, j the,gi the|Gì đâu má, ai biết gì
@@ -75,5 +77,5 @@ an lol,an lon|Ăn chứ
 wow|Wao
 sao bac,sao z,sao vay,sao day|Sao gì đâu má, ai biết gì đâu
 dc k,duoc k, dc khong,duoc khong|Được nha má
-alo,lo|Lô gì má
+alo,lo|Anh cần hỗ trợ vào đây nha https://thanhdi.com/support
 ngon|Ngon
