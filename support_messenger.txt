@@ -55,18 +55,17 @@ thoi vang,tvang,tv,vang| Thỏi vàng làm nhiệm vụ bò mộng, hộ tống,
 menu,mod,auto, xin lenh| Bấm vào logo (bản pc bấm phím x) để mở menu mod
 deo co bong tai,co bong tai, f khong, f ko, f k, ht nhanh, hop the nhanh, hthe nhanh, phim tat| Mua thêm bông cấp 1 bỏ trong hành trang là bấm hợp thể nhanh được
 moi choi,ms choi| Mới chơi thì nên up sức mạnh trước nha má. cần hướng dẫn gì cứ nói tôi chỉ cho nè
-xong roi, xong r, xog roi, xog r, share 1, share 2, share 3, share 4, event 3, event 1, event 2, event 4, danh gia| Xong thì chờ xíu rảnh ad rep liền á!
+xong roi, xong r, xog roi, xog r, share 1, share 2, share 3, share 4, event 3, event 1, event 2, event 4, danh gia, follow, theo doi|👉 Xong event thì chờ xíu ad vào duyệt nha! event đánh giá nhớ để lại Tài khoản + Server nhé
 20k duoc de| Tỷ lệ ra đệ omega nha má
 la co,xe tang| Vô fanpage coi bài viết có code đó má
 chilled| Chilled là boss nhiệm vụ không rơi đồ
 huong dan| Chỗ thông báo game có hướng dẫn chơi game đóa
 goi rong duoc| Gọi thử là biết má ơi
-choi thu| Chơi thiệt luôn đi má năm nào rồi còn thử
 cooler vang, gold fide, fide gold| Boss fide gold xuất hiện 21h mỗi ngày ở Đông Karin
-lam nhu nao, cai nay lam sao, lam kieu gi| Đăng nhập vô trang chủ rồi bấm qua diễn đàn để tham gia event nha má
+lam nhu nao, cai nay lam sao, lam kieu gi|Đăng nhập vô trang chủ rồi bấm qua diễn đàn để tham gia event nha má
 kaioken hay kame| Cái nào cũng ngon hết trơn
 quai trau nhat| Qua địa ngục quái trâu đó, gặp thần vũ trụ rồi tới
-may loai skh, may loai set kich hoat| Có nhiều lắm má ơi, Ra hạt mít coi cách kiếm đó toàn cày là có
+may loai skh, may loai set kich hoat|Có nhiều lắm má ơi, Ra hạt mít coi cách kiếm đó toàn cày là có
 bu cuoi, toan hut| Quả cầu kênh khi mới chết nha
 k len sm, ko len, khong len suc manh, khong co tiem nang, k có tiem nang, ko co tiem nang, ko có suc manh, k co suc manh, ko len suc manh, k len suc manh| Out game vô lại thử má. Qua vách morri xem mở full giới hạn sức mạnh chưa
 de lay dau, detu lay dau, de tu lay dau| Vô nhà đọc có hướng dẫn kiếm đệ tử, muốn biết chi tiết cứ nói tên đệ tử tôi chỉ rõ cho kiếm
