@@ -15,15 +15,15 @@ sv4,sever4,server4, sv 4, sever 4, server 4|Link đăng nhập server 4 đây nh
 sv5,sever5,server5, sv 5, sever 5, server 5|Link đăng nhập server 5 đây nhé: https://sv5.thanhdi.games/login
 sv6,sever6,server6, sv 6, sever 6, server 6|Link đăng nhập server 6 đây nhé: https://sv6.thanhdi.games/login
 svindo,severindo,serverindo, sv indo, sever indo, server indo|Link đăng nhập server indo đây nhé: https://indo.thanhdi.games/login
-free all| Free all, k cần mtv|https://i.pinimg.com/736x/74/de/7f/74de7f5abab5d4a1cc0709f9233a1fa5.jpg
-nhap code|Vào npc trong nhà chọn nhập code nhé (đúng bản tải từ https://thanhdi.com mới nhập được)|https://i.pinimg.com/736x/70/f1/21/70f121282e86ee9dc86372768c28ac10.jpg
+free all| Free all, k cần mtv
+nhap code|Vào npc trong nhà chọn nhập code nhé (đúng bản tải từ https://thanhdi.com mới nhập được)
 boss manh ba|Qua địa ngục dò khu hoặc canh thông báo nhé, tỷ lệ rơi nước mắt
 pet,canh|Pet vs Cánh hiện tại chỉ người mới lập nick nhập code tân thủ sẽ có (chỉ số thấp). Sắp tới sẽ có event nhận 2 cái đó chỉ số cao!
 nro lau, lau a, server lau, sever lau, sv lau, ngoc rong lau|Bạn tải game tại https://thanhdi.com nha
 thay trunk, thay trunks, banh bao, con bo, nia tre, la tra| Đọc thông tin sự kiện ở đây nhé: https://www.facebook.com/share/p/1QJYLGRFLs/
 nang skh,nang dc skh,nang duoc skh, nang duoc set kh, nang dc set kh, nang set kh| Ra bà hạt mít có chỉ nguyên liệu tạo set kích hoạt
 Khi gas|Thu thập bản đồ trong doanh trại để đi khí gas ở Popo (làng aru)
-may hom, lau ch, lau chua, ngay nao| Mới mở vài hôm|https://i.pinimg.com/736x/74/de/7f/74de7f5abab5d4a1cc0709f9233a1fa5.jpg
+may hom, lau ch, lau chua, ngay nao| Mới mở vài hôm
 ruong long hai| Là rương mở ra cốt chí tôn ở chức năng câu cá, cần cành tre để tạo cần câu
 ruong an| Rương ấn là rương mở ra ấn để khắc ấn vào trang bị tại bà Hạt Mít
 fanpage|BTN:\nCác trang fanpage của game\nTrang hỗ trợ=https://www.facebook.com/tdstudiogame\nTrang thông báo=https://www.facebook.com/tdstudiogame\nTrang cập nhật=https://www.facebook.com/ngocrongtuoitho
@@ -34,7 +34,7 @@ ma namec, than ma,xa linh|BTN:\n👉 Boss Thần Ma Namec\nBoss Thần Ma=https:
 tay karin| Boss Tây Karin đọc ở đây (nhớ like + cmt): https://www.facebook.com/share/p/18f7oQWDtJ/
 k tai| Copy link ra dán vào chrome hoặc safari mới tải được, đừng bấm thẳng vào link ở zalo
 xin ip,ipsv|Tất cả bản trên web đã cài sẵn Ip (tải về xoá dữ liệu rồi sài thôi)
-giftcode,code|🎁 Code tân thủ: open1 -> open15, yeufanpage|https://i.pinimg.com/736x/70/f1/21/70f121282e86ee9dc86372768c28ac10.jpg
+giftcode,code|🎁 Code tân thủ: open1 -> open15, yeufanpage
 giftcode,code|Page luôn có người trực. Anh cần giftcode hoặc hỗ trợ thêm cứ nhắn, em và ad sẽ hỗ trợ ngay ạ 🥰
 dk xong, dky, dang ky, dang ki, dki|Hãy đăng ký ở link https://thanhdi.com
 share,event,tan thu,even,chia se|🎁 Đăng nhập vào trang chủ rồi lướt xuống dưới sẽ có event tân thủ nhận quà nhá
