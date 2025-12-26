@@ -13,7 +13,6 @@ sv4,sever4,server4, sv 4, sever 4, server 4|Link đăng nhập server 4 đây nh
 sv5,sever5,server5, sv 5, sever 5, server 5|Link đăng nhập server 5 đây nhé: https://sv5.thanhdi.games/login
 sv6,sever6,server6, sv 6, sever 6, server 6|Link đăng nhập server 6 đây nhé: https://sv6.thanhdi.games/login
 svindo,severindo,serverindo, sv indo, sever indo, server indo|Link đăng nhập server indo đây nhé: https://indo.thanhdi.games/login
-nhap code|Vào npc trong nhà chọn nhập code nhé (đúng bản tải từ https://thanhdi.com mới nhập được)
 boss manh ba|Qua địa ngục dò khu hoặc canh thông báo nhé, tỷ lệ rơi nước mắt
 nro lau, lau a, server lau, sever lau, sv lau, ngoc rong lau|Bạn tải game tại https://thanhdi.com nha
 nang skh,nang dc skh,nang duoc skh, nang duoc set kh, nang dc set kh, nang set kh|Ra bà hạt mít có chỉ nguyên liệu tạo set kích hoạt
@@ -29,7 +28,6 @@ tay karin| Boss Tây Karin đọc ở đây (nhớ like + cmt): https://www.face
 k tai, ko tai, khong tai| Copy link ra dán vào chrome hoặc safari mới tải được, đừng bấm thẳng vào link ở đây nha
 xin ip,ipsv|Tất cả bản trên web đã cài sẵn Ip (tải về xoá dữ liệu rồi sài thôi)
 giftcode,code,xincode, xin cod, xincod,bulma,bunma,wedding,cai trang|BTN:\n🎁 Em gửi anh bộ Giftcode ạ\nGiftcode=https://thanhdi.com/giftcode
-giftcode,code|Page luôn có người trực. Anh cần hỗ trợ thêm cứ nhắn, em và ad sẽ hỗ trợ ngay ạ 🥰
 dk xong, dky, dang ky, dang ki, dki|Hãy đăng ký ở link https://thanhdi.com
 share,event,tan thu,even,chia se|🎁 Đăng nhập vào trang chủ rồi lướt xuống dưới sẽ có event tân thủ nhận quà nhá
 link,trang chu,tai game,download,website,web,dien dan,jar,java,jav,apk,pc,windows,may tinh,ios,tf,testflight,ipa|BTN:\n👉 Đầy đủ mọi phiên bản Jar,iPhone,Android,PC\nHướng dẫn tải=https://thanhdi.com/huongdantai
