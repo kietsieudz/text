@@ -39,7 +39,7 @@ su kien,sk|BTN:\n👉 Sự kiện Xem ở đây\nChi tiết=https://thanhdi.com/
 nap, top up, top-up|BTN:\n👉 Trang hướng dẫn nạp và báo lỗi\nHướng dẫn nạp=https://thanhdi.com/nap\nQuà mốc nạp=https://thanhdi.com/mocnap.html\nQuà top nạp=https://thanhdi.com/quaduatop.html
 bn sm gd,bao nhieu suc manh, bn suc manh, bao nhieu sm, bnhieu sm| 40 tỷ giao dịch được nhé bé
 loi laze, loi bom, loi boom, boom xit, laze xit| Giảm tốc độ game xuống đi mới dùng được. Nhanh quá là xịt
-hong ngoc,hngoc,hn| Hồng ngọc săn boss, up cold, up capsule kì bí, Đại hội võ thuật + Đại hội võ thuật 23 + Siêu Hạng, Nạp thẻ
+hong ngoc,hngoc,hn,ngoc hong| Hồng ngọc săn boss, up cold, up capsule kì bí, Đại hội võ thuật + Đại hội võ thuật 23 + Siêu Hạng, Nạp thẻ
 thoi vang,tvang,tv,vang| Thỏi vàng làm nhiệm vụ bò mộng, hộ tống, Đại hội võ thuật 23, Nạp thẻ, Vàng nhận nhận miễn phí không giới hạn ở nhà
 menu,mod,auto, xin lenh| Bấm vào logo (bản pc bấm phím x) để mở menu mod
 xong roi, xong r, xog roi, xog r, share 1, share 2, share 3, share 4, event 3, event 1, event 2, event 4, danh gia, follow, theo doi|👉 Xong event thì chờ xíu ad vào duyệt nha! event đánh giá nhớ để lại Tài khoản + Server nhé
