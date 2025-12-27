@@ -31,7 +31,7 @@ k tai, ko tai, khong tai| Copy link ra dán vào chrome hoặc safari mới tả
 xin ip,ipsv|Tất cả bản trên web đã cài sẵn Ip (tải về xoá dữ liệu rồi sài thôi)
 giftcode,code,xincode, xin cod, xincod,bulma,bunma,wedding,cai trang|BTN:\n🎁 Em gửi anh Toàn bộ Giftcode ạ, Nhớ xem trên các ảnh có code VIP\nGiftcode=https://thanhdi.com/giftcode
 dk xong, dky, dang ky, dang ki, dki|Hãy đăng ký ở link https://thanhdi.com
-share,event,tan thu,even,chia se|🎁 Đăng nhập vào trang chủ rồi lướt xuống dưới sẽ có event tân thủ nhận quà nhá
+share,event,tan thu,even,chia se|BTN:\n🎁 Hướng dẫn event tân thủ nhận quà trong nhà\nTham gia=https://thanhdi.com/event
 link,trang chu,tai game,download,website,web,dien dan,jar,java,jav,apk,pc,windows,may tinh,ios,tf,testflight,ipa|BTN:\n👉 Đầy đủ mọi phiên bản Jar, iPhone, Android, PC\nHướng dẫn tải=https://thanhdi.com/huongdantai
 co che|BTN:\n👉 Cơ chế game nha\nChi tiết=https://ngocrongtdstudio.com
 link,trang chu,tai game,download,website,web,dien dan,jar,java,jav,apk,pc,windows,may tinh,ios,tf,testflight,ipa,tai k dc,tai ko dc,tai khong dc,tai k duoc,tai ko duoc,tai khong duoc|❌ Bấm link trực tiếp trong Messenger sẽ không tải hoặc không đăng nhập được game. Anh copy link, rồi mở bằng Safari hoặc Chrome để tải và chơi nhé 👍
