@@ -62,7 +62,7 @@ up cold| Up cold rơi: hồn hạ tôn, hồn thiên tôn, thức ăn, hồng ng
 dame| Dame trung trên gốc xíu nha má. dễ chơi còn lâu dài. Boss từ TDST -> Xên sẽ giới hạn sát thương để hỗ trợ nhiệm vụ
 rot cap,xit cap,ha cap,tut cap| Lúc nâng trang bị bà Hạt mít có thông báo rớt hay không, nếu rớt chắc chắn sẽ trừ chỉ số. Để an toàn hãy dùng đá bảo vệ ở Santa bỏ vào nhé
 k vo dc,ko vo dc,khong vo dc,k vo duoc,ko vo duoc,khong vo duoc,xoay,mkn, mat ket noi, dis, vang game, bi out, bi vang,loi game,loi roi,game loi,loi game,fix loi,fixx loi,bi loi,loi ad,loi roi,lag,game lang,game lac,xdl,xoa du lieu,tkmk,tk mk,thanh cong,dang ky,dky,tao,sai,chinh xac,dang nhap,tao nv,tao nhan vat|Nếu gặp lỗi, vào đây xem cách fix nhé: https://thanhdi.com/trangthai
-bao tri, btri, btr|BTN:\nXem Server bảo trì hay không tại đây\nTrạng thái=https://thanhdi.games/trangthai.php
+bao tri, btri, btr, baotri|BTN:\nXem Server có đang bảo trì hay không tại đây\nTrạng thái=https://thanhdi.games/trangthai.php
 toc do,cham,tang toc,cheat,speed| Tăng tốc độ game hãy CHAT thử từng cái nhé: 's3' hoặc 's 3' (hoặc bấm vào Logo) (pc bấm phím x) 
 spl,sao pha le| Sao pha lê mua ở shop mở rộng hành trang ở Santa  
 up sp,up nhanh,up tnsm,up smtn,tang sm,up lau, tang suc manh, up suc manh,up de,up dt,up dau,up sm,300ty,400ty,cay nhanh,cay smtn,cay sm| Cày nhanh sư phụ và đệ tử tại Ngũ Hành Sơn (đường tăng - làng aru) hoặc Địa Ngục (thần vũ trụ - hành tinh kaio)  
