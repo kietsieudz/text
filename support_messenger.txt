@@ -39,7 +39,7 @@ link,trang chu,tai game,download,website,web,dien dan,jar,java,jav,apk,pc,window
 link,trang chu,tai game,download,website,web,dien dan,jar,java,jav,apk,pc,windows,may tinh,ios,tf,testflight,ipa,tai k dc,tai ko dc,tai khong dc,tai k duoc,tai ko duoc,tai khong duoc|👉 Link trang chủ em gửi nha a: https://thanhdi.com
 no ra, 60p, 60 phut| Trứng linh thú 60 phút từ lúc mua bấm sử dụng sẽ nở
 coin|Anh có thể kiếm coin bằng cách nạp hoặc event tương tác nhé!
-coin|BTN:\Anh vào đây và bấm nút "Event Tương Tác" nha\nChi tiết=https://thanhdi.com/support
+coin|BTN:\Anh vào đây và bấm nút Event Tương Tác nha\nChi tiết=https://thanhdi.com/support
 su kien,sk|BTN:\n👉 Sự kiện Xem ở đây\nChi tiết=https://thanhdi.com/support 
 nap, top up, top-up|BTN:\n👉 Trang hướng dẫn nạp và báo lỗi\nHướng dẫn nạp=https://thanhdi.com/nap\nQuà mốc nạp=https://thanhdi.com/mocnap.html\nQuà top nạp=https://thanhdi.com/quaduatop.html
 bn sm gd,bao nhieu suc manh, bn suc manh, bao nhieu sm, bnhieu sm| 40 tỷ giao dịch được nhé bé
