@@ -34,8 +34,8 @@ dk xong, dky, dang ky, dang ki, dki|Hãy "đăng ký" ở link https://thanhdi.c
 share,event,tan thu,even,chia se, fl, follow,folow,folo,foloow,folooow,foloooow,follw,folllow,folllloow,folllo,folw,fw,flo,fllow,flloww,fow,flw|BTN:\n🎁 Hướng dẫn event tân thủ nhận quà trong nhà\nTham gia=https://thanhdi.com/event
 link,trang chu,tai game,download,website,web,dien dan,jar,java,jav,apk,pc,windows,may tinh,ios,tf,testflight,ipa,tai k dc,tai ko dc,tai khong dc,tai k duoc,tai ko duoc,tai khong duoc|IMG:https://sv1.thanhdi.games/static/sonic/img/anhtai.png
 link,trang chu,tai game,download,website,web,dien dan,jar,java,jav,apk,pc,windows,may tinh,ios,tf,testflight,ipa|BTN:\n👉 Đầy đủ mọi phiên bản Jar, iPhone, Android, PC\nHướng dẫn tải=https://thanhdi.com/huongdantai
-link,trang chu,tai game,download,website,web,dien dan,jar,java,jav,apk,pc,windows,may tinh,ios,tf,testflight,ipa,tai k dc,tai ko dc,tai khong dc,tai k duoc,tai ko duoc,tai khong duoc|👉 Link trang chủ em gửi nha a: https://thanhdi.com
-link,trang chu,tai game,download,website,web,dien dan,jar,java,jav,apk,pc,windows,may tinh,ios,tf,testflight,ipa,tai k dc,tai ko dc,tai khong dc,tai k duoc,tai ko duoc,tai khong duoc|ℹ️ Mở trong Messenger không tải, đăng ký được đâu anh\nAnh copy link, mở bằng Safari hoặc Chrome nha
+link,trang chu,tai game,download,website,web,dien dan,jar,java,jav,apk,pc,windows,may tinh,ios,tf,testflight,ipa,tai k dc,tai ko dc,tai khong dc,tai k duoc,tai ko duoc,tai khong duoc|👉 Link trang chủ em gửi nha: https://thanhdi.com
+link,trang chu,tai game,download,website,web,dien dan,jar,java,jav,apk,pc,windows,may tinh,ios,tf,testflight,ipa,tai k dc,tai ko dc,tai khong dc,tai k duoc,tai ko duoc,tai khong duoc|ℹ️ Mở trong Messenger không đăng nhập, đăng ký hoặc tải được đâu anh\nAnh copy link, mở bằng Safari hoặc Chrome nha
 co che|BTN:\n👉 Cơ chế game nha\nChi tiết=https://ngocrongtdstudio.com
 no ra, 60p, 60 phut|Trứng linh thú 60 phút từ lúc mua bấm sử dụng sẽ nở
 coin|Anh có thể kiếm coin bằng cách nạp hoặc event tương tác nhé!
