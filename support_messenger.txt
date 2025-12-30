@@ -10,7 +10,7 @@ codeshare, code share|Game không có "code share" chung, ai làm bài share th�
 long khi, nhum long|Nhúm lông khỉ đánh quái ngũ hành sơn sẽ rơi nhé! Đổi quà tại Bunma đảo kame 🙏
 dau bu, dau than|"Đậu bư" đi osin ở đại hội võ thuật lúc 21:00 nhé
 bxh, xep hang|Xem "bảng xếp hạng" ở Daishinkan đảo kame hoặc ở trang chủ ấy
-noel|BTN:\n👉 Sự kiện noel 2025\nChi tiết=https://ngocrongtdstudio.com/sukien/su-kien-giang-sinh-ngoc-rong-nam-2025.html
+noel|👉 Sự kiện noel 2025\nhttps://ngocrongtdstudio.com/sukien/su-kien-giang-sinh-ngoc-rong-nam-2025.html
 hong xanh, qua hong|Bạn ra gặp Đường tăng ở map 3 ngũ hành sơn nha
 sv1,sever1,server1, sv 1, sever 1, server 1|Link đăng nhập server 1 đây nhé: https://sv1.thanhdi.games/login
 sv2,sever2,server2, sv 2, sever 2, server 2|Link đăng nhập server 2 đây nhé: https://sv2.thanhdi.games/login
@@ -25,27 +25,27 @@ nang skh,nang dc skh,nang duoc skh, nang duoc set kh, nang dc set kh, nang set k
 Khi gas|Thu thập bản đồ trong doanh trại để đi khí gas ở Popo (làng aru)
 ruong long hai| Là rương mở ra cốt chí tôn ở chức năng câu cá, cần cành tre để tạo cần câu
 ruong an| Rương ấn là rương mở ra ấn để khắc ấn vào trang bị tại bà Hạt Mít
-fanpage|BTN:\nCác trang fanpage của game\nTrang hỗ trợ=https://www.facebook.com/tdstudiogame\nTrang thông báo=https://www.facebook.com/tdstudiogame\nTrang cập nhật=https://www.facebook.com/ngocrongtuoitho
-baby|BTN:\n👉 Thông tin boss Baby\nChi tiết=https://ngocrongtdstudio.com/posts/thong-tin-boss-baby.html
+fanpage|👉 Các trang fanpage của game\nhttps://thanhdi.com/fanpage
+baby|👉 Thông tin boss Baby\nhttps://ngocrongtdstudio.com/posts/thong-tin-boss-baby.html
 golden, fide vang| Boss Fide vàng đọc ở đây (nhớ like + cmt): https://www.facebook.com/share/p/16UDUzvgYZ/
-ma namec, than ma,xa linh|BTN:\n👉 Boss Thần Ma Namec\nBoss Thần Ma=https://ngocrongtdstudio.com/posts/boss-than-ma-namec.html
+ma namec, than ma,xa linh|👉 Boss Thần Ma Namec\nhttps://ngocrongtdstudio.com/posts/boss-than-ma-namec.html
 tay karin| Boss Tây Karin đọc ở đây (nhớ like + cmt): https://www.facebook.com/share/p/18f7oQWDtJ/
 k tai, ko tai, khong tai| Copy link ra dán vào chrome hoặc safari mới tải được, đừng bấm thẳng vào link ở đây nha
 xin ip,ipsv|Tất cả bản trên web đã cài sẵn Ip (tải về xoá dữ liệu rồi sài thôi)
-giftcode,code,xincode, xin cod, xincod,bulma,bunma,wedding,cai trang|BTN:\n🎁 Em gửi anh Toàn bộ Giftcode của Game, Nhớ xem trên các ảnh có code VIP\nGiftcode=https://thanhdi.com/giftcode
+giftcode,code,xincode, xin cod, xincod,bulma,bunma,wedding,cai trang|🎁 Em gửi anh Toàn bộ Giftcode của Game, Nhớ xem trên các ảnh có code VIP\nhttps://thanhdi.com/giftcode
 giftcode,code,xincode, xin cod, xincod,bulma,bunma,wedding,cai trang|Anh bấm vào nút này, rồi bấm nút màu đen, sẽ ra toàn bộ Giftcode mà game đang có (bulma wedding, pokemon,..)
 dk xong, dky, dang ky, dang ki, dki|Hãy "đăng ký" ở link https://thanhdi.com [Mở trên chrome hoặc Safari nhé ]
-share,event,tan thu,even,chia se, fl, follow,folow,folo,foloow,folooow,foloooow,follw,folllow,folllloow,folllo,folw,fw,flo,fllow,flloww,fow,flw|BTN:\n🎁 Hướng dẫn event tân thủ nhận quà trong nhà\nTham gia=https://thanhdi.com/event
+share,event,tan thu,even,chia se, fl, follow,folow,folo,foloow,folooow,foloooow,follw,folllow,folllloow,folllo,folw,fw,flo,fllow,flloww,fow,flw|🎁 Hướng dẫn event tân thủ nhận quà trong nhà\nhttps://thanhdi.com/event
 link,trang chu,tai game,tai sao,download,website,web,dien dan,jar,java,jav,apk,pc,windows,may tinh,ios,tf,testflight,ipa,tai k dc,tai ko dc,tai khong dc,tai k duoc,tai ko duoc,tai khong duoc|IMG:https://sv1.thanhdi.games/static/sonic/img/anhtai.png
 link,trang chu,tai game,tai sao,download,website,web,dien dan,jar,java,jav,apk,pc,windows,may tinh,ios,tf,testflight,ipa|BTN:\n👉 Đầy đủ mọi phiên bản Jar, iPhone, Android, PC\nHướng dẫn tải=https://thanhdi.com/huongdantai
 link,trang chu,tai game,tai sao,download,website,web,dien dan,jar,java,jav,apk,pc,windows,may tinh,ios,tf,testflight,ipa,tai k dc,tai ko dc,tai khong dc,tai k duoc,tai ko duoc,tai khong duoc|👉 Link trang chủ em gửi nha: https://thanhdi.com
 link,trang chu,tai game,tai sao,download,website,web,dien dan,jar,java,jav,apk,pc,windows,may tinh,ios,tf,testflight,ipa,tai k dc,tai ko dc,tai khong dc,tai k duoc,tai ko duoc,tai khong duoc|ℹ️ Mở trong Messenger không đăng nhập, đăng ký hoặc tải được đâu anh\nAnh copy link, mở bằng Safari hoặc Chrome nha
-co che|BTN:\n👉 Cơ chế game nha\nChi tiết=https://ngocrongtdstudio.com
+co che|👉 Cơ chế game nha\nhttps://ngocrongtdstudio.com
 no ra, 60p, 60 phut|Trứng linh thú 60 phút từ lúc mua bấm sử dụng sẽ nở
 coin|Anh có thể kiếm coin bằng cách nạp hoặc event tương tác nhé!
-coin|BTN:\n👉 Anh vào đây bấm nút "Event Tương Tác" để xem chi tiết nhé.\nChi tiết=https://thanhdi.com/support
-su kien,sk|BTN:\n👉 Sự kiện Xem ở đây\nChi tiết=https://thanhdi.com/support 
-nap, top up, top-up|BTN:\n👉 Trang hướng dẫn nạp và báo lỗi\nHướng dẫn nạp=https://thanhdi.com/nap\nQuà mốc nạp=https://thanhdi.com/mocnap.html\nQuà top nạp=https://thanhdi.com/quaduatop.html
+coin|👉 Anh vào đây bấm nút "Event Tương Tác" để xem chi tiết nhé\nhttps://thanhdi.com/support
+su kien,sk|👉 Sự kiện Xem ở đây\nhttps://thanhdi.com/support 
+nap, top up, top-up|👉 Em gửi anh nha\nHướng dẫn nạp👉\nhttps://thanhdi.com/nap\n👉 Quà mốc nạp\nhttps://thanhdi.com/mocnap.html\n👉Quà top nạp\nhttps://thanhdi.com/quaduatop.html
 bn sm gd,bao nhieu suc manh, bn suc manh, bao nhieu sm, bnhieu sm| 40 tỷ giao dịch được nhé bé
 loi laze, loi bom, loi boom, boom xit, laze xit| Giảm tốc độ game xuống đi mới dùng được. Nhanh quá là xịt
 hong ngoc,hngoc,hn,ngoc hong| "Hồng ngọc" săn boss, up cold, up capsule kì bí, Đại hội võ thuật + Đại hội võ thuật 23 + Siêu Hạng, Nạp thẻ
@@ -66,7 +66,7 @@ up cold| Up cold rơi: hồn hạ tôn, hồn thiên tôn, thức ăn, hồng ng
 dame| Dame trung trên gốc xíu nha má. dễ chơi còn lâu dài. Boss từ TDST -> Xên sẽ giới hạn sát thương để hỗ trợ nhiệm vụ
 rot cap,xit cap,ha cap,tut cap| Lúc nâng trang bị bà Hạt mít có thông báo rớt hay không, nếu rớt chắc chắn sẽ trừ chỉ số. Để an toàn hãy dùng đá bảo vệ ở Santa bỏ vào nhé
 k vo dc,ko vo dc,khong vo dc,k vo duoc,ko vo duoc,khong vo duoc,xoay,mkn, mat ket noi, dis, vang game, bi out, bi vang,loi game,loi roi,game loi,loi game,fix loi,fixx loi,bi loi,loi ad,loi roi,lag,game lang,game lac,xdl,xoa du lieu,tkmk,tk mk,thanh cong,dang ky,dky,tao,sai,chinh xac,dang nhap,tao nv,tao nhan vat|Nếu gặp lỗi, vào đây xem cách fix nhé: https://thanhdi.com/trangthai
-bao tri, btri, btr, baotri|BTN:\nXem Server có đang bảo trì hay không tại đây (Bảo trì 30s hàng ngày mỗi 6:00)\nTrạng thái=https://thanhdi.games/trangthai.php
+bao tri, btri, btr, baotri|👉 Xem Server có đang bảo trì hay không tại đây (Bảo trì 30s hàng ngày mỗi 6:00)\nhttps://thanhdi.games/trangthai.php
 toc do,cham,tang toc,cheat,speed| Tăng tốc độ game hãy CHAT thử từng cái nhé: 's3' hoặc 's 3' (hoặc bấm vào Logo) (pc bấm phím x) 
 spl,sao pha le| Sao pha lê mua ở shop mở rộng hành trang ở Santa  
 up sp,up nhanh,up tnsm,up smtn,tang sm,up lau, tang suc manh, up suc manh,up de,up dt,up dau,up sm,300ty,400ty,cay nhanh,cay smtn,cay sm| Cày nhanh sư phụ và đệ tử tại Ngũ Hành Sơn (đường tăng - làng aru) hoặc Địa Ngục (thần vũ trụ - hành tinh kaio)  
@@ -83,7 +83,7 @@ bot a,bot ha| Dạ em là nhân viên tự động hỗ trợ tại đây! Anh c
 sdg,max cs,max sd,max hp| Max 40k và 780k Mở giới hạn ở vách núi morri  
 vung dat| Vùng đất huỷ diệt bạn lên hành tinh Bill là qua được  
 skill moi,skill dac biet,super kame,super kamejoko,ma phong ba,lien hoan chuong,bien hinh,skill9,skill 9, skill cuoi|Học skill đặc biệt ở quy lão đảo kame. cày hoặc nạp đều học được, đi doanh trại sẽ rơi bí kíp học skill 
-box, group, groups, grup, gr, nhom, cong dong|BTN:\n👉 Cộng đồng Game\nCộng đồng=https://thanhdi.com/groups
+box, group, groups, grup, gr, nhom, cong dong|👉 Cộng đồng Game\nhttps://thanhdi.com/groups
 tb boss,bao boss|Chat 'sb' để bật thông báo boss nha  
 ts,tan sat,danh quai,auto danh| Chat 'ts' để auto tàn sát quái nhé  
 ty le nap,ti le nap|Tỷ lệ nạp xem tại NPC trong nhà nhé  
@@ -102,7 +102,7 @@ cuong no sieu cap,cuong no c2,cuong no 2,cuong no,item,cnsc,may do,cskb,ki bi,cn
 manh ba| Canh mạnh bà bạn có thể mua ở santa hoặc thu thập x999 11 nguyên liệu ở địa ngục. Bấm sử dụng nguyên liệu để nấu (dùng được 1 lần duy nhất)
 bi kip,yadat,yardrat| Bạn qua núi khỉ vàng gặp goku ssj rồi vào hành tinh yardrat up bí kíp cải trang. Và Đi doanh trại đánh quái là rơi bí kíp tuyệt kĩ nhé, xong ra quy lão học sì kiu đặc biệt  
 thien su,mts,manh ts| Cần mảnh thiên sứ + đồ thần linh + đồ huỷ diệt mới đổi được đồ thiên sứ. Mảnh thiên sứ up ở hành tinh ngục tù rồi ra Thiên sứ Whis đổi đồ thiên sứ
-cau ca|BTN:\n👉 Chức năng câu cá?\nChi tiết=https://ngocrongtdstudio.com/posts/cach-kiem-can-cau-va-cau-ca.html
+cau ca|👉 Chức năng câu cá\nhttps://ngocrongtdstudio.com/posts/cach-kiem-can-cau-va-cau-ca.html
 tieu doi sat thu,tdst,boss so,so 4| Tiểu đội sát thủ - Núi khỉ đen, Hang khỉ đen, Núi khỉ đỏ - 10 phút - giờ hỗ trợ: 9-12h và 21-24h  
 fide,fd,fire| Fide - 10 phút - giờ hỗ trợ: 9-12h và 21-24h  
 android19,adr19,android20,kore,apk19,apk20,android 19,androi19,robot sat thu| Android19-20 - 15 phút - giờ hỗ trợ: 9-12h và 21-24h  
@@ -119,7 +119,7 @@ thuc an, do an|Thức ăn bạn mặc set thần linh rồi up quái cold là r�
 black goku|Black goku mạnh vcl đấy mấy cưng, rơi nhẫn thời không để vào map Chilled  
 than linh, dtl, do tl|Đồ thần linh bạn săn boss tương lai hoặc Osin lúc 12h và 19h hoặc up cold nhé  
 ho tro, khung nv, khung gio|khung giờ hỗ trợ nhiệm vụ 9-11h, 15-17h 21-23h (ai nhiệm vụ đó mới được vào khu - áp dụng cho các boss từ TDST đến Xên thị trấn Ginder)  
-chien than|BTN:\n👉 Chiến thần là gì?\nChi tiết=https://ngocrongtdstudio.com/posts/de-tu-chien-than-la-gi-up-sao-cho-nhanh.html
+chien than|👉 Chiến thần đây nha\nhttps://ngocrongtdstudio.com/posts/de-tu-chien-than-la-gi-up-sao-cho-nhanh.html
 calich, tuong lai| Calich ở rừng bambo hoặc rừng dương xỉ hoặc nam kame (xong nhiệm vụ fide 3 mới thấy được calich để đến tương lai)  
 kuku, map dau dinh, rambo| KuKu, Mập đầu đinh, Rambo -> 5 Phút -> Tìm nhanh ở Cui thành phố Vegeta  
 skh, set kich hoat, set kh| Đồ kích hoạt đánh quái 3 map cạnh làng sẽ rơi  
@@ -134,9 +134,9 @@ khuyen mai, km nap, x nap, x2 nap, x3 nap, x5 nap, x10 nap| Game khuyến mãi n
 ngoc rong sieu cap, nrsc, ngoc rong sc| Ngọc rồng siêu cấp chỉ để ước (không ép được) (ước được gì thì ước đi rồi biết chứ tôi biết đâu)
 ngoc rong, nr| Ép từ 3 sao của ad cho ở bà hạt mít hoặc săn từ boss
 Em là chatbot hỗ trợ tại đây, có gì cần giúp anh cứ nói nhé, em luôn sẵn sàng
-o nay, o nao,o cuoi,o duoi,o nay, 1 o, 2 o, 3 o, 4 o, 5 o|BTN:\n👉 Coi các ô trên người ở đây\nChi tiết=https://thanhdi.com/body
+o nay, o nao,o cuoi,o duoi,o nay, 1 o, 2 o, 3 o, 4 o, 5 o|👉 Coi các ô trên người ở đây\nhttps://thanhdi.com/body
 canh tre| Bạn gom đủ 9999 rồi ghép thành cần câu đi câu cá nhé  
-test, open, op,mo lau,mo khi nao, mo chua, tes, text,may hom, lau ch, lau chua, ngay nao|BTN:\n👉 Xem Server Open hay Test\nOpen hay Test=https://thanhdi.com/serverstatus
+test, open, op,mo lau,mo khi nao, mo chua, tes, text,may hom, lau ch, lau chua, ngay nao|👉 Xem Server Open hay Test\nhttps://thanhdi.com/serverstatus
 mtv, mo tv, mo thanh vien, kich hoat tai khoan| Game không cần MTV. Cày 40 tỷ là gd được hết  
 chuc nang| Cần hỏi chức năng gì thì cứ nói em hỗ trợ  
 huy diet| Để 5 món thần linh trong hành trang rồi gặp Thần huỷ diệt để đổi đồ Huỷ diệt nhé    
@@ -144,7 +144,7 @@ alo,xin chao,hello,helo|Chào anh ạ! Em trực hỗ trợ fanpage 24/24, cần
 ngu hanh son, nhs| ra làng aru gặp Đường tăng để vào Ngũ Hành Sơn 
 trai than long, manh dat, cay cuoc, khu dat, nong trai| Bạn mua đất + cây cuốc rồi săn boss đủ 30 điểm sẽ trồng được cây thần long, thu hoạch trái thần long ăn vào tăng chỉ số (đặc biệt không bị ảnh hưởng với sức mạnh chí tôn)  
 cam on, ok,tks, thank, thanks, oki, oke, duoc roi, uki, vang, oce |🥰 Vậy anh đẹp trai ơi! Nếu anh chưa follow fanpage thì cho game xin 1 follow nha anh ❤️ Anh cần hỗ trợ gì cứ nhắn em hỗ trợ ngay ạ 🙏
-de lay,detu,de tu, đệ tử, gohanbu, gohan bu, itachi, omega, mabu ,de thuong|BTN:\n👉 Thông tin các đệ tử\nChi tiết=https://ngocrongtdstudio.com/posts/thong-tin-cac-de-tu.html
+de lay,detu,de tu, đệ tử, gohanbu, gohan bu, itachi, omega, mabu ,de thuong|👉 Thông tin các đệ tử\nhttps://ngocrongtdstudio.com/posts/thong-tin-cac-de-tu.html
 gohan| Đệ tử Gohan Bư săn ở Osin Đại Hội Võ Thuật lúc 12h00 và 19h00  
 vong quay thuong de| Vòng quay thượng đế quay tốn hồng ngọc (có mảnh sổ sưu tập)  
 moi choi, ms choi| Anh mới chơi thì cứ nhắn ở đây em và ad sẽ hỗ trợ [24/24] cho anh nhé! 
@@ -153,12 +153,12 @@ phieu giam gia, pgg| Phiếu giảm giá bạn săn boss Đôrêamon hoặc Li�
 ngoc hoa| Ngọc hóa kiếm ở boss Cooler, max 7 level nhé  
 ho tong| Gặp Đường Tăng làng Aru để tham gia hộ tống. Đánh quái Ngũ Hành Sơn thu thập đồng xu nhé  
 bo qua nv| Bạn bỏ qua nhiệm vụ tân thủ ở nhà và bỏ qua nv chính tuyến ở Nhà đó, bỏ 1 lần hẳn 1 level không phải nhiệm vụ nhỏ  
-cot|BTN:\n👉 Cốt Chí Tôn là gì?\nChi tiết=https://ngocrongtdstudio.com/posts/cot-chi-ton-la-gi.html  
+cot|👉 Cốt Chí Tôn\nhttps://ngocrongtdstudio.com/posts/cot-chi-ton-la-gi.html  
 phao tre trau| Sử dụng pháo trẻ trâu sẽ nổ banh lon cả khu nhé  
-ngoc boi, eyes, dns, susano, mangekyo, sharingan, hao quang cam, da ngu sac|BTN:\n👉 Thông tin về Susano, Mangekyo Sharingan, Ngọc bội\nChi tiết=https://ngocrongtdstudio.com/posts/ngoc-boi-va-susano.html  
+ngoc boi, eyes, dns, susano, mangekyo, sharingan, hao quang cam, da ngu sac|👉 Thông tin về Susano, Mangekyo Sharingan, Ngọc bội\nhttps://ngocrongtdstudio.com/posts/ngoc-boi-va-susano.html  
 dnc, da nang cap, tat, ruby, thach anh tim| Đá nâng cấp ở Santa (Rương đá nâng cấp), bạn có thể mua rồi sử dụng sẽ ra 1 đống đá nâng cấp nhé (thạch anh tím, ruby, titan,...)  
 doi ten| Thẻ đổi tên mua ở Santa, được đổi tên thành có Dấu viết hoa và kí tự đặc biệt nhé (đừng đặt quá dài sẽ bị mất thẻ đổi tên mà không đổi được tên)
 trung linh thu| Trứng linh thú nở ra linh thú (Online chờ 60 phút là nở)
 suu tam, suu tap| Mảnh sưu tầm quái nào bạn train quái đó là rơi 
-bong tai,mvbt,mhbt,porata,btai, b tai|BTN:\n👉 Thông tin tất cả bông tai\nChi tiết=https://ngocrongtdstudio.com/posts/bong-tai-porata.html
+bong tai,mvbt,mhbt,porata,btai, b tai|👉 Thông tin tất cả bông tai\nhttps://ngocrongtdstudio.com/posts/bong-tai-porata.html
 dao khoang san, may dao| Máy đào là mua 1 tháng thì mỗi ngày thu 1 lượng hồng ngọc nhiều hơn nạp
