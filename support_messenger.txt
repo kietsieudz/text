@@ -1,6 +1,7 @@
 dao xanh, dao hong, qua dao|"Quả đào" gặp đường tăng ở ngũ hành sơn mà dùng
 co 50 smtn,co 50 tnsm, co 50% smtn, co 50% sntm|Cải trang "zeno" nâng bậc free lên 4 là có nhé
 dao hoa|Gặp quy lão để vào "đảo hoa" nhé
+de k danh, de ko danh, de khong danh, de tu k danh, de tu ko danh, de tu khong danh|Anh kiểm tra xem đệ hết ki hết thể lực hay đậu thần không nhé
 quen mk, quen mat khau, quen mkhau, quen pass, quen password, quen tk|Nếu quên mật khẩu anh làm theo hướng dẫn nha:\nAnh vào email soạn tin nhắn\nQMK + Tài khoản đăng nhập + Server\nGửi đến email: admin@thanhdi.com nha
 quen mk, quen mat khau, quen mkhau, quen pass, quen password, quen tk|Áp dụng cho tài khoản đã liên kết email nhé a, a cần vào đúng email đó để soạn tin
 doi email, doi gmail, xoa gmail, go gmail, xoa email, go email|Email không thể gỡ nhưng có thể đổi\nAnh làm theo hướng dẫn nha:\nAnh vào email soạn tin nhắn\nDOI_EMAIL + Tài khoản đăng nhập + Server + email mới + Lý do\nGửi đến email: admin@thanhdi.com nha
