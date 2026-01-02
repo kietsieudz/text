@@ -94,7 +94,7 @@ chua ra,chua xh,chua xuat hien,mai k ra,mai k xh,mai khong xuat hien,mai khong r
 yanrobi| Boss Yanrobi rơi hồng ngọc  
 tieng gi,ngon ngu,chu gi,toan tieng tau,tieng anh| Về nhà chọn ô cuối để đổi ngôn ngữ sang tiếng việt  
 gioi han,gh dame,gh st| Boss nhiệm vụ sẽ giới hạn để người chơi sau dễ làm nhiệm vụ. Boss không phải nhiệm vụ sẽ không giới hạn nhé  
-auto msk,auto kaioken,auto kok,auto masenko,autu msk,autu kok,autu kaioken,auto masenko,doi skill, doi chieu, doi ki nang, doi ky nang, skill de, skill detu, skill dtu,doi skill,doi duoc skill,msk,kaioken,kok,doi chieu,doi skill1,doi skill2,doi skill3,doi skill4,doi skill5, skin de, skin de tu, skin detu, skin dtu, skil de, skin de, skil detu, skil dtu|Gọi rồng 1 sao để đổi skill đệ tử nhé (dùng 3 sao từ giftcode ra vách núi ép lên 1 sao)
+auto msk,auto kaioken,auto kok,auto masenko,autu msk,autu kok,autu kaioken,auto masenko,doi skill, doi chieu, doi ki nang, doi ky nang, skill de, skill detu, skill dtu,doi skill,thay chieu,doi duoc skill,msk,kaioken,kok,doi chieu,doi skill1,doi skill2,doi skill3,doi skill4,doi skill5, skin de, skin de tu, skin detu, skin dtu, skil de, skin de, skil detu, skil dtu|Gọi rồng 1 sao để đổi skill đệ tử nhé (dùng 3 sao từ giftcode ra vách núi ép lên 1 sao)
 bot a,bot ha| Dạ em là nhân viên tự động hỗ trợ tại đây! Anh cần gì cứ nói em với ad sẽ rep ngay ạ
 sdg,max cs,max sd,max hp| Max 40k và 780k Mở giới hạn ở vách núi morri  
 vung dat| Vùng đất huỷ diệt bạn lên hành tinh Bill là qua được  
