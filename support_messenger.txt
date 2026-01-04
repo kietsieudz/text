@@ -8,6 +8,8 @@ max chi mang, full chi mang|Max chí mạng 10%
 het han|Code em gửi link đó, anh vào xem cái nào không nhập được là hết hạn
 ban vang|Vàng nhận free ở nhà mà bán thỏi vàng chi anh. Thỏi vàng để làm sự kiện với mua đồ ở santa thoi
 cuc bang|Gặp NPC trước làng để tới cực băng
+binh nuoc phep|Bình nước phép mua ở Uron ở trạm tàu vũ trụ. Kết hợp với Mảnh đá vụn tạo được đá nâng cấp (gặp bà hạt mít vách núi nâng)
+da vun|Mảnh đá vụn đánh quái ngẫu nhiên sẽ rơi. Kết hợp với Bình nước phép tạo được đá nâng cấp (gặp bà hạt mít vách núi nâng)
 doi hanh tinh|Game không có đổi hành tinh anh ơi
 tang de|Trong nhà có tặng đệ thường miễn phí á anh
 tiem nang de|Đệ tử tự nâng tiềm năng nha a
@@ -22,6 +24,7 @@ quen mk, quen mat khau, quen mkhau, quen pass, quen password, quen tk, lay lai n
 quen mk, quen mat khau, quen mkhau, quen pass, quen password, quen tk, lay lai nik, lay lai nick, lay lai acc, lay dum acc, lay dum nik, lay dum nick, lay gium acc, lay gium nik, lay gium nick|👉 Áp dụng cho tài khoản đã liên kết email nhé a, a cần vào đúng email đó để soạn tin
 doi email, doi gmail, xoa gmail, go gmail, xoa email, go email|👉 Email không thể gỡ nhưng có thể đổi\nAnh làm theo hướng dẫn nha:\nAnh vào email soạn tin nhắn\nDOI_EMAIL + Tài khoản đăng nhập + Server + email mới + Lý do\nGửi đến email: admin@thanhdi.com nha
 doi email, doi gmail, xoa gmail, go gmail, xoa email, go email|🫡 Áp dụng cho tài khoản đã liên kết email nhé a, a cần vào đúng email đó để soạn tin
+nhap code, nhap giftcode|Vô NPC trong nhà sẽ có nút Giftcode để nhập nha a [Tải bản Ngọc Rồng TDStudio mới được nha]
 the rong, rong than , than namec|Thẻ rồng thần namec win ngọc rồng namec là có
 k nhap dc, k nhap duoc, ko nhap dc, ko nhap duoc, khong nhap duoc, khong nhap dc|Code nào không nhập được là hết hạn rùi
 binh x1,binh x2, binh x3, binh x4, binh x5, binh x6, binh x7, duoc le, binh exp, binh smtn|Game không có bình exp á anh, anh up ở ngũ hành sơn với rừng nhiệt đới nhiều exp ấy
