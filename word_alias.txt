@@ -17,6 +17,8 @@ hthe=hop the
 
 bxh=bang xep hang
 
+
+
 sv=server
 sever=server
 
@@ -96,6 +98,7 @@ skil=skill
 skin=skill
 chieu=skill
 ky nang=skill
+ki nang=skill
 
 sdg=suc danh goc
 sd=suc danh
