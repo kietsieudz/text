@@ -4,13 +4,45 @@ ko=khong
 không=khong
 kg=khong
 
-# đồng ý
 dc=duoc
-đc=duoc
 
-# liên từ
 vs=voi
 
-# xưng hô / cộng đồng
+ms=moi
+
+ns=noi
+
+dt=de tu
+dtu=de tu
+detu=de tu
+
+tt=thong tin
+
+cthan=chien than
+
+cthan=chien than
+
+ctrang=cai trang
+
+
+
+nv=nhiem vu
+
+tdst =tieu doi sat thu
+
+km=khuyen mai
+kmai=khuyen mai
+
+mk=mat khau
+mkhau=mat khau
+pass=mat khau
+password=mat khau
+
+tk=tai khoan
+tkhoan=tai khoan
+
+gmail=email
+
+
 mn=moi nguoi
 ad=admin
