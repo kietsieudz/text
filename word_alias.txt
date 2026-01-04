@@ -7,6 +7,8 @@ kg=khong
 smtn=suc manh tiem nang
 tnsm=suc manh tiem nang
 
+dk=dang ky
+
 tn=tiem nang
 sm=suc manh
 
