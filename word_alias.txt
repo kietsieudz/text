@@ -158,6 +158,8 @@ mhbt=bong tai
 btai=bong tai
 b tai=bong tai
 
+nik=nick
+acc=nick
 
 nr=ngoc rong
 
@@ -179,7 +181,7 @@ tt=thong tin
 
 cthan=chien than
 
-cthan=chien than
+ct=chien than
 
 ctrang=cai trang
 
