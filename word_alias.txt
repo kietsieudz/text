@@ -81,6 +81,7 @@ skh=set kich hoat
 set kh=set kich hoat
 bom=boom
 giftcode=code
+codo=code
 xincode=code
 cod=code
 tyou=thank you
