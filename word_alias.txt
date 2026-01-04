@@ -4,6 +4,165 @@ ko=khong
 không=khong
 kg=khong
 
+smtn=suc manh tiem nang
+tnsm=suc manh tiem nang
+
+tn=tiem nang
+sm=suc manh
+
+ht=hop the
+hthe=hop the
+
+bxh=bang xep hang
+
+sv=server
+sever=server
+
+1s=1 sao
+2s=2 sao
+3s=3 sao
+4s=4 sao
+5s=5 sao
+6s=6 sao
+7s=7 sao
+
+dtl=than linh
+ntl=nhan than linh
+gtl=gang than linh
+
+skh=set kich hoat
+set kh=set kich hoat
+
+giftcode=code
+xincode=code
+cod=code
+cosd=code
+codee=code
+codeee=code
+codeeee=code
+
+xin linh=link
+
+website=trang chu
+web=trang chu
+wed=trang chu
+wep=trang chu
+
+sk=su kien
+event=su kien
+
+bn=bao nhieu
+bnhieu=bao nhieu
+
+tv=thoi vang
+tvang=thoi vang
+
+hn=hong ngoc
+hngoc=hong ngoc
+
+menu=mod
+auto=mod
+xin lenh=mod
+
+xog=xong
+
+kok=kaioken
+msk=masenko
+
+btri=bao tri
+btr=bao tri
+baotri=bao tri
+
+tang toc=toc do
+cheat=toc do
+speed=toc do
+
+spl=sao pha le
+
+sp=su phu
+sphu=su phu
+
+htnt=hanh tinh nguc tu
+
+cs=chi so
+
+xh=xuat hien
+
+gh=gioi han
+st=sat thuong
+skil=skill
+skin=skill
+chieu=skill
+ky nang=skill
+
+sdg=suc danh goc
+sd=suc danh
+
+box=group
+gr=group
+grop=group
+grup=group
+nhom=group
+cong dong=group
+
+tb=thong bao
+ts=tan sat
+auto danh=tan sat
+
+cnsc=itemc2
+cnc2=itemc2
+item c2=itemc2
+bhsc=itemc2
+bksc=itemc2
+
+yadat=yardrat
+yardat=yardrat
+yadrat=yardrat
+
+fd=fide
+fire=fide
+
+adr19=android 19
+android19=android 19
+apk19=android 19
+adr 19=android 19
+android 19=android 19
+apk 19=android 19
+android20=android 20
+adr20=android 20
+apk20=android 20
+android 20=android 20
+adr 20=android 20
+apk 20=android 20
+
+xbh=xen bo hung
+sbh=sieu bo hung
+dbv=da bao ve
+
+op=open
+text=test
+tes=test
+mtv=mo thanh vien
+cmenh=chan menh
+
+
+
+gd=giao dich
+
+pgg=phieu giam gia
+dns=da ngu sac
+dnc=da nang cap
+tat=thach anh tim
+mvbt=bong tai
+mhbt=bong tai
+btai=bong tai
+b tai=bong tai
+
+
+nr=ngoc rong
+
+htrang=hanh trang
+
 dc=duoc
 
 vs=voi
