@@ -3,9 +3,45 @@ k=khong
 ko=khong
 không=khong
 kg=khong
+kh=khong
+khobg=khong
+hk=khong
+khum=khong
+pai=phai
+min=minh
+shop=admin
+adm=admin
+ad=admin
+qua chau=noel
+giang sinh=noel
+giang sin=noel
+ramdom=random
+fanpge=fanpage
+bunma=bulma
+tuyet ki=tuyet ky
+capsu=capsule
+nhma=nhung ma
+cm=chi mang
+ti le=ty le
+db=dac biet
+
+java=jar
+jar=jar
+jra=jar
+jav=jar
+
+cubg=cung
+hedt=het
+
+h=gio
+cin=xin
+
+
 
 z=vay
 v=vay
+
+lm=lam
 
 j=gi
 
@@ -13,6 +49,8 @@ smtn=suc manh tiem nang
 tnsm=suc manh tiem nang
 
 dk=dang ky
+dki=dang ky
+
 
 tn=tiem nang
 sm=suc manh
@@ -38,26 +76,30 @@ sever=server
 dtl=than linh
 ntl=nhan than linh
 gtl=gang than linh
-
+ngkh=nguoi khac
 skh=set kich hoat
 set kh=set kich hoat
-
+bom=boom
 giftcode=code
 xincode=code
 cod=code
+tyou=thank you
 cosd=code
 codee=code
 codeee=code
+
 codeeee=code
-
+au=dau
+quai=hoai
 xin linh=link
-
+hsd=han su dung
 website=trang chu
 web=trang chu
 wed=trang chu
 wep=trang chu
-
+fc=fan cung
 sk=su kien
+even=su kien
 event=su kien
 
 bn=bao nhieu
@@ -90,9 +132,10 @@ spl=sao pha le
 
 sp=su phu
 sphu=su phu
+folow=follow
 
 htnt=hanh tinh nguc tu
-
+bt=biet
 cs=chi so
 
 xh=xuat hien
@@ -144,17 +187,29 @@ apk20=android 20
 android 20=android 20
 adr 20=android 20
 apk 20=android 20
-
+xd=xayda
+sayan=xayda
+nm=namec
+td=trai dat
 xbh=xen bo hung
 sbh=sieu bo hung
 dbv=da bao ve
+gag=gang
 
 op=open
 text=test
 tes=test
 mtv=mo thanh vien
 cmenh=chan menh
+ote=ok
+otee=ok
+oteee=ok
+oteeee=ok
+lafng=lang
 
+dc oi=duoc roi
+
+s=sao
 
 
 gd=giao dich
