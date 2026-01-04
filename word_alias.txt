@@ -1,0 +1,16 @@
+# phủ định
+k=khong
+ko=khong
+không=khong
+kg=khong
+
+# đồng ý
+dc=duoc
+đc=duoc
+
+# liên từ
+vs=voi
+
+# xưng hô / cộng đồng
+mn=moi nguoi
+ad=admin
