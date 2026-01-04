@@ -26,7 +26,7 @@ the rong, rong than , than namec|Thẻ rồng thần namec win ngọc rồng nam
 k nhap dc, k nhap duoc, ko nhap dc, ko nhap duoc, khong nhap duoc, khong nhap dc|Code nào không nhập được là hết hạn rùi
 binh x1,binh x2, binh x3, binh x4, binh x5, binh x6, binh x7, duoc le, binh exp, binh smtn|Game không có bình exp á anh, anh up ở ngũ hành sơn với rừng nhiệt đới nhiều exp ấy
 kkk, haha, dth|IMG:https://sv1.thanhdi.games/static/sonic/img/mememeo.png
-tt de, xem thong tin de tu|Mới nhận đệ tử xong thì thoát game vào lại mới hiện nha
+tt de, xem thong tin de tu, kiem de, san de, nhan de|Mới nhận đệ tử xong thì thoát game vào lại mới hiện nha
 tt ct, tt chien than, tt cthan,thong tin chien than|Chat 'ct' để mở menu chiến thần
 mo rong hanh trang, mo rong htrang|Mở rộng hành trang ở cửa hàng hỗ trợ ở santa nhé a
 8m,8tr|Anh ơi! Boss "Tiểu đội sát thủ" đang giới hạn sát thương để hỗ trợ nhiệm vụ đó anh, nếu không bị phá ghê lắm anh ơi. A dùng chiêu Qckk,Boom,Laze được x10 sát thương tối đa hỗ trợ đó a
@@ -169,7 +169,7 @@ ngu hanh son, nhs| ra làng aru gặp Đường tăng để vào Ngũ Hành Sơn
 trai than long, manh dat, cay cuoc, khu dat, nong trai| Bạn mua đất + cây cuốc rồi săn boss đủ 30 điểm sẽ trồng được cây thần long, thu hoạch trái thần long ăn vào tăng chỉ số (đặc biệt không bị ảnh hưởng với sức mạnh chí tôn)  
 cam on, ok,tks, thank, thanh kiu,thanh you,thanh u,thanks, oki, oke, duoc roi, uki, vang, oce, vg, okii|🥰 Vậy anh đẹp trai ơi!\nNếu anh chưa follow fanpage thì cho game xin 1 follow nha anh\n❤️ Anh cần hỗ trợ gì cứ nhắn em hỗ trợ ngay ạ 🙏
 cam on, ok,tks, thank, thanh kiu,thanh you,thanh u,thanks, oki, oke, duoc roi, uki, vang, oce, vg, okii|IMG:https://sv1.thanhdi.games/static/sonic/img/mememeo.png
-de lay,detu,de tu, đệ tử, gohanbu, gohan bu, itachi, omega, mabu ,de thuong|👉 Thông tin các đệ tử và cách kiếm đệ tử ở đây nha anh\nhttps://ngocrongtdstudio.com/posts/thong-tin-cac-de-tu.html
+de lay,detu,de tu, đệ tử, gohanbu, gohan bu, itachi, omega, mabu ,de thuong,kiem de, san de, nhan de|👉 Thông tin các đệ tử và cách kiếm đệ tử ở đây nha anh\nhttps://ngocrongtdstudio.com/posts/thong-tin-cac-de-tu.html
 gohan| Đệ tử Gohan Bư săn ở Osin Đại Hội Võ Thuật lúc 12h00 và 19h00  
 vong quay thuong de| Vòng quay thượng đế quay tốn hồng ngọc (có mảnh sổ sưu tập)  
 moi choi, ms choi| Anh mới chơi thì cứ nhắn ở đây em và ad sẽ hỗ trợ [24/24] cho anh nhé! 
