@@ -3,6 +3,7 @@ adpagephu|⚠️ Dạ anh ơi, fanpage này là fanpage [phụ|nhánh|không ph�
 dao xanh, dao hong, qua dao|"Quả đào" gặp đường tăng ở ngũ hành sơn mà dùng
 co 50 smtn,co 50 tnsm, co 50% smtn, co 50% sntm|Cải trang "zeno" nâng bậc free lên 4 là có nhé
 dao hoa|Gặp quy lão để vào "đảo hoa" nhé
+toan ra quan, toan ra ao|Đồ thần up cold hay săn boss đều có tỷ lệ ra đủ 1 set không riêng gì áo quần thần linh
 khong xuat hien|Anh canh thông báo boss hoặc qua dò các khu trong map boss xuất hiện ấy (đôi khi boss chưa chết nó không thông báo lại)
 max chi mang, full chi mang|Max chí mạng 10%
 het han|Code em gửi link đó, anh vào xem cái nào không nhập được là hết hạn
@@ -64,8 +65,8 @@ giftcode,code,xincode,xin cod,xin cosd,xincod, xin codee, xin codeee,bulma,bunma
 giftcode,code,xincode,xin cod,xin cosd,xincod,xin codee, xin codeee,bulma,bunma,wedding,cai trang|[🎁 Code năm mới nè anh zai|🎁 Em gửi anh code năm mới nha|🎁 Code Tết dành cho anh đây]: happynewyear
 dk xong, dky, dang ky, dang ki, dki|Hãy "đăng ký" ở link https://thanhdi.com [Mở trên chrome hoặc Safari nhé ]
 share,event,tan thu,even,chia se, fl, follow,folow,folo,foloow,folooow,foloooow,follw,folllow,folllloow,folllo,folw,fw,flo,fllow,flloww,fow,flw|🎁 Em Gửi Hướng dẫn event tân thủ nhận quà trong nhà nhé (Event Chia Sẻ)\nhttps://thanhdi.com/event
-link,xin linh,trang chu,tai game,tai sao,download,website,web,dien dan,jar,java,jav,apk,pc,windows,may tinh,ios,tf,testflight,ipa,tai k dc,tai ko dc,tai khong dc,tai k duoc,tai ko duoc,tai khong duoc|IMG:https://sv1.thanhdi.games/static/sonic/img/anhtaigame.png
-link,xin linh,trang chu,tai game,tai sao,download,website,web,dien dan,jar,java,jav,apk,pc,windows,may tinh,ios,tf,testflight,ipa|👉 Jar, iPhone, Android, PC\n👉 Hướng dẫn tải:\nhttps://thanhdi.com/huongdantai
+link,xin linh,linh game,trang chu,tai game,tai sao,download,website,web,dien dan,jar,java,jav,apk,pc,windows,may tinh,ios,tf,testflight,ipa,tai k dc,tai ko dc,tai khong dc,tai k duoc,tai ko duoc,tai khong duoc|IMG:https://sv1.thanhdi.games/static/sonic/img/anhtaigame.png
+link,xin linh,linh game,trang chu,tai game,tai sao,download,website,web,dien dan,jar,java,jav,apk,pc,windows,may tinh,ios,tf,testflight,ipa|👉 Jar, iPhone, Android, PC\n👉 Hướng dẫn tải:\nhttps://thanhdi.com/huongdantai
 link,xin linh,trang chu,tai game,tai sao,download,website,web,dien dan,jar,java,jav,apk,pc,windows,may tinh,ios,tf,testflight,ipa,tai k dc,tai ko dc,tai khong dc,tai k duoc,tai ko duoc,tai khong duoc|👉 Trang chủ: https://thanhdi.com
 link,xin linh,trang chu,tai game,tai sao,download,website,web,dien dan,jar,java,jav,apk,pc,windows,may tinh,ios,tf,testflight,ipa,tai k dc,tai ko dc,tai khong dc,tai k duoc,tai ko duoc,tai khong duoc|ℹ️ [Mở link|Click link|Truy cập link] trong Messenger thì [không đăng nhập được|không tải được|không thao tác được] đâu anh\n👉 Anh chịu khó [copy link|sao chép link] mở bằng [Safari|Chrome] giúp em nha!
 co che|👉 Cơ chế game nha\nhttps://ngocrongtdstudio.com
