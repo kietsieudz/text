@@ -113,7 +113,7 @@ ty le nap,ti le nap|Tỷ lệ nạp xem tại NPC trong nhà nhé
 than tien|Cần phiếu giảm giá để mua set thần tiên  
 1tab,2tab,3tab,4tab,5tab,tab| Giới hạn địa chỉ IP là 4 Tab online cùng lúc nhé  
 potaufeu|Hang potaufeu đến trạm tàu vũ trụ trái đất tìm thằng Jaco để vào đánh nhân bản rơi item siêu cấp  
-doanh trai|Vào rừng bambo gặp lính canh để vào doanh trại, cần 4 người cùng bang đứng gần mới đi được  
+doanh trai, bdkb, ban do|Vào rừng bambo gặp lính canh để vào doanh trại, cần 4 người cùng bang đứng gần mới đi được [Rơi bản đồ kho báu] 
 diem boss|Đánh boss ngẫu nhiên sẽ có điểm boss đó nha  
 den cold,qua cold,qua duoc cold,qua dc cold,den coler,den cooler,qua cooler,qua coler,toi coler,toi cooler,qua dc coler,qua dc cooler,toi cold| Xong nhiệm vụ xên hoàn thiện ở thị trấn ginder là qua được cold 
 dung dau|Mua bùa cho đệ tử là nó tự nhai đậu rồi khỏi auto  
