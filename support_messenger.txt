@@ -5,6 +5,7 @@ co 50 smtn,co 50 tnsm, co 50% smtn, co 50% sntm|Cải trang "zeno" nâng bậc f
 dao hoa|Gặp quy lão để vào "đảo hoa" nhé
 khong xuat hien|Anh canh thông báo boss hoặc qua dò các khu trong map boss xuất hiện ấy (đôi khi boss chưa chết nó không thông báo lại)
 max chi mang, full chi mang|Max chí mạng 10%
+ban vang|Vàng nhận free ở nhà mà bán thỏi vàng chi anh. Thỏi vàng để làm sự kiện với mua đồ ở santa thoi
 cuc bang|Gặp NPC trước làng để tới cực băng
 doi hanh tinh|Game không có đổi hành tinh anh ơi
 tang de|Trong nhà có tặng đệ thường miễn phí á anh
