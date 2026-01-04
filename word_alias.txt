@@ -4,6 +4,11 @@ ko=khong
 không=khong
 kg=khong
 
+z=vay
+v=vay
+
+j=gi
+
 smtn=suc manh tiem nang
 tnsm=suc manh tiem nang
 
