@@ -1,62 +1,60 @@
-sv nao,server nao, sever nao,seve nao,xin,link,box,zalo,tai,nhom,zl|https://thanhdi.com/support
-tf,testflight,jar,jav,ios,ip|Có đủ https://thanhdi.com/support
-dame,dmg,dmae,dam,st,ao hay,trung hay,goc hay,dame trung|Dame trung nha https://thanhdi.com/support
+sv nao,server nao, sever nao,seve nao,xin,link,box,zalo,tai,nhom,zl|https://thanhdi.com/?utm_source=zalo&utm_campaign=bzalo
+tf,testflight,jar,jav,ios,ip|Có đủ https://thanhdi.com/?utm_source=zalo&utm_campaign=bzalo
+dame,dmg,dmae,dam,st,ao hay,trung hay,goc hay,dame trung|Dame trung nha
 hay k, hay khong, hay ko|Hay nha
 loi roi,game loi,loi game|Bạn thử xoá dữ liệu game tải lại là ổn nha
 k thay,k tim thay|Bạn nhìn kĩ đi có mà
 ban acc|Không có nha
-hong ngoc,hngoc,hn|Hồng ngọc cày cuốc nha. https://thanhdi.com/support
-cc|Cc gì má
-co che|Cơ chế đây: https://thanhdi.com/support
+hong ngoc,hngoc,hn|Hồng ngọc cày cuốc nha 🙄
+cc|Cc 😱
+co che|Cơ chế đây: https://thanhdi.com/?utm_source=zalo&utm_campaign=bzalo
 nhan o dau, nhan dau, nhan cho|Nhận trong NPC trong nhà đó
-hup, hupp|Húp sùn sụt
+hup, hupp|Húp sùn sụt 🤣
 tuong lai,tlai|Xong nhiệm vụ fide 3 tìm calich ở Bambo, Rừng Dương Xỉ hoặc Nam Kame để qua nha má
-lon gi,cac gi|????
-mat song|Bạn chọn sv xog chờ vài giây để game tạo kết nối đã nha
+lon gi,cac gi|🙄
 dao khoang san, may dao|Máy đào là mua 1 tháng thì mỗi ngày thu 1 lượng hồng ngọc nhiều hơn nạp
-ua|Ủa alo https://thanhdi.com/support
-tht k, tht ko, tht khong, that k, that ko, that khong,thiet k,thiet ko,thiet khong|Thật chứ kkk
-free bao nhieu, free bn, free bnhieu, free bnhiu|Free bao nhiều lun
-dm bot|Wtf
+ua|Ủa alo 🙄
+tht k, tht ko, tht khong, that k, that ko, that khong,thiet k,thiet ko,thiet khong|Thật chứ kkk 😱
+free bao nhieu, free bn, free bnhieu, free bnhiu|Free bao nhiều lun 🎁
+dm bot|Wtf 😏
 up sao|Cày nhanh ở ngũ hành sơn á, game dễ cày
-sap k, sup k, sup ko, sup khong,sap khong, sap ko|Không, đông vcl sao sập
+sap k, sup k, sup ko, sup khong,sap khong, sap ko|Không, đông vcl sao sập 😎
 dong k, dong ko, dong khong|Đông nhót lun kkk
-co all|Có all
+co all|Có all 
 out game, roi game, bo game, nghi game|Chơi lại đi năn nỉ mà, game nhiều cái zui lắm bà ơi
 cai j,cai gi|Cái game
-game gi,game j,gem gi,gem j,gi cz, gi z|Game ngọc rồng nha
+game gi,game j,gem gi,gem j,gi cz, gi z|Game ngọc rồng nha 😝
 ??,???,????,?????|Sao nè
-k tai, ko tai, khong tai, tai k, tai ko, tai khong|Copy link ra chrome hoặc safari tải nhé https://thanhdi.com/support
-nap lau,lau qua,cong tien|Lỗi nạp thì nhắn cho key vàng trong box chat nha. k phải tui https://thanhdi.com/support
-share|Đăng nhập vô trang chủ rồi bấm qua diễn đàn để tham gia nha https://thanhdi.com/support
-k dc,ko dc,khong dc,k duoc,ko duoc,khong duoc|Copy link ra chrome hoặc safari nha má https://thanhdi.com/support
+k tai, ko tai, khong tai, tai k, tai ko, tai khong|Copy link ra chrome hoặc safari tải nhé https://thanhdi.com/?utm_source=zalo&utm_campaign=bzalo
+nap lau,lau qua,cong tien,ad,adm,admin|Vô đây bấm nút Hỗ Trợ 24/24 có người hỗ trợ ngay nha
+share|Đăng nhập vô trang chủ rồi bấm qua diễn đàn để tham gia nha
+k dc,ko dc,khong dc,k duoc,ko duoc,khong duoc|Copy link ra chrome hoặc safari nha má https://thanhdi.com/?utm_source=zalo&utm_campaign=bzalo
 ghe|Ghê lắm nha mẹ
 goc hay ao|Trung nha má. hong có ảo
-oi|Oi
-k co,ko co,khong co|Bạn copy link ra chrome nha https://thanhdi.com/support
+oi|Oi 
+k co,ko co,khong co|Bạn copy link ra chrome nha https://thanhdi.com/?utm_source=zalo&utm_campaign=bzalo
 kb di,acept,dong y,ket ban,kb roi,kb rui,kb r, ket ban roi, ket ban rui, ket ban r|Chờ xíu mình chấp nhận kb nha
-code,giftcode|Giftcode ghi thẳng khi vô web link trên kia nha https://thanhdi.com/support
-vang,ngoc|Free vàng ngọc má ơi https://thanhdi.com/support
+code,giftcode|Giftcode ghi thẳng khi vô web link trên kia nha https://thanhdi.com/?utm_source=zalo&utm_campaign=bzalo
+vang,ngoc|Free vàng ngọc má ơi
 a du|Á đù
 jv, j vay,gi z, gi v|Ai biết gì má
 skh|đánh quái rơi
 nhu|Như gì má
 gui ad,gui event,gui bai share, gui sk,gui su kien|Gửi cho key vàng đi má
 game ao|Ảo đâu má, bình thường mà
-smtn,tnsm|Cao nha https://thanhdi.com/support
+smtn,tnsm|Cao nha
 game j,game gi|Game ngọc rồng đó má
 cl j|Cl gì má
 hot|Hot lắm
-ong,ha ad,admin|Ad key vàng trong box zalo nha mẹ. hong phải tui https://thanhdi.com/support
+ong,ha ad,ho tro,alo,hello,admin|Ad key vàng trong box zalo nha mẹ. hong phải tui https://thanhdi.com/support
 ban nao|Có tên kìa má
-nap|Nạp ở đây nè: https://thanhdi.com/support
-ho tro,alo,hello|Hỗ trợ ở đây nha: https://thanhdi.com/support
+nap|Đăng nhập vô trang chủ là có nút nạp
 fan cung,fancung,fc|Code fancung: YEUFANPAGE nha má https://thanhdi.com/support
 ai|Tui nè má
 tui|Bạn ông mà
 what,wtf|What gì mẹ, có gì nói đi mẹ
 free|Free
-dt,de tu,detu|Free đệ tử nha má https://thanhdi.com/support
+dt,de tu,detu|Free đệ tử nha má
 Oki,ok,oce,oke|Oki
 lua dao,scam|Không scam nha má
 gi day,j day,jz,j z, j the,gi the|Gì đâu má, ai biết gì
@@ -77,5 +75,4 @@ an lol,an lon|Ăn chứ
 wow|Wao
 sao bac,sao z,sao vay,sao day|Sao gì đâu má, ai biết gì đâu
 dc k,duoc k, dc khong,duoc khong|Được nha má
-alo,lo|Anh cần hỗ trợ vào đây nha https://thanhdi.com/support
 ngon|Ngon
