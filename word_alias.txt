@@ -139,6 +139,7 @@ bom=boom
 giftcode=code
 codo=code
 xincode=code
+gift=code
 cod=code
 tyou=thank you
 cosd=code
