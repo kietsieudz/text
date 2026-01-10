@@ -138,6 +138,7 @@ codee=code
 codeee=code
 nt=nhắn tin
 codeeee=code
+coder=code
 au=dau
 quai=hoai
 xin linh=link
