@@ -33,7 +33,7 @@ jar=jar
 jra=jar
 jav=jar
 ch=chua
-
+cdrd=con duong ran doc
 cubg=cung
 hedt=het
 
