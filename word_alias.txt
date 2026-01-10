@@ -12,6 +12,9 @@ min=minh
 shop=admin
 adm=admin
 ad=admin
+a d=admin
+a d m=admin
+a d m i n=admin
 qua chau=noel
 giang sinh=noel
 giang sin=noel
@@ -48,8 +51,12 @@ j=gi
 smtn=suc manh tiem nang
 tnsm=suc manh tiem nang
 
+pr=quang cao
+
 dk=dang ky
 dki=dang ky
+
+kik=kick
 
 
 tn=tiem nang
@@ -64,6 +71,12 @@ bxh=bang xep hang
 
 sv=server
 sever=server
+sver=server
+may chu=server
+game=server
+lol=lon
+
+
 
 1s=1 sao
 2s=2 sao
@@ -226,6 +239,63 @@ b tai=bong tai
 
 nik=nick
 acc=nick
+ac=nick
+nic=nick
+accc=nick
+acccc=nick
+accccc=nick
+acccccc=nick
+n i k=nick
+n i c k=nick
+a c c=nick
+a c c c=nick
+a c c c c c=nick
+xd=nick
+td=nick
+nm=nick
+ban em=nick
+
+
+
+s u p=sap
+s a p=sap
+xap=sap
+xup=sap
+sup=sap
+
+
+
+bay=ban
+bayy=ban
+bayyy=ban
+bayyyy=ban
+bayyyyy=ban
+pay=ban
+payy=ban
+payyy=ban
+payyyy=ban
+payyyyy=ban
+
+chia=ban
+sale=ban
+sell=ban
+cho=ban
+can p=ban
+muon p=ban
+gia re=ban
+ja re=ban
+dang p=ban
+b a n=ban
+b a y=ban
+s a l e=ban
+s e l l=ban
+thanh ly=ban
+thanh li=ban
+thanhli=ban
+cho thue=ban
+b u f f=buff
+thue=ban
+
 
 nr=ngoc rong
 
