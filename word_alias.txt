@@ -128,7 +128,7 @@ tyou=thank you
 cosd=code
 codee=code
 codeee=code
-
+nt=nhắn tin
 codeeee=code
 au=dau
 quai=hoai
