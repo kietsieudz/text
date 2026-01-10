@@ -31,8 +31,8 @@ qckk k, qckk ko, qckk khong, qckk k, qckk ko, qckk khong, laze k, laze ko, laze 
 4 ko roi, 4 khong roi, 4 k roi, 4 ko rot, 4 khong rot|Cải trang zeno sau khi nâng bậc 4 sẽ không rơi đá nữa (nếu game có cập nhật thêm level thì sẽ rơi tiếp nha)
 con km, con kmai, con khuyen mai, con 30%, con nap|👉 Anh vui lòng [xem|kiểm tra] thông báo trong game hoặc trên trang chủ sau khi đăng nhập; nếu [đang có|hiện có] khuyến mãi hệ thống sẽ hiển thị thông báo, còn nếu không thấy thông báo thì [hiện tại|thời điểm này] không có chương trình khuyến mãi.
 de k danh, de ko danh, de khong danh, de tu k danh, de tu ko danh, de tu khong danh|Anh kiểm tra xem đệ hết ki hết thể lực hay đậu thần không nhé
-quen mk, quen mat khau, quen mkhau, quen pass, quen password, quen tk, lay lai nik, lay lai nick, lay lai acc, lay dum acc, lay dum nik, lay dum nick, lay gium acc, lay gium nik, lay gium nick|👉 Nếu quên mật khẩu anh làm theo hướng dẫn nha:\nAnh vào email soạn tin nhắn\nQMK + Tài khoản đăng nhập + Server\nGửi đến email: admin@thanhdi.com nha
-quen mk, quen mat khau, quen mkhau, quen pass, quen password, quen tk, lay lai nik, lay lai nick, lay lai acc, lay dum acc, lay dum nik, lay dum nick, lay gium acc, lay gium nik, lay gium nick|👉 Áp dụng cho tài khoản đã liên kết email nhé a, a cần vào đúng email đó để soạn tin
+quen mk, quen mat khau, quen mkhau, quen pass, quen password, quen tk,lay lai, lay lai nik, lay lai nick, lay lai acc, lay dum acc, lay dum nik, lay dum nick, lay gium acc, lay gium nik, lay gium nick|👉 Nếu quên mật khẩu anh làm theo hướng dẫn nha:\nAnh vào email soạn tin nhắn\nQMK + Tài khoản đăng nhập + Server\nGửi đến email: admin@thanhdi.com nha
+quen mk, quen mat khau, quen mkhau, quen pass, quen password, lay lai,quen tk, lay lai nik, lay lai nick, lay lai acc, lay dum acc, lay dum nik, lay dum nick, lay gium acc, lay gium nik, lay gium nick|👉 Áp dụng cho tài khoản đã liên kết email nhé a, a cần vào đúng email đó để soạn tin
 doi email, doi gmail, xoa gmail, go gmail, xoa email, go email|👉 Email không thể gỡ nhưng có thể đổi\nAnh làm theo hướng dẫn nha:\nAnh vào email soạn tin nhắn\nDOI_EMAIL + Tài khoản đăng nhập + Server + email mới + Lý do\nGửi đến email: admin@thanhdi.com nha
 doi email, doi gmail, xoa gmail, go gmail, xoa email, go email|🫡 Áp dụng cho tài khoản đã liên kết email nhé a, a cần vào đúng email đó để soạn tin
 nhap code, nhap giftcode|Vô NPC trong nhà sẽ có nút Giftcode để nhập nha a [Tải bản Ngọc Rồng TDStudio mới được nha]
@@ -47,6 +47,7 @@ xu ngu,dong xu|"Đồng xu" để mua máy dò capsule kì bí ở santa nhé! M
 codeshare, code share|Game không có "code share" chung, ai làm bài share thì người đó được nhận nha!
 long khi, nhum long|Nhúm lông khỉ đánh quái ngũ hành sơn sẽ rơi nhé! Đổi quà tại Bunma đảo kame 🙏
 dau bu, dau than|"Đậu bư" đi osin ở đại hội võ thuật lúc 21:00 nhé
+
 bxh, xep hang|Xem "bảng xếp hạng" ở Daishinkan đảo kame hoặc ở trang chủ ấy
 noel,nrb,ngoc rong bang,qua chau,day den,nr bang,chuong, thong che|👉 Sự kiện noel 2025\nhttps://ngocrongtdstudio.com/sukien/su-kien-giang-sinh-ngoc-rong-nam-2025.html
 hong xanh, qua hong|Bạn ra gặp Đường tăng ở map 3 ngũ hành sơn nha
@@ -64,8 +65,9 @@ Khi gas|Thu thập bản đồ trong doanh trại để đi khí gas ở Popo (l
 ruong long hai| Là rương mở ra cốt chí tôn ở chức năng câu cá, cần cành tre để tạo cần câu
 ruong an| Rương ấn là rương mở ra ấn để khắc ấn vào trang bị tại bà Hạt Mít
 thanh lan boi|Anh có thể mua thanh lân bội ở santa đó anh. Kết nghĩa xong cả 2 người đều có thanh lân hết. cả 2 đều tăng thêm chỉ số luôn
-sao nhan duoc|Anh làm event xong gửi đây admin duyệt xong thì vào nhà chọn nhiệm vụ tân thủ đã làm để nhận nha
+sao nhan duoc, nhan dau|Anh làm event xong gửi đây admin duyệt xong thì vào nhà -> chọn nhiệm vụ tân thủ -> chọn nhiệm vụ tân thủ đã làm để nhận nha
 fanpage|👉 Các trang fanpage của game\nhttps://thanhdi.com/fanpage
+server gi|Dạ đây là Ngọc Rồng Online TDStudio nhé anh! Anh cần link tải hay giftcode ạ?
 baby|👉 Thông tin boss Baby\nhttps://ngocrongtdstudio.com/posts/thong-tin-boss-baby.html
 golden, fide vang| Boss Fide vàng đọc ở đây (nhớ like + cmt): https://www.facebook.com/share/p/16UDUzvgYZ/
 ma namec, than ma,xa linh|👉 Boss Thần Ma Namec\nhttps://ngocrongtdstudio.com/posts/boss-than-ma-namec.html
@@ -73,9 +75,13 @@ tay karin| Boss Tây Karin đọc ở đây (nhớ like + cmt): https://www.face
 k tai, ko tai, khong tai| Copy link ra dán vào chrome hoặc safari mới tải được, đừng bấm thẳng vào link ở đây nha
 xin ip,ipsv|Tất cả bản trên web đã cài sẵn Ip (tải về xoá dữ liệu rồi sài thôi)
 giftcode,code,xincode,xin cod,xin cosd,xincod, xin codee, xin codeee,bulma,bunma,wedding,cai trang|[🎁 Em gửi anh toàn bộ Giftcode của game|🎁 Em gửi anh danh sách Giftcode của game|🎁 Toàn bộ Giftcode của game em gửi anh tại đây], nhớ xem trên các ảnh có code VIP (poke, bulma, hộp quà) nha\nhttps://thanhdi.com/giftcode
+nhu nay dung khong|Anh ơi em không thể xem được ảnh, anh nói tên thứ anh hỏi giúp em nhé!\nHoặc chờ xíu admin vào xem ảnh rồi hỗ trợ anh nha
+lang vampa|Làng vampa anh ra vách núi đen gặp Paragus nhé!
 kol|Anh xem nhiệm vụ KOL ở Quy lão á. hiện tại là nhiệm vụ đánh quái, quái nào cũng tính hết nha
 trang bi|Thông tin các trang bị đây anh:\nhttps://thanhdi.com/cochegame
+danh hieu|Anh ra santa bấm vào mua danh hiệu là biết cách kiếm danh hiệu nhé!
 ngoai hinh, hinh thai|Anh chat "mod" và bật ngoại hình hợp thể lên nhé!
+gio nhiem vu khong tac dung, gio ho tro khong tac dung|Anh thử lấy acc không thuộc nhiệm vụ đó vào được nơi boss không mà nói không có tác dụng. Người vào được khu cũng đang làm nhiệm vụ đó anh
 giftcode,code,xincode,xin cod,xin cosd,xincod,xin codee, xin codeee,bulma,bunma,wedding,cai trang|[🎁 Code năm mới nè anh zai|🎁 Em gửi anh code năm mới nha|🎁 Code Tết dành cho anh đây]: happynewyear
 dk xong, dky, dang ky, dang ki, dki|Hãy "đăng ký" ở link https://thanhdi.com [Mở trên chrome hoặc Safari nhé ]
 share,event,tan thu,even,chia se, fl, follow,floww,folow,folo,foloow,folooow,foloooow,follw,folllow,folllloow,folllo,folw,fw,flo,fllow,flloww,fow,flw|🎁 Em Gửi Hướng dẫn event tân thủ nhận quà trong nhà nhé (Event Chia Sẻ)\nhttps://thanhdi.com/event
@@ -89,6 +95,7 @@ coin|Anh có thể kiếm coin bằng cách nạp hoặc event tương tác nhé
 coin|👉 Anh vào đây bấm nút "Event Tương Tác" để xem chi tiết nhé\nhttps://thanhdi.com/support
 su kien,sk|👉 Sự kiện Xem ở đây\nhttps://thanhdi.com/support 
 mua bong tai dung duoc luon|Mua bông tai nào cũng sài được hết nha, không cần theo level đâu
+muon mua|Anh có thể vào trang chủ để nạp rồi vào game đổi sang hồng ngọc hoặc thỏi vàng rồi ưng mua gì mua nhé anh? Anh chat "nạp thẻ" để em gửi hướng dẫn nạp nhé!
 nap, top up, top-up|👉 [Em gửi anh nha|Em gửi anh đây|Link em gửi anh nè]\n\n👉 [Hướng dẫn nạp|Cách nạp|Nạp tiền]\nhttps://thanhdi.com/nap\n\n👉 [Quà mốc nạp|Thưởng mốc nạp|Quà theo mốc nạp]\nhttps://thanhdi.com/mocnap.html\n\n👉 [Quà top nạp|Thưởng top nạp|Đua top nạp]\nhttps://thanhdi.com/quaduatop.html
 dau roi, ai online|Dạ em đây!\nNếu tìm admin thì chờ xíu nữa Admin vào nha a! 😅
 bn sm gd,bao nhieu suc manh, bn suc manh, bao nhieu sm, bnhieu sm| 40 tỷ giao dịch được nhé bé
@@ -96,7 +103,7 @@ loi laze, loi bom, loi boom, boom xit, laze xit| Giảm tốc độ game xuống
 hong ngoc,hngoc,hn,ngoc hong| "Hồng ngọc" săn boss, up cold, up capsule kì bí, Đại hội võ thuật + Đại hội võ thuật 23 + Siêu Hạng, Nạp thẻ
 thoi vang,tvang,tv,vang| "Thỏi vàng" làm nhiệm vụ bò mộng, hộ tống, Đại hội võ thuật 23, Nạp thẻ, Vàng nhận nhận miễn phí không giới hạn ở nhà
 menu,mod,auto, xin lenh|👉 [Bấm vào logo|Nhấn logo|Chạm logo] ([bản PC bấm phím X|PC nhấn X]) để [mở menu mod|bật menu mod|hiện menu mod]
-xong roi, xong r, duyet, xog roi,kich hoat, kiem tra, xog r,share,event,check,done, share 1, share 2, share 3, share 4, event 3, event 1, event 2, event 4, share1, share2, share3, share4, event1, event2, event3,event4, danh gia, follow, theo doi, e1, e2, e3,e4|👉 [Xong event|Hoàn thành event] thì [chờ xíu|đợi chút] ad vào duyệt nha! Event đánh giá nhớ để lại [Tài khoản|Nick] + [Server|SV] nhé
+xong roi, xong r, duyet, xog roi,kich hoat, kiem tra, xog r,share,event,check,e gui, em gui,done,da tham gia, share 1, share 2, share 3, share 4, event 3, event 1, event 2, event 4, share1, share2, share3, share4, event1, event2, event3,event4, danh gia, follow, theo doi, e1, e2, e3,e4|👉 [Xong event|Hoàn thành event] thì [chờ xíu|đợi chút] ad vào duyệt nha! Event đánh giá nhớ để lại [Tài khoản|Nick] + [Server|SV] nhé
 huong dan|Anh xem trong chỗ thông báo của game có hướng dẫn, hoặc nhắn ở đây em và ad hỗ trợ [24/24] nhé!
 cooler vang, gold fide, fide gold|Boss fide gold xuất hiện 21h mỗi ngày ở Đông Karin
 kaioken hay kame| Cái nào cũng ngon hết trơn
@@ -214,7 +221,7 @@ huy diet| Để 5 món thần linh trong hành trang rồi gặp Thần huỷ di
 alo,xin chao,hello,hi,halo,hallo,helo,halu,haluu,.|[Chào anh ạ|Dạ em chào anh|Chào anh nhé]!\nEm [luôn trực fanpage 24/24|luôn online 24/24 tại fanpage|trực hỗ trợ fanpage suốt 24/24],\n[anh cần link tải hay hướng dẫn gì cứ nhắn em nhé|cần link tải hoặc hướng dẫn anh cứ nhắn em nha|anh cần hỗ trợ tải game hay hướng dẫn cứ nhắn em liền ạ] 😊
 ngu hanh son, nhs| ra làng aru gặp Đường tăng để vào Ngũ Hành Sơn 
 trai than long, manh dat, cay cuoc, khu dat, nong trai| Bạn mua đất + cây cuốc rồi săn boss đủ 30 điểm sẽ trồng được cây thần long, thu hoạch trái thần long ăn vào tăng chỉ số (đặc biệt không bị ảnh hưởng với sức mạnh chí tôn)  
-cam on, ok,tks, thank, thanh kiu,thanh you,thanh u,thanks, oki, oke, duoc roi, uki, vang, oce, vg, okii|🥰 Vậy anh đẹp trai ơi!\nNếu anh chưa follow fanpage thì cho game xin 1 follow nha anh\n❤️ Anh cần hỗ trợ gì cứ nhắn em hỗ trợ ngay ạ 🙏
+cam on, ok,tks, thank, thanh kiu,thanh you,thanh u,thanks, oki, oke, duoc roi, uki, vang, oce, vg, okii, da ta|🥰 Vậy anh đẹp trai ơi!\nNếu anh chưa follow fanpage thì cho game xin 1 follow nha anh\n❤️ Anh cần hỗ trợ gì cứ nhắn em hỗ trợ ngay ạ 🙏
 cam on, ok,tks, thank, thanh kiu,thanh you,thanh u,thanks, oki, oke, duoc roi, uki, vang, oce, vg, okii|IMG:https://sv1.thanhdi.games/static/sonic/img/mememeo.png
 de lay,detu,de tu, đệ tử, gohanbu, gohan bu, itachi, omega, mabu ,de thuong,kiem de, san de, nhan de|👉 Thông tin các đệ tử và cách kiếm đệ tử ở đây nha anh\nhttps://ngocrongtdstudio.com/posts/thong-tin-cac-de-tu.html
 gohan| Đệ tử Gohan Bư săn ở Osin Đại Hội Võ Thuật lúc 12h00 và 19h00  
