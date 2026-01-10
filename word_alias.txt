@@ -164,6 +164,9 @@ sk=su kien
 even=su kien
 event=su kien
 evere=su kien
+enven=su kien
+
+quyen=quen
 
 bn=bao nhieu
 bnhieu=bao nhieu
