@@ -233,6 +233,7 @@ cnc2=itemc2
 item c2=itemc2
 bhsc=itemc2
 bksc=itemc2
+iteam=item
 
 yadat=yardrat
 yardat=yardrat
