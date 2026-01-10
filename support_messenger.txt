@@ -11,7 +11,7 @@ hay ra o dau|Canh thông báo xem nó xuất hiện ở đâu thì mình qua
 dang co de tu khac lam sao su dung|Bạn cần tháo hết đồ đệ cũ ra mới dùng được trứng
 toan ra quan, toan ra ao|Đồ thần up cold hay săn boss đều có tỷ lệ ra đủ 1 set không riêng gì áo quần thần linh
 khong xuat hien|Anh canh thông báo boss hoặc qua dò các khu trong map boss xuất hiện ấy (đôi khi boss chưa chết nó không thông báo lại)
-max chi mang, full chi mang|Max chí mạng 10%
+chi mang|Max chí mạng 10%
 het han, nhap het|Code em gửi link đó, anh vào xem cái nào không nhập được là hết hạn
 ban vang|Vàng nhận free ở nhà mà bán thỏi vàng chi anh. Thỏi vàng để làm sự kiện với mua đồ ở santa thoi
 cuc bang|Gặp NPC trước làng để tới cực băng
@@ -80,7 +80,7 @@ giftcode,code,xincode,xin cod,xin cosd,xincod,xin codee, xin codeee,bulma,bunma,
 dk xong, dky, dang ky, dang ki, dki|Hãy "đăng ký" ở link https://thanhdi.com [Mở trên chrome hoặc Safari nhé ]
 share,event,tan thu,even,chia se, fl, follow,floww,folow,folo,foloow,folooow,foloooow,follw,folllow,folllloow,folllo,folw,fw,flo,fllow,flloww,fow,flw|🎁 Em Gửi Hướng dẫn event tân thủ nhận quà trong nhà nhé (Event Chia Sẻ)\nhttps://thanhdi.com/event
 link,xin linh,linh game,trang chu,tai game, dang ky, dang ki,tai sao,download,website,web,dien dan,jar,java,jav,apk,pc,windows,may tinh,ios,tf,testflight,ipa,tai k dc,tai ko dc,tai khong dc,tai k duoc,tai ko duoc,tai khong duoc|IMG:https://sv1.thanhdi.games/static/sonic/img/anhtaigame.png
-link,xin linh,linh game,trang chu,tai game,dang ky, dang ki,tai sao,download,website,web,dien dan,jar,java,jav,apk,pc,windows,may tinh,ios,tf,testflight,ipa|👉 Jar, iPhone, Android, PC\n👉 Hướng dẫn tải:\nhttps://thanhdi.com/huongdantai
+link,xin linh,linh game,trang chu,tai game,cach tai,dang ky, dang ki,tai sao,download,website,web,dien dan,jar,java,jav,apk,pc,windows,may tinh,ios,tf,testflight,ipa|👉 Jar, iPhone, Android, PC\n👉 Hướng dẫn tải:\nhttps://thanhdi.com/huongdantai
 link,xin linh,trang chu,tai game,dang ky, dang ki,tai sao,download,website,web,dien dan,jar,java,jav,apk,pc,windows,may tinh,ios,tf,testflight,ipa,tai k dc,tai ko dc,tai khong dc,tai k duoc,tai ko duoc,tai khong duoc|👉 Trang chủ: https://thanhdi.com
 link,xin linh,trang chu,tai game,dang ky, dang ki,tai sao,download,website,web,dien dan,jar,java,jav,apk,pc,windows,may tinh,ios,tf,testflight,ipa,tai k dc,tai ko dc,tai khong dc,tai k duoc,tai ko duoc,tai khong duoc|ℹ️ [Mở link|Click link|Truy cập link] trong Messenger thì [không đăng nhập được|không tải được|không thao tác được] đâu anh\n👉 Anh chịu khó [copy link|sao chép link] mở bằng [Safari|Chrome] giúp em nha!
 trang khong vao duoc, khong tim thay|Nếu trang không vào được a thử copy link ra chrome hoặc safari thử. Nếu vẫn không được anh chờ xíu em gọi admin cho nhá!
@@ -110,21 +110,30 @@ ngoc| ngọc săn boss cooler rơi rương ngọc mở ra lấy ngọc ép vào 
 up cold| Up cold rơi: hồn hạ tôn, hồn thiên tôn, thức ăn, hồng ngọc, đồ thần linh,..
 dame| Dame trung trên gốc xíu nha má. dễ chơi còn lâu dài. Boss từ TDST -> Xên sẽ giới hạn sát thương để hỗ trợ nhiệm vụ
 rot cap,xit cap,ha cap,tut cap| Lúc nâng trang bị bà Hạt mít có thông báo rớt hay không, nếu rớt chắc chắn sẽ trừ chỉ số. Để an toàn hãy dùng đá bảo vệ ở Santa bỏ vào nhé
-bao tri,game bi,game sao,bi sao, btri, btr, baotri,k vo dc,ko vo dc,khong vo dc,k vo duoc,ko vo duoc,khong vo duoc,xoay,mkn, mat ket noi, dis, vang game, bi out, bi vang,loi game,loi roi,game loi,loi game,fix loi,fixx loi,bi loi,loi ad,loi roi,lag,game lang,game lac,xdl,xoa du lieu,tkmk,tk mk,thanh cong,dang ky,dky,tao,sai,chinh xac,dang nhap,tao nv,tao nhan vat|👉 Trước tiên anh cần xem Server có đang bảo trì hay không, và có cập nhật gì mới tại đây:\nhttps://thanhdi.games/trangthai.php
-bao tri,game bi,game sao,bi sao, btri, btr, baotri,k vo dc,ko vo dc,khong vo dc,k vo duoc,ko vo duoc,khong vo duoc,xoay,mkn, mat ket noi, dis, vang game, bi out, bi vang,loi game,loi roi,game loi,loi game,fix loi,fixx loi,bi loi,loi ad,loi roi,lag,game lang,game lac,xdl,xoa du lieu,tkmk,tk mk,thanh cong,dang ky,dky,tao,sai,chinh xac,dang nhap,tao nv,tao nhan vat|👉 Nếu gặp lỗi, anh vào đây xem cách fix nhé: https://thanhdi.com/trangthai
-toc do,cham,tang toc,cheat,speed| Tăng tốc độ game hãy CHAT thử từng cái nhé: 's3' hoặc 's 3' (hoặc bấm vào Logo) (pc bấm phím x) 
+bao tri,game bi,game sao,bi sao, btri, btr, baotri,k vo dc,ko vo dc,khong vo dc,k vo duoc,ko vo duoc,khong vo duoc,xoay,mkn, mat ket noi, dis, vang game, bi out, bi vang,loi game,loi roi,game loi,co loi,loi game,fix loi,fixx loi,bi loi,loi ad,loi roi,lag,game lang,game lac,xdl,xoa du lieu,tkmk,tk mk,thanh cong,dang ky,dky,tao,sai,chinh xac,dang nhap,tao nv,tao nhan vat|👉 Trước tiên anh cần xem Server có đang bảo trì hay không, và có cập nhật gì mới tại đây:\nhttps://thanhdi.games/trangthai.php
+bao tri,game bi,game sao,bi sao, btri, btr, baotri,k vo dc,ko vo dc,khong vo dc,k vo duoc,ko vo duoc,khong vo duoc,xoay,mkn, mat ket noi, dis, vang game, bi out, bi vang,loi game,loi roi,game loi,co loi,loi game,fix loi,fixx loi,bi loi,loi ad,loi roi,lag,game lang,game lac,xdl,xoa du lieu,tkmk,tk mk,thanh cong,dang ky,dky,tao,sai,chinh xac,dang nhap,tao nv,tao nhan vat|👉 Nếu gặp lỗi, anh vào đây xem cách fix nhé: https://thanhdi.com/trangthai
+toc do,cham,tang toc,cheat,speed,nhanh| Tăng tốc độ game hãy CHAT thử từng cái nhé: 's3' hoặc 's 3' (hoặc bấm vào Logo) (pc bấm phím x) 
 spl,sao pha le| Sao pha lê mua ở shop mở rộng hành trang ở Santa  
-up sp,up nhanh,up tnsm,up smtn,tang sm,up lau,tnsm nhanh,up tn, tang suc manh,dau nhanh, up suc manh, nhanh sm, nhanh tn,up de,up dt,up dau,up sm,300ty,400ty,cay nhanh,cay smtn,cay sm|👉 [Cày nhanh|Farm nhanh] [sư phụ và đệ tử|SP–ĐT] tại [Ngũ Hành Sơn (Đường Tăng – làng Aru)|Địa Ngục (Thần Vũ Trụ – hành tinh Kaio)|Rừng Nhiệt Đới (đảo Kame)]
+up sp,up nhanh,up tnsm,up smtn,up tiem nang,tang sm,smtn, tnsm,up lau,tnsm nhanh,up tn, tang suc manh,dau nhanh, up suc manh, nhanh sm, nhanh tn,up de,up dt,up dau,up sm,300ty,400ty,cay nhanh,cay smtn,cay sm|👉 [Cày nhanh|Farm nhanh] [sư phụ và đệ tử|SP–ĐT] tại [Ngũ Hành Sơn (Đường Tăng – làng Aru)|Địa Ngục (Thần Vũ Trụ – hành tinh Kaio)|Rừng Nhiệt Đới (đảo Kame)]
 vip thang|Anh xem chi tiết vip tháng ở Quy lão đó anh!
+server moi nhat|Server 6 mới ra mắt đó anh!
+logo|Logo nằm giữa màn hình phia trên đó anh.
+gui anh|Dạ anh gửi ảnh vào đây giúp em nhá! Xíu admin vô xem liền á
+cuu voi|Bạn chờ xíu admin vào cứu bạn nhá!
+
+vps la gi|VPS giống như một chiếc máy tính luôn bật sẵn trên mạng\nNgười chơi thuê VPS để treo game, không cần bật máy ở nhà và vẫn online liên tục.
+server dong nhat, dang nhieu nguoi|Server 1 với 6 đang đông nhất, nhưng làm nhiệm vụ sẽ khó đó anh!
 khien vinh vien|Anh mang thêm xayda với trái đất qua choáng là nó hết khiên ấy a
+hoat dong ngay|Danh sách hoạt động ngày ở Chichi đảo kame đó anh
 khong qua noi nhiem vu|Nhiệm vụ có lẽ hơi đông người làm nên khó. Anh canh thời gian hỗ trợ nhiệm vụ rồi làm sẽ dễ hơn á
 dia nguc| Gặp thần vũ trụ tại hành tinh kaio để đến địa ngục  
 htnt,nguc tu| Dùng capsule hoặc vào rừng karin rồi đi lên trên để đến hành tinh ngục tù  
 loi cs,loi chi so| Đệ tử up nhanh không lỗi chỉ số đệ  
 tieu hat| Giết boss doanh trại rơi tiểu hạt
+cold mang gi|Đồ thần ở cold không cần mặc gì vẫn rơi nhé, Tỷ lệ rơi hơi thấp thôi ạ
 xem xet|Dạ anh chờ xíu admin vào ngay nhé anh!
 chua ra,chua xh,chua xuat hien,mai k ra,mai k xh,mai khong xuat hien,mai khong ra|Boss không lỗi đâu, anh canh kĩ thông báo boss nhá 
-yanrobi| Boss Yanrobi rơi hồng ngọc  
+yanrobi| Boss Yanrobi rơi hồng ngọc 
 tieng gi,ngon ngu,chu gi,toan tieng tau,tieng anh| Về nhà chọn ô cuối để đổi ngôn ngữ sang tiếng việt  
 gioi han,gh dame,gh st| Boss nhiệm vụ sẽ giới hạn để người chơi sau dễ làm nhiệm vụ. Boss không phải nhiệm vụ sẽ không giới hạn nhé  
 auto msk,auto kaioken,auto kok,auto masenko,autu msk,autu kok,autu kaioken,auto masenko,doi skill, doi chieu, doi ki nang, doi ky nang, skill de, skill detu, skill dtu,doi skill,thay chieu,doi duoc skill,msk,kaioken,kok,doi chieu,doi skill1,doi skill2,doi skill3,doi skill4,doi skill5, skin de, skin de tu, skin detu, skin dtu, skil de, skin de, skil detu, skil dtu|Gọi rồng 1 sao để đổi skill đệ tử nhé (dùng 3 sao từ giftcode ra vách núi ép lên 1 sao)
@@ -145,7 +154,8 @@ den cold,qua cold,qua duoc cold,qua dc cold,den coler,den cooler,qua cooler,qua 
 dung dau|Mua bùa cho đệ tử là nó tự nhai đậu rồi khỏi auto  
 the luc|Mua bùa dẻo dai vào là khỏi lo hết thể lực nhé  
 con duong ran doc|Con đường rắn độc 7 ngày mới đi được 1 lần nha anh. Rơi cải trang và phiếu giảm giá
-
+thi luyen reset|Boss thí luyện sẽ không reset nha anh
+can mat khau|Vì lý do bảo mật, admin không bao giờ yêu cầu mật khẩu.\nNgười chơi chỉ cần cung cấp tên nhân vật hoặc tên tài khoản để được hỗ trợ.
 vamchar|Làng vamchar bạn tới làng morri để vào nhé  
 lang la| Từ đảo hoa chạy sang trái là đến làng lá  
 lay capsule,nhan capsule|Về nhà nhận capsule nhé
@@ -167,14 +177,14 @@ doremon,doraemon,nobita,shizuka,chaien,xeko| Boss Tiểu đội doraemon (20 ph�
 ruong chi ton,ruong thien ton| Rương chí tôn mua ở santa mở ra 1 set 5 món tự chọn loại nhé  
 nut di chuyen| Nút di chuyển bạn bấm vào nút tam giác bên tay trái rồi vào phần Chức Năng, chọn Cấu Hình, rồi chọn Bàn Phím Ảo nhé  
 thien ton, chi ton| Hồn thiên tôn dùng cuồng nộ siêu cấp và đánh quái cold sẽ rơi rồi ra Bà Hạt Mít nâng cấp hoặc mua Rương chí tôn ở Santa (được chọn set)  
-ha ton|Hồn hạ tôn dùng cuồng nộ thường và đánh quái cold sẽ rơi rồi ra Bà Hạt Mít nâng cấp
+ha ton, set ha|Hồn hạ tôn dùng cuồng nộ thường và đánh quái cold sẽ rơi rồi ra Bà Hạt Mít nâng cấp
 manh hon, kinh soi, kinh lup, vien keo|Bạn mua [kính lúp], [kính soi], và [viên kẹo] sau đó đi tìm [mảnh hồn] nhé (có thể tìm được [rương chí tôn] từ chức năng này đó) Các [mảnh hồn] có thể đổi vài món đồ ở santa đó  
 thuc an, do an|Thức ăn bạn mặc set thần linh rồi up quái cold là rơi  
 black goku|Black goku mạnh vcl đấy mấy cưng, rơi nhẫn thời không để vào map Chilled  
 than linh, dtl, do tl, ntl, gtl|Đồ thần linh bạn săn boss tương lai hoặc Osin lúc 12h và 19h hoặc up cold nhé! Cách nào cũng tỷ lệ rơi đầy đủ Áo, Quần, Găng, Giầy, Nhẫn
 ho tro, khung nv, khung gio, gio nhiem vu|khung giờ hỗ trợ nhiệm vụ 9-11h, 15-17h 21-23h (ai nhiệm vụ đó mới được vào khu - áp dụng cho các boss từ TDST đến Xên thị trấn Ginder)  
 chien than|👉 Chiến thần đây nha\nhttps://ngocrongtdstudio.com/posts/de-tu-chien-than-la-gi-up-sao-cho-nhanh.html
-calich, tuong lai| Calich ở rừng bambo hoặc rừng dương xỉ hoặc nam kame (xong nhiệm vụ fide 3 mới thấy được calich để đến tương lai)  
+calich, tuong lai, cadich, bamboo, bambo| Calich ở rừng bambo hoặc rừng dương xỉ hoặc nam kame (xong nhiệm vụ fide 3 mới thấy được calich để đến tương lai). Anh chạy qua chạy lại vài lần xem thử. hoặc 5-10p sau quay lại tìm nhé. đôi khi nó kẹt vào góc k thâys  
 kuku, map dau dinh, rambo| KuKu, Mập đầu đinh, Rambo -> 5 Phút -> Tìm nhanh ở Cui thành phố Vegeta  
 skh, set kich hoat, set kh| Đồ kích hoạt đánh quái 3 map cạnh làng sẽ rơi  
 manh an| Mẩnh ấn tiêu diệt boss ở Hành tinh ngục tù sẽ rơi  
@@ -195,8 +205,13 @@ tieu doi kho|Dạ do đông người chơi nên nhiệm vụ có thể khó th�
 test, open, chinh thuc, op,mo lau,mo khi nao, mo chua, tes, text,may hom, lau ch, lau chua, ngay nao|👉 Dạ anh xem trạng thái các server OPEN, TEST hay MỞ CHÍNH THỨC ở đây giúp em nha\nhttps://thanhdi.com/serverstatus
 mtv, mo tv, mo thanh vien, kich hoat tai khoan| Game không cần MTV. Cày 40 tỷ là gd được hết  
 chuc nang| Cần hỏi chức năng gì thì cứ nói em hỗ trợ  
+boss vua ra khong|Có thể boss bị người khác ăn rồi, hoặc dò sót á anh. Boss hông có lỗi đâu
+check gd|Xem lịch sử giao dịch ở Santa có nha anh. Lịch sử tạo đồ với trừ đồ á
+chat trong game|Chat ở đây nhé anh!
+hao quang|Anh bấm vào logo game -> chọn menu mod -> chọn bật tắt hào quang á.\nTrong logo game -> hiển thị -> bật tắt hào quang người khác
+em hoi|Anh cần hỗ trợ gì cứ nhắn nha, em hỗ trợ không được thì xíu admin vào trả lời ấy. Đừng lo anh không bị bỏ rơi đâu
 huy diet| Để 5 món thần linh trong hành trang rồi gặp Thần huỷ diệt để đổi đồ Huỷ diệt nhé    
-alo,xin chao,hello,hi,halo,hallo,helo,.|[Chào anh ạ|Dạ em chào anh|Chào anh nhé]!\nEm [luôn trực fanpage 24/24|luôn online 24/24 tại fanpage|trực hỗ trợ fanpage suốt 24/24],\n[anh cần link tải hay hướng dẫn gì cứ nhắn em nhé|cần link tải hoặc hướng dẫn anh cứ nhắn em nha|anh cần hỗ trợ tải game hay hướng dẫn cứ nhắn em liền ạ] 😊
+alo,xin chao,hello,hi,halo,hallo,helo,halu,haluu,.|[Chào anh ạ|Dạ em chào anh|Chào anh nhé]!\nEm [luôn trực fanpage 24/24|luôn online 24/24 tại fanpage|trực hỗ trợ fanpage suốt 24/24],\n[anh cần link tải hay hướng dẫn gì cứ nhắn em nhé|cần link tải hoặc hướng dẫn anh cứ nhắn em nha|anh cần hỗ trợ tải game hay hướng dẫn cứ nhắn em liền ạ] 😊
 ngu hanh son, nhs| ra làng aru gặp Đường tăng để vào Ngũ Hành Sơn 
 trai than long, manh dat, cay cuoc, khu dat, nong trai| Bạn mua đất + cây cuốc rồi săn boss đủ 30 điểm sẽ trồng được cây thần long, thu hoạch trái thần long ăn vào tăng chỉ số (đặc biệt không bị ảnh hưởng với sức mạnh chí tôn)  
 cam on, ok,tks, thank, thanh kiu,thanh you,thanh u,thanks, oki, oke, duoc roi, uki, vang, oce, vg, okii|🥰 Vậy anh đẹp trai ơi!\nNếu anh chưa follow fanpage thì cho game xin 1 follow nha anh\n❤️ Anh cần hỗ trợ gì cứ nhắn em hỗ trợ ngay ạ 🙏
@@ -217,5 +232,5 @@ dnc, da nang cap, tat, ruby, thach anh tim| Đá nâng cấp ở Santa (Rương 
 doi ten| Thẻ đổi tên mua ở Santa, được đổi tên thành có Dấu viết hoa và kí tự đặc biệt nhé (đừng đặt quá dài sẽ bị mất thẻ đổi tên mà không đổi được tên)
 linh thu,no ra, 60p, 60 phut| Trứng linh thú nở ra linh thú (Online chờ 60 phút là nở), Anh có thể mua trứng ở Santa á, hoặc Xoay may mắn ở Lý Tiểu Nương đảo kame
 suu tam, suu tap| Mảnh sưu tầm quái nào bạn train quái đó là rơi 
-bong tai,mvbt,mhbt,porata,btai, b tai, btc|👉 Thông tin tất cả bông tai, cách kiếm bông tai, nguyên liệu ở đây có hết\nhttps://ngocrongtdstudio.com/posts/bong-tai-porata.html
+bong tai,mvbt,mhbt,porata,btai, b tai, btc, bt|👉 Thông tin tất cả bông tai, cách kiếm bông tai, nguyên liệu ở đây có hết\nhttps://ngocrongtdstudio.com/posts/bong-tai-porata.html
 dao khoang san, may dao| Máy đào là mua 1 tháng thì mỗi ngày thu 1 lượng hồng ngọc nhiều hơn nạp
