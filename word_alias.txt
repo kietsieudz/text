@@ -329,6 +329,7 @@ tdst =tieu doi sat thu
 
 km=khuyen mai
 kmai=khuyen mai
+kame=kamejoko
 
 mk=mat khau
 mkhau=mat khau
