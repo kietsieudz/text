@@ -92,6 +92,8 @@ sm=suc manh
 ht=hop the
 hthe=hop the
 
+dg=dang
+
 bxh=bang xep hang
 
 
