@@ -39,6 +39,28 @@ hedt=het
 h=gio
 cin=xin
 
+lv=level
+lv1=level 1
+lv2=level 2
+lv3=level 3
+lv4=level 4
+lv5=level 5
+lv6=level 6
+lv7=level 7
+lv8=level 8
+lv9=level 9
+lv10=level 10
+
+level1=level 1
+level2=level 2
+level3=level 3
+level4=level 4
+level5=level 5
+level6=level 6
+level7=level 7
+level8=level 8
+level9=level 9
+level10=level 10
 
 
 z=vay
