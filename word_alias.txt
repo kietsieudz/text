@@ -41,6 +41,9 @@ vv=vinh vien
 h=gio
 cin=xin
 
+nhiu=nhieu
+ng=nguoi
+
 on=online
 onl=online
 
