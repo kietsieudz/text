@@ -142,6 +142,7 @@ fc=fan cung
 sk=su kien
 even=su kien
 event=su kien
+evere=su kien
 
 bn=bao nhieu
 bnhieu=bao nhieu
