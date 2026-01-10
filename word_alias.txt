@@ -47,6 +47,9 @@ ng=nguoi
 on=online
 onl=online
 
+deo=mang
+mac=mang
+
 lv=level
 lv1=level 1
 lv2=level 2
@@ -147,6 +150,9 @@ coder=code
 au=dau
 quai=hoai
 xin linh=link
+linked=link
+linke=link
+linkr=link
 hsd=han su dung
 website=trang chu
 web=trang chu
