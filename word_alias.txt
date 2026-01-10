@@ -353,6 +353,16 @@ ctrang=cai trang
 nv=nhiem vu
 
 tdst =tieu doi sat thu
+so4=tieu doi sat thu
+so 4=tieu doi sat thu
+so3=tieu doi sat thu
+so 3=tieu doi sat thu
+so2=tieu doi sat thu
+so 2=tieu doi sat thu
+so1=tieu doi sat thu
+so 1=tieu doi sat thu
+tdt=tieu doi sat thu
+tieu doi truong=tieu doi sat thu
 
 km=khuyen mai
 kmai=khuyen mai
