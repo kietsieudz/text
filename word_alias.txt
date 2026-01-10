@@ -27,7 +27,7 @@ nhma=nhung ma
 cm=chi mang
 ti le=ty le
 db=dac biet
-
+lo ve=love
 java=jar
 jar=jar
 jra=jar
