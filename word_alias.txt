@@ -113,6 +113,14 @@ lol=lon
 6s=6 sao
 7s=7 sao
 
+chia se=share
+shera=share
+she=share
+shae=share
+shar=share
+sharee=share
+sare=share
+
 dtl=than linh
 ntl=nhan than linh
 gtl=gang than linh
