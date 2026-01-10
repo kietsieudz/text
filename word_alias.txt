@@ -242,7 +242,8 @@ otee=ok
 oteee=ok
 oteeee=ok
 lafng=lang
-
+rui=roi
+r=roi
 dc oi=duoc roi
 
 s=sao
