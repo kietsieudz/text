@@ -5,6 +5,7 @@ co 50 smtn,co 50 tnsm, co 50% smtn, co 50% sntm|Cải trang "zeno" nâng bậc f
 top mom, rank, coin|Xem thông tin rank chat kiếm Coin đây mấy ní: https://thanhdi.com/support -> chọn nút 'Event Coin Zalo' nhé
 dao hoa|Gặp quy lão để vào "đảo hoa" nhé
 ve tinh|Vệ tinh có thể mua ở santa đó
+khong dang nhap, khong login|Không vào được game (thấy máy chủ tắt hoặc mất sóng liên tục)\nAnh thử đổi từ 4G -> Wifi và từ Wifi -> 4G giúp em nhé\nNếu vẫn không được a tắt cục modem wifi tầm 5 phút rồi mở lại sẽ vào được
 hay ra o dau|Canh thông báo xem nó xuất hiện ở đâu thì mình qua
 dang co de tu khac lam sao su dung|Bạn cần tháo hết đồ đệ cũ ra mới dùng được trứng
 toan ra quan, toan ra ao|Đồ thần up cold hay săn boss đều có tỷ lệ ra đủ 1 set không riêng gì áo quần thần linh
