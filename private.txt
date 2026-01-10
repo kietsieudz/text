@@ -34,7 +34,7 @@ goc hay ao|[Dame trung nha ông|Dame trên gốc xíu nhé]
 oi|Oi 
 k co,ko co,khong co|Bạn copy link ra chrome nha https://thanhdi.com/?utm_source=zalo&utm_campaign=bzalo
 kb di,acept,dong y,ket ban,kb roi,kb rui,kb r, ket ban roi, ket ban rui, ket ban r|Chờ xíu mình chấp nhận kb nha
-code,giftcode|Giftcode ghi thẳng khi vô web link trên kia nha https://thanhdi.com/?utm_source=zalo&utm_campaign=bzalo
+code,giftcode|A nhắn vào đây chữ xin code em gửi full code xịn nha: https://thanhdi.com/support
 vang,ngoc|Free vàng ngọc má ơi
 a du|Á đù
 jv, j vay,gi z, gi v|Ai biết gì má
