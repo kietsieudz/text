@@ -14,6 +14,7 @@ khong xuat hien|Anh canh thông báo boss hoặc qua dò các khu trong map boss
 chi mang|Max chí mạng 10%
 het han, nhap het|Code em gửi link đó, anh vào xem cái nào không nhập được là hết hạn
 ban vang|Vàng nhận free ở nhà mà bán thỏi vàng chi anh. Thỏi vàng để làm sự kiện với mua đồ ở santa thoi
+free nhieu|Vàng ngọc nhẫn miễn phí vô hạn ở nhà, không cần mở thành viên, tặng đệ tử, tặng full phụ kiện cơ bản, tặng 999 bộ ngọc rồng 3 sao và hàng loạt thứ khác. Đủ hỗ trợ chưa anh ơi!
 cuc bang|Gặp NPC trước làng để tới cực băng
 binh nuoc phep|Bình nước phép mua ở Uron ở trạm tàu vũ trụ. Kết hợp với Mảnh đá vụn tạo được đá nâng cấp (gặp bà hạt mít vách núi nâng)
 da vun|Mảnh đá vụn đánh quái ngẫu nhiên sẽ rơi. Kết hợp với Bình nước phép tạo được đá nâng cấp (gặp bà hạt mít vách núi nâng)
@@ -75,10 +76,11 @@ tay karin| Boss Tây Karin đọc ở đây (nhớ like + cmt): https://www.face
 k tai, ko tai, khong tai| Copy link ra dán vào chrome hoặc safari mới tải được, đừng bấm thẳng vào link ở đây nha
 xin ip,ipsv|Tất cả bản trên web đã cài sẵn Ip (tải về xoá dữ liệu rồi sài thôi)
 giftcode,code,xincode,xin cod,xin cosd,xincod, xin codee, xin codeee,bulma,bunma,wedding,cai trang|[🎁 Em gửi anh toàn bộ Giftcode của game|🎁 Em gửi anh danh sách Giftcode của game|🎁 Toàn bộ Giftcode của game em gửi anh tại đây], nhớ xem trên các ảnh có code VIP (poke, bulma, hộp quà) nha\nhttps://thanhdi.com/giftcode
+khong hieu|Anh chờ xíu admin vào giải thích cặn kẽ giúp anh nhé
 nhu nay dung khong|Anh ơi em không thể xem được ảnh, anh nói tên thứ anh hỏi giúp em nhé!\nHoặc chờ xíu admin vào xem ảnh rồi hỗ trợ anh nha
 lang vampa|Làng vampa anh ra vách núi đen gặp Paragus nhé!
 kol|Anh xem nhiệm vụ KOL ở Quy lão á. hiện tại là nhiệm vụ đánh quái, quái nào cũng tính hết nha
-trang bi|Thông tin các trang bị đây anh:\nhttps://thanhdi.com/cochegame
+trang bi, do vip, vampa, vamba, thien su, chi ton, thien ton, ha ton, than tien, huy diet|Thông tin các trang bị đây anh:\nhttps://thanhdi.com/cochegame
 danh hieu|Anh ra santa bấm vào mua danh hiệu là biết cách kiếm danh hiệu nhé!
 ngoai hinh, hinh thai|Anh chat "mod" và bật ngoại hình hợp thể lên nhé!
 gio nhiem vu khong tac dung, gio ho tro khong tac dung|Anh thử lấy acc không thuộc nhiệm vụ đó vào được nơi boss không mà nói không có tác dụng. Người vào được khu cũng đang làm nhiệm vụ đó anh
@@ -97,6 +99,7 @@ su kien,sk|👉 Sự kiện Xem ở đây\nhttps://thanhdi.com/support
 mua bong tai dung duoc luon|Mua bông tai nào cũng sài được hết nha, không cần theo level đâu
 muon mua|Anh có thể vào trang chủ để nạp rồi vào game đổi sang hồng ngọc hoặc thỏi vàng rồi ưng mua gì mua nhé anh? Anh chat "nạp thẻ" để em gửi hướng dẫn nạp nhé!
 nap, top up, top-up|👉 [Em gửi anh nha|Em gửi anh đây|Link em gửi anh nè]\n\n👉 [Hướng dẫn nạp|Cách nạp|Nạp tiền]\nhttps://thanhdi.com/nap\n\n👉 [Quà mốc nạp|Thưởng mốc nạp|Quà theo mốc nạp]\nhttps://thanhdi.com/mocnap.html\n\n👉 [Quà top nạp|Thưởng top nạp|Đua top nạp]\nhttps://thanhdi.com/quaduatop.html
+pha le hoa|Anh ra Bà hạt mít ở đảo kame để pha lê hóa trang bị nhé!
 dau roi, ai online|Dạ em đây!\nNếu tìm admin thì chờ xíu nữa Admin vào nha a! 😅
 bn sm gd,bao nhieu suc manh, bn suc manh, bao nhieu sm, bnhieu sm| 40 tỷ giao dịch được nhé bé
 loi laze, loi bom, loi boom, boom xit, laze xit| Giảm tốc độ game xuống đi mới dùng được. Nhanh quá là xịt
@@ -127,7 +130,8 @@ server moi nhat|Server 6 mới ra mắt đó anh!
 logo|Logo nằm giữa màn hình phia trên đó anh.
 gui anh|Dạ anh gửi ảnh vào đây giúp em nhá! Xíu admin vô xem liền á
 cuu voi|Bạn chờ xíu admin vào cứu bạn nhá!
-
+chi so, suc danh|Max chỉ số sư phụ và đệ tử các bậc anh xem ở đây nha: https://ngocrongtdstudio.com/posts/chi-so-goc-su-phu-de-tu-max.html
+thu cuoi|Anh có thể mua thú cưỡi ở Santa, nhiệm vụ KOL ở Quy lão hoặc Rút may mắn ở Lý tiểu nương
 vps la gi|VPS giống như một chiếc máy tính luôn bật sẵn trên mạng\nNgười chơi thuê VPS để treo game, không cần bật máy ở nhà và vẫn online liên tục.
 server dong nhat, dang nhieu nguoi|Server 1 với 6 đang đông nhất, nhưng làm nhiệm vụ sẽ khó đó anh!
 khien vinh vien|Anh mang thêm xayda với trái đất qua choáng là nó hết khiên ấy a
@@ -218,7 +222,7 @@ chat trong game|Chat ở đây nhé anh!
 hao quang|Anh bấm vào logo game -> chọn menu mod -> chọn bật tắt hào quang á.\nTrong logo game -> hiển thị -> bật tắt hào quang người khác
 em hoi|Anh cần hỗ trợ gì cứ nhắn nha, em hỗ trợ không được thì xíu admin vào trả lời ấy. Đừng lo anh không bị bỏ rơi đâu
 huy diet| Để 5 món thần linh trong hành trang rồi gặp Thần huỷ diệt để đổi đồ Huỷ diệt nhé    
-alo,xin chao,hello,hi,halo,hallo,helo,halu,haluu,.|[Chào anh ạ|Dạ em chào anh|Chào anh nhé]!\nEm [luôn trực fanpage 24/24|luôn online 24/24 tại fanpage|trực hỗ trợ fanpage suốt 24/24],\n[anh cần link tải hay hướng dẫn gì cứ nhắn em nhé|cần link tải hoặc hướng dẫn anh cứ nhắn em nha|anh cần hỗ trợ tải game hay hướng dẫn cứ nhắn em liền ạ] 😊
+alo,xin chao,hello,hi,halo,ailo,hallo,helo,halu,haluu,hu,.|[Chào anh ạ|Dạ em chào anh|Chào anh nhé]!\nEm [luôn trực fanpage 24/24|luôn online 24/24 tại fanpage|trực hỗ trợ fanpage suốt 24/24],\n[anh cần link tải hay hướng dẫn gì cứ nhắn em nhé|cần link tải hoặc hướng dẫn anh cứ nhắn em nha|anh cần hỗ trợ tải game hay hướng dẫn cứ nhắn em liền ạ] 😊
 ngu hanh son, nhs| ra làng aru gặp Đường tăng để vào Ngũ Hành Sơn 
 trai than long, manh dat, cay cuoc, khu dat, nong trai| Bạn mua đất + cây cuốc rồi săn boss đủ 30 điểm sẽ trồng được cây thần long, thu hoạch trái thần long ăn vào tăng chỉ số (đặc biệt không bị ảnh hưởng với sức mạnh chí tôn)  
 cam on, ok,tks, thank, thanh kiu,thanh you,thanh u,thanks, oki, oke, duoc roi, uki, vang, oce, vg, okii, da ta|🥰 Vậy anh đẹp trai ơi!\nNếu anh chưa follow fanpage thì cho game xin 1 follow nha anh\n❤️ Anh cần hỗ trợ gì cứ nhắn em hỗ trợ ngay ạ 🙏
