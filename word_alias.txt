@@ -36,6 +36,7 @@ ch=chua
 cdrd=con duong ran doc
 cubg=cung
 hedt=het
+vv=vinh vien
 
 h=gio
 cin=xin
