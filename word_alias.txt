@@ -40,6 +40,9 @@ hedt=het
 h=gio
 cin=xin
 
+on=online
+onl=online
+
 lv=level
 lv1=level 1
 lv2=level 2
