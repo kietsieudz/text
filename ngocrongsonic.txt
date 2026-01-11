@@ -1,10 +1,10 @@
-dao xanh, dao hong|Quả đào qua gặp đường tăng ở ngũ hành sơn mà dùng
-co 50 smtn,co 50 tnsm, co 50% smtn, co 50% sntm|Cải trang zeno nâng bậc free lên 4 là có nhé
-dao hoa|Gặp quy lão để vào đảo hoa nhé
-long khi, nhum long|Nhúm lông khỉ đánh quái ngũ hành sơn sẽ rơi nhé! Đổi quà tại Bunma đảo kame 🙏
-cha gio,chai cuke|Làm nv KOL ở quy lão
-group,gr, groups, grp|Link group facebook: https://www.facebook.com/share/g/165TJ69V2T
-vao gam bao sai|Kiểm tra kĩ đúng server chưa nhé bạn
+dao xanh, dao hong|[Quả|Trái] đào qua gặp [Đường Tăng|sư phụ Đường Tăng] ở Ngũ Hành Sơn mà dùng [nhé|nha|là được]
+co 50 smtn,co 50 tnsm,co 50% smtn,co 50% sntm|Cải trang Zeno [nâng|up] bậc free lên 4 là có [nhé|đó|nha]
+dao hoa|[Gặp|Qua gặp] Quy Lão để vào Đảo Hoa [nhé|nha]
+long khi,nhum long|Nhúm lông khỉ [đánh|farm] quái Ngũ Hành Sơn sẽ rơi [nhé|nha]! [Đổi|Mang đi đổi] quà tại Bunma đảo Kame 🙏
+cha gio,chai cuke|[Làm|Hoàn thành] nhiệm vụ KOL ở Quy Lão [là được|nhé|nha]
+group,gr,groups,grp|Link group Facebook [nè|đây nha|ở đây]: https://www.facebook.com/share/g/165TJ69V2T
+vao gam bao sai|[Kiểm tra|Xem lại] kĩ [giúp mình|giúp nha|giùm cái] đúng server chưa nhé bạn
 bot dam, meo dam|[Dâm má mày chứ dâm|Dâm khi nào mà dâm|Dâm cái wtf hả]
 ib, nhan rieng|Mua gì nên giao dịch trung gian qua admin box cho uy tín nhá (Bấm nút GDTG ở đây): https://thanhdi.com/support
 top mom, rank, coin|Xem thông tin rank chat kiếm Coin đây mấy ní: https://thanhdi.com/support -> chọn nút 'Event Coin Zalo' nhé
@@ -164,26 +164,24 @@ ngoc rong sieu cap, nrsc, ngoc rong sc|Ngọc rồng siêu cấp chỉ để ư�
 ngoc rong, nr|Ép từ 3 sao của ad cho ở bà hạt mít hoặc săn từ boss
 ai dep, bot dep|admin đẹp nhất nhé! Tôi đánh giá khách quan là như thế  
 chan|Tại sao bạn lại chán, bắt con gián bỏ vô háng, rồi sục cho đỡ chán  
-bot ngu,meo ngu|mày mới là thằng ngu đó|ngu.png
-Em là chatbot hỗ trợ tại đây, có gì cần giúp anh cứ nói nhé, em luôn sẵn sàng!
-bot khon|ai cũng biết rằng em khôn mà|deptrai.png
-Em là chatbot hỗ trợ tại đây, có gì cần giúp anh cứ nói nhé, em luôn sẵn sàng
+bot ngu,meo ngu|[Này|Ê] [nhóc|bạn] [ác|kia] [chửi|nói] ai ngu đó [vậy|hả|đó]|[Mày|Bạn] mới là [thằng|đứa] ngu [đó|kìa|à]|[Nói|Chat] chuyện [cho|cho nó] [đàng hoàng|tử tế] [nha|đi|xíu coi]
+bot khon|[Ai|Ai cũng] [biết|rõ] rằng [em|mình|bot] [cũng khôn|khôn mà] [đó|nè|nhé]
 o nay, o nao,o cuoi,o duoi,o nay, 1 o, 2 o, 3 o, 4 o, 5 o|Xem các ô trên người tại đây nhé: https://thanhdi.com/body
 canh tre|Bạn gom đủ 9999 rồi ghép thành cần câu đi câu cá nhé  
 test, open, op,mo lau,mo khi nao, mo chua|👉 Xem Server TEST Hay OPEN Tại Đây: https://thanhdi.com/serverstatus
 mtv, mo tv, mo thanh vien, kich hoat tai khoan|Game không cần MTV. Cày 40 tỷ là gd được hết  
-chuc nang|Cần hỏi chức năng gì thì cứ nói đi  
+chuc nang|[Cần|Muốn] hỏi [chức năng|tính năng] gì thì [cứ|bạn cứ] nói [đi|nhé|nha]
 huy diet|Để 5 món thần linh trong hành trang rồi gặp Thần huỷ diệt để đổi đồ Huỷ diệt nhé  
-bip|thằng bên trên mới bịp nhé  
-alo,xin chao,hello,helo|Thưa ngài! Em là nhân viên phục vụ tại đây. Em có thể giúp gì cho ngài?
+bip|[Thằng|Ông|Bạn] bên trên [mới|vừa] bịp [đó|đấy|kìa] [nhé|nha]
+alo,xin chao,hello,helo|[Thưa|Chào] [ngài|bạn]! [Em|Mình] là [nhân viên|bot hỗ trợ] [phục vụ|hỗ trợ] tại đây. [Em|Mình] có thể [giúp|hỗ trợ] gì cho [ngài|bạn] [ạ|không|nhé]?
 cai gi, cai j, gi day|Có nhiều thứ tôi chưa được biết đến, bạn cứ gửi vào nhóm đi mọi người sẽ giúp đỡ bạn nhé  
 bot gian|Tôi không biết giận đâu, ai chửi thì tôi chửi lại  
 gui video, quay video|Bạn quay video đi, rồi gửi vô đây mọi người hướng dẫn  
-bot oi|Có tôi đây! bạn muốn hỏi gì? nhớ ghi đúng chính tả tôi mới hiểu nhé  
+bot oi, meo oi|[Có|Mình có] [tôi|bot] đây! [Bạn|Bạn ơi] muốn hỏi gì [không|nào]? [Nhớ|Lưu ý] ghi đúng chính tả [giúp mình|giùm mình|nha] [để|cho] [mình|bot] [hiểu|hiểu đúng] nhé 
 ngu hanh son, nhs|ra làng aru gặp Đường tăng để vào Ngũ Hành Sơn  
-dit|địt cái đầu mày chứ địt|nungac.png
+dit|[Địt|Đùa] cái [đầu|óc] [bạn|ông] chứ [địt|đùa] gì [mà|đâu] [căng|ghê] vậy
 thong dit|thông đít mày|nungac.png
-bot noi nhieu|nói nhiều sao bằng mày được hả nhóc  
+bot noi nhieu|[Nói|Lắm lời] nhiều sao bằng [bạn|ông|mày] được [đâu|hả] [nhóc|bạn trẻ|cha nội]
 met|làm gì mà mệt hả? Đi bar quẩy đi|uongruou.png
 tien chua vao|nạp tiền chưa cộng thì chờ 3-5 phút chưa cộng thì liên hệ key vàng  
 ki gui, ky gui|Kí gửi mua bán bằng hồng ngọc nhé. Không phải thỏi vàng đâu  
@@ -218,8 +216,8 @@ thue pr k, thue pr ko, thue pr khong, thue qc khong, thue qc ko, thue qc k, thue
 live free, live cho, live tiktok cho, live dum|Wow thật vinh hạnh khi được bạn live free cho game. Yêu bạn!
 co pr k, co pr ko, co qc ko, co qc k|Có PR mới có mem chứ má
 game loi, loi roi|Lỗi gì má. Nói rõ lỗi ra đi má. Quay video lỗi gửi zô đây lun đi má
-bot var|Ngon vào đây mà var này  
-kho|Khó thì mới là game, game dễ thì tải game con rắn về chơi đi   
+bot var|[Ngon|Thích thì] vào đây mà [var|đối đáp] [nè|đây]
+kho|[Khó|Khó xíu] thì mới là game, game dễ quá thì [về|đi] chơi game con rắn cho [nhẹ đầu|đỡ mệt] đi 
 bach bi gay,bach gay|Bách bị Gay..
 phuc bi gay,phuc gay|Phúc bị Gay..
 huong bi gay,huong gay|Hương bị Gay..
@@ -247,6 +245,7 @@ duy bi gay,duy gay|Duy bị Gay..
 hung bi gay,hung gay|Hùng bị Gay..
 manh bi gay,manh gay|Mạnh bị Gay..
 huy bi gay,huy gay|Huy bị Gay..
+nam gay, nam bi gay|Nam bị Gay..
 hoang bi gay,hoang gay|Hoàng bị Gay..
 khanh bi gay,khanh gay|Khánh bị Gay..
 thang bi gay,thang gay|Thắng bị Gay..
