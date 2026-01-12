@@ -1,4 +1,4 @@
-sv nao,server nao,sever nao,seve nao,xin,link,box,zalo,tai,nhom,zl|[Anh|Bạn] vô trang chủ có box đó [nha|á], link đây: https://thanhdi.com/
+sv nao,server nao,sever nao,seve nao,xin,link,box,zalo,tai,nhom,zl|[Anh|Bạn] vô trang chủ có box đó [nha|á], link đây: https://thanhdi.com|anhtai.png
 tf,testflight,jar,jav,ios,ip|Có đủ [hết|đầy đủ] mấy bản luôn 😎
 dame,dmg,dmae,dam,st,ao hay,trung hay,goc hay,dame trung|Dame [trung|chuẩn trung] nha 😎
 hay k,hay khong,hay ko|Hay [lắm|ok] đó 🤣
