@@ -25,7 +25,7 @@ out game, roi game, bo game, nghi game|Chơi lại đi năn nỉ mà, game nhi�
 cai j,cai gi|Cái game
 game gi,game j,gem gi,gem j,gi cz, gi z|Game ngọc rồng nha 😝
 ??,???,????,?????|Sao nè
-tai game, tai sao, link, website, web, xin linh, download|Anh copy link này ra Chrome hoặc Safari nhé anh! https://thanhdi.com
+link game,link tai,link trang chu,tai game,download,website,web,dien dan|Trang chủ - tải game: 🔗https://thanhdi.com [Mở trên trình duyệt Safari hoặc Chrome mới tải được game]|anhtai.png
 k tai, ko tai, khong tai, tai k, tai ko, tai khong|Copy link ra chrome hoặc safari tải nhé https://thanhdi.com/?utm_source=zalo&utm_campaign=bzalo
 nap lau,lau qua,cong tien,ad,adm,admin|Vô đây bấm nút Hỗ Trợ 24/24 có người hỗ trợ ngay nha
 share|Đăng nhập vô trang chủ rồi bấm qua diễn đàn để tham gia nha
