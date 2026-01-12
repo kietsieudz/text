@@ -7,7 +7,7 @@ k thay,k tim thay|Bạn nhìn kĩ đi có mà
 ban acc|Không có nha
 hong ngoc,hngoc,hn|Hồng ngọc cày cuốc nha 🙄
 cc|Cc 😱
-co che|Cơ chế đây: https://thanhdi.com/?utm_source=zalo&utm_campaign=bzalo
+co che|Anh vào đây bấm nút cơ chế giúp em nha https://thanhdi.com/support
 nhan o dau, nhan dau, nhan cho|Nhận trong NPC trong nhà đó
 hup, hupp|Húp sùn sụt 🤣
 tuong lai,tlai|Xong nhiệm vụ fide 3 tìm calich ở Bambo, Rừng Dương Xỉ hoặc Nam Kame để qua nha má
@@ -25,15 +25,12 @@ out game, roi game, bo game, nghi game|Chơi lại đi năn nỉ mà, game nhi�
 cai j,cai gi|Cái game
 game gi,game j,gem gi,gem j,gi cz, gi z|Game ngọc rồng nha 😝
 ??,???,????,?????|Sao nè
-link game,link tai,link trang chu,tai game,download,website,web,dien dan|Trang chủ - tải game: 🔗https://thanhdi.com [Mở trên trình duyệt Safari hoặc Chrome mới tải được game]|anhtai.png
-k tai, ko tai, khong tai, tai k, tai ko, tai khong|Copy link ra chrome hoặc safari tải nhé https://thanhdi.com/?utm_source=zalo&utm_campaign=bzalo
-nap lau,lau qua,cong tien,ad,adm,admin|Vô đây bấm nút Hỗ Trợ 24/24 có người hỗ trợ ngay nha
+link game,link tai,link trang chu,tai game,download,website,web,dien dan,k dc,ko dc,khong dc,k duoc,ko duoc,khong duoc,k tai, ko tai, khong tai, tai k, tai ko, tai khong,k co,ko co,khong co|Trang chủ - tải game: 🔗https://thanhdi.com [Mở trên trình duyệt Safari hoặc Chrome mới tải được game]|anhtai.png
+nap lau,lau qua,cong tien,ad,adm,admin|Vô đây bấm nút Hỗ Trợ 24/24 có người hỗ trợ ngay nha https://thanhdi.com/support
 share|Đăng nhập vô trang chủ rồi bấm qua diễn đàn để tham gia nha
-k dc,ko dc,khong dc,k duoc,ko duoc,khong duoc|Copy link ra chrome hoặc safari nha má https://thanhdi.com/?utm_source=zalo&utm_campaign=bzalo
 ghe|Ghê lắm nha mẹ
 goc hay ao|[Dame trung nha ông|Dame trên gốc xíu nhé]
 oi|Oi 
-k co,ko co,khong co|Bạn copy link ra chrome nha https://thanhdi.com/?utm_source=zalo&utm_campaign=bzalo
 kb di,acept,dong y,ket ban,kb roi,kb rui,kb r, ket ban roi, ket ban rui, ket ban r|Chờ xíu mình chấp nhận kb nha
 code,giftcode|A nhắn vào đây chữ xin code em gửi full code xịn nha: https://thanhdi.com/support
 vang,ngoc|Free vàng ngọc má ơi
