@@ -1,4 +1,4 @@
-sv nao,server nao,sever nao,seve nao,xin,link,box,zalo,tai,nhom,zl|[Anh|Bạn] vô trang chủ có box đó [nha|á], link đây: https://thanhdi.com|anhtai.png
+sv nao,server nao,sever nao,seve nao,xin,link,box,zalo,tai,nhom,zl|[Anh|Bạn] vô trang chủ có box đó [nha|á], link đây: https://thanhdi.com/taigame|anhtai.png
 tf,testflight,jar,jav,ios,ip|Có đủ [hết|đầy đủ] mấy bản luôn 😎
 dame,dmg,dmae,dam,st,ao hay,trung hay,goc hay,dame trung|Dame [trung|chuẩn trung] nha 😎
 hay k,hay khong,hay ko|Hay [lắm|ok] đó 🤣
@@ -25,7 +25,7 @@ out game, roi game, bo game, nghi game|Chơi lại đi năn nỉ mà, game nhi�
 cai j,cai gi|Cái game
 game gi,game j,gem gi,gem j,gi cz, gi z|Game ngọc rồng nha 😝
 ??,???,????,?????|Sao nè
-game,link,trang chu,tai,download,website,web,dien dan,k dc,ko dc,khong dc,k duoc,ko duoc,khong duoc,k tai, ko tai, khong tai, tai k, tai ko, tai khong,k co,ko co,khong co|Trang chủ - tải game: 🔗https://thanhdi.com [Mở trên trình duyệt Safari hoặc Chrome mới tải được game]|anhtai.png
+game,link,trang chu,tai,download,website,web,dien dan,k dc,ko dc,khong dc,k duoc,ko duoc,khong duoc,k tai, ko tai, khong tai, tai k, tai ko, tai khong,k co,ko co,khong co|Trang chủ - tải game: 🔗https://thanhdi.com/taigame [Mở trên trình duyệt Safari hoặc Chrome mới tải được game]|anhtai.png
 nap lau,lau qua,cong tien,ad,adm,admin|Vô đây bấm nút Hỗ Trợ 24/24 có người hỗ trợ ngay nha https://thanhdi.com/support
 share|Đăng nhập vô trang chủ rồi bấm qua diễn đàn để tham gia nha
 ghe|Ghê lắm nha mẹ
