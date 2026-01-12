@@ -1,9 +1,9 @@
-sv nao,server nao, sever nao,seve nao,xin,link,box,zalo,tai,nhom,zl|Anh vào trang chủ có box ạ: https://thanhdi.com/
-tf,testflight,jar,jav,ios,ip|Có đủ các phiên bản luôn anh! 😎
-dame,dmg,dmae,dam,st,ao hay,trung hay,goc hay,dame trung|Dame trung nha 😎
-hay k, hay khong, hay ko|Hay nha 🤣
-loi roi,game loi,loi game|Bạn thử xoá dữ liệu game tải lại là ổn nha
-k thay,k tim thay|Bạn nhìn kĩ đi có mà
+sv nao,server nao,sever nao,seve nao,xin,link,box,zalo,tai,nhom,zl|[Anh|Bạn] vô trang chủ có box đó [nha|á], link đây: https://thanhdi.com/
+tf,testflight,jar,jav,ios,ip|Có đủ [hết|đầy đủ] mấy bản luôn 😎
+dame,dmg,dmae,dam,st,ao hay,trung hay,goc hay,dame trung|Dame [trung|chuẩn trung] nha 😎
+hay k,hay khong,hay ko|Hay [lắm|ok] đó 🤣
+loi roi,game loi,loi game|Bạn thử [xoá|xóa] dữ liệu game rồi tải lại là [ổn|chạy mượt] nha
+k thay,k tim thay|Bạn [nhìn kỹ lại|coi lại kĩ] đi, có mà
 ban acc|Không có nha
 hong ngoc,hngoc,hn|Hồng ngọc cày cuốc nha 🙄
 cc|Cc 😱
