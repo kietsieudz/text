@@ -77,7 +77,7 @@ ma namec, than ma,xa linh|👉 Boss Thần Ma Namec\nhttps://ngocrongtdstudio.co
 tay karin| Boss Tây Karin đọc ở đây (nhớ like + cmt): https://www.facebook.com/share/p/18f7oQWDtJ/
 k tai, ko tai, khong tai| Copy link ra dán vào chrome hoặc safari mới tải được, đừng bấm thẳng vào link ở đây nha
 xin ip,ipsv|Tất cả bản trên web đã cài sẵn Ip (tải về xoá dữ liệu rồi sài thôi)
-giftcode,code,xincode,xin cod,xin cosd,xincod, xin codee, xin codeee,bulma,bunma,wedding,cai trang|[🎁 Em gửi anh toàn bộ Giftcode của game|🎁 Em gửi anh danh sách Giftcode của game|🎁 Toàn bộ Giftcode của game em gửi anh tại đây], nhớ xem trên các ảnh có code VIP (poke, bulma, hộp quà) nha\nhttps://thanhdi.com/giftcode
+giftcode,code,xincode,xin cod,xin cosd,xincod, xin codee, xin codeee,bulma,bunma,wedding,cai trang,fullcode,fullgift,fullgiftcode|[🎁 Em gửi anh toàn bộ Giftcode của game|🎁 Em gửi anh danh sách Giftcode của game|🎁 Toàn bộ Giftcode của game em gửi anh tại đây], nhớ xem trên các ảnh có code VIP (poke, bulma, hộp quà) nha\nhttps://thanhdi.com/giftcode
 khong hieu|Anh chờ xíu admin vào giải thích cặn kẽ giúp anh nhé
 nhu nay dung khong|Anh ơi em không thể xem được ảnh, anh nói tên thứ anh hỏi giúp em nhé!\nHoặc chờ xíu admin vào xem ảnh rồi hỗ trợ anh nha
 lang vampa|Làng vampa anh ra vách núi đen gặp Paragus nhé!
@@ -86,7 +86,7 @@ trang bi, do vip, vampa, vamba, thien su, chi ton, thien ton, ha ton, than tien,
 danh hieu|Anh ra santa bấm vào mua danh hiệu là biết cách kiếm danh hiệu nhé!
 ngoai hinh, hinh thai|Anh chat "mod" và bật ngoại hình hợp thể lên nhé!
 gio nhiem vu khong tac dung, gio ho tro khong tac dung|Anh thử lấy acc không thuộc nhiệm vụ đó vào được nơi boss không mà nói không có tác dụng. Người vào được khu cũng đang làm nhiệm vụ đó anh
-giftcode,code,xincode,xin cod,xin cosd,xincod,xin codee, xin codeee,bulma,bunma,wedding,cai trang|[🎁 Code năm mới nè anh zai|🎁 Em gửi anh code năm mới nha|🎁 Code Tết dành cho anh đây]: happynewyear
+giftcode,code,xincode,xin cod,xin cosd,xincod, xin codee, xin codeee,bulma,bunma,wedding,cai trang,fullcode,fullgift,fullgiftcode|[🎁 Code năm mới nè anh zai|🎁 Em gửi anh code năm mới nha|🎁 Code Tết dành cho anh đây]: happynewyear
 dk xong, dky, dang ky, dang ki, dki|Hãy "đăng ký" ở link https://thanhdi.com [Mở trên chrome hoặc Safari nhé ]
 share,event,tan thu,even,chia se, fl, follow,floww,folow,folo,foloow,folooow,foloooow,follw,folllow,folllloow,folllo,folw,fw,flo,fllow,flloww,fow,flw|🎁 Em Gửi Hướng dẫn event tân thủ nhận quà trong nhà nhé (Event Chia Sẻ)\nhttps://thanhdi.com/event
 link,xin linh,linh game,trang chu,tai game, dang ky, dang ki,tai sao,download,website,web,dien dan,jar,java,jav,apk,pc,windows,may tinh,ios,tf,testflight,ipa,tai k dc,tai ko dc,tai khong dc,tai k duoc,tai ko duoc,tai khong duoc|IMG:https://sv1.thanhdi.games/static/sonic/img/anhtaigame.png
