@@ -1,4 +1,5 @@
 # phủ định
+o=khong
 k=khong
 ko=khong
 không=khong
@@ -33,10 +34,16 @@ jar=jar
 jra=jar
 jav=jar
 ch=chua
+chx=chua
 cdrd=con duong ran doc
 cubg=cung
 hedt=het
 vv=vinh vien
+
+gane=game
+gabe=game
+gsme=game
+gqme=game
 
 h=gio
 cin=xin
@@ -128,7 +135,7 @@ shae=share
 shar=share
 sharee=share
 sare=share
-
+nag=nang
 dtl=than linh
 ntl=nhan than linh
 gtl=gang than linh
@@ -137,7 +144,9 @@ skh=set kich hoat
 set kh=set kich hoat
 bom=boom
 giftcode=code
+gifcode=code
 codo=code
+gitcode=code
 xincode=code
 gift=code
 cod=code
@@ -148,12 +157,14 @@ codeee=code
 nt=nhắn tin
 codeeee=code
 coder=code
+codeo=code
 au=dau
 quai=hoai
 xin linh=link
 linked=link
 linke=link
 linkr=link
+lik=link
 hsd=han su dung
 website=trang chu
 web=trang chu
