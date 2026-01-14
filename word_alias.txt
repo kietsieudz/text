@@ -6,6 +6,7 @@ không=khong
 kg=khong
 kh=khong
 khobg=khong
+iphoen=iphone
 hk=khong
 khum=khong
 pai=phai
