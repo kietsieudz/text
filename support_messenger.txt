@@ -13,7 +13,7 @@ toan ra quan, toan ra ao|Đồ thần up cold hay săn boss đều có tỷ lệ
 khong xuat hien|Anh canh thông báo boss hoặc qua dò các khu trong map boss xuất hiện ấy (đôi khi boss chưa chết nó không thông báo lại)
 chi mang|Max chí mạng 10%
 gui du thu|Anh cần giftcode hay link tải hay hỏi gì cứ nhắn em
-
+dung ban nao, tai ban nao|Bản nào cũng ngon hết anh ơi, anh thử tải hết xem ưng cái nào nha
 co gi khong biet|Anh cần hỏi gì cứ hỏi ở đây em với Admin sẽ hỗ trợ ngay nha 🫡
 het han, nhap het|Code em gửi link đó, anh vào xem cái nào không nhập được là hết hạn
 ban vang|Vàng nhận free ở nhà mà bán thỏi vàng chi anh. Thỏi vàng để làm sự kiện với mua đồ ở santa thoi
@@ -29,6 +29,9 @@ Con gi nua|Anh xem trên link em gửi á anh! Em tổng hợp code rồi đó �
 tang de|Trong nhà có tặng đệ thường miễn phí á anh
 chua nhan duoc|Anh chờ xíu admin quay lại kiểm tra cho nhé 😅
 tiem nang de|Đệ tử tự nâng tiềm năng nha a
+hsd|HSD là hạn sử dụng
+vv|VV là vĩnh viễn không có hạn sử dụng
+
 cai nay|Anh ghi rõ tên vật phẩm anh muốn hỏi giúp em nhé
 vat pham|Anh cần hỏi vật phẩm gì thì ghi rõ tên ra giúp em nhé!
 bac 10 cong chi so|Chiến thần từ bậc 1 trở đi là cộng chỉ số rồi, nhưng ít. Cộng mạnh ở bậc 10 nha (Phải dẫn nó đi theo mới cộng nha a)
@@ -82,7 +85,7 @@ ma namec, than ma,xa linh|👉 Boss Thần Ma Namec\nhttps://ngocrongtdstudio.co
 tay karin| Boss Tây Karin đọc ở đây (nhớ like + cmt): https://www.facebook.com/share/p/18f7oQWDtJ/
 k tai, ko tai, khong tai| Copy link ra dán vào chrome hoặc safari mới tải được, đừng bấm thẳng vào link ở đây nha
 xin ip,ipsv|Tất cả bản trên web đã cài sẵn Ip (tải về xoá dữ liệu rồi sài thôi)
-giftcode,code,xincode,xin cod,xin cosd,xincod, xin codee, xin codeee,bulma,bunma,wedding,cai trang,fullcode,fullgift,fullgiftcode|[🎁 Em gửi anh toàn bộ Giftcode của game|🎁 Em gửi anh danh sách Giftcode của game|🎁 Toàn bộ Giftcode của game em gửi anh tại đây], nhớ xem trên các ảnh có code VIP (poke, bulma, hộp quà) nha\nhttps://thanhdi.com/giftcode
+giftcode,code,xincode,xin cod,xin cosd,xincod,xin co, xin codee, xin codeee,bulma,bunma,wedding,cai trang,fullcode,fullgift,fullgiftcode|[🎁 Em gửi anh toàn bộ Giftcode của game|🎁 Em gửi anh danh sách Giftcode của game|🎁 Toàn bộ Giftcode của game em gửi anh tại đây], nhớ xem trên các ảnh có code VIP (poke, bulma, hộp quà) nha\nhttps://thanhdi.com/giftcode
 khong hieu|Anh chờ xíu admin vào giải thích cặn kẽ giúp anh nhé
 nhu nay dung khong|Anh ơi em không thể xem được ảnh, anh nói tên thứ anh hỏi giúp em nhé!\nHoặc chờ xíu admin vào xem ảnh rồi hỗ trợ anh nha
 lang vampa|Làng vampa anh ra vách núi đen gặp Paragus nhé!
@@ -95,7 +98,7 @@ binh nuoc|Đánh quái các map có nước sẽ rơi bình nước
 dich chuyen|Để dịch chuyển anh cần có cải trang dịch chuyển. Đối phương phải không ở map đặc biệt hoặc không dùng ẩn danh nhé
 
 page1, page2, fanpage 1, fanpage 2, page 1, page 2, fanpage1, fanpage2|Fanpage nào còn thì a làm nha, 2 page kia đang bị ẩn để xem xét á
-giftcode,code,xincode,xin cod,xin cosd,xincod, xin codee, xin codeee,bulma,bunma,wedding,cai trang,fullcode,fullgift,fullgiftcode|[🎁 Code năm mới nè anh zai|🎁 Em gửi anh code năm mới nha|🎁 Code Tết dành cho anh đây]: happynewyear
+giftcode,code,xincode,xin cod,xin cosd,xincod, xin co,xin codee, xin codeee,bulma,bunma,wedding,cai trang,fullcode,fullgift,fullgiftcode|[🎁 Code năm mới nè anh zai|🎁 Em gửi anh code năm mới nha|🎁 Code Tết dành cho anh đây]: happynewyear
 dk xong, dky, dang ky, dang ki, dki|Hãy "đăng ký" ở link https://thanhdi.com [Mở trên chrome hoặc Safari nhé ]
 share,event,tan thu,even,chia se, fl, follow,floww,folow,folo,foloow,folooow,foloooow,follw,folllow,folllloow,folllo,folw,fw,flo,fllow,flloww,fow,flw|🎁 Em Gửi Hướng dẫn event tân thủ nhận quà trong nhà nhé (Event Chia Sẻ)\nhttps://thanhdi.com/event
 link,xin linh,linh game,trang chu,tai game, tai o dau,dang ky, dang ki,tai sao,download,website,web,dien dan,jar,java,jav,apk,pc,windows,may tinh,ios,tf,testflight,ipa,tai k dc,tai ko dc,tai khong dc,tai k duoc,tai ko duoc,tai khong duoc|IMG:https://sv1.thanhdi.games/static/sonic/img/anhtaigame.png
@@ -219,6 +222,12 @@ calich, tuong lai, cadich, bamboo, bambo| Calich ở rừng bambo hoặc rừng 
 kuku, map dau dinh, rambo| KuKu, Mập đầu đinh, Rambo -> 5 Phút -> Tìm nhanh ở Cui thành phố Vegeta  
 skh, set kich hoat, set kh| Đồ kích hoạt đánh quái 3 map cạnh làng sẽ rơi  
 manh an| Mẩnh ấn tiêu diệt boss ở Hành tinh ngục tù sẽ rơi  
+server nao|Server nào cũng được nha a! Server 1 với 5 đông sẽ khó làm nhiệm vụ ấy
+gui qua day|Anh làm xong event cứ gửi qua đây xíu admin duyệt liền nha
+lam xong moi biet|Dạ có ghi thể lệ ở chỗ làm event đó a
+
+con online|Dạ em thì luôn online, admin thì anh cứ nhắn xíu là admin vào ấy
+dang 10 bai|Đúng rồi anh cần đăng 10 bài vào 10 groups khác nhau là được nha, chụp đủ gửi vào đây là được xíu admin duyệt
 lam nhiem vu nan luon|Game nào cũng có cái khó ấy anh ơi, cũng do ý thức người chơi hay muốn phá và làm khó nhau ấy. Anh canh có giờ hỗ trợ nhiệm vụ hãy vào sẽ dễ làm hơn. Anh chat "giờ hỗ trợ" để em gửi giờ hỗ trợ cho nhé
 may sao, level| Trang bị thường 10 sao và trang bị vip 12 sao, trang bị thường 9 cấp và trang bị vip 10 cấp (cày có hết)
 zeno| Về nhà nạp đầu đi là có cải trang zeno, mặc cải trang zeno đánh quái ở fide sẽ rơi đá, rồi vô nhà nâng cấp  
