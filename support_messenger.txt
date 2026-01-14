@@ -1,5 +1,3 @@
-advangmat|🌙 Dạ anh cứ để lại nội dung cần hỗ trợ giúp em nhé.\n\n⏰ Hiện tại đã [ngoài|hết|qua] giờ làm việc [rồi|của admin],\n👉 Sáng các admin sẽ [kiểm tra và hỗ trợ|xem và hỗ trợ|hỗ trợ|xử lý và hỗ trợ] anh [ngay|liền|sớm] ạ.\n\n👉 Trong lúc này em vẫn có thể hỗ trợ anh trả lời các câu hỏi [cơ bản|thường gặp]:\n• Tải game, giftcode\n• Hướng dẫn chơi\n• Vật phẩm, item\n• Nhiệm vụ,...
-adpagephu|⚠️ Dạ anh ơi, fanpage này là fanpage [phụ|nhánh|không phải trang chính].\n\n👉 Anh [nhắn|liên hệ|inbox] đúng fanpage TDStudio để được hỗ trợ [nhanh hơn|tốt hơn|đầy đủ hơn|sớm hơn] nha.
 dao xanh, dao hong, qua dao|"Quả đào" gặp đường tăng ở ngũ hành sơn mà dùng
 co 50 smtn,co 50 tnsm, co 50% smtn, co 50% sntm|Cải trang "zeno" nâng bậc free lên 4 là có nhé
 top mom, rank, coin|Xem thông tin rank chat kiếm Coin đây mấy ní: https://thanhdi.com/support -> chọn nút 'Event Coin Zalo' nhé
@@ -25,7 +23,6 @@ loi boss|Game không lỗi boss đâu anh. Anh canh thông báo hoặc qua dò k
 ti le, ty le, tie le|Dạ anh ơi! Tỷ lệ hên xui ấy, không có % cụ thể ạ!😅
 100 mau toan hut, 100 mau toan 0|Khi boss Hidugran sắp chết tỷ lệ né của nó rất cao ạ!
 Con gi nua|Anh xem trên link em gửi á anh! Em tổng hợp code rồi đó ạ
-
 tang de|Trong nhà có tặng đệ thường miễn phí á anh
 chua nhan duoc|Anh chờ xíu admin quay lại kiểm tra cho nhé 😅
 tiem nang de|Đệ tử tự nâng tiềm năng nha a
@@ -55,7 +52,6 @@ xu ngu,dong xu|"Đồng xu" để mua máy dò capsule kì bí ở santa nhé! M
 codeshare, code share|Game không có "code share" chung, ai làm bài share thì người đó được nhận nha!
 long khi, nhum long|Nhúm lông khỉ đánh quái ngũ hành sơn sẽ rơi nhé! Đổi quà tại Bunma đảo kame 🙏
 dau bu, dau than|"Đậu bư" đi osin ở đại hội võ thuật lúc 21:00 nhé
-
 bxh, xep hang|Xem "bảng xếp hạng" ở Daishinkan đảo kame hoặc ở trang chủ ấy
 noel,tuan loc,nrb,ngoc rong bang,qua chau,day den,nr bang,chuong, thong che|👉 Sự kiện noel 1 2025\nhttps://thanhdi.com/su-kien/su-kien-noel-2025.html
 noel,tuan loc,nrb,ngoc rong bang,qua chau,day den,nr bang,chuong, thong che|👉 Sự kiện noel 2 2025\nhttps://thanhdi.com/su-kien/su-kien-noel-2025-lan-2.html
@@ -103,6 +99,10 @@ link,xin linh,linh game,trang chu,tai game, tai o dau,dang ky, dang ki,tai sao,d
 link,xin linh,linh game,trang chu,tai game,tai o dau,cach tai,dang ky, dang ki,tai sao,download,website,web,dien dan,jar,java,jav,apk,pc,windows,may tinh,ios,tf,testflight,ipa|👉 Jar, iPhone, Android, PC\n👉 Hướng dẫn tải:\nhttps://thanhdi.com/huongdantai
 link,xin linh,trang chu,tai game,tai o dau,dang ky, dang ki,tai sao,download,website,web,dien dan,jar,java,jav,apk,pc,windows,may tinh,ios,tf,testflight,ipa,tai k dc,tai ko dc,tai khong dc,tai k duoc,tai ko duoc,tai khong duoc|👉 Trang chủ: https://thanhdi.com
 link,xin linh,trang chu,tai game,tai o dau,dang ky, dang ki,tai sao,download,website,web,dien dan,jar,java,jav,apk,pc,windows,may tinh,ios,tf,testflight,ipa,tai k dc,tai ko dc,tai khong dc,tai k duoc,tai ko duoc,tai khong duoc|ℹ️ [Mở link|Click link|Truy cập link] trong Messenger thì [không đăng nhập được|không tải được|không thao tác được] đâu anh\n👉 Anh chịu khó [copy link|sao chép link] mở bằng [Safari|Chrome] giúp em nha!
+homepage,home,game site,where to get the game,sign up,register,why can't I play,install issue,installation problem|IMG:https://sv1.thanhdi.games/static/sonic/img/anhtaigame.png
+homepage,home,game site,where to get the game,how to get the game,sign up,register,install guide,setup guide|👉 Jar, iPhone, Android, PC\n👉 Installation guide:\nhttps://thanhdi.com/huongdantai
+homepage,home,game site,where to get the game,sign up,register,install issue,installation problem|👉 Official homepage: https://thanhdi.com
+homepage,home,game site,where to get the game,sign up,register,install issue,installation problem|ℹ️ Opening pages inside Messenger may cause issues.\n👉 Please copy the page URL and open it using Safari or Chrome.
 trang khong vao duoc, khong tim thay|Nếu trang không vào được a thử copy link ra chrome hoặc safari thử. Nếu vẫn không được anh chờ xíu em gọi admin cho nhá!
 co che|👉 Cơ chế game nha\nhttps://ngocrongtdstudio.com
 coin|Anh có thể kiếm coin bằng cách nạp hoặc event tương tác nhé!
@@ -110,7 +110,8 @@ coin|👉 Anh vào đây bấm nút "Event Tương Tác" để xem chi tiết nh
 su kien,sk|👉 Sự kiện Xem ở đây\nhttps://thanhdi.com/support 
 mua bong tai dung duoc luon|Mua bông tai nào cũng sài được hết nha, không cần theo level đâu
 muon mua|Anh có thể vào trang chủ để nạp rồi vào game đổi sang hồng ngọc hoặc thỏi vàng rồi ưng mua gì mua nhé anh? Anh chat "nạp thẻ" để em gửi hướng dẫn nạp nhé!
-nap, top up, top-up|👉 [Em gửi anh nha|Em gửi anh đây|Link em gửi anh nè]\n\n👉 [Hướng dẫn nạp|Cách nạp|Nạp tiền]\nhttps://thanhdi.com/nap\n\n👉 [Quà mốc nạp|Thưởng mốc nạp|Quà theo mốc nạp]\nhttps://thanhdi.com/mocnap.html\n\n👉 [Quà top nạp|Thưởng top nạp|Đua top nạp]\nhttps://thanhdi.com/quaduatop.html
+nap,card,the cao,bank,banking,chuyen khoan|👉 [Em gửi anh nha|Em gửi anh đây|Link em gửi anh nè]\n\n👉 [Hướng dẫn nạp|Cách nạp|Nạp tiền]\nhttps://thanhdi.com/nap\n\n👉 [Quà mốc nạp|Thưởng mốc nạp|Quà theo mốc nạp]\nhttps://thanhdi.com/mocnap.html\n\n👉 [Quà top nạp|Thưởng top nạp|Đua top nạp]\nhttps://thanhdi.com/quaduatop.html
+top up,top-up,topup,paypal|👉 Here you go!\n\n👉 Top-up guide:\nhttps://thanhdi.com/nap\n\n👉 Top-up milestone rewards:\nhttps://thanhdi.com/mocnap.html\n\n👉 Top-up leaderboard rewards:\nhttps://thanhdi.com/quaduatop.html
 pha le hoa|Anh ra Bà hạt mít ở đảo kame để pha lê hóa trang bị nhé!
 dau roi, ai online|Dạ em đây!\nNếu tìm admin thì chờ xíu nữa Admin vào nha a! 😅
 bn sm gd,bao nhieu suc manh, bn suc manh, bao nhieu sm, bnhieu sm| 40 tỷ giao dịch được nhé bé
@@ -140,7 +141,6 @@ up sp,up nhanh,up tnsm,up smtn,up tiem nang,tang sm,smtn, tnsm,up lau,tnsm nhanh
 vip thang|Anh xem chi tiết vip tháng ở Quy lão đó anh!
 tiem nang de|Đệ tử tự nâng tiềm năng nha anh!
 boss bui bui, boss buibui|Anh dùng đấm thường để đánh buibui nha a
-
 server moi nhat|Server 6 mới ra mắt đó anh!
 logo|Logo nằm giữa màn hình phia trên đó anh.
 gui anh|Dạ anh gửi ảnh vào đây giúp em nhá! Xíu admin vô xem liền á
