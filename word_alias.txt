@@ -320,9 +320,6 @@ n i c k=nick
 a c c=nick
 a c c c=nick
 a c c c c c=nick
-xd=nick
-td=nick
-nm=nick
 ban em=nick
 
 
