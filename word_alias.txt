@@ -10,6 +10,7 @@ khobg=khong
 iphoen=iphone
 hk=khong
 khum=khong
+tien ton=thien ton
 pai=phai
 min=minh
 shop=admin
