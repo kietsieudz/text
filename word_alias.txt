@@ -5,6 +5,7 @@ ko=khong
 không=khong
 kg=khong
 kh=khong
+vamp=vampa
 khobg=khong
 iphoen=iphone
 hk=khong
