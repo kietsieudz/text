@@ -145,6 +145,7 @@ skh=set kich hoat
 set kh=set kich hoat
 bom=boom
 giftcode=code
+cede=code
 gifcode=code
 codevip=code
 vipcode=code
