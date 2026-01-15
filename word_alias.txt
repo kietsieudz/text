@@ -228,6 +228,7 @@ xh=xuat hien
 gh=gioi han
 st=sat thuong
 skil=skill
+kill=skill
 skin=skill
 chieu=skill
 ky nang=skill
