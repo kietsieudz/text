@@ -26,7 +26,7 @@ cai j,cai gi|Cái game
 game gi,game j,gem gi,gem j,gi cz, gi z|Game ngọc rồng nha 😝
 ??,???,????,?????|Sao nè
 game,link,trang chu,tai,download,website,web,dien dan,k dc,ko dc,khong dc,k duoc,ko duoc,khong duoc,k tai, ko tai, khong tai, tai k, tai ko, tai khong,k co,ko co,khong co|Trang chủ - tải game: 🔗https://thanhdi.com/taigame [Mở trên trình duyệt Safari hoặc Chrome mới tải được game]|anhtai.png
-nap lau,lau qua,cong tien,ad,adm,admin|Vô đây bấm nút Hỗ Trợ 24/24 có người hỗ trợ ngay nha https://thanhdi.com/support
+nap lau,lau qua,cong tien,ad,adm,ong,ha ad,ho tro,alo,hello,admin|Vô đây bấm nút Hỗ Trợ 24/24 có người hỗ trợ ngay nha https://thanhdi.com/support
 share|Đăng nhập vô trang chủ rồi bấm qua diễn đàn để tham gia nha
 ghe|Ghê lắm nha mẹ
 goc hay ao|[Dame trung nha ông|Dame trên gốc xíu nhé]
@@ -44,7 +44,6 @@ smtn,tnsm|Cao nha
 game j,game gi|Game ngọc rồng đó má
 cl j|Cl gì má
 hot|Hot lắm
-ong,ha ad,ho tro,alo,hello,admin|Ad key vàng trong box zalo nha mẹ. hong phải tui https://thanhdi.com/support
 ban nao|Có tên kìa má
 nap|Đăng nhập vô trang chủ là có nút nạp
 fan cung,fancung,fc|Code fancung: YEUFANPAGE nha má https://thanhdi.com/support
