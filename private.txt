@@ -66,7 +66,7 @@ gdtg|Hỏi ad thử má
 sao v,sao z,sao vay,sao zay,sao a|Sao đâu
 sao bt,sao biet|Ai biết gì đâu mẹ. Tôi bị oan
 muon acc,xin acc|Acc đâu mà cho mẹ
-mo chua,bao gio,bh, baoh, bao h,op a,open a,op ha, open ha,test ma,test a, test hay,tes ha,tet ha, test vv, test vinh vien,test a, tets ma,tets a,tets lau,test lau, test hay, tet hay, open hay, op hay,open chua,open chx,op chua,op ch,open ch,open khi|Anh xem server Test hay Open ở đây nha: https://thanhdi.com/serverstatus
+mo chua,bao gio,bh, baoh, bao h,op a,open a,op ha, open ha,test ma,test a, test hay,tes ha,tet ha, test vv, test vinh vien,test a, tets ma,tets a,tets lau,test lau, test hay, tet hay, open hay, op hay,open chua,open chx,op chua,op ch,open ch,open khi|Open chính thức đó, open mà free cỡ đó. đông ác
 hai,hi|Ba
 an lol,an lon|Ăn chứ
 wow|Wao
