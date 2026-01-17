@@ -215,7 +215,7 @@ calich, tuong lai, cadich, bamboo, bambo| Calich ở rừng bambo hoặc rừng 
 kuku, map dau dinh, rambo| KuKu, Mập đầu đinh, Rambo -> 5 Phút -> Tìm nhanh ở Cui thành phố Vegeta  
 skh, set kich hoat, set kh| Đồ kích hoạt đánh quái 3 map cạnh làng sẽ rơi  
 manh an| Mẩnh ấn tiêu diệt boss ở Hành tinh ngục tù sẽ rơi  
-server nao|Server nào cũng được nha a! Server 1 với 5 đông sẽ khó làm nhiệm vụ ấy
+server nao|Server nào cũng được nha a! Server 1 với 6 đông sẽ khó làm nhiệm vụ ấy
 gui qua day|Anh làm xong event cứ gửi qua đây xíu admin duyệt liền nha
 lam xong moi biet|Dạ có ghi thể lệ ở chỗ làm event đó a
 
