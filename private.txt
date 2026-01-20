@@ -55,7 +55,7 @@ tui|Bạn ông mà
 what,wtf|What gì mẹ, có gì nói đi mẹ
 free|Free
 dt,de tu,detu|Free đệ tử nha má
-Oki,ok,oce,oke|Oki
+Oki,ok,oce,oke|Anh kết bạn với em, rồi chat chữ "xin code" để em chỉ cách lấy code VIP nha
 lua dao,scam|Không scam nha má
 gi day,j day,jz,j z, j the,gi the|Gì đâu má, ai biết gì
 on, oonr|Ổn
