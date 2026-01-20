@@ -45,8 +45,9 @@ smtn,tnsm|Cao nha
 game j,game gi|Game ngọc rồng đó má
 cl j|Cl gì má
 hot|Hot lắm
+gdtg,giao dich trung gian, gd trung gian|Anh vào link này giúp em: https://thanhdi.com/services/giao-dich-trung-gian
 ban nao|Có tên kìa má
-nap|Đăng nhập vô trang chủ là có nút nạp
+nap|Đăng nhập vô trang chủ là có nút nạp (có tỷ lệ quy đổi, nạp xong vào nhà chọn quy đổi để đổi sang hồng ngọc hoặc thỏi vàng)
 fan cung,fancung,fc|Code fancung: YEUFANPAGE nha má https://thanhdi.com/support
 ai|Người lạ từng quen
 tui|Bạn ông mà
