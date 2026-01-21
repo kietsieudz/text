@@ -5,6 +5,7 @@ dao hoa|Gặp quy lão để vào "đảo hoa" nhé
 open1-15,open1->15,open1,open15|Game gộp code open1-15 thành code "tdstudio" cho tiện rồi nha (đỡ nhập nhiều mỏi tay)
 dthuong,dthg,cute, dth, haha, kkk, kk, hehe,hehehe, kaka, love admin, yeu|Anh nhớ rủ bạn bè vào chơi chung cho zui nhen
 ve tinh|Vệ tinh có thể mua ở santa đó
+vut do|Bấm vứt đồ, sẽ hiện popup lên. nhập chữ ok vào đó là được
 jiren|Hạ gục jiren nhận được hồng ngọc, 4 tiếng xuất hiện 1 lần
 map vampa|Anh ra vách núi đen gặp Paragus nhé
 khong dang nhap, khong login|Không vào được game (thấy máy chủ tắt hoặc mất sóng liên tục)\nAnh thử đổi từ 4G -> Wifi và từ Wifi -> 4G giúp em nhé\nNếu vẫn không được a tắt cục modem wifi tầm 5 phút rồi mở lại sẽ vào được
