@@ -182,6 +182,7 @@ thi luyen reset|Boss thí luyện sẽ không reset nha anh
 can mat khau|Vì lý do bảo mật, admin không bao giờ yêu cầu mật khẩu.\nNgười chơi chỉ cần cung cấp tên nhân vật hoặc tên tài khoản để được hỗ trợ.
 vamchar|Làng vamchar bạn tới làng morri để vào nhé  
 lang la| Từ đảo hoa chạy sang trái là đến làng lá  
+thi luyen, the qua|Qua đảo kame gặp Quy lão -> đến Khu vực bang -> Giu-ma vào thí luyện
 lay capsule,nhan capsule|Về nhà nhận capsule nhé
 cuong no sieu cap,cuong no c2,cuong no 2,cuong no,item,cnsc,may do,cskb,ki bi,cn,bh,bo huyet,bo khi,bk|Item thường mở từ capsule kì bí (up đồng xu ở quái ngũ hành sơn, rồi mua máy dò ở tương lai) 
 cuong no sieu cap,cuong no c2,cuong no 2,cuong no,item,cnsc,may do,cskb,ki bi,cn,bh,bo huyet,bo khi,bk|Item siêu cấp hạ gục Trung úy xanh lơ ở Bản đồ kho báu (cần bản đồ ở doanh trại để đi bản đồ)
