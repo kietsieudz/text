@@ -6,7 +6,6 @@ loi roi,game loi,loi game|Bạn thử [xoá|xóa] dữ liệu game rồi tải l
 k thay,k tim thay|Bạn [nhìn kỹ lại|coi lại kĩ] đi, có mà
 ban acc|Không có nha
 hong ngoc,hngoc,hn|Hồng ngọc cày cuốc nha 🙄
-cc|Cc 😱
 s biet, sao biet, s bt, sao bt|Nhìn avatar là biết
 co che|Anh vào đây bấm nút cơ chế giúp em nha https://thanhdi.com/support
 nhan o dau, nhan dau, nhan cho|Nhận trong NPC trong nhà đó
@@ -15,7 +14,6 @@ server may, sv may, sever may|Anh chơi server nào cũng được á. có liên
 tuong lai,tlai|Xong nhiệm vụ fide 3 tìm calich ở Bambo, Rừng Dương Xỉ hoặc Nam Kame để qua nha má
 lon gi,cac gi|🙄
 dao khoang san, may dao|Máy đào là mua 1 tháng thì mỗi ngày thu 1 lượng hồng ngọc nhiều hơn nạp
-ua|Ủa alo 🙄
 tht k, tht ko, tht khong, that k, that ko, that khong,thiet k,thiet ko,thiet khong|Thật chứ kkk 😱
 free bao nhieu, free bn, free bnhieu, free bnhiu|Free bao nhiều lun 🎁
 dm bot|Wtf 😏
@@ -36,43 +34,26 @@ oi|Oi
 kb di,acept,dong y,ket ban,kb roi,kb rui,kb r, ket ban roi, ket ban rui, ket ban r|Chờ xíu mình chấp nhận kb nha
 code,giftcode|A nhắn vào đây chữ xin code em gửi full code xịn nha: https://thanhdi.com/support
 vang,ngoc|Free vàng ngọc má ơi
-a du|Á đù
-jv, j vay,gi z, gi v|Ai biết gì má
 skh|đánh quái rơi
 nhu|🥰🥰🥰
 gui ad,gui event,gui bai share, gui sk,gui su kien|Gửi cho key vàng đi má
 game ao|Ảo đâu má, bình thường mà
 smtn,tnsm|Cao nha
 game j,game gi|Game ngọc rồng đó má
-cl j|Cl gì má
 hot|Hot lắm
 gdtg,giao dich trung gian, gd trung gian|Anh vào link này giúp em: https://thanhdi.com/services/giao-dich-trung-gian
 ban nao|Có tên kìa má
 nap|Đăng nhập vô trang chủ là có nút nạp (có tỷ lệ quy đổi, nạp xong vào nhà chọn quy đổi để đổi sang hồng ngọc hoặc thỏi vàng)
 fan cung,fancung,fc|Code fancung: YEUFANPAGE nha má https://thanhdi.com/support
-ai|Người lạ từng quen
-tui|Bạn ông mà
-what,wtf|What gì mẹ, có gì nói đi mẹ
-free|Free
 dt,de tu,detu|Free đệ tử nha má
 Oki,ok,oce,oke|Anh kết bạn với em, rồi chat chữ "xin code" để em chỉ cách lấy code VIP nha
 lua dao,scam|Không scam nha má
 gi day,j day,jz,j z, j the,gi the|Gì đâu má, ai biết gì
-on, oonr|Ổn
-tu van|Tư vấn gì mẹ
 3 sao|3 sao free 999 bộ từ code nhá
-lol|Lol gì mẹ
-lag|Lag đâu mẹ. zô web cài cho đúng là được mà mẹ
-k choi, ko choi, khong choi|Sao z mẹ, nói nghe bùn z mẹ
 mtv,mo tv,mo thanh vien|Free mtv nha mẹ. tạo nv là kích hoạt sẵn
 gdtg|Hỏi ad thử má
-sao v,sao z,sao vay,sao zay,sao a|Sao đâu
-sao bt,sao biet|Ai biết gì đâu mẹ. Tôi bị oan
 muon acc,xin acc|Acc đâu mà cho mẹ
 mo chua,bao gio,bh, baoh, bao h,op a,open a,op ha, open ha,test ma,test a, test hay,tes ha,tet ha, test vv, test vinh vien,test a, tets ma,tets a,tets lau,test lau, test hay, tet hay, open hay, op hay,open chua,open chx,op chua,op ch,open ch,open khi|Open chính thức đó, open mà free cỡ đó. đông ác
-hai,hi|Ba
-an lol,an lon|Ăn chứ
-wow|Wao
 sao bac,sao z,sao vay,sao day|Sao gì đâu má, ai biết gì đâu
 dc k,duoc k, dc khong,duoc khong|Được nha má
 ngon|Ngon
