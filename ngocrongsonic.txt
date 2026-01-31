@@ -215,7 +215,7 @@ bong tai,mvbt,mhbt,porata,btai, b tai|👉 Thông tin tất cả bông tai porat
 thue pr k, thue pr ko, thue pr khong, thue qc khong, thue qc ko, thue qc k, thue quang cao k, thue quang cao ko, thue quang cao khong| Admin tự quảng cáo rồi má. Không cần thuê đâu má
 live free, live cho, live tiktok cho, live dum|Wow thật vinh hạnh khi được bạn live free cho game. Yêu bạn!
 co pr k, co pr ko, co qc ko, co qc k|Có PR mới có mem chứ má
-game loi, loi roi|Lỗi gì má. Nói rõ lỗi ra đi má. Quay video lỗi gửi zô đây lun đi má
+game loi,loi roi,bi loi, bao loi|Bạn ghi chi tiết lỗi ở đây để admin fix nhá: https://thanhdi.games/bao-loi.php
 bot var|[Ngon|Thích thì] vào đây mà [var|đối đáp] [nè|đây]
 kho|[Khó|Khó xíu] thì mới là game, game dễ quá thì [về|đi] chơi game con rắn cho [nhẹ đầu|đỡ mệt] đi 
 bach bi gay,bach gay|Bách bị Gay..
