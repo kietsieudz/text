@@ -75,7 +75,7 @@ k vo dc,ko vo dc,khong vo dc,k vo duoc,ko vo duoc,khong vo duoc,xoay,mkn, mat ke
 bao tri, btri, btr|Xem Server có đang bảo trì hay không, và có cập nhật gì mới tại đây: https://thanhdi.games/trangthai.php
 toc do,cham,tang toc,cheat,speed| Tăng tốc độ game hãy CHAT thử từng cái nhé: 's3' hoặc 's 3' (hoặc bấm vào Logo) (pc bấm phím x)
 spl,sao pha le|Sao pha lê mua ở shop mở rộng hành trang ở Santa  
-up nhanh,up tnsm,up smtn,up de,up dt,up dau,up sm,300ty,400ty,cay nhanh,cay smtn,cay sm|Cày nhanh sư phụ và đệ tử tại Ngũ Hành Sơn (đường tăng - làng aru) hoặc Địa Ngục (thần vũ trụ - hành tinh kaio)  
+up nhanh,up tnsm,up smtn,up de,up dt,up dau,up sm,300ty,400ty,cay nhanh,cay smtn,cay sm|Up bên ngoài map thường xíu rồi Cày nhanh sư phụ và đệ tử tại Ngũ Hành Sơn (đường tăng - làng aru) hoặc Địa Ngục (thần vũ trụ - hành tinh kaio)  
 dia nguc|Gặp thần vũ trụ tại hành tinh kaio để đến địa ngục  
 htnt,nguc tu|Dùng capsule hoặc vào rừng karin rồi đi lên trên để đến hành tinh ngục tù  
 loi cs,loi chi so|Đệ tử up nhanh không lỗi chỉ số đệ  
