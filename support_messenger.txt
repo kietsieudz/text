@@ -2,11 +2,13 @@ dao xanh, dao hong, qua dao|"Quả đào" gặp đường tăng ở ngũ hành s
 co 50 smtn,co 50 tnsm, co 50% smtn, co 50% sntm|Cải trang "zeno" nâng bậc free lên 4 là có nhé
 top mom, rank, coin|Xem thông tin rank chat kiếm Coin đây mấy ní: https://thanhdi.com/support -> chọn nút 'Event Coin Zalo' nhé
 dao hoa|Gặp quy lão để vào "đảo hoa" nhé
+bao nhieu qua cau|Mua quả cầu poke bấm dùng sẽ có tỷ lệ ra pet vĩnh viễn, cứ mua từ từ cũng được nha không cần cùng lúc
 ad hay bot|Em là bot trực 24/24 admin cũng trực nhưng không 24/24 như em
 ngoai hinh hop the,hinh dang hop the, hop the khong duoc,hinh dang, ngoai hinh|Anh bấm logo -> chọn Menu Mod -> bật ngoại hình hợp thể
 open1-15,open1->15,open1,open15,khong duoc cai nao, code loi,khong nhap duoc, nhap duoc dau|Game gộp code open1-15 thành code "tdstudio" cho tiện rồi nha (đỡ nhập nhiều mỏi tay)
 dthuong,dthg,cute, dth, haha, kkk, kk, hehe,hehehe, kaka, love admin, yeu|Anh nhớ rủ bạn bè vào chơi chung cho zui nhen
 ve tinh|Vệ tinh có thể mua ở santa đó
+no dung lam gi|Anh ghi rõ tên vật phẩm giúp em nha
 xd hay td, xd hay nm, xd hay nm, td hay nm|Hành tinh nào cũng ngon hết trơn zô thử lun đi anh
 tra lo di|Dạ anh chờ xíu ad vào hỗ trợ ngay ạ
 the qua tang|Anh gặp quy lão -> khu vực bang -> giu ma -> khiêu chiến cá nhân có thẻ quà tặng
@@ -95,12 +97,17 @@ ma namec, than ma,xa linh|👉 Boss Thần Ma Namec\nhttps://thanhdi.com/huong-d
 tay karin| Boss Tây Karin đọc ở đây (nhớ like + cmt): https://www.facebook.com/share/p/18f7oQWDtJ/
 k tai, ko tai, khong tai| Copy link ra dán vào chrome hoặc safari mới tải được, đừng bấm thẳng vào link ở đây nha
 xin ip,ipsv|Tất cả bản trên web đã cài sẵn Ip (tải về xoá dữ liệu rồi sài thôi)
-gifrcode,giftcode,code,codde,xincode,giffcode,ccode,ccodee,xin cod,xin cosd,xincod,xin co, xin codee, xin codeee,bulma,bunma,wedding,cai trang,fullcode,fullgift,fullgiftcode|[🎁 Em gửi anh toàn bộ Giftcode của game|🎁 Em gửi anh danh sách Giftcode của game|🎁 Toàn bộ Giftcode của game em gửi anh tại đây]\nhttps://thanhdi.com/giftcode
+gifrcode,giftcode,code,codde,core,xincode,giffcode,ccode,ccodee,xin cod,xin cosd,xincod,xin co, xin codee, xin codeee,bulma,bunma,wedding,cai trang,fullcode,fullgift,fullgiftcode|[🎁 Em gửi anh toàn bộ Giftcode của game|🎁 Em gửi anh danh sách Giftcode của game|🎁 Toàn bộ Giftcode của game em gửi anh tại đây]\nhttps://thanhdi.com/giftcode
 khong hieu|Anh chờ xíu admin vào giải thích cặn kẽ giúp anh nhé
 nhu nay dung khong|Anh ơi em không thể xem được ảnh, anh nói tên thứ anh hỏi giúp em nhé!\nHoặc chờ xíu admin vào xem ảnh rồi hỗ trợ anh nha
 lang vampa|Làng vampa anh ra vách núi đen gặp Paragus nhé!
+tiem nang it|Sức mạnh càng cao tiềm năng càng ít nha a
+dap do, ep do|Ra bà hạt mít ở đảo kame nhé a
+cho hoi|Anh cứ nói đi em nghe nè
+up chet hoai|Up ban đầu sẽ chết nhiều. anh up từ từ mới mạnh lên chứ ạ. a vào quái yếu hơn trước đi
+hp cao nhat|Ra rừng nhiệt đới ở đảo kame quái HP cao nhất á
 kol|Anh xem nhiệm vụ KOL ở Quy lão á. hiện tại là nhiệm vụ đánh quái, quái nào cũng tính hết nha
-trang bi,mua do, do xin, do ngon,do vip, vampa, vamba, thien su, chi ton, thien ton, ha ton, than tien, huy diet|Thông tin các trang bị đây anh:\nhttps://thanhdi.com/cochegame
+trang bi,mua do, do xin, nang thanh do,do ngon,do vip, vampa, vamba, thien su, chi ton, thien ton, ha ton, than tien, huy diet|Thông tin các trang bị đây anh:\nhttps://thanhdi.com/cochegame
 danh hieu|Anh ra santa bấm vào mua danh hiệu là biết cách kiếm danh hiệu nhé!
 ngoai hinh, hinh thai|Anh chat "mod" và bật ngoại hình hợp thể lên nhé!
 gio nhiem vu khong tac dung, gio ho tro khong tac dung|Anh thử lấy acc không thuộc nhiệm vụ đó vào được nơi boss không mà nói không có tác dụng. Người vào được khu cũng đang làm nhiệm vụ đó anh
