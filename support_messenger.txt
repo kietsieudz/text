@@ -2,10 +2,16 @@ dao xanh, dao hong, qua dao|"Quả đào" gặp đường tăng ở ngũ hành s
 co 50 smtn,co 50 tnsm, co 50% smtn, co 50% sntm|Cải trang "zeno" nâng bậc free lên 4 là có nhé
 top mom, rank, coin|Xem thông tin rank chat kiếm Coin đây mấy ní: https://thanhdi.com/support -> chọn nút 'Event Coin Zalo' nhé
 dao hoa|Gặp quy lão để vào "đảo hoa" nhé
-ngoai hinh hop the,hinh dang hop the, hop the khong duoc|Anh bấm logo -> chọn Menu Mod -> bật ngoại hình hợp thể
+ad hay bot|Em là bot trực 24/24 admin cũng trực nhưng không 24/24 như em
+ngoai hinh hop the,hinh dang hop the, hop the khong duoc,hinh dang, ngoai hinh|Anh bấm logo -> chọn Menu Mod -> bật ngoại hình hợp thể
 open1-15,open1->15,open1,open15,khong duoc cai nao, code loi,khong nhap duoc, nhap duoc dau|Game gộp code open1-15 thành code "tdstudio" cho tiện rồi nha (đỡ nhập nhiều mỏi tay)
 dthuong,dthg,cute, dth, haha, kkk, kk, hehe,hehehe, kaka, love admin, yeu|Anh nhớ rủ bạn bè vào chơi chung cho zui nhen
 ve tinh|Vệ tinh có thể mua ở santa đó
+xd hay td, xd hay nm, xd hay nm, td hay nm|Hành tinh nào cũng ngon hết trơn zô thử lun đi anh
+tra lo di|Dạ anh chờ xíu ad vào hỗ trợ ngay ạ
+the qua tang|Anh gặp quy lão -> khu vực bang -> giu ma -> khiêu chiến cá nhân có thẻ quà tặng
+tam quoc|Tam quốc là server 2 nha
+do de|Santa có cửa hàng đệ tử đó anh, ra lựa đi
 mat chu, mat hinh anh|Xoá dữ liệu rồi tải dữ liệu mới thử
 bang gia, bang nap, bang ti le, bang ty le, bang quy doi|Trong NPC trong nhà có tỷ lệ quy đổi và quà mốc đó, anh vào xem nhé
 giong nhau|Server nào cũng như nhau nè, đều được cập nhật như nhau cùng lúc hết
@@ -108,8 +114,8 @@ dich chuyen|Để dịch chuyển anh cần có cải trang dịch chuyển. Đ�
 page1, page2, fanpage 1, fanpage 2, page 1, page 2, fanpage1, fanpage2|Fanpage nào còn thì a làm nha, 2 page kia đang bị ẩn để xem xét á
 dk xong, dky, dang ky, dang ki, dki|Hãy "đăng ký" ở link https://thanhdi.com [Mở trên chrome hoặc Safari nhé ]
 xong roi,share,Envent,event,tan thu,even,chia se,fl,filo,filow, follow,floww,flow,folow,folo,foloow,folooow,foloooow,follw,folllow,folllloow,folllo,folw,fw,flo,fllow,flloww,fow,flw, lam gì|🎁 Em Gửi Hướng dẫn event tân thủ nhận quà trong nhà nhé (Event Chia Sẻ)\nhttps://thanhdi.com/event
-link,xin linh,linh game,trang chu,tai game, tai o dau,dang ky, dang ki,tai sao,download,website,web,dien dan,jar,java,jav,apk,pc,windows,may tinh,ios,tf,testflight,ipa,tai k dc,tai ko dc,doanh nghiep,tai khong dc,tai k duoc,tai ko duoc,tai khong duoc|IMG:https://sv1.thanhdi.games/static/sonic/img/anhtaigame.png
-link,xin linh,linh game,trang chu,tai game, Tai game, game tai,tai o dau,cach tai,dang ky, dang ki,tai sao,download,website,web,dien dan,jar,java,jav,apk,pc,windows,may tinh,ios,tf,testflight,doanh nghiep,ipa|👉 Trang chủ:\nhttps://thanhdi.com\n\n👉 Hướng dẫn tải:\nhttps://thanhdi.com/huongdantai\n\nℹ️ [Mở link|Click link|Truy cập link] trong Messenger thì [không đăng nhập được|không tải được|không thao tác được] đâu anh\n👉 Anh chịu khó [copy link|sao chép link] mở bằng Safari hoặc Chrome giúp em nha!
+link,xin linh,linh game,cai linh,trang chu,tai game, tai o dau,dang ky, dang ki,tai sao,download,website,web,dien dan,jar,java,jav,apk,pc,windows,may tinh,ios,tf,testflight,ipa,tai k dc,tai ko dc,doanh nghiep,tai khong dc,tai k duoc,tai ko duoc,tai khong duoc|IMG:https://sv1.thanhdi.games/static/sonic/img/anhtaigame.png
+link,xin linh,linh game,cai linh,trang chu,tai game, Tai game, game tai,tai o dau,cach tai,dang ky, dang ki,tai sao,download,website,web,dien dan,jar,java,jav,apk,pc,windows,may tinh,ios,tf,testflight,doanh nghiep,ipa|👉 Trang chủ:\nhttps://thanhdi.com\n\n👉 Hướng dẫn tải:\nhttps://thanhdi.com/huongdantai\n\nℹ️ [Mở link|Click link|Truy cập link] trong Messenger thì [không đăng nhập được|không tải được|không thao tác được] đâu anh\n👉 Anh chịu khó [copy link|sao chép link] mở bằng Safari hoặc Chrome giúp em nha!
 trang khong vao duoc, khong tim thay|Nếu trang không vào được a thử copy link ra chrome hoặc safari thử. Nếu vẫn không được anh chờ xíu em gọi admin cho nhá!
 co che|👉 Cơ chế game nha\nhttps://thanhdi.com/huong-dan
 ban nick, ban acc|Ad không bán nick nha 🥰
@@ -251,9 +257,12 @@ ngoc rong sieu cap, nrsc, ngoc rong sc| Ngọc rồng siêu cấp chỉ để ư
 ngoc rong, nr| Ép từ 3 sao của ad cho ở bà hạt mít hoặc săn từ boss
 Em là chatbot hỗ trợ tại đây, có gì cần giúp anh cứ nói nhé, em luôn sẵn sàng
 dam nhu gai|Boss giáp cao lắm anh ơi! Với lại mấy boss nhiệm vụ là giới hạn sát thương để hỗ trợ nhiệm vụ ấy.\nKhông giới hạn mấy người hay phá boss sẽ phá cả ngày đó anh
-o nay, o nao,o cuoi,o duoi,o nay, 1 o, 2 o, 3 o, 4 o, 5 o|👉 Coi các ô trên người ở đây\nhttps://thanhdi.com/body
+o nay, o nao,o cuoi,o duoi,o nay, 1 o, 2 o, 3 o, 4 o, 5 o, do su phu|👉 Coi các ô trên người ở đây\nhttps://thanhdi.com/body
 canh tre| Bạn gom đủ 9999 rồi ghép thành cần câu đi câu cá nhé  
 zamas|Boss Zamas rơi đồ thần linh nhé anh
+doi mat khau|Đăng nhập vào trang chủ sẽ có nút đổi mật khẩu nha
+1 thiet bi|1 Mạng được online cùng lúc 4 tab nha
+
 tieu doi kho|Dạ do đông người chơi nên nhiệm vụ có thể khó thật, Nhưng anh đừng lo có giờ hỗ trợ nhiệm vụ mà anh. Ai nhiệm vụ đó mới được vào khu đó anh!\nAnh chat "giờ hỗ trợ" để em gửi giờ hỗ trợ cho nhé
 test, open, operen,chinh thuc, op,mo lau,mo khi nao, mo chua, tes, text,may hom, lau ch, lau chua, ngay nao|Dạ tất cả server đều đã open chính thức rồi anh! nhưng free nhiều hơn cả khi test nữa. không mở thành viên gì luôn
 mtv, mo tv, mo thanh vien, kich hoat tai khoan| Game không cần MTV. Cày 40 tỷ là gd được hết  
