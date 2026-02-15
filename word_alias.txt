@@ -349,6 +349,8 @@ payyy=ban
 payyyy=ban
 payyyyy=ban
 
+chs=choi
+
 chia=ban
 sale=ban
 sell=ban
