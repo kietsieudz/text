@@ -85,7 +85,7 @@ ma namec, than ma,xa linh|👉 Boss Thần Ma Namec\nhttps://thanhdi.com/huong-d
 tay karin| Boss Tây Karin đọc ở đây (nhớ like + cmt): https://www.facebook.com/share/p/18f7oQWDtJ/
 k tai, ko tai, khong tai| Copy link ra dán vào chrome hoặc safari mới tải được, đừng bấm thẳng vào link ở đây nha
 xin ip,ipsv|Tất cả bản trên web đã cài sẵn Ip (tải về xoá dữ liệu rồi sài thôi)
-giftcode,code,xincode,xin cod,xin cosd,xincod,xin co, xin codee, xin codeee,bulma,bunma,wedding,cai trang,fullcode,fullgift,fullgiftcode|[🎁 Em gửi anh toàn bộ Giftcode của game|🎁 Em gửi anh danh sách Giftcode của game|🎁 Toàn bộ Giftcode của game em gửi anh tại đây]\nhttps://thanhdi.com/giftcode
+gifrcode,giftcode,code,xincode,xin cod,xin cosd,xincod,xin co, xin codee, xin codeee,bulma,bunma,wedding,cai trang,fullcode,fullgift,fullgiftcode|[🎁 Em gửi anh toàn bộ Giftcode của game|🎁 Em gửi anh danh sách Giftcode của game|🎁 Toàn bộ Giftcode của game em gửi anh tại đây]\nhttps://thanhdi.com/giftcode
 khong hieu|Anh chờ xíu admin vào giải thích cặn kẽ giúp anh nhé
 nhu nay dung khong|Anh ơi em không thể xem được ảnh, anh nói tên thứ anh hỏi giúp em nhé!\nHoặc chờ xíu admin vào xem ảnh rồi hỗ trợ anh nha
 lang vampa|Làng vampa anh ra vách núi đen gặp Paragus nhé!
@@ -116,8 +116,8 @@ bn sm gd,bao nhieu suc manh, bn suc manh, bao nhieu sm, bnhieu sm| 40 tỷ giao 
 loi laze, loi bom, loi boom, boom xit, laze xit| Giảm tốc độ game xuống đi mới dùng được. Nhanh quá là xịt
 hong ngoc,hngoc,hn,ngoc hong| "Hồng ngọc" săn boss, up cold, up capsule kì bí, Đại hội võ thuật + Đại hội võ thuật 23 + Siêu Hạng, Nạp thẻ
 thoi vang,tvang,tv,vang| "Thỏi vàng" làm nhiệm vụ bò mộng, hộ tống, Đại hội võ thuật 23, Nạp thẻ, Vàng nhận nhận miễn phí không giới hạn ở nhà
-menu,mod,auto, xin lenh|👉 [Bấm vào logo|Nhấn logo|Chạm logo] ([bản PC bấm phím X|PC nhấn X]) để [mở menu mod|bật menu mod|hiện menu mod]
-xong roi, xong r, duyet, xog roi,kich hoat, kiem tra, xog r,share,event,check,e gui, em gui,done,da tham gia, share 1, share 2, share 3, share 4, event 3, event 1, event 2, event 4, share1, share2, share3, share4, event1, event2, event3,event4, danh gia, follow, theo doi, e1, e2, e3,e4|👉 [Xong event|Hoàn thành event] thì [chờ xíu|đợi chút] ad vào duyệt nha! Event đánh giá nhớ để lại [Tài khoản|Nick] + [Server|SV] nhé
+menu,mod,auto, xin lenh, lenh chat|👉 [Bấm vào logo|Nhấn logo|Chạm logo] ([bản PC bấm phím X|PC nhấn X]) để [mở menu mod|bật menu mod|hiện menu mod]
+xong roi, xong r, duyet, xog roi,kich hoat, kiem tra, xog r,share,event,check,e gui, em gui,done,da tham gia, share 1, share 2, share 3, share 4, event 3, event 1, event 2, event 4, share1, share2, share3, share4, event1, event2, event3,event4, danh gia, follow, theo doi, e1, e2, e3,e4, even3|👉 [Xong event|Hoàn thành event] thì [chờ xíu|đợi chút] ad vào duyệt nha! Event đánh giá nhớ để lại [Tài khoản|Nick] + [Server|SV] nhé
 huong dan|Anh xem trong chỗ thông báo của game có hướng dẫn, hoặc nhắn ở đây em và ad hỗ trợ [24/24] nhé!
 cooler vang, gold fide, fide gold|Boss fide gold xuất hiện 21h mỗi ngày ở Đông Karin
 kaioken hay kame| Cái nào cũng ngon hết trơn
@@ -131,7 +131,7 @@ ngoc| ngọc săn boss cooler rơi rương ngọc mở ra lấy ngọc ép vào 
 up cold| Up cold rơi: hồn hạ tôn, hồn thiên tôn, thức ăn, hồng ngọc, đồ thần linh,..
 dame| Dame trung trên gốc xíu nha má. dễ chơi còn lâu dài. Boss từ TDST -> Xên sẽ giới hạn sát thương để hỗ trợ nhiệm vụ
 rot cap,xit cap,ha cap,tut cap| Lúc nâng trang bị bà Hạt mít có thông báo rớt hay không, nếu rớt chắc chắn sẽ trừ chỉ số. Để an toàn hãy dùng đá bảo vệ ở Santa bỏ vào nhé
-game loi,loi roi,bi loi, bao loi|Bạn ghi chi tiết lỗi ở đây để admin fix nhá: https://thanhdi.games/bao-loi.php
+game loi,loi roi,bi loi, bao loi, loi a, loi ha|Bạn ghi chi tiết lỗi ở đây để admin fix nhá: https://thanhdi.games/bao-loi.php
 bao tri,game bi,game sao,bi sao, btri, btr, baotri,khong vao duoc,k vo dc,ko vo dc,khong vo dc,k vo duoc,ko vo duoc,khong vo duoc,xoay,mkn, mat ket noi, dis, vang game, bi out, bi vang,lag,game lang,game lac,xdl,xoa du lieu,tkmk,tk mk,thanh cong,dang ky,dky,tao,sai,chinh xac,dang nhap,tao nv,tao nhan vat|👉 Anh xem Server có đang bảo trì hay không:\nhttps://thanhdi.games/trangthai.php\n\n👉 Nếu gặp lỗi, anh vào đây xem cách fix nhé:\nhttps://thanhdi.com/fixloi
 bao tri,game bi,game sao,bi sao, btri, btr, baotri,k vo dc,ko vo dc,khong vao duoc,khong vo dc,k vo duoc,ko vo duoc,khong vo duoc,xoay,mkn, mat ket noi, dis, vang game, bi out, bi vang,lag,game lang,game lac,xdl,xoa du lieu,tkmk,tk mk,thanh cong,dang ky,dky,tao,sai,chinh xac,dang nhap,tao nv,tao nhan vat|
 toc do,cham,tang toc,cheat,speed,nhanh| Tăng tốc độ game hãy CHAT thử từng cái nhé: 's3' hoặc 's 3' (hoặc bấm vào Logo) (pc bấm phím x) 
@@ -236,7 +236,7 @@ o nay, o nao,o cuoi,o duoi,o nay, 1 o, 2 o, 3 o, 4 o, 5 o|👉 Coi các ô trên
 canh tre| Bạn gom đủ 9999 rồi ghép thành cần câu đi câu cá nhé  
 zamas|Boss Zamas rơi đồ thần linh nhé anh
 tieu doi kho|Dạ do đông người chơi nên nhiệm vụ có thể khó thật, Nhưng anh đừng lo có giờ hỗ trợ nhiệm vụ mà anh. Ai nhiệm vụ đó mới được vào khu đó anh!\nAnh chat "giờ hỗ trợ" để em gửi giờ hỗ trợ cho nhé
-test, open, chinh thuc, op,mo lau,mo khi nao, mo chua, tes, text,may hom, lau ch, lau chua, ngay nao|👉 Dạ anh xem trạng thái các server OPEN, TEST hay MỞ CHÍNH THỨC ở đây giúp em nha\nhttps://thanhdi.com/serverstatus
+test, open, operen,chinh thuc, op,mo lau,mo khi nao, mo chua, tes, text,may hom, lau ch, lau chua, ngay nao|Dạ tất cả server đều đã open chính thức rồi anh! nhưng free nhiều hơn cả khi test nữa. không mở thành viên gì luôn
 mtv, mo tv, mo thanh vien, kich hoat tai khoan| Game không cần MTV. Cày 40 tỷ là gd được hết  
 chuc nang| Cần hỏi chức năng gì thì cứ nói em hỗ trợ  
 boss vua ra khong|Có thể boss bị người khác ăn rồi, hoặc dò sót á anh. Boss hông có lỗi đâu
