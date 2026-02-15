@@ -137,8 +137,8 @@ khai, phong, giai, an|Up ở ngũ hành sơn đúng khung giờ mới rơi
 zalo rieng, zalo admin|Bạn vào nhóm tìm key vàng là admin nha https://thanhdi.com/groups
 tai du lieu, thanh nay, chay mai, tai mai|Tải dữ liệu bị kẹt thì Anh tắt game mở lại để nó tải lại nha a
 cu len xuong|Ra màn hình chỗ đăng nhập bấm nút dưới góc bên phải để xoá dữ liệu tải lại là hết nha
-coin|Anh có thể kiếm coin bằng cách nạp hoặc event tương tác nhé!
-coin|👉 Anh vào đây bấm nút "Event Tương Tác" để xem chi tiết nhé\nhttps://thanhdi.com/support
+coin,koin,icon|Anh có thể kiếm coin bằng cách nạp hoặc event tương tác nhé!
+coin,koin,icon|👉 Anh vào đây bấm nút "Event Tương Tác" để xem chi tiết nhé\nhttps://thanhdi.com/support
 su kien,sk|👉 Sự kiện Xem ở đây\nhttps://thanhdi.com/support 
 mua bong tai dung duoc luon|Mua bông tai nào cũng sài được hết nha, không cần theo level đâu
 muon mua|Anh có thể vào trang chủ để nạp rồi vào game đổi sang hồng ngọc hoặc thỏi vàng rồi ưng mua gì mua nhé anh? Anh chat "nạp thẻ" để em gửi hướng dẫn nạp nhé!
