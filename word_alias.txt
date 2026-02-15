@@ -201,6 +201,22 @@ auto=mod
 xin lenh=mod
 
 xog=xong
+xongg=xong
+xonggg=xong
+xongggg=xong
+
+xonng=xong
+xonngg=xong
+xonnggg=xong
+
+xonnng=xong
+xonnnng=xong
+xonnnnng=xong
+
+xongng=xong
+xongngg=xong
+xongnggg=xong
+
 
 kok=kaioken
 msk=masenko
