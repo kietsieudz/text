@@ -3,7 +3,7 @@ co 50 smtn,co 50 tnsm, co 50% smtn, co 50% sntm|Cải trang "zeno" nâng bậc f
 top mom, rank, coin|Xem thông tin rank chat kiếm Coin đây mấy ní: https://thanhdi.com/support -> chọn nút 'Event Coin Zalo' nhé
 dao hoa|Gặp quy lão để vào "đảo hoa" nhé
 ngoai hinh hop the,hinh dang hop the, hop the khong duoc|Anh bấm logo -> chọn Menu Mod -> bật ngoại hình hợp thể
-open1-15,open1->15,open1,open15|Game gộp code open1-15 thành code "tdstudio" cho tiện rồi nha (đỡ nhập nhiều mỏi tay)
+open1-15,open1->15,open1,open15,khong duoc cai nao, code loi,khong nhap duoc, nhap duoc dau|Game gộp code open1-15 thành code "tdstudio" cho tiện rồi nha (đỡ nhập nhiều mỏi tay)
 dthuong,dthg,cute, dth, haha, kkk, kk, hehe,hehehe, kaka, love admin, yeu|Anh nhớ rủ bạn bè vào chơi chung cho zui nhen
 ve tinh|Vệ tinh có thể mua ở santa đó
 vut do|Bấm vứt đồ, sẽ hiện popup lên. nhập chữ ok vào đó là được
@@ -12,6 +12,7 @@ map vampa|Anh ra vách núi đen gặp Paragus nhé
 chu van, chu su, chu nhu, chu y, banh tet|Đọc sk tết ở đây: https://thanhdi.com/su-kien/posts/su-kien-tet-nguyen-dan-2026.html
 khong dang nhap, khong login|Không vào được game (thấy máy chủ tắt hoặc mất sóng liên tục)\nAnh thử đổi từ 4G -> Wifi và từ Wifi -> 4G giúp em nhé\nNếu vẫn không được a tắt cục modem wifi tầm 5 phút rồi mở lại sẽ vào được
 hay ra o dau|Canh thông báo xem nó xuất hiện ở đâu thì mình qua
+gdtg, trung gian|GDTG ở link này có ad nhận nha: https://thanhdi.com/support
 dang co de tu khac lam sao su dung|Bạn cần tháo hết đồ đệ cũ ra mới dùng được trứng
 toan ra quan, toan ra ao|Đồ thần up cold hay săn boss đều có tỷ lệ ra đủ 1 set không riêng gì áo quần thần linh
 khong xuat hien|Anh canh thông báo boss hoặc qua dò các khu trong map boss xuất hiện ấy (đôi khi boss chưa chết nó không thông báo lại)
