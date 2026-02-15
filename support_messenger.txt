@@ -63,13 +63,6 @@ bxh, xep hang|Xem "bảng xếp hạng" ở Daishinkan đảo kame hoặc ở tr
 noel,tuan loc,nrb,ngoc rong bang,qua chau,day den,nr bang,chuong, thong che|👉 Sự kiện noel 1 2025\nhttps://thanhdi.com/su-kien/posts/su-kien-noel-2025.html
 noel,tuan loc,nrb,ngoc rong bang,qua chau,day den,nr bang,chuong, thong che|👉 Sự kiện noel 2 2025\nhttps://thanhdi.com/su-kien/posts/su-kien-noel-2025-lan-2.html
 hong xanh, qua hong|Bạn ra gặp Đường tăng ở map 3 ngũ hành sơn nha
-sv1,sever1,server1, sv 1, sever 1, server 1|Link đăng nhập server 1 đây nhé: https://sv1.thanhdi.games/login
-sv2,sever2,server2, sv 2, sever 2, server 2|Link đăng nhập server 2 đây nhé: https://sv2.thanhdi.games/login
-sv3,sever3,server3, sv 3, sever 3, server 3|Link đăng nhập server 3 đây nhé: https://sv3.thanhdi.games/login
-sv4,sever4,server4, sv 4, sever 4, server 4|Link đăng nhập server 4 đây nhé: https://sv4.thanhdi.games/login
-sv5,sever5,server5, sv 5, sever 5, server 5|Link đăng nhập server 5 đây nhé: https://sv5.thanhdi.games/login
-sv6,sever6,server6, sv 6, sever 6, server 6|Link đăng nhập server 6 đây nhé: https://sv6.thanhdi.games/login
-svindo,severindo,serverindo, sv indo, sever indo, server indo|Link đăng nhập server indo đây nhé: https://indo.thanhdi.games/login
 boss manh ba|Qua địa ngục dò khu hoặc canh thông báo nhé, tỷ lệ rơi nước mắt
 nro lau, lau a, server lau, sever lau, sv lau, ngoc rong lau|Bạn tải game tại https://thanhdi.com nha
 nang skh,nang dc skh,nang duoc skh, nang duoc set kh, nang dc set kh, nang set kh|Ra bà hạt mít có chỉ nguyên liệu tạo set kích hoạt
@@ -79,6 +72,10 @@ ruong an| Rương ấn là rương mở ra ấn để khắc ấn vào trang b�
 thanh lan boi|Anh có thể mua thanh lân bội ở santa đó anh. Kết nghĩa xong cả 2 người đều có thanh lân hết. cả 2 đều tăng thêm chỉ số luôn
 sao nhan duoc, nhan dau|Anh làm event xong gửi đây admin duyệt xong thì vào nhà -> chọn nhiệm vụ tân thủ -> chọn nhiệm vụ tân thủ đã làm để nhận nha
 fanpage|👉 Các trang fanpage của game\nhttps://thanhdi.com/fanpage
+giup em|Anh cần hỗ trợ gì cứ ghi rõ rồi chờ xíu admin vào kiểm tra nha
+lavender, vu tru 9,basil|Capsule đến vũ trụ số 9 là có nha
+do boss, rada boss|Game không có vật phẩm gì dò boss hết nha, canh thông báo rồi qua thui ạ
+kiem dau, lay dau|Anh ghi rõ tên vật phẩm ra em chỉ cho, nếu sai xíu ad vô chỉ nha a
 server gi|Dạ đây là Ngọc Rồng Online TDStudio nhé anh! Anh cần link tải hay giftcode ạ?
 baby|👉 Thông tin boss Baby\nhttps://thanhdi.com/huong-dan/posts/thong-tin-boss-baby.html
 golden, fide vang| Boss Fide vàng đọc ở đây (nhớ like + cmt): https://www.facebook.com/share/p/16UDUzvgYZ/
@@ -86,7 +83,7 @@ ma namec, than ma,xa linh|👉 Boss Thần Ma Namec\nhttps://thanhdi.com/huong-d
 tay karin| Boss Tây Karin đọc ở đây (nhớ like + cmt): https://www.facebook.com/share/p/18f7oQWDtJ/
 k tai, ko tai, khong tai| Copy link ra dán vào chrome hoặc safari mới tải được, đừng bấm thẳng vào link ở đây nha
 xin ip,ipsv|Tất cả bản trên web đã cài sẵn Ip (tải về xoá dữ liệu rồi sài thôi)
-gifrcode,giftcode,code,xincode,xin cod,xin cosd,xincod,xin co, xin codee, xin codeee,bulma,bunma,wedding,cai trang,fullcode,fullgift,fullgiftcode|[🎁 Em gửi anh toàn bộ Giftcode của game|🎁 Em gửi anh danh sách Giftcode của game|🎁 Toàn bộ Giftcode của game em gửi anh tại đây]\nhttps://thanhdi.com/giftcode
+gifrcode,giftcode,code,codde,xincode,giffcode,ccode,ccodee,xin cod,xin cosd,xincod,xin co, xin codee, xin codeee,bulma,bunma,wedding,cai trang,fullcode,fullgift,fullgiftcode|[🎁 Em gửi anh toàn bộ Giftcode của game|🎁 Em gửi anh danh sách Giftcode của game|🎁 Toàn bộ Giftcode của game em gửi anh tại đây]\nhttps://thanhdi.com/giftcode
 khong hieu|Anh chờ xíu admin vào giải thích cặn kẽ giúp anh nhé
 nhu nay dung khong|Anh ơi em không thể xem được ảnh, anh nói tên thứ anh hỏi giúp em nhé!\nHoặc chờ xíu admin vào xem ảnh rồi hỗ trợ anh nha
 lang vampa|Làng vampa anh ra vách núi đen gặp Paragus nhé!
@@ -100,7 +97,7 @@ nappa|Dùng capsule ra thành phố vegeta rồi gặp Cui đến Nappa nha, cá
 dich chuyen|Để dịch chuyển anh cần có cải trang dịch chuyển. Đối phương phải không ở map đặc biệt hoặc không dùng ẩn danh nhé
 page1, page2, fanpage 1, fanpage 2, page 1, page 2, fanpage1, fanpage2|Fanpage nào còn thì a làm nha, 2 page kia đang bị ẩn để xem xét á
 dk xong, dky, dang ky, dang ki, dki|Hãy "đăng ký" ở link https://thanhdi.com [Mở trên chrome hoặc Safari nhé ]
-share,event,tan thu,even,chia se, fl,filo, filow, follow,floww,flow,folow,folo,foloow,folooow,foloooow,follw,folllow,folllloow,folllo,folw,fw,flo,fllow,flloww,fow,flw, lam gì|🎁 Em Gửi Hướng dẫn event tân thủ nhận quà trong nhà nhé (Event Chia Sẻ)\nhttps://thanhdi.com/event
+share,event,tan thu,even,chia se,fl,filo, filow, follow,floww,flow,folow,folo,foloow,folooow,foloooow,follw,folllow,folllloow,folllo,folw,fw,flo,fllow,flloww,fow,flw, lam gì|🎁 Em Gửi Hướng dẫn event tân thủ nhận quà trong nhà nhé (Event Chia Sẻ)\nhttps://thanhdi.com/event
 link,xin linh,linh game,trang chu,tai game, tai o dau,dang ky, dang ki,tai sao,download,website,web,dien dan,jar,java,jav,apk,pc,windows,may tinh,ios,tf,testflight,ipa,tai k dc,tai ko dc,tai khong dc,tai k duoc,tai ko duoc,tai khong duoc|IMG:https://sv1.thanhdi.games/static/sonic/img/anhtaigame.png
 link,xin linh,linh game,trang chu,tai game, Tai game, game tai,tai o dau,cach tai,dang ky, dang ki,tai sao,download,website,web,dien dan,jar,java,jav,apk,pc,windows,may tinh,ios,tf,testflight,ipa|👉 Trang chủ:\nhttps://thanhdi.com\n\n👉 Hướng dẫn tải:\nhttps://thanhdi.com/huongdantai\n\nℹ️ [Mở link|Click link|Truy cập link] trong Messenger thì [không đăng nhập được|không tải được|không thao tác được] đâu anh\n👉 Anh chịu khó [copy link|sao chép link] mở bằng Safari hoặc Chrome giúp em nha!
 trang khong vao duoc, khong tim thay|Nếu trang không vào được a thử copy link ra chrome hoặc safari thử. Nếu vẫn không được anh chờ xíu em gọi admin cho nhá!
@@ -147,6 +144,10 @@ vip thang|Anh xem chi tiết vip tháng ở Quy lão đó anh!
 tiem nang de|Đệ tử tự nâng tiềm năng nha anh!
 boss bui bui, boss buibui|Anh dùng đấm thường để đánh buibui nha a
 server moi nhat|Server 6 mới ra mắt đó anh!
+nhieu nguoi choi|Server 1 vs 6 đông nhưng khó làm nv á
+server may|Tất cả đều của TDStudio đó a! cập nhật như nhau hết nha. có liên server
+khien coler, khien cooler, khien cold|Mang xayda qua xích và choáng sẽ hết khiên nha
+nak, nakroth|Boss nak rơi mảnh chiến thần để nâng bậc chiến thần nha
 logo|Logo nằm giữa màn hình phia trên đó anh.
 gui anh|Dạ anh gửi ảnh vào đây giúp em nhá! Xíu admin vô xem liền á
 cuu voi|Bạn chờ xíu admin vào cứu bạn nhá!
@@ -197,7 +198,7 @@ cuong no sieu cap,cuong no c2,cuong no 2,cuong no,item,cnsc,may do,cskb,ki bi,cn
 cuong no sieu cap,cuong no c2,cuong no 2,cuong no,item,cnsc,may do,cskb,ki bi,cn,bh,bo huyet,bo khi,bk|Item siêu cấp hạ gục Trung úy xanh lơ ở Bản đồ kho báu (cần bản đồ ở doanh trại để đi bản đồ)
 manh ba, rau muong, gia vi, nau canh| Canh mạnh bà bạn có thể mua ở santa hoặc thu thập x999 11 nguyên liệu ở địa ngục. Bấm sử dụng nguyên liệu để nấu (dùng được 1 lần duy nhất)
 bi kip,yadat,yardrat| Bạn qua núi khỉ vàng gặp goku ssj rồi vào hành tinh yardrat up bí kíp cải trang. Và Đi doanh trại đánh quái là rơi bí kíp tuyệt kĩ nhé, xong ra quy lão học sì kiu đặc biệt  
-thien su,mts,manh ts| Cần mảnh thiên sứ + đồ thần linh + đồ huỷ diệt mới đổi được đồ thiên sứ. Mảnh thiên sứ up ở hành tinh ngục tù rồi ra Thiên sứ Whis đổi đồ thiên sứ
+thien su,mts,manh ts, co manh khong mua, co manh khong doi, co manh khong duoc| Cần mảnh thiên sứ + đồ thần linh + đồ huỷ diệt mới đổi được đồ thiên sứ. Mảnh thiên sứ up ở hành tinh ngục tù rồi ra Thiên sứ Whis đổi đồ thiên sứ
 cau ca|👉 Chức năng câu cá\nhttps://thanhdi.com/huong-dan/posts/cach-kiem-can-cau-va-cau-ca.html
 tieu doi sat thu,tdst,boss so,so 4|Tiểu đội sát thủ - Núi khỉ đen, Hang khỉ đen, Núi khỉ đỏ - 10 phút\nGiờ hỗ trợ: Anh chat "hỗ trợ" ở đây giúp em\n[Tiểu đội sát thủ ở namec không tính nhiệm vụ nhé anh, hiện tại chưa rơi gì]
 fide,fd,fire| Fide - 10 phút - giờ hỗ trợ: 9-12h và 21-24h  
