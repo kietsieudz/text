@@ -11,7 +11,9 @@ xd hay td, xd hay nm, xd hay nm, td hay nm|Hành tinh nào cũng ngon hết trơ
 tra lo di|Dạ anh chờ xíu ad vào hỗ trợ ngay ạ
 the qua tang|Anh gặp quy lão -> khu vực bang -> giu ma -> khiêu chiến cá nhân có thẻ quà tặng
 tam quoc|Tam quốc là server 2 nha
+quen mat khau|Game không có liên kết để quên mật khẩu ạ
 do de|Santa có cửa hàng đệ tử đó anh, ra lựa đi
+la hay nguoi|Dạ em là máy và admin cũng đang ở đây trực nữa a
 mat chu, mat hinh anh|Xoá dữ liệu rồi tải dữ liệu mới thử
 bang gia, bang nap, bang ti le, bang ty le, bang quy doi|Trong NPC trong nhà có tỷ lệ quy đổi và quà mốc đó, anh vào xem nhé
 giong nhau|Server nào cũng như nhau nè, đều được cập nhật như nhau cùng lúc hết
@@ -114,8 +116,8 @@ dich chuyen|Để dịch chuyển anh cần có cải trang dịch chuyển. Đ�
 page1, page2, fanpage 1, fanpage 2, page 1, page 2, fanpage1, fanpage2|Fanpage nào còn thì a làm nha, 2 page kia đang bị ẩn để xem xét á
 dk xong, dky, dang ky, dang ki, dki|Hãy "đăng ký" ở link https://thanhdi.com [Mở trên chrome hoặc Safari nhé ]
 xong roi,share,Envent,event,tan thu,even,chia se,fl,filo,filow, follow,floww,flow,folow,folo,foloow,folooow,foloooow,follw,folllow,folllloow,folllo,folw,fw,flo,fllow,flloww,fow,flw, lam gì|🎁 Em Gửi Hướng dẫn event tân thủ nhận quà trong nhà nhé (Event Chia Sẻ)\nhttps://thanhdi.com/event
-link,xin linh,linh game,cai linh,trang chu,tai game, tai o dau,dang ky, dang ki,tai sao,download,website,web,dien dan,jar,java,jav,apk,pc,windows,may tinh,ios,tf,testflight,ipa,tai k dc,tai ko dc,doanh nghiep,tai khong dc,tai k duoc,tai ko duoc,tai khong duoc|IMG:https://sv1.thanhdi.games/static/sonic/img/anhtaigame.png
-link,xin linh,linh game,cai linh,trang chu,tai game, Tai game, game tai,tai o dau,cach tai,dang ky, dang ki,tai sao,download,website,web,dien dan,jar,java,jav,apk,pc,windows,may tinh,ios,tf,testflight,doanh nghiep,ipa|👉 Trang chủ:\nhttps://thanhdi.com\n\n👉 Hướng dẫn tải:\nhttps://thanhdi.com/huongdantai\n\nℹ️ [Mở link|Click link|Truy cập link] trong Messenger thì [không đăng nhập được|không tải được|không thao tác được] đâu anh\n👉 Anh chịu khó [copy link|sao chép link] mở bằng Safari hoặc Chrome giúp em nha!
+link,xin linh,linh game,cai linh,trang chu,xin tai,sin like,xin like,tai game, tai o dau,dang ky, dang ki,tai sao,download,website,web,dien dan,jar,java,jav,apk,pc,windows,may tinh,ios,tf,testflight,ipa,tai k dc,tai ko dc,doanh nghiep,tai khong dc,tai k duoc,tai ko duoc,tai khong duoc|IMG:https://sv1.thanhdi.games/static/sonic/img/anhtaigame.png
+link,xin linh,linh game,cai linh,trang chu,xin tai,sin like,xin like,tai game, Tai game, game tai,tai o dau,cach tai,dang ky, dang ki,tai sao,download,website,web,dien dan,jar,java,jav,apk,pc,windows,may tinh,ios,tf,testflight,doanh nghiep,ipa|👉 Trang chủ:\nhttps://thanhdi.com\n\n👉 Hướng dẫn tải:\nhttps://thanhdi.com/huongdantai\n\nℹ️ [Mở link|Click link|Truy cập link] trong Messenger thì [không đăng nhập được|không tải được|không thao tác được] đâu anh\n👉 Anh chịu khó [copy link|sao chép link] mở bằng Safari hoặc Chrome giúp em nha!
 trang khong vao duoc, khong tim thay|Nếu trang không vào được a thử copy link ra chrome hoặc safari thử. Nếu vẫn không được anh chờ xíu em gọi admin cho nhá!
 co che|👉 Cơ chế game nha\nhttps://thanhdi.com/huong-dan
 ban nick, ban acc|Ad không bán nick nha 🥰
