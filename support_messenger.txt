@@ -11,10 +11,6 @@ xd hay td, xd hay nm, xd hay nm, td hay nm|Hành tinh nào cũng ngon hết trơ
 tra lo di|Dạ anh chờ xíu ad vào hỗ trợ ngay ạ
 the qua tang|Anh gặp quy lão -> khu vực bang -> giu ma -> khiêu chiến cá nhân có thẻ quà tặng
 tam quoc|Tam quốc là server 2 nha
-nhung set gi|Game đủ các set như Kame, Kaioken, Qckk, Laze, Trứng, Liên hoàn, Boom, Khỉ, Galick
-no bao quai, no bao hoai|Tắt hẳn game rồi vô lại nha a
-cay cau ran, rừng nhiệt đới|Ra đảo kame sẽ thấy map Rừng nhiệt đới, vào đó sẽ thấy cây cầu rắn
-
 quen mat khau|Game không có liên kết để quên mật khẩu ạ
 do de|Santa có cửa hàng đệ tử đó anh, ra lựa đi
 la hay nguoi|Dạ em là máy và admin cũng đang ở đây trực nữa a
@@ -99,7 +95,7 @@ ma namec, than ma,xa linh|👉 Boss Thần Ma Namec\nhttps://thanhdi.com/huong-d
 tay karin| Boss Tây Karin đọc ở đây (nhớ like + cmt): https://www.facebook.com/share/p/18f7oQWDtJ/
 k tai, ko tai, khong tai| Copy link ra dán vào chrome hoặc safari mới tải được, đừng bấm thẳng vào link ở đây nha
 xin ip,ipsv|Tất cả bản trên web đã cài sẵn Ip (tải về xoá dữ liệu rồi sài thôi)
-gifrcode,giftcode,code,codde,giitcode,xincode,giffcode,ccode,ccodee,xin cod,xin cosd,xincod,xin co, xin codee, xin codeee,bulma,bunma,wedding,cai trang,fullcode,fullgift,fullgiftcode|[🎁 Em gửi anh toàn bộ Giftcode của game|🎁 Em gửi anh danh sách Giftcode của game|🎁 Toàn bộ Giftcode của game em gửi anh tại đây]\nhttps://thanhdi.com/giftcode
+gifrcode,giftcode,code,codde,xincode,giffcode,ccode,ccodee,xin cod,xin cosd,xincod,xin co, xin codee, xin codeee,bulma,bunma,wedding,cai trang,fullcode,fullgift,fullgiftcode|[🎁 Em gửi anh toàn bộ Giftcode của game|🎁 Em gửi anh danh sách Giftcode của game|🎁 Toàn bộ Giftcode của game em gửi anh tại đây]\nhttps://thanhdi.com/giftcode
 khong hieu|Anh chờ xíu admin vào giải thích cặn kẽ giúp anh nhé
 nhu nay dung khong|Anh ơi em không thể xem được ảnh, anh nói tên thứ anh hỏi giúp em nhé!\nHoặc chờ xíu admin vào xem ảnh rồi hỗ trợ anh nha
 lang vampa|Làng vampa anh ra vách núi đen gặp Paragus nhé!
@@ -130,8 +126,8 @@ pha nhiem vu, pha nv|Game có khung giờ hỗ trợ đó anh! chat 'giờ hỗ 
 zalo rieng, zalo admin|Bạn vào nhóm tìm key vàng là admin nha https://thanhdi.com/groups
 tai du lieu, thanh nay, chay mai, tai mai|Tải dữ liệu bị kẹt thì Anh tắt game mở lại để nó tải lại nha a
 cu len xuong|Ra màn hình chỗ đăng nhập bấm nút dưới góc bên phải để xoá dữ liệu tải lại là hết nha
-coin,koin|Anh có thể kiếm coin bằng cách nạp hoặc event tương tác nhé!
-coin,koin|👉 Anh vào đây bấm nút "Event Tương Tác" để xem chi tiết nhé\nhttps://thanhdi.com/support
+coin|Anh có thể kiếm coin bằng cách nạp hoặc event tương tác nhé!
+coin|👉 Anh vào đây bấm nút "Event Tương Tác" để xem chi tiết nhé\nhttps://thanhdi.com/support
 su kien,sk|👉 Sự kiện Xem ở đây\nhttps://thanhdi.com/support 
 mua bong tai dung duoc luon|Mua bông tai nào cũng sài được hết nha, không cần theo level đâu
 muon mua|Anh có thể vào trang chủ để nạp rồi vào game đổi sang hồng ngọc hoặc thỏi vàng rồi ưng mua gì mua nhé anh? Anh chat "nạp thẻ" để em gửi hướng dẫn nạp nhé!
@@ -144,12 +140,10 @@ loi laze, loi bom, loi boom, boom xit, laze xit| Giảm tốc độ game xuống
 hong ngoc,hngoc,hn,ngoc hong| "Hồng ngọc" săn boss, up cold, up capsule kì bí, Đại hội võ thuật + Đại hội võ thuật 23 + Siêu Hạng, Nạp thẻ
 thoi vang,tvang,tv,vang| "Thỏi vàng" làm nhiệm vụ bò mộng, hộ tống, Đại hội võ thuật 23, Nạp thẻ, Vàng nhận nhận miễn phí không giới hạn ở nhà
 menu,mod,mode,auto, focus,xin lenh, lenh chat|👉 [Bấm vào logo|Nhấn logo|Chạm logo] ([bản PC bấm phím X|PC nhấn X]) để [mở menu mod|bật menu mod|hiện menu mod]
-xong roi, xong r, duyet, xog roi,kich hoat, kiem tra,day ad, xog r,share,Envent,tk,tai khoan,tkhoan,event,check,e gui, em gui,done,da tham gia, share 1, share 2, share 3, share 4, event 3, event 1, event 2, event 4, share1, share2, share3, share4, event1, event2, event3,event4, danh gia, follow, theo doi, e1, e2, e3,e4, even3, duoc chua, da lam|👉 [Xong event|Hoàn thành event] thì [chờ xíu|đợi chút] ad vào duyệt nha! Event đánh giá nhớ để lại [Tài khoản|Nick] + [Server|SV] nhé
+xong roi, xong r, duyet, xog roi,kich hoat, kiem tra, xog r,share,Envent,tk,tai khoan,tkhoan,event,check,e gui, em gui,done,da tham gia, share 1, share 2, share 3, share 4, event 3, event 1, event 2, event 4, share1, share2, share3, share4, event1, event2, event3,event4, danh gia, follow, theo doi, e1, e2, e3,e4, even3, duoc chua, da lam|👉 [Xong event|Hoàn thành event] thì [chờ xíu|đợi chút] ad vào duyệt nha! Event đánh giá nhớ để lại [Tài khoản|Nick] + [Server|SV] nhé
 huong dan|Anh xem trong chỗ thông báo của game có hướng dẫn, hoặc nhắn ở đây em và ad hỗ trợ [24/24] nhé!
 cooler vang, gold fide, fide gold|Boss fide gold xuất hiện 21h mỗi ngày ở Đông Karin
 kaioken hay kame| Cái nào cũng ngon hết trơn
-dang 1 bai| Cần đăng 10 bài ở 10 group khác nhau mới tính nha anh
-tu sang den|Anh ơi chắc ad đang có việc bận ấy. anh ráng chờ thêm xíu nha 🥹
 quai trau nhat| Qua địa ngục quái trâu đó, gặp thần vũ trụ rồi tới
 may loai skh, may loai set kich hoat|Có nhiều lắm anh ơi, Ra hạt mít coi cách kiếm đó toàn cày là có
 k len,khong len, k tang, ko tang, khong tang,ko len,k len sm, khong len suc manh, khong co tiem nang, k có tiem nang, ko co tiem nang, ko có suc manh, k co suc manh, ko len suc manh, k len suc manh| Out game vô lại thử má. Qua vách morri xem mở full giới hạn sức mạnh chưa
@@ -165,7 +159,7 @@ bao tri,game bi,game sao,bso tri,bi sao, btri, btr, baotri,khong vao duoc,k vo d
 bao tri,game bi,game sao,bi sao, btri, btr, baotri,k vo dc,ko vo dc,khong vao duoc,khong vo dc,k vo duoc,ko vo duoc,khong vo duoc,xoay,mkn, mat ket noi, dis, vang game, bi out, bi vang,lag,game lang,game lac,xdl,xoa du lieu,tkmk,tk mk,thanh cong,dang ky,dky,tao,sai,chinh xac,dang nhap,tao nv,tao nhan vat|
 toc do,cham,tang toc,cheat,speed,nhanh| Tăng tốc độ game hãy CHAT thử từng cái nhé: 's3' hoặc 's 3' (hoặc bấm vào Logo) (pc bấm phím x) 
 spl,sao pha le| Sao pha lê mua ở shop mở rộng hành trang ở Santa  
-up sp,up nhanh,up tnsm,up smtn,up tiem nang,tang sm,smtn, tnsm,up lau,tnsm nhanh,up tn, tang suc manh,dau nhanh, up suc manh, nhanh sm, nhanh tn,up de,up dt,up dau,up sm,300ty,400ty,cay nhanh,cay smtn,cay sm|👉 Up bên ngoài map thường trước rồi [Cày nhanh|Farm nhanh] [sư phụ và đệ tử|SP–ĐT] tại [Ngũ Hành Sơn (Đường Tăng – làng Aru)|Địa Ngục (Thần Vũ Trụ – hành tinh Kaio)|Rừng Nhiệt Đới (đảo Kame)]
+up sp,up nhanh,up tnsm,up smtn,up tiem nang,tang sm,smtn, tnsm,up lau,tnsm nhanh,up tn, tang suc manh,dau nhanh, up suc manh, nhanh sm, nhanh tn,up de,up dt,up dau,up sm,300ty,400ty,cay nhanh,cay smtn,cay sm|👉 Up bên ngoài map thường trước rồi [Cày nhanh|Farm nhanh] [sư phụ và đệ tử|SP–ĐT] tại [Ngũ Hành Sơn (Đường Tăng – làng Aru)|Địa Ngục (Thần Vũ Trụ – hành tinh Kaio)|Rừng Nhiệt Đới (đảo Kame)]\nSức mạnh càng cao tiềm năng càng thấp
 vip thang|Anh xem chi tiết vip tháng ở Quy lão đó anh!
 tiem nang de|Đệ tử tự nâng tiềm năng nha anh!
 boss bui bui, boss buibui|Anh dùng đấm thường để đánh buibui nha a
@@ -226,7 +220,7 @@ manh ba, rau muong, gia vi, nau canh| Canh mạnh bà bạn có thể mua ở sa
 bi kip,yadat,yardrat| Bạn qua núi khỉ vàng gặp goku ssj rồi vào hành tinh yardrat up bí kíp cải trang. Và Đi doanh trại đánh quái là rơi bí kíp tuyệt kĩ nhé, xong ra quy lão học sì kiu đặc biệt  
 thien su,mts,manh ts, co manh khong mua, co manh khong doi, co manh khong duoc| Cần mảnh thiên sứ + đồ thần linh + đồ huỷ diệt mới đổi được đồ thiên sứ. Mảnh thiên sứ up ở hành tinh ngục tù rồi ra Thiên sứ Whis đổi đồ thiên sứ
 cau ca|👉 Chức năng câu cá\nhttps://thanhdi.com/huong-dan/posts/cach-kiem-can-cau-va-cau-ca.html
-tieu doi sat thu,tdst,boss so,so 4, 4321|Tiểu đội sát thủ - Núi khỉ đen, Hang khỉ đen, Núi khỉ đỏ - 10 phút\nGiờ hỗ trợ: Anh chat "hỗ trợ" ở đây giúp em\n[Tiểu đội sát thủ ở namec không tính nhiệm vụ nhé anh, hiện tại chưa rơi gì]
+tieu doi sat thu,tdst,boss so,so 4|Tiểu đội sát thủ - Núi khỉ đen, Hang khỉ đen, Núi khỉ đỏ - 10 phút\nGiờ hỗ trợ: Anh chat "hỗ trợ" ở đây giúp em\n[Tiểu đội sát thủ ở namec không tính nhiệm vụ nhé anh, hiện tại chưa rơi gì]
 fide,fd,fire| Fide - 10 phút - giờ hỗ trợ: 9-12h và 21-24h  
 sach kame level 2|Sách kamejoko lv2 hiển thị ở shop santa là lỗi á, mua xong k dùng được đâu
 khong lam nv nay duoc|Anh quay video lại gửi vào đây xíu admin vào xử lý nhen! Cảm ơn anh 
