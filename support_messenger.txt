@@ -10,7 +10,6 @@ open1-15,open1->15,open1,open15,khong duoc cai nao, code loi,khong nhap duoc, nh
 dthuong,dthg,cute, dth, haha, kkk, kk, hehe,hehehe, kaka, love admin, yeu|Anh nhớ rủ bạn bè vào chơi chung cho zui nhen
 ve tinh|Vệ tinh có thể mua ở santa đó
 buff con acc, bufff con acc| game không có buff biếc gì anh ơi
-
 luoi cay|Cày từ từ rồi mạnh nè. chơi game mà lười sao dc
 poke khong|Tỷ lệ ra pet vĩnh viễn không phải 100% nha a
 no dung lam gi|Anh ghi rõ tên vật phẩm giúp em nha
@@ -131,10 +130,10 @@ xong roi,share,Envent,event,tan thu,even,chia se,fl,filo,filow, follow,floww,flo
 link,xin linh,linh game,cai linh,trang chu,xin tai,sin like,xin like,tai game, tai o dau,dang ky, dang ki,tai sao,download,website,web,dien dan,jar,java,jav,apk,pc,windows,may tinh,ios,tf,testflight,ipa,tai k dc,tai ko dc,doanh nghiep,tai khong dc,tai k duoc,tai ko duoc,tai khong duoc|IMG:https://sv1.thanhdi.games/static/sonic/img/anhtaigame.png
 link,xin linh,linh game,cai linh,trang chu,xin tai,sin like,xin like,tai game, Tai game, game tai,tai o dau,cach tai,dang ky, dang ki,tai sao,download,website,web,dien dan,jar,java,jav,apk,pc,windows,may tinh,ios,tf,testflight,doanh nghiep,ipa|👉 Trang chủ:\nhttps://thanhdi.com\n\n👉 Hướng dẫn tải:\nhttps://thanhdi.com/huongdantai\n\nℹ️ [Mở link|Click link|Truy cập link] trong Messenger thì [không đăng nhập được|không tải được|không thao tác được] đâu anh\n👉 Anh chịu khó [copy link|sao chép link] mở bằng Safari hoặc Chrome giúp em nha!
 trang khong vao duoc, khong tim thay|Nếu trang không vào được a thử copy link ra chrome hoặc safari thử. Nếu vẫn không được anh chờ xíu em gọi admin cho nhá!
-co che|👉 Cơ chế game nha\nhttps://thanhdi.com/huong-dan
+co che, quy che|👉 Cơ chế game nha\nhttps://thanhdi.com/huong-dan
 ban nick, ban acc|Ad không bán nick nha 🥰
 pha nhiem vu, pha nv|Game có khung giờ hỗ trợ đó anh! chat 'giờ hỗ trợ' em gửi thông tin chi tiết nha
-
+khai, phong, giai, an|Up ở ngũ hành sơn đúng khung giờ mới rơi
 zalo rieng, zalo admin|Bạn vào nhóm tìm key vàng là admin nha https://thanhdi.com/groups
 tai du lieu, thanh nay, chay mai, tai mai|Tải dữ liệu bị kẹt thì Anh tắt game mở lại để nó tải lại nha a
 cu len xuong|Ra màn hình chỗ đăng nhập bấm nút dưới góc bên phải để xoá dữ liệu tải lại là hết nha
@@ -260,7 +259,7 @@ gui qua day|Anh làm xong event cứ gửi qua đây xíu admin duyệt liền n
 lam xong moi biet|Dạ có ghi thể lệ ở chỗ làm event đó a
 
 con online|Dạ em thì luôn online, admin thì anh cứ nhắn xíu là admin vào ấy
-dang 10 bai|Đúng rồi anh cần đăng 10 bài vào 10 groups khác nhau là được nha, chụp đủ gửi vào đây là được xíu admin duyệt
+dang 10 bai, dang lai a, dang lai ha,chup lai|Đúng rồi anh cần đăng 10 bài vào 10 groups khác nhau là được nha, chụp đủ gửi vào đây là được xíu admin duyệt
 lam nhiem vu nan luon|Game nào cũng có cái khó ấy anh ơi, cũng do ý thức người chơi hay muốn phá và làm khó nhau ấy. Anh canh có giờ hỗ trợ nhiệm vụ hãy vào sẽ dễ làm hơn. Anh chat "giờ hỗ trợ" để em gửi giờ hỗ trợ cho nhé
 may sao, level| Trang bị thường 10 sao và trang bị vip 12 sao, trang bị thường 9 cấp và trang bị vip 10 cấp (cày có hết)
 zeno| Về nhà nạp đầu đi là có cải trang zeno, mặc cải trang zeno đánh quái ở fide sẽ rơi đá, rồi vô nhà nâng cấp  
