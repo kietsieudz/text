@@ -48,7 +48,7 @@ cuc bang|Gặp NPC trước làng để tới cực băng
 binh nuoc phep|Bình nước phép mua ở Uron ở trạm tàu vũ trụ. Kết hợp với Mảnh đá vụn tạo được đá nâng cấp (gặp bà hạt mít vách núi nâng)
 da vun|Mảnh đá vụn đánh quái ngẫu nhiên sẽ rơi. Kết hợp với Bình nước phép tạo được đá nâng cấp (gặp bà hạt mít vách núi nâng)
 doi hanh tinh|Game không có đổi hành tinh anh ơi
-loi boss|Game không lỗi boss đâu anh. Anh canh thông báo hoặc qua dò khu ấy, đôi khi boss cũ chưa ai hạ gục nên nó cứ ở chỗ cũ
+loi boss,khong thay nhiem vu, khong thay boss|Game không lỗi boss đâu anh. Anh canh thông báo hoặc qua dò khu ấy, đôi khi boss cũ chưa ai hạ gục nên nó cứ ở chỗ cũ
 ti le, ty le, tie le|Dạ anh ơi! Tỷ lệ hên xui ấy, không có % cụ thể ạ!😅
 100 mau toan hut, 100 mau toan 0|Khi boss Hidugran sắp chết tỷ lệ né của nó rất cao ạ!
 Con gi nua|Anh xem trên link em gửi á anh! Em tổng hợp code rồi đó ạ
@@ -104,7 +104,7 @@ ma namec, than ma,xa linh|👉 Boss Thần Ma Namec\nhttps://thanhdi.com/huong-d
 tay karin| Boss Tây Karin đọc ở đây (nhớ like + cmt): https://www.facebook.com/share/p/18f7oQWDtJ/
 k tai, ko tai, khong tai, tai hong duoc, tai hog duoc| Copy link ra dán vào chrome hoặc safari mới tải được, đừng bấm thẳng vào link ở đây nha
 xin ip,ipsv|Tất cả bản trên web đã cài sẵn Ip (tải về xoá dữ liệu rồi sài thôi)
-gifrcode,giftcode,code,codde,cade,full,core,gitcodo,xincode,giffcode,ccode,ccodee,xin cod,xin cosd,xincod,xin co, xin codee, xin codeee,bulma,bunma,wedding,cai trang,fullcode,fullgift,fullgiftcode|[🎁 Em gửi anh toàn bộ Giftcode của game|🎁 Em gửi anh danh sách Giftcode của game|🎁 Toàn bộ Giftcode của game em gửi anh tại đây]\nhttps://thanhdi.com/giftcode
+gifrcode,giftcode,code,xinncode,codde,cade,full,gidcode,core,gitcodo,cde,xincode,giffcode,ccode,ccodee,xin cod,xin cosd,xincod,xin co, xin codee, xin codeee,bulma,bunma,wedding,cai trang,fullcode,fullgift,fullgiftcode|[🎁 Em gửi anh toàn bộ Giftcode của game|🎁 Em gửi anh danh sách Giftcode của game|🎁 Toàn bộ Giftcode của game em gửi anh tại đây]\nhttps://thanhdi.com/giftcode
 khong hieu|Anh chờ xíu admin vào giải thích cặn kẽ giúp anh nhé
 nhu nay dung khong|Anh ơi em không thể xem được ảnh, anh nói tên thứ anh hỏi giúp em nhé!\nHoặc chờ xíu admin vào xem ảnh rồi hỗ trợ anh nha
 lang vampa|Làng vampa anh ra vách núi đen gặp Paragus nhé!
@@ -156,8 +156,8 @@ bn sm gd,bao nhieu suc manh, bn suc manh, bao nhieu sm, bnhieu sm| 40 tỷ giao 
 loi laze, loi bom, loi boom, boom xit, laze xit| Giảm tốc độ game xuống đi mới dùng được. Nhanh quá là xịt
 hong ngoc,hngoc,hn,ngoc hong| "Hồng ngọc" săn boss, up cold, up capsule kì bí, Đại hội võ thuật + Đại hội võ thuật 23 + Siêu Hạng, Nạp thẻ
 thoi vang,tvang,tv,vang| "Thỏi vàng" làm nhiệm vụ bò mộng, hộ tống, Đại hội võ thuật 23, Nạp thẻ, Vàng nhận nhận miễn phí không giới hạn ở nhà
-menu,mod,mode,auto,autu,aoto, focus,xin lenh, lenh chat|👉 [Bấm vào logo|Nhấn logo|Chạm logo] ([bản PC bấm phím X|PC nhấn X]) để [mở menu mod|bật menu mod|hiện menu mod]
-xong roi, xong r, duyet, xog roi,kich hoat, kiem tra, xog r,share,Envent,tk,tai khoan,tkhoan,event,check,e gui, em gui,done,da tham gia, share 1, share 2, share 3, share 4, event 3, nhan qua,event 1, event 2, event 4, share1, share2, share3, share4, event1, event2, event3,event4, danh gia, follow, theo doi, e1, e2, e3,e4, even3, duoc chua, da lam|👉 [Xong event|Hoàn thành event] thì [chờ xíu|đợi chút] ad vào duyệt nha! Event đánh giá nhớ để lại [Tài khoản|Nick] + [Server|SV] nhé
+menu,mod,mode,auto,autu,aoto,hack, focus,xin lenh, lenh chat|👉 [Bấm vào logo|Nhấn logo|Chạm logo] ([bản PC bấm phím X|PC nhấn X]) để [mở menu mod|bật menu mod|hiện menu mod]
+xong roi, xong r, duyet, xog roi,kich hoat, kiem tra, xog r,share,Envent,tk,tai khoan,tkhoan,event,check,e gui, em gui,done,da tham gia, share 1, share 2, share 3, share 4, event 3, nhan qua,event 1, event 2, event 4, share1, share2, share3, share4, event1, event2, event3,event4,lau du,lau vay, danh gia, follow, theo doi, e1, e2, e3,e4, even3, duoc chua, da lam,kick hoat, kich hoat|👉 [Xong event|Hoàn thành event] thì [chờ xíu|đợi chút] ad vào duyệt nha! Event đánh giá nhớ để lại [Tài khoản|Nick] + [Server|SV] nhé
 huong dan|Anh xem trong chỗ thông báo của game có hướng dẫn, hoặc nhắn ở đây em và ad hỗ trợ [24/24] nhé!
 cooler vang, gold fide, fide gold|Boss fide gold xuất hiện 21h mỗi ngày ở Đông Karin
 kaioken hay kame| Cái nào cũng ngon hết trơn
@@ -172,12 +172,12 @@ ngoc| ngọc săn boss cooler rơi rương ngọc mở ra lấy ngọc ép vào 
 up cold| Up cold rơi: hồn hạ tôn, hồn thiên tôn, thức ăn, hồng ngọc, đồ thần linh,..
 dame| Dame trung trên gốc xíu nha má. dễ chơi còn lâu dài. Boss từ TDST -> Xên sẽ giới hạn sát thương để hỗ trợ nhiệm vụ
 rot cap,xit cap,ha cap,tut cap| Lúc nâng trang bị bà Hạt mít có thông báo rớt hay không, nếu rớt chắc chắn sẽ trừ chỉ số. Để an toàn hãy dùng đá bảo vệ ở Santa bỏ vào nhé
-game loi,loi roi,bi loi, bao loi, loi a, loi ha|Bạn ghi chi tiết lỗi ở đây để admin fix nhá: https://thanhdi.games/bao-loi.php
+game loi,loi roi,bi loi, bao loi, loi a, loi ha, loi game|Bạn ghi chi tiết lỗi ở đây để admin fix nhá: https://thanhdi.games/bao-loi.php
 bao tri,game bi,game sao,bso tri,bi sao, btri, btr, baotri,khong vao duoc,k vo dc,ko vo dc,khong vo dc,k vo duoc,ko vo duoc,khong vo duoc,xoay,mkn, mat ket noi, dis, vang game, bi out, bi vang,lag,game lang,game lac,xdl,xoa du lieu,tkmk,tk mk,thanh cong,dang ky,dky,tao,sai,chinh xac,dang nhap,tao nv,tao nhan vat|👉 Anh xem Server có đang bảo trì hay không:\nhttps://thanhdi.games/trangthai.php\n\n👉 Nếu gặp lỗi, anh vào đây xem cách fix nhé:\nhttps://thanhdi.com/fixloi
 bao tri,game bi,game sao,bi sao, btri, btr, baotri,k vo dc,ko vo dc,khong vao duoc,khong vo dc,k vo duoc,ko vo duoc,khong vo duoc,xoay,mkn, mat ket noi, dis, vang game, bi out, bi vang,lag,game lang,game lac,xdl,xoa du lieu,tkmk,tk mk,thanh cong,dang ky,dky,tao,sai,chinh xac,dang nhap,tao nv,tao nhan vat|
 toc do,cham,tang toc,cheat,speed,nhanh| Tăng tốc độ game hãy CHAT thử từng cái nhé: 's3' hoặc 's 3' (hoặc bấm vào Logo) (pc bấm phím x) 
 spl,sao pha le| Sao pha lê mua ở shop mở rộng hành trang ở Santa  
-up sp,up nhanh,up tnsm,up smtn,up tiem nang,tang sm,smtn, tnsm,up lau,tnsm nhanh,up tn, tang suc manh,dau nhanh, up suc manh, nhanh sm, nhanh tn,up de,up dt,up dau,up sm,300ty,400ty,cay nhanh,cay smtn,cay sm|👉 Up bên ngoài map thường trước rồi [Cày nhanh|Farm nhanh] [sư phụ và đệ tử|SP–ĐT] tại [Ngũ Hành Sơn (Đường Tăng – làng Aru)|Địa Ngục (Thần Vũ Trụ – hành tinh Kaio)|Rừng Nhiệt Đới (đảo Kame)]\nSức mạnh càng cao tiềm năng càng thấp
+up sp,up nhanh,up tnsm,up smtn,up tiem nang,tang sm,smtn, tnsm,up lau,tnsm nhanh,up tn, tang suc manh,dau nhanh, up suc manh, nhanh sm, nhanh tn,up de,up dt,up dau,up sm,300ty,400ty,cay nhanh,cach cay,cay smtn,cay sm|👉 Up bên ngoài map thường trước rồi [Cày nhanh|Farm nhanh] [sư phụ và đệ tử|SP–ĐT] tại [Ngũ Hành Sơn (Đường Tăng – làng Aru)|Địa Ngục (Thần Vũ Trụ – hành tinh Kaio)|Rừng Nhiệt Đới (đảo Kame)]\nSức mạnh càng cao tiềm năng càng thấp
 vip thang|Anh xem chi tiết vip tháng ở Quy lão đó anh!
 tiem nang de|Đệ tử tự nâng tiềm năng nha anh!
 boss bui bui, boss buibui|Anh dùng đấm thường để đánh buibui nha a
@@ -189,6 +189,7 @@ nak, nakroth|Boss nak rơi mảnh chiến thần để nâng bậc chiến thầ
 logo|Logo nằm giữa màn hình phia trên đó anh.
 gui anh|Dạ anh gửi ảnh vào đây giúp em nhá! Xíu admin vô xem liền á
 cuu voi|Bạn chờ xíu admin vào cứu bạn nhá!
+treo cold duoc|Treo cold rơi thức ăn nếu mặc đủ 1 set 5 món thần linh, rơi hồn hạ tôn nếu dùng cuồng nộ, rơi hồn chí tôn nếu dùng cuồng nộ siêu cấp, rơi hồng ngọc,..các thứ khác
 chi so, suc danh|Max chỉ số sư phụ và đệ tử các bậc anh xem ở đây nha: https://thanhdi.com/huong-dan/posts/chi-so-goc-su-phu-de-tu-max.html
 thu cuoi|Anh có thể mua thú cưỡi ở Santa, nhiệm vụ KOL ở Quy lão hoặc Rút may mắn ở Lý tiểu nương
 vps la gi|VPS giống như một chiếc máy tính luôn bật sẵn trên mạng\nNgười chơi thuê VPS để treo game, không cần bật máy ở nhà và vẫn online liên tục.
@@ -198,7 +199,7 @@ hoat dong ngay|Danh sách hoạt động ngày ở Chichi đảo kame đó anh
 khong qua noi nhiem vu|Nhiệm vụ có lẽ hơi đông người làm nên khó. Anh canh thời gian hỗ trợ nhiệm vụ rồi làm sẽ dễ hơn á
 dia nguc| Gặp thần vũ trụ tại hành tinh kaio để đến địa ngục  
 hanh tinh kaio, htinh kaio, hanhtinh kaio|Anh dùng capsule bay đến hành tinh Kaio nhé
-
+nay o dau|Anh ghi rõ tên vật phẩm ra giúp em với ạ
 htnt,nguc tu| Dùng capsule hoặc vào rừng karin rồi đi lên trên để đến hành tinh ngục tù  
 loi cs,loi chi so| Đệ tử up nhanh không lỗi chỉ số đệ  
 tieu hat| Giết boss doanh trại rơi tiểu hạt
@@ -225,13 +226,14 @@ diem boss|Đánh boss ngẫu nhiên sẽ có điểm boss đó nha
 den cold,qua cold,qua duoc cold,qua dc cold,den coler,den cooler,qua cooler,qua coler,toi coler,toi cooler,qua dc coler,qua dc cooler,toi cold| Xong nhiệm vụ xên hoàn thiện ở thị trấn ginder là qua được cold 
 dung dau|Mua bùa cho đệ tử là nó tự nhai đậu rồi khỏi auto  
 the luc|Mua bùa dẻo dai vào là khỏi lo hết thể lực nhé  
-con duong ran doc|Con đường rắn độc 7 ngày mới đi được 1 lần nha anh. Rơi cải trang và phiếu giảm giá
+con duong ran doc, con duong gan doc|Con đường rắn độc 7 ngày mới đi được 1 lần nha anh. Rơi cải trang và phiếu giảm giá
 thi luyen reset|Boss thí luyện sẽ không reset nha anh
 can mat khau|Vì lý do bảo mật, admin không bao giờ yêu cầu mật khẩu.\nNgười chơi chỉ cần cung cấp tên nhân vật hoặc tên tài khoản để được hỗ trợ.
 vamchar|Làng vamchar bạn tới làng morri để vào nhé  
 lang la| Từ đảo hoa chạy sang trái là đến làng lá  
 thi luyen, the qua|Qua đảo kame gặp Quy lão -> đến Khu vực bang -> Giu-ma vào thí luyện
 lay capsule,nhan capsule|Về nhà nhận capsule nhé
+nhat an, nguyet an, tinh an|Anh ra bà hạt mít ở đảo kame chọn Khắc ấn trang bị để đọc thông tin chi tiết nha
 cuong no sieu cap, no c2,cuong no c2,cuong no 2,cuong no,item,cnsc,may do,cskb,ki bi,cn,bh,bo huyet,bo khi,bk|Item thường mở từ capsule kì bí (up đồng xu ở quái ngũ hành sơn, rồi mua máy dò ở tương lai) 
 cuong no sieu cap, no c2,cuong no c2,cuong no 2,cuong no,item,cnsc,may do,cskb,ki bi,cn,bh,bo huyet,bo khi,bk|Item siêu cấp hạ gục Trung úy xanh lơ ở Bản đồ kho báu (cần bản đồ ở doanh trại để đi bản đồ)
 manh ba, rau muong, gia vi, nau canh| Canh mạnh bà bạn có thể mua ở santa hoặc thu thập x999 11 nguyên liệu ở địa ngục. Bấm sử dụng nguyên liệu để nấu (dùng được 1 lần duy nhất)
