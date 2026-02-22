@@ -9,7 +9,7 @@ ad buon ban|Chỉ có nạp vào game rồi đổi sang hồng ngọc hay thỏi
 bao nhieu qua cau|Mua quả cầu poke bấm dùng sẽ có tỷ lệ ra pet vĩnh viễn, cứ mua từ từ cũng được nha không cần cùng lúc
 ad hay bot|Em là bot trực 24/24 admin cũng trực nhưng không 24/24 như em
 ngoai hinh hop the,hinh dang hop the, hop the khong duoc,hinh dang, ngoai hinh|Anh bấm logo -> chọn Menu Mod -> bật ngoại hình hợp thể
-open1-15,open1->15,open1,open15, duoc cai nao, code loi,khong nhap duoc, nhap duoc dau|Game gộp code open1-15 thành code "tdstudio" cho tiện rồi nha (đỡ nhập nhiều mỏi tay)
+open1-15,open1->15,open1,open15, duoc cai nao, code loi,khong nhap duoc, nhap duoc dau, khong ton tai|Game gộp code open1-15 thành code "tdstudio" cho tiện rồi nha (đỡ nhập nhiều mỏi tay)
 dthuong,dthg,cute, dth, haha, kkk, kk, hehe,hehehe, kaka, love admin, yeu, game hay|Anh nhớ rủ bạn bè vào chơi chung cho zui nhen
 ve tinh|Vệ tinh có thể mua ở santa đó
 back lai|Game không hỗ trợ Back lại ạ! Anh thông cảm!
@@ -373,7 +373,7 @@ boss vua ra khong|Có thể boss bị người khác ăn rồi, hoặc dò sót 
 check gd|Xem lịch sử giao dịch ở Santa có nha anh. Lịch sử tạo đồ với trừ đồ á
 chat trong game|Chat ở đây nhé anh!
 nay lam sao|Anh chờ xíu ad vô chỉ nha
-danh quai ra xu|Đánh quái ở ngũ hành sơn rơi ra xu nha
+danh quai ra xu, xu nhanh|Đánh quái ở ngũ hành sơn rơi ra xu nha (không có cách nhặt nhanh hơn đâu anh)
 deu bi,xem lai giup|Anh chờ xíu admin vào xem nha! 🥰
 thu acc khong|Admin không thu acc nha bạn
 need help|Please wait a moment, the admin will assist you shortly.
