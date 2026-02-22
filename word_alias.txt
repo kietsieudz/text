@@ -9,21 +9,39 @@ vamp=vampa
 khobg=khong
 iphoen=iphone
 hk=khong
+deo=khong
 khum=khong
+uong ho=nap
+donate=nap
+ung ho=nap
 radda=rada
-
+deck=khong
+dech=khong
+dich=khong
 hog=khong
 tien ton=thien ton
+master ball=poke
 pai=phai
 min=minh
+hiu=hieu
+tron=het
+chi=gi
+mjk=minh
 st=sat thuong
 dame=sat thuong
 tan cong=sat thuong
 aloo=hello
 shop=admin
+j2m=j2me
+quet=quyet
+khi gha=khi gas
+khi gash=khi gas
+srry=sorry
+th=thang
 adm=admin
 ad=admin
 a d=admin
+fixx=fix
 a d m=admin
 a d m i n=admin
 qua chau=noel
@@ -49,6 +67,7 @@ chx=chua
 cdrd=con duong ran doc
 cubg=cung
 hedt=het
+ht=het
 vv=vinh vien
 gane=game
 gabe=game
@@ -98,7 +117,7 @@ v=vay
 lm=lam
 cx=cung
 j=gi
-
+p=phut
 smtn=suc manh tiem nang
 tnsm=suc manh tiem nang
 
@@ -159,7 +178,11 @@ set kh=set kich hoat
 kick=kich
 bom=boom
 giftcode=code
+cade=code
+gitcodo=code
 cdoe=code
+coftcode=code
+codes=code
 gifrcode=code
 cede=code
 gifcode=code
@@ -167,29 +190,37 @@ codevip=code
 vipcode=code
 codo=code
 gitcode=code
+clde=code
 xincode=code
 gift=code
 cod=code
 tyou=thank you
 cosd=code
+cde=code
 codee=code
 codn=code
 codeee=code
+Xincide=code
+Xinncode=code
+Cdeee=code
+codei=code
 nt=nhắn tin
 codeeee=code
 coder=code
+gidcode=code
 codeo=code
 giffcode=code
 codde=code
 coed=code
 codr=code
+coe=code
 au=dau
 mik=minh
-
+nvay=nhu vay
 quai=hoai
 xin linh=link
 thieeus=thieu
-
+gan doc=ran doc
 linked=link
 linke=link
 linkr=link
@@ -197,7 +228,9 @@ lik=link
 nek=ne
 hinhg=hinh
 i=y
-
+kio=kaio
+ja=gia
+de vip=de tu
 hsd=han su dung
 website=trang chu
 web=trang chu
@@ -209,6 +242,7 @@ even=su kien
 event=su kien
 iven=su kien
 evere=su kien
+saoo=sao
 enven=su kien
 even1=event
 even2=event
@@ -233,6 +267,7 @@ giu=gui
 quyen=quen
 thiet bi=tab
 bn=bao nhieu
+bnh=bao nhieu
 bnhieu=bao nhieu
 
 tv=thoi vang
@@ -245,7 +280,7 @@ menu=mod
 auto=mod
 tu dong=auto
 xin lenh=mod
-
+autu=mod
 xog=xong
 xongg=xong
 xonggg=xong
@@ -276,23 +311,25 @@ ah=Anh
 tang toc=toc do
 cheat=toc do
 speed=toc do
-
+hqua=hom qua
+hwa=hom qua
 spl=sao pha le
-
+zene=zeno
 sp=su phu
 sphu=su phu
 folow=follow
 folloe=follow
 Filo=follow
 flow=follow
-
+cv=cung vay
+cho bao=cho nao
+un=luon
 
 htnt=hanh tinh nguc tu
 bt=biet
 cs=chi so
-
 xh=xuat hien
-
+li=ly
 gh=gioi han
 st=sat thuong
 skil=skill
@@ -306,6 +343,7 @@ sdg=suc danh goc
 sd=suc danh
 
 box=group
+gup=group
 gr=group
 grop=group
 grup=group
@@ -326,10 +364,11 @@ iteam=item
 yadat=yardrat
 yardat=yardrat
 yadrat=yardrat
-
+bgio=bao gio
+blau=bao lau
 fd=fide
 fire=fide
-
+sen=xen
 adr19=android 19
 android19=android 19
 apk19=android 19
@@ -344,9 +383,15 @@ adr 20=android 20
 apk 20=android 20
 androi 19=android 19
 androi 20=android 20
+rhees=the
 xd=xayda
+baoh=bao gio
 sayan=xayda
 nm=namec
+nammec=namec
+namek=namec
+set=xet
+nammek=namec
 td=trai dat
 xbh=xen bo hung
 sbh=sieu bo hung
@@ -355,10 +400,16 @@ gag=gang
 tgian=thoi gian
 time=thoi gian
 thoigian=thoi gian
+fb=facebook
+facebok=facebook
 op=open
 operen=open
 text=test
 tes=test
+
+co cau=co che
+gem=game
+ki=ky
 mtv=mo thanh vien
 cmenh=chan menh
 ote=ok
@@ -369,11 +420,15 @@ lafng=lang
 rui=roi
 r=roi
 dc oi=duoc roi
+dx=duoc
+ddc=duoc
 d=duoc
-
+lun=luon
 s=sao
-
-
+ngov=ngoc
+au=dau
+jz=gi vay
+j z=gi vay
 gd=giao dich
 
 pgg=phieu giam gia
@@ -384,9 +439,11 @@ mvbt=bong tai
 mhbt=bong tai
 btai=bong tai
 b tai=bong tai
-
+hoir=hoi
+tis=xiu
 nik=nick
 acc=nick
+nit=nick
 ac=nick
 nic=nick
 accc=nick
@@ -399,8 +456,8 @@ a c c=nick
 a c c c=nick
 a c c c c c=nick
 ban em=nick
-
-
+kphai=khong phai
+hd=huy diet
 
 s u p=sap
 s a p=sap
@@ -466,8 +523,9 @@ cthan=chien than
 
 ct=chien than
 
-ctrang=cai trang
-
+ctrang=cai trang  
+fam=danh quai
+farm=danh quai
 nv=nhiem vu
 tdst =tieu doi sat thu
 so4=tieu doi sat thu
@@ -498,5 +556,8 @@ gmail=email
 
 mn=moi nguoi
 ad=admin
+tdi=admin
 add=admin
 adim=admin
+shop=admin
+sep=admin
