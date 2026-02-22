@@ -10,9 +10,16 @@ khobg=khong
 iphoen=iphone
 hk=khong
 khum=khong
+radda=rada
+
+hog=khong
 tien ton=thien ton
 pai=phai
 min=minh
+st=sat thuong
+dame=sat thuong
+tan cong=sat thuong
+aloo=hello
 shop=admin
 adm=admin
 ad=admin
@@ -24,6 +31,7 @@ giang sinh=noel
 giang sin=noel
 ramdom=random
 fanpge=fanpage
+fage=fanpage
 bunma=bulma
 tuyet ki=tuyet ky
 capsu=capsule
@@ -42,14 +50,15 @@ cdrd=con duong ran doc
 cubg=cung
 hedt=het
 vv=vinh vien
-
 gane=game
 gabe=game
 gsme=game
 gqme=game
-
+gdtg=trung gian
 h=gio
+g=gio
 cin=xin
+cung no=cuong no
 
 nhiu=nhieu
 ng=nguoi
@@ -59,6 +68,8 @@ onl=online
 
 deo=mang
 mac=mang
+c2=sieu cap
+cap 2=sieu cap
 
 lv=level
 lv1=level 1
@@ -82,13 +93,10 @@ level7=level 7
 level8=level 8
 level9=level 9
 level10=level 10
-
-
 z=vay
 v=vay
-
 lm=lam
-
+cx=cung
 j=gi
 
 smtn=suc manh tiem nang
@@ -104,16 +112,19 @@ kik=kick
 
 tn=tiem nang
 sm=suc manh
-
+hum=khong
 ht=hop the
 hthe=hop the
-
+dup=giup
+icon=coin
 dg=dang
-
+ik=di
+thru=thu
 bxh=bang xep hang
 
 
-
+tl=tuong lai
+tl=than linh
 sv=server
 sever=server
 sver=server
@@ -145,9 +156,11 @@ gtl=gang than linh
 ngkh=nguoi khac
 skh=set kich hoat
 set kh=set kich hoat
+kick=kich
 bom=boom
 giftcode=code
 cdoe=code
+gifrcode=code
 cede=code
 gifcode=code
 codevip=code
@@ -160,18 +173,31 @@ cod=code
 tyou=thank you
 cosd=code
 codee=code
+codn=code
 codeee=code
 nt=nhắn tin
 codeeee=code
 coder=code
 codeo=code
+giffcode=code
+codde=code
+coed=code
+codr=code
 au=dau
+mik=minh
+
 quai=hoai
 xin linh=link
+thieeus=thieu
+
 linked=link
 linke=link
 linkr=link
 lik=link
+nek=ne
+hinhg=hinh
+i=y
+
 hsd=han su dung
 website=trang chu
 web=trang chu
@@ -184,9 +210,28 @@ event=su kien
 iven=su kien
 evere=su kien
 enven=su kien
+even1=event
+even2=event
+even3=event
+even4=event
+event1=event
+event2=event
+event3=event
+event4=event
+sự kieng=event
+cgi=cai gi
+loi a=loi game
+dhvt=dai hoi vo thuat
+sem=xem
+ev1=event
+ev2=event
+ev3=event
+ev4=event
 
+camon=cam on
+giu=gui
 quyen=quen
-
+thiet bi=tab
 bn=bao nhieu
 bnhieu=bao nhieu
 
@@ -198,6 +243,7 @@ hngoc=hong ngoc
 
 menu=mod
 auto=mod
+tu dong=auto
 xin lenh=mod
 
 xog=xong
@@ -224,6 +270,8 @@ msk=masenko
 btri=bao tri
 btr=bao tri
 baotri=bao tri
+bso tri=bao tri
+ah=Anh
 
 tang toc=toc do
 cheat=toc do
@@ -234,6 +282,10 @@ spl=sao pha le
 sp=su phu
 sphu=su phu
 folow=follow
+folloe=follow
+Filo=follow
+flow=follow
+
 
 htnt=hanh tinh nguc tu
 bt=biet
@@ -300,8 +352,11 @@ xbh=xen bo hung
 sbh=sieu bo hung
 dbv=da bao ve
 gag=gang
-
+tgian=thoi gian
+time=thoi gian
+thoigian=thoi gian
 op=open
+operen=open
 text=test
 tes=test
 mtv=mo thanh vien
@@ -314,6 +369,7 @@ lafng=lang
 rui=roi
 r=roi
 dc oi=duoc roi
+d=duoc
 
 s=sao
 
@@ -412,10 +468,7 @@ ct=chien than
 
 ctrang=cai trang
 
-
-
 nv=nhiem vu
-
 tdst =tieu doi sat thu
 so4=tieu doi sat thu
 so 4=tieu doi sat thu
@@ -445,3 +498,5 @@ gmail=email
 
 mn=moi nguoi
 ad=admin
+add=admin
+adim=admin
