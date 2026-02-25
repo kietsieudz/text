@@ -12,6 +12,7 @@ ngoai hinh hop the,hinh dang hop the, hop the khong duoc,hinh dang, ngoai hinh|A
 open1-15,open1->15,open1,open15, duoc cai nao, code loi,khong nhap duoc, nhap duoc dau, khong ton tai|Game gộp code open1-15 thành code "tdstudio" cho tiện rồi nha (đỡ nhập nhiều mỏi tay)
 dthuong,dthg,cute, dth, haha, kkk, kk, hehe,hehehe, kaka, love admin, yeu, game hay|Anh nhớ rủ bạn bè vào chơi chung cho zui nhen
 ve tinh|Vệ tinh có thể mua ở santa đó
+code server|Code này sever nào nhập cũng dc á a! thoải mái lun
 back lai|Game không hỗ trợ Back lại ạ! Anh thông cảm!
 me cung chet choc|Anh dùng capsule bay qua Thành phố vegeta rồi gặp Cui đến Nappa xong cứ chạy bộ tiếp là tìm được map đó
 tang de, mien phi de|Nhận đệ tử thường free ở nhà nhé! Nhận xong thoát game vào lại sẽ thấy
