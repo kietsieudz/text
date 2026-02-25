@@ -5,6 +5,7 @@ hay k,hay khong,hay ko|Hay [lắm|ok] đó 🤣
 loi roi,game loi,loi game|Bạn thử [xoá|xóa] dữ liệu game rồi tải lại là [ổn|chạy mượt] nha
 k thay,k tim thay|Bạn [nhìn kỹ lại|coi lại kĩ] đi, có mà
 ban acc|Không có nha
+ma nay, ma moi, nhap ma, dien ma, ghi ma, nhap gi|Ông tải app Testflight xong vào web bấm nút Testflight ở web là game tự động cài nha
 moi ra|Mới ra [sv6|Server 6] lun á
 hong ngoc,hngoc,hn|Hồng ngọc cày cuốc nha 🙄
 s biet, sao biet, s bt, sao bt|Nhìn avatar là biết
@@ -14,6 +15,9 @@ hup, hupp|Húp sùn sụt 🤣
 server may, sv may, sever may|Anh chơi server nào cũng được á. có liên server mà
 tuong lai,tlai|Xong nhiệm vụ fide 3 tìm calich ở Bambo, Rừng Dương Xỉ hoặc Nam Kame để qua nha má
 lon gi,cac gi|🙄
+
+dau|Có người nói tui ông tìm nên tui giới thiệu á
+ai vay|Tui thấy ông đang tìm game nên tui giới thiệu á
 dao khoang san, may dao|Máy đào là mua 1 tháng thì mỗi ngày thu 1 lượng hồng ngọc nhiều hơn nạp
 tht k, tht ko, tht khong, that k, that ko, that khong,thiet k,thiet ko,thiet khong|Thật chứ kkk 😱
 free bao nhieu, free bn, free bnhieu, free bnhiu|Free bao nhiều lun 🎁
