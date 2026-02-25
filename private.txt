@@ -1,4 +1,4 @@
-sv nao,server nao,sever nao,seve nao,link,box,zalo,tai,nhom,zl|[Anh|Bạn] vô trang chủ có box đó [nha|á], link đây: https://thanhdi.com/taigame|anhtai.png
+sv nao,server nao,sever nao,seve nao,link,box,zalo,tai,nhom,zl|[Anh|Bạn] vô trang chủ có box đó [nha|á], link đây: https://thanhdi.com/taigame Nhóm game: https://thanhdi.com/groups|anhtai.png
 tf,testflight,jar,jav,ios,ip|Có đủ [hết|đầy đủ] mấy bản luôn 😎
 dame,dmg,dmae,dam,st,ao hay,trung hay,goc hay,dame trung|Dame [trung|chuẩn trung] nha 😎
 hay k,hay khong,hay ko|Hay [lắm|ok] đó 🤣
@@ -15,6 +15,7 @@ hup, hupp|Húp sùn sụt 🤣
 server may, sv may, sever may|Anh chơi server nào cũng được á. có liên server mà
 tuong lai,tlai|Xong nhiệm vụ fide 3 tìm calich ở Bambo, Rừng Dương Xỉ hoặc Nam Kame để qua nha má
 lon gi,cac gi|🙄
+test, luc nao, lau chua,mo nao, khi nao, open, moi mo|Anh vào nhóm có người hỗ trợ ngay nhen
 
 dau|Có người nói tui ông tìm nên tui giới thiệu á
 ai vay|Tui thấy ông đang tìm game nên tui giới thiệu á
