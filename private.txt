@@ -37,7 +37,8 @@ ghe|Ghê lắm nha mẹ
 goc hay ao|[Dame trung nha ông|Dame trên gốc xíu nhé]
 oi|Oi 
 kb di,acept,dong y,ket ban,kb roi,kb rui,kb r, ket ban roi, ket ban rui, ket ban r|Chờ xíu mình chấp nhận kb nha
-code,giftcode|A nhắn vào đây chữ xin code em gửi full code xịn nha: https://thanhdi.com/support
+code|Gửi kết bạn em xong vào link kia nhắn xin code nha a
+code,giftcode|A vào link e gửi rồi nhắn vào fanpage chữ xin code là ad gửi full code xịn nha: https://thanhdi.com/support
 vang,ngoc|Free vàng ngọc má ơi
 skh|đánh quái rơi
 nhu|🥰🥰🥰
