@@ -420,15 +420,22 @@ ngoc boi, eyes, dns, susano, mangekyo, sharingan, hao quang cam, da ngu sac|👉
 dnc, da nang cap, tat, ruby, thach anh tim,saphia, titan, luc bao,| Đá nâng cấp ở Santa (Rương đá nâng cấp), bạn có thể mua rồi sử dụng sẽ ra 1 đống đá nâng cấp nhé (thạch anh tím, ruby, titan,...) hoặc có thể up quái từ map tương lai trở đi sẽ rơi
 doi ten, ten dai, ten co dau,ten bac biet| Thẻ đổi tên mua ở Santa, được đổi tên thành có Dấu viết hoa và kí tự đặc biệt nhé (đừng đặt quá dài sẽ bị mất thẻ đổi tên mà không đổi được tên)
 linh thu,no ra, 60p, 60 phut| Trứng linh thú nở ra linh thú (Online chờ 60 phút là nở), Anh có thể mua trứng ở Santa á, hoặc Xoay may mắn ở Lý Tiểu Nương đảo kame
+di dau gap boss|Anh canh thông báo boss rồi qua tìm nha anh
 suu tam, suu tap| Mảnh sưu tầm quái nào bạn train quái đó là rơi 
 bong tai,mvbt,mhbt,porata,btai, b tai, btc, bt, btc2, btc3, btc4,btc5,btc6|👉 Thông tin tất cả bông tai, cách kiếm bông tai, nguyên liệu ở đây có hết\nhttps://thanhdi.com/huong-dan/posts/bong-tai-porata.html
 dao khoang san, may dao| Máy đào là mua 1 tháng thì mỗi ngày thu 1 lượng hồng ngọc nhiều hơn nạp
-
-
+moi vao nappa|Anh cày sức mạnh và đệ tử lên trước rồi làm nhiệm vụ nha anh
+nap duoc gi|Anh vào trong nhà chọn nút Quy đổi -> Mốc nạp để xem quà mốc nạp nha anh
 
 in english,speak english,use english,english please,eng please,do you speak english,can you speak english|Sorry, the fanpage bot currently understands Vietnamese only and is still learning English. Please wait a moment, an admin will join the conversation shortly! 🥰
 fuck you,fuck,shit,bitch,asshole,idiot,stupid,dumb,bullshit,motherfucker,fucking,why always,copy paste,useless,bad service,so annoying,what the hell,are you serious,this is ridiculous,waste of time,not helpful|I’m sorry if my response felt repetitive. I’m an automated bot and I use predefined replies to answer common questions. A human staff member will join shortly to assist you better.
 cant find,how to find,game name,trouble finding|Please search on Google for “Thanh Di Nro” and select the first official result. Make sure it matches our page name before clicking.
+please help,need help,can you help,admin please,call admin,human support,real person,talk to admin,talk to human,i need support,please respond,are you there|Please wait a moment, an admin will assist you shortly.
+play again,come back to play,encourage him to play,ask him to play again,return to the game,come back to the game|The game always welcomes all players back to the server. We are continuously improving every day to provide the best possible experience for everyone.
+automatic,real admin,where is admin,where is the admin,where is real admin,are you a bot,why automatic,talk to real admin|I am an automated support bot. Please wait a moment, a real admin will join the chat shortly to assist you.
+
+
+
 
 klaim moori,claim moori,belum bisa klaim,belum bisa claim,tidak bisa klaim,tidak bisa claim,ga bisa klaim,gak bisa klaim,cant claim,cannot claim,cant receive,belum dapat,belum terima,npc moori error,moori error,event belum masuk,reward belum masuk|Silakan kirim 10 foto bukti share postingan di 10 grup Facebook yang berbeda. Setelah admin verifikasi, baru bisa klaim ya. Pastikan klaim sesuai dengan event yang kamu ikuti.
 
