@@ -79,6 +79,10 @@ h=gio
 g=gio
 cin=xin
 cung no=cuong no
+cuon no=cuong no
+
+napa=nappa
+napaa=nappa
 
 nhiu=nhieu
 ng=nguoi
