@@ -83,7 +83,7 @@ bac 0 phai khong|Chiến thần mới nở là bậc 0, cày đủ 100 level s�
 thanh de thuong|Bạn mua đổi đệ tử ở santa khi sử dụng sẽ về đệ thường, nếu đang có đệ vip mà skill xấu thì có thể gọi rồng 1 sao để đổi
 boom, laze, qckk, tu sat|Boom xayda chia đôi, Tuỳ vào giáp boss hỗ trợ nhiệm vụ, (ví dụ TDST hỗ trợ nv tối đa 8tr sát thương, thì skill boom, qckk, laze sẽ x10 lên)
 qckk k, qckk ko, qckk khong, qckk k, qckk ko, qckk khong, laze k, laze ko, laze khong|Anh cần giảm tốc độ game về 1 mới có thể dùng được chiêu boom, qckk, laze nha
-4 ko roi, 4 khong roi, 4 k roi, 4 ko rot, 4 khong rot|Cải trang zeno sau khi nâng bậc 4 sẽ không rơi đá nữa (nếu game có cập nhật thêm level thì sẽ rơi tiếp nha)
+4 ko roi, 4 khong roi, 4 k roi, 4 ko rot, 4 khong rot, zeno 4, zeno c4, zeno cap4, zeno cap 4, zeno level 4, zeno lv4, zeno level4|Cải trang zeno sau khi nâng bậc 4 sẽ không rơi đá nữa (nếu game có cập nhật thêm level thì sẽ rơi tiếp nha)
 con km, con kmai, con khuyen mai, con 30%, con nap|👉 Anh vui lòng [xem|kiểm tra] thông báo trong game hoặc trên trang chủ sau khi đăng nhập; nếu [đang có|hiện có] khuyến mãi hệ thống sẽ hiển thị thông báo, còn nếu không thấy thông báo thì [hiện tại|thời điểm này] không có chương trình khuyến mãi.
 de k danh, de ko danh, de khong danh, de tu k danh, de tu ko danh, de tu khong danh|Anh kiểm tra xem đệ hết ki hết thể lực hay đậu thần không nhé
 nhap code, nhap giftcode|Vô NPC trong nhà sẽ có nút Giftcode để nhập nha a [Tải bản Ngọc Rồng TDStudio mới được nha]
