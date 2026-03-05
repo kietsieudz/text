@@ -169,5 +169,6 @@ co pr k, co pr ko, co qc ko, co qc k|Có PR mới có mem chứ má
 game loi,loi roi,bi loi, bao loi|Bạn ghi chi tiết lỗi ở đây để admin fix nhá: https://nroncd.online/feedback.php
 bot var|[Ngon|Thích thì] vào đây mà [var|đối đáp] [nè|đây]
 kho|[Khó|Khó xíu] thì mới là game, game dễ quá thì [về|đi] chơi game con rắn cho [nhẹ đầu|đỡ mệt] đi 
+code| code có ghi săn trong nhà , coin ở đao kame gặp satan ở móc nạp rồi đổi 
 góp ý,loi,lỗi,| https://nroncd.online/feedback.php  ae lỗi gì hay góp ý cho ad ghi vô link này nha để ad làm thêm cho ae chơi 
 skh, set| skh hiện tại chưa cập nhật nha ,lỗi hay góp ý ae vào link này nha https://nroncd.online/feedback.php
