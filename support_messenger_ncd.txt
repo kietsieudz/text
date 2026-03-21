@@ -142,7 +142,6 @@ thanh pho phia nam, thanh pho phia bac, dao bale|Anh làm xong nhiệm vụ fide
 hoc huyt sao|Học skill huýt sáo ở Uron ở trạm tàu vũ trụ ấy (dùng capsule bay qua)
 chua duoc|Anh kiểm tra xem vào đúng nick chưa, xem đúng event anh đã làm chưa, Trên ảnh có mã E (event anh làm đó). Làm event nào nhận event đó
 khong mang duoc|Thử xoá dữ liệu ở góc dưới phải chỗ đăng nhập rồi vào lại nha anh
-rung nhiet doi, cay cau ran|Ở đảo kame có chỗ vào rừng nhiệt đới, chạy qua phải là đến cây cầu rắn nha
 up chet hoai|Up ban đầu sẽ chết nhiều. anh up từ từ mới mạnh lên chứ ạ. a vào quái yếu hơn trước đi
 hp cao nhat|Ra rừng nhiệt đới ở đảo kame quái HP cao nhất á
 kol|Anh xem nhiệm vụ KOL ở Quy lão á. hiện tại là nhiệm vụ đánh quái, quái nào cũng tính hết nha
@@ -377,7 +376,7 @@ doi mat khau|Đăng nhập vào trang chủ sẽ có nút đổi mật khẩu nh
 sach cap|Sách tuyệt kĩ cấp 1, cấp 2 chế tạo ở bà hạt mít vách núi ấy
 1tv, 1tvang, shop chichi, cua hang chichi|Để mua được đồ ở shop chichi 1 thỏi vàng cần mở thẻ tháng ở quy lão trước (đọc thông tin quà ở quy lão lun nhé a)
 tieu doi kho|Dạ do đông người chơi nên nhiệm vụ có thể khó thật, Nhưng anh đừng lo có giờ hỗ trợ nhiệm vụ mà anh. Ai nhiệm vụ đó mới được vào khu đó anh!\nAnh chat "giờ hỗ trợ" để em gửi giờ hỗ trợ cho nhé
-test, open, operen,chinh thuc,that hay thu, op,mo lau,mo khi nao, mo chua, tes, text,may hom, lau ch, lau chua, ngay nao|Dạ tất cả server đều đã open chính thức rồi anh! nhưng free nhiều hơn cả khi test nữa. không mở thành viên gì luôn (không reset hay xóa gì hết á)
+test, open, operen,chinh thuc,that hay thu, op,mo lau,mo khi nao, mo chua, tes, text,may hom, lau ch, lau chua, ngay nao|Game đang test trải nghiệm nha a
 mtv, mo tv, mo thanh vien, kich hoat tai khoan| Game không cần MTV. Cày 40 tỷ là gd được hết  
 chuc nang| Cần hỏi chức năng gì thì cứ nói em hỗ trợ  
 boss vua ra khong|Có thể boss bị người khác ăn rồi, hoặc dò sót á anh. Boss hông có lỗi đâu
