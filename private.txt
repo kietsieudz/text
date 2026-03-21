@@ -54,7 +54,6 @@ nap|Đăng nhập vô trang chủ là có nút nạp (có tỷ lệ quy đổi, 
 Oki,ok,oce,oke|Anh kết bạn với em, rồi chat chữ "xin code" để em chỉ cách lấy code VIP nha
 lua dao,scam|Không scam nha má
 gi day,j day,jz,j z, j the,gi the|Game ngọc rồng á ông. không cần mở thành viên gì hết
-
 3 sao|3 sao free 999 bộ từ code nhá
 mtv,mo tv,mo thanh vien|Game tạo nhân vật là kích hoạt luôn rồi, không cần mở thành viên gì hết
 
