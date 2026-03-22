@@ -1,28 +1,13 @@
-sv nao,server nao,sever nao,seve nao,link,box,zalo,tai,nhom,zl|[Anh|Bạn] vô trang chủ có box đó [nha|á], link đây: https://thanhdi.com/taigame Nhóm game: https://thanhdi.com/groups|anhtai.png
+sv nao,server nao,sever nao,seve nao,link,box,zalo,tai,nhom,zl|Ông vô link bên trên đó. Vô đó có người giúp ông nha!
 tf,testflight,jar,jav,ios,ip|Có đủ [hết|đầy đủ] mấy bản luôn 😎
-dame,dmg,dmae,dam,st,ao hay,trung hay,goc hay,dame trung|Dame [trung|chuẩn trung] nha 😎
 hay k,hay khong,hay ko|Hay [lắm|ok] đó 🤣
-loi roi,game loi,loi game|Bạn thử [xoá|xóa] dữ liệu game rồi tải lại là [ổn|chạy mượt] nha
-k thay,k tim thay|Bạn [nhìn kỹ lại|coi lại kĩ] đi, có mà
-ban acc|Không có nha
 ma nay, ma moi, nhap ma, dien ma, ghi ma, nhap gi|Ông tải app Testflight xong vào web bấm nút Testflight ở web là game tự động cài nha
-moi ra|Mới ra [sv6|Server 6] lun á
 hong ngoc,hngoc,hn|Hồng ngọc cày cuốc nha 🙄
 s biet, sao biet, s bt, sao bt|Nhìn avatar là biết
-co che|Anh vào đây bấm nút cơ chế giúp em nha https://thanhdi.com/support
 nhan o dau, nhan dau, nhan cho|Nhận trong NPC trong nhà đó
 hup, hupp|Húp sùn sụt 🤣
-server may, sv may, sever may|Anh chơi server nào cũng được á. có liên server mà
-tuong lai,tlai|Xong nhiệm vụ fide 3 tìm calich ở Bambo, Rừng Dương Xỉ hoặc Nam Kame để qua nha má
-lon gi,cac gi|🙄
 test, mo chua,bao gio,bh, baoh, bao h,op a,open a,op ha, open ha,test ma,test a, test hay,tes ha,tet ha, test vv, test vinh vien,test a, tets ma,tets a,tets lau,test lau, test hay, tet hay, open hay, op hay,open chua,open chx,op chua,op ch,open ch,open khi,luc nao,hom nao, lau chua,mo nao,nro nao, nr j, nr gi,nro gi, nro j, khi nao, open, moi mo|Anh vào nhóm có người hỗ trợ ngay nhen
-djt me, dit me, cl, dm, dmm,cc,cai lon, con cac, dume, du ma, du me, suc vat,dcmm, dcm, dcmmm, dcmmmm|🤣🤣🤣
-dau|Có người nói tui ông tìm nên tui giới thiệu á
-ai vay|Tui thấy ông đang tìm game nên tui giới thiệu á
-dao khoang san, may dao|Máy đào là mua 1 tháng thì mỗi ngày thu 1 lượng hồng ngọc nhiều hơn nạp
-tht k, tht ko, tht khong, that k, that ko, that khong,thiet k,thiet ko,thiet khong|Thật chứ kkk 😱
 free bao nhieu, free bn, free bnhieu, free bnhiu|Free bao nhiều lun 🎁
-dm bot|Wtf 😏
 de tu|Đệ tử thường nhận ở nhà. còn đệ khác thì phải săn á
 ngon|Đầy cái ngon lun á ông. nhập code là đủ ghiền r
 up sao|Cày nhanh ở ngũ hành sơn á, game dễ cày
@@ -32,14 +17,11 @@ co all|Có all
 out game, roi game, bo game, nghi game|Chơi lại đi năn nỉ mà, game nhiều cái zui lắm bà ơi
 game gi,game j,gem gi,gem j,gi cz, gi z|Game ngọc rồng nha 😝
 ??,???,????,?????|Sao nè
-game,link,trang chu,tai,download,website,web,dien dan,k dc,ko dc,khong dc,k duoc,ko duoc,khong duoc,k tai, ko tai, khong tai, tai k, tai ko, tai khong,k co,ko co,khong co|Trang chủ - tải game: 🔗https://thanhdi.com/taigame [Mở trên trình duyệt Safari hoặc Chrome mới tải được game]|anhtai.png
-nap lau,lau qua,cong tien,ad,adm,ong,ha ad,ho tro,alo,hello,admin|Vô đây bấm nút Hỗ Trợ 24/24 có người hỗ trợ ngay nha https://thanhdi.com/support
+game,link,trang chu,tai,download,website,web,dien dan,k dc,ko dc,khong dc,k duoc,ko duoc,khong duoc,k tai, ko tai, khong tai, tai k, tai ko, tai khong,k co,ko co,khong co|Vô link bên trên tui gửi có anh em đông vui hỗ trợ nữa. Vô ae chỉ tải lun nha
 share|Đăng nhập vô trang chủ rồi bấm qua diễn đàn để tham gia nha
 ghe|Ghê lắm nha mẹ
-goc hay ao|[Dame trung nha ông|Dame trên gốc xíu nhé]
 kb di,acept,dong y,ket ban,kb roi,kb rui,kb r, ket ban roi, ket ban rui, ket ban r|Chờ xíu mình chấp nhận kb nha
-code|Gửi kết bạn em xong vào link kia nhắn xin code nha a
-code,xin,giftcode|A vào link e gửi rồi nhắn vào fanpage chữ xin code là ad gửi full code xịn nha: https://thanhdi.com/support
+code|Gửi kết bạn em đi anh
 vang,ngoc|Free vàng ngọc má ơi
 skh|đánh quái rơi
 nhu|🥰🥰🥰
@@ -48,16 +30,11 @@ game ao|Ảo đâu má, bình thường mà
 smtn,tnsm|Cao nha
 game j,game gi|Game ngọc rồng đó má
 hot|Hot lắm
-gdtg,giao dich trung gian, gd trung gian|Anh vào link này giúp em: https://thanhdi.com/services/giao-dich-trung-gian
 ban nao|Có tên kìa má
-nap|Đăng nhập vô trang chủ là có nút nạp (có tỷ lệ quy đổi, nạp xong vào nhà chọn quy đổi để đổi sang hồng ngọc hoặc thỏi vàng)
 Oki,ok,oce,oke|Anh kết bạn với em, rồi chat chữ "xin code" để em chỉ cách lấy code VIP nha
-lua dao,scam|Không scam nha má
 gi day,j day,jz,j z, j the,gi the|Game ngọc rồng á ông. không cần mở thành viên gì hết
 3 sao|3 sao free 999 bộ từ code nhá
 mtv,mo tv,mo thanh vien|Game tạo nhân vật là kích hoạt luôn rồi, không cần mở thành viên gì hết
-
-gdtg|Hỏi ad thử má
 muon acc,xin acc|Acc đâu mà cho mẹ
 sao bac,sao z,sao vay,sao day|Sao gì đâu má, ai biết gì đâu
 dc k,duoc k, dc khong,duoc khong|Được nha má
