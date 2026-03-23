@@ -11,6 +11,7 @@ huong dan|Chỗ thông báo game có hướng dẫn chơi game đóa
 k len sm, ko len, khong len suc manh, khong co tiem nang, k có tiem nang, ko co tiem nang, ko có suc manh, k co suc manh, ko len suc manh, k len suc manh|Out game vô lại thử. Qua vách morri xem mở full giới hạn sức mạnh chưa
 de lay,detu, de tu,gohanbu, gohan bư, itachi, omega, mabu,de thuong|Thông tin các đệ tử có ghi trong nhà ấy
 up nhanh,up tnsm,up smtn,up de,up dt,up dau,up sm,300ty,400ty,cay nhanh,cay smtn,cay sm|Up bên ngoài map thường xíu rồi Cày nhanh sư phụ và đệ tử tại Ngũ Hành Sơn
+auto,mod,autu,cheat,chaet|Bấm logo game để mở menu auto nhé (bản pc bấm phím x trên bàn phím)
 dia nguc|Gặp thần vũ trụ tại hành tinh kaio để đến địa ngục  
 skill moi,skill dac biet,super kame,super kamejoko,ma phong ba,lien hoan chuong,bien hinh,skill9,skill 9|Học skill đặc biệt ở quy lão đảo kame. cày hoặc nạp đều học được, đi doanh trại sẽ rơi bí kíp học skill 
 doi skill,doi duoc skill,msk,kaioken,kok,doi chieu,doi skill1,doi skill2,doi skill3,doi skill4,doi skill5|Gọi rồng thần 1 sao đổi skill 2-3-4 đệ tử  
