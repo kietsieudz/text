@@ -21,3 +21,8 @@ test, open, op,mo lau,mo khi nao, mo chua|Server đang test nha
 mtv, mo tv, mo thanh vien, kich hoat tai khoan|Game không cần MTV. Cày 40 tỷ là giao dịch được
 chien than, cthan|Chiến thần là đệ tử thứ 2. Nuôi chung với các đệ tử khác. Tăng chỉ số cho sư phụ. chat "ct" để mở Menu đệ chiến thần
 sang map, nem phao, bit tai|Mua bịt tai ở santa sử dụng là khỏi bị người khác ném pháo văng ra map khác
+thien su,mts,manh ts, co manh khong mua, co manh khong doi, co manh khong duoc| Cần mảnh thiên sứ + đồ thần linh + đồ huỷ diệt mới đổi được đồ thiên sứ. Mảnh thiên sứ up ở hành tinh ngục tù rồi ra Thiên sứ Whis đổi đồ thiên sứ
+osin|NPC Osin bạn dùng capsule ra làng Kakarot rồi chạy qua trái tới Vách núi Kakarot, tìm map Đại hội võ thuật vào đó sẽ thấy Ôsin
+tieu doi sat thu,tdst,boss so,so 4|Tiểu đội sát thủ - Núi khỉ đen, Hang khỉ đen, Núi khỉ đỏ (qua dò khu đôi khi boss chưa chết)
+than linh, dtl, do tl, ntl, gtl, do than|Đồ thần linh bạn săn boss tương lai hoặc Osin lúc 12h và 19h hoặc up cold nhé! Cách nào cũng tỷ lệ rơi đầy đủ Áo, Quần, Găng, Giầy, Nhẫn
+thuc an, do an|Thức ăn bạn mặc set thần linh rồi up quái cold là rơi  
