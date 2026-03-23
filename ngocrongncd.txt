@@ -21,7 +21,7 @@ doi skill,doi duoc skill,msk,kaioken,kok,doi chieu,doi skill1,doi skill2,doi ski
 manh ba,nuoc mat, rau muong, gia vi, nau canh, uong may lan| Canh mạnh bà bạn có thể mua ở santa hoặc thu thập x999 11 nguyên liệu ở địa ngục. Bấm sử dụng nguyên liệu để nấu (dùng được 1 lần duy nhất)
 bi kip,yadat,yardrat| Bạn qua núi khỉ vàng gặp goku ssj rồi vào hành tinh yardrat up bí kíp cải trang. Và Đi doanh trại đánh quái là rơi bí kíp tuyệt kĩ nhé, xong ra quy lão học sì kiu đặc biệt  
 the luc|Mua bùa dẻo dai vào là khỏi lo hết thể lực nhé  
-test, open, op,mo lau,mo khi nao, mo chua|Server đang test nha
+test, open, op,mo lau,mo khi nao, mo chua|Server đang test nha (quà tặng khi open vẫn y như test, khỏi lo nhé)
 mtv, mo tv, mo thanh vien, kich hoat tai khoan|Game không cần MTV. Cày 40 tỷ là giao dịch được
 chien than, cthan|Chiến thần là đệ tử thứ 2. Nuôi chung với các đệ tử khác. Tăng chỉ số cho sư phụ. chat "ct" để mở Menu đệ chiến thần
 sang map, nem phao, bit tai|Mua bịt tai ở santa sử dụng là khỏi bị người khác ném pháo văng ra map khác
