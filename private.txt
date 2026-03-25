@@ -1,5 +1,5 @@
 sv nao,server nao,sever nao,seve nao,link,box,zalo,tai,nhom,zl|Ông vô link bên trên đó. Vô đó có người giúp ông nha!
-tf,testflight,jar,jav,ios,ip|Có đủ [hết|đầy đủ] mấy bản luôn 😎
+tf,testflight,jar,jav,ios,ip,iphone|Có đủ [hết|đầy đủ] mấy bản luôn 😎
 hay k,hay khong,hay ko|Hay [lắm|ok] đó 🤣
 ma nay, ma moi, nhap ma, dien ma, ghi ma, nhap gi|Ông tải app Testflight xong vào web bấm nút Testflight ở web là game tự động cài nha
 hong ngoc,hngoc,hn|Hồng ngọc cày cuốc nha 🙄
@@ -30,12 +30,12 @@ game ao|Ảo đâu má, bình thường mà
 smtn,tnsm|Cao nha
 game j,game gi|Game ngọc rồng đó má
 hot|Hot lắm
-ban nao|Có tên kìa má
+ban nao|Có tên kìa anh zai
 Oki,ok,oce,oke|Anh kết bạn với em, rồi chat chữ "xin code" để em chỉ cách lấy code VIP nha
-gi day,j day,jz,j z, j the,gi the|Game ngọc rồng á ông. không cần mở thành viên gì hết
+gi day,j day,jz,j z, j the,gi the|Game ngọc rồng á ông. không cần mở thành viên gì hết! Anh lấy code thì kết bạn với em nhoa 😝
 3 sao|3 sao free 999 bộ từ code nhá
 mtv,mo tv,mo thanh vien|Game tạo nhân vật là kích hoạt luôn rồi, không cần mở thành viên gì hết
 muon acc,xin acc|Acc đâu mà cho mẹ
-sao bac,sao z,sao vay,sao day|Sao gì đâu má, ai biết gì đâu
+sao bac,sao z,sao vay,sao day|À em mời a thử trò này ý 🥰! Không biết a có cần không a? em gửi Code Vip cho nè!
+can, ngon|Anh gửi kết bạn rùi Anh tham gia vô box bên trên dùm em nhoa 😝
 dc k,duoc k, dc khong,duoc khong|Được nha má
-ngon|Ngon
