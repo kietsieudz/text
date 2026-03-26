@@ -20,6 +20,7 @@ up nhanh,up tnsm,up smtn,up de,up dt,up dau,up sm,300ty,400ty,cay nhanh,cay smtn
 auto,mod,autu,cheat,chaet|Bấm logo game để mở menu auto nhé (bản pc bấm phím x trên bàn phím)
 dia nguc|Gặp thần vũ trụ tại hành tinh kaio để đến địa ngục  
 skill moi,skill dac biet,super kame,super kamejoko,ma phong ba,lien hoan chuong,bien hinh,skill9,skill 9|Học skill đặc biệt ở quy lão đảo kame. cày hoặc nạp đều học được, đi doanh trại sẽ rơi bí kíp học skill 
+cold,color,cooler|80 Tỷ + Xong nhiệm vụ xên hoàn thiện 3 ở thị trấn là qua dc cold
 doi skill,doi duoc skill,msk,kaioken,kok,doi chieu,doi skill1,doi skill2,doi skill3,doi skill4,doi skill5|Gọi rồng thần 1 sao đổi skill 2-3-4 đệ tử  
 manh ba,nuoc mat, rau muong, gia vi, nau canh, uong may lan| Canh mạnh bà bạn có thể mua ở santa hoặc thu thập x999 11 nguyên liệu ở địa ngục. Bấm sử dụng nguyên liệu để nấu (dùng được 1 lần duy nhất)
 bi kip,yadat,yardrat| Bạn qua núi khỉ vàng gặp goku ssj rồi vào hành tinh yardrat up bí kíp cải trang. Và Đi doanh trại đánh quái là rơi bí kíp tuyệt kĩ nhé, xong ra quy lão học sì kiu đặc biệt  
