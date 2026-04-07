@@ -14,6 +14,7 @@ up sao|Cày nhanh ở ngũ hành sơn á, game dễ cày
 sap k, sup k, sup ko, sup khong,sap khong, sap ko|Không, đông vcl sao sập 😎
 dong k, dong ko, dong khong, dong mem|Đông nhót lun kkk
 co all|Có all 
+roi|Code chaomungncd nha a
 out game, roi game, bo game, nghi game|Chơi lại đi năn nỉ mà, game nhiều cái zui lắm bà ơi
 game gi,game j,gem gi,gem j,gi cz, gi z|Game ngọc rồng nha 😝
 ??,???,????,?????|Sao nè
