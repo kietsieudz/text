@@ -31,7 +31,7 @@ jar,java,jav|Tải file JAR: https://thanhdi.com nhé [Mở trên trình duyệt
 apk|Tải file APK: https://thanhdi.com nhé [Mở trên trình duyệt Safari hoặc Chrome mới tải được game] Nhớ Đọc Hướng Dẫn Cài Đặt|anhtai.png
 pc,windows,may tinh|Tải file PC: https://thanhdi.com nhé. Nhớ Đọc Hướng Dẫn Cài Đặt|anhtai.png
 ios,tf,testflight,ipa|Tải file iPhone: https://thanhdi.com nhé. Nhớ Đọc Hướng Dẫn Cài Đặt|anhtai.png  
-su kien,sk,update,cap nhat,dame,fix|Sự kiện trong game được thông báo tại: https://thanhdi.com/cap-nhat
+su kien,sk,update,cap nhat,dame,fix|Sự kiện trong game được thông báo tại trang chủ https://thanhdi.com
 tai k dc,tai ko dc,tai khong dc,tai k duoc,tai ko duoc,tai khong duoc|Bạn vui lòng copy link https://thanhdi.com ra Chrome hoặc Safari để tải game nhé
 winrar|Bạn tải về rồi bấm cài đặt rồi next next là cài được rồi: https://www.win-rar.com/fileadmin/winrar-versions/winrar/winrar-x64-701.exe 
 nap|🟡 Trang hướng dẫn nạp và báo lỗi nạp ở đây nha (Đầy đủ quà mốc, quà top): https://thanhdi.com/nap
