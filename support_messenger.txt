@@ -1,6 +1,6 @@
 dao xanh, dao hong, qua dao|"Quả đào" gặp đường tăng ở ngũ hành sơn mà dùng
 co 50 smtn,co 50 tnsm, co 50% smtn, co 50% sntm|Cải trang "zeno" nâng bậc free lên 4 là có nhé
-top mom, rank, coin|Xem thông tin rank chat kiếm Coin đây mấy ní: https://thanhdi.com/support -> chọn nút 'Event Coin Zalo' nhé
+top mom, rank, coin|Coin có thể nạp khi đăng nhập vào web, hoặc chờ có các event để nhận
 dao hoa|Gặp quy lão để vào "đảo hoa" nhé
 sach tuyet, sach ki, sach ky|Up mảnh sách ở hành tinh thực vật, dùng nhẫn thời không săn từ black goku rồi ra vách núi gặp Bà hạt mít nâng
 ve doi|Mang vé đổi ngoại hình ra bà hạt mít để đổi ngoại hình cải trang mà vẫn giữ nguyên chỉ số
@@ -43,7 +43,7 @@ vut do|Bấm vứt đồ, sẽ hiện popup lên. nhập chữ ok vào đó là 
 jiren|Hạ gục jiren nhận được hồng ngọc, 4 tiếng xuất hiện 1 lần
 map vampa|Anh ra vách núi đen gặp Paragus nhé
 quen noi dung, quen nd, ghi noi dung, ghi nd,sao chua vo,sao chua vao|Anh gửi bill vào đây giúp em kèm tài khoản và server nha (tài khoản đăng nhập - không gửi mật khẩu) xíu ad vào xử lý nha
-chu van, chu su, chu nhu, chu y, banh tet|Đọc sk tết ở đây: https://thanhdi.com/su-kien/posts/su-kien-tet-nguyen-dan-2026.html
+chu van, chu su, chu nhu, chu y, banh tet|Đọc sk tết ở đây: https://thanhdi.com
 khong dang nhap, khong login|Không vào được game (thấy máy chủ tắt hoặc mất sóng liên tục)\nAnh thử đổi từ 4G -> Wifi và từ Wifi -> 4G giúp em nhé\nNếu vẫn không được a tắt cục modem wifi tầm 5 phút rồi mở lại sẽ vào được
 giu nguyen set|Khi nâng Thiên sứ lên hạ tôn sẽ được chọn lại set nha (khỏi lo)
 o luoi,hanh trang dang o, hanh trang luoi|Dạ em sẽ báo admin sớm làm ạ
@@ -51,7 +51,7 @@ khong ra sat thuong|Tùy boss có giáp cao thấp khác nhau ấy a
 nang thanh do gi|Các đồ nâng anh xem ngay chỗ nâng có ghi rõ nguyên liệu và đồ sẽ được tạo ra đó
 tk mk|Đừng cung cấp mật khẩu cho bất kì ai nhé. Admin chỉ cần anh đọc tài khoản là được (đừng đọc mật khẩu)
 hay ra o dau|Canh thông báo xem nó xuất hiện ở đâu thì mình qua
-gdtg, trung gian|GDTG ở link này có ad nhận nha: https://thanhdi.com/support
+gdtg, trung gian|GDTG thì tìm key vàng trong nhóm chat ở Trang chủ
 dang co de tu khac lam sao su dung|Bạn cần tháo hết đồ đệ cũ ra mới dùng được trứng
 toan ra quan, toan ra ao|Đồ thần up cold hay săn boss đều có tỷ lệ ra đủ 1 set không riêng gì áo quần thần linh
 khong xuat hien|Anh canh thông báo boss hoặc qua dò các khu trong map boss xuất hiện ấy (đôi khi boss chưa chết nó không thông báo lại)
@@ -117,7 +117,7 @@ ruong long hai| Là rương mở ra cốt chí tôn ở chức năng câu cá, c
 ruong an| Rương ấn là rương mở ra ấn để khắc ấn vào trang bị tại bà Hạt Mít
 thanh lan|Anh có thể mua thanh lân bội ở santa đó anh. Kết nghĩa xong cả 2 người đều có thanh lân hết. cả 2 đều tăng thêm chỉ số luôn
 sao nhan duoc, nhan dau|Anh làm event xong gửi đây admin duyệt xong thì vào nhà -> chọn nhiệm vụ tân thủ -> chọn nhiệm vụ tân thủ đã làm để nhận nha
-fanpage|👉 Các trang fanpage của game\nhttps://thanhdi.com/fanpage
+fanpage|👉 Các trang fanpage của game\nhttps://m.me/594254293768424
 khong tut mau, khong tut hp|Boss nào HP cao sẽ hiện trên boss chat ấy, nó sẽ đọc HP.\nBoss sẽ có giáp cao giáp thấp nên sát thương gây ra khác nhau
 giup em|Anh cần hỗ trợ gì cứ ghi rõ rồi chờ xíu admin vào kiểm tra nha
 lavender, vu tru 9,basil|Capsule đến vũ trụ số 9 là có boss Sói các loại nha nha
@@ -175,7 +175,7 @@ nappa|Dùng capsule ra thành phố vegeta rồi gặp Cui đến Nappa nha, cá
 dich chuyen|Để dịch chuyển anh cần có cải trang dịch chuyển. Đối phương phải không ở map đặc biệt hoặc không dùng ẩn danh nhé
 page1, page2, fanpage 1, fanpage 2, page 1, page 2, fanpage1, fanpage2, page, fanpage|Fanpage nào còn thì a làm nha, 2 page kia đang bị ẩn để xem xét á
 dk xong, dky, dang ky, dang ki, dki|Hãy "đăng ký" ở link https://thanhdi.com [Mở trên chrome hoặc Safari nhé ]
-xong roi,nay dung khong,duoc khong,share,Envent,event,xin qua, cho qua,dang bai,tan thu,even,chia se,fl,filo,filow, follow,floww,flow,folow,folo,foloow,folooow,foloooow,follw,folllow,folllloow,folllo,folw,fw,flo,fllow,flloww,nhan qua,fow,flw, lam gì|🎁 Em Gửi Hướng dẫn event tân thủ nhận quà trong nhà nhé (Event Chia Sẻ)\nhttps://thanhdi.com/event
+xong roi,nay dung khong,duoc khong,share,Envent,event,xin qua, cho qua,dang bai,tan thu,even,chia se,fl,filo,filow, follow,floww,flow,folow,folo,foloow,folooow,foloooow,follw,folllow,folllloow,folllo,folw,fw,flo,fllow,flloww,nhan qua,fow,flw, lam gì|🎁 Đăng nhập vào trang chủ sẽ có Bài viết làm event tân thủ nhận quà nhé
 link,xin linh,linh game,cai linh,trang chu,xin tai,sin like,xin like,tai game,dang ky,trai nghiem,tu van,choi thu,Tai game, game tai,tai o dau,cach tai,dang ky, dang ki,tai sao,download,website,web,dien dan,jar,java,jav,apk,pc,windows,may tinh,ios,tf,testflight,doanh nghiep,ipa,tai o dau,dang ky, dang ki,tai sao,download,website,web,dien dan,jar,java,jav,apk,pc,windows,may tinh,ios,tf,testflight,ipa,tai k dc,tai ko dc,doanh nghiep,tai khong dc,tai k duoc,tai ko duoc,tai khong duoc|👉 Trang chủ: https://thanhdi.com ℹ️ [Mở link|Click link|Truy cập link] trong Messenger thì [không đăng nhập được|không tải được|không thao tác được] đâu anh 👉 Anh chịu khó [copy link|sao chép link] mở bằng Safari hoặc Chrome giúp em nha!
 trang khong vao duoc, khong tim thay|Nếu trang không vào được a thử copy link ra chrome hoặc safari thử. Nếu vẫn không được anh chờ xíu em gọi admin cho nhá!
 co che, quy che|👉 Cơ chế game nha\nhttps://thanhdi.com/huong-dan
@@ -188,11 +188,11 @@ chan ip|Game không chặn Ip nào hết nha a, a thử đổi mạng xem
 pha nhiem vu, pha nv|Game có khung giờ hỗ trợ đó anh! chat 'giờ hỗ trợ' em gửi thông tin chi tiết nha
 30%|Khuyến mãi 30% là anh nạp 10k được 13k coin ấy (Rồi vô nhà đổi sang hồng ngọc hay thỏi vàng tùy anh)
 khai, phong, giai, an|Up ở ngũ hành sơn đúng khung giờ mới rơi
-zalo rieng, zalo admin|Bạn vào nhóm tìm key vàng là admin nha https://thanhdi.com/groups
+zalo rieng, zalo admin|Bạn vào nhóm tìm key vàng là admin nha https://thanhdi.com
 tai du lieu, thanh nay, chay mai, tai mai|Tải dữ liệu bị kẹt thì Anh tắt game mở lại để nó tải lại nha a
 cu len xuong|Ra màn hình chỗ đăng nhập bấm nút dưới góc bên phải để xoá dữ liệu tải lại là hết nha
 coin,koin,icon|Anh có thể kiếm coin bằng cách nạp hoặc event tương tác nhé!
-coin,koin,icon|👉 Anh vào đây bấm nút "Event Tương Tác" để xem chi tiết nhé\nhttps://thanhdi.com/support
+coin,koin,icon|👉 Anh vào đây bấm nút "Event Tương Tác" để xem chi tiết nhé\nhttps://thanhdi.com
 su kien,sk|👉 Sự kiện Xem ở đây\nhttps://thanhdi.com/support 
 mua bong tai dung duoc luon|Mua bông tai nào cũng sài được hết nha, không cần theo level đâu
 ep duoc|Chỉ ép được Ngọc rồng thường và Sao pha lê ở santa thôi nha!
