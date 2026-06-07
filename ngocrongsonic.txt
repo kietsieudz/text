@@ -35,7 +35,7 @@ su kien,sk,update,cap nhat,dame,fix|Sự kiện trong game được thông báo 
 tai k dc,tai ko dc,tai khong dc,tai k duoc,tai ko duoc,tai khong duoc|Bạn vui lòng copy link https://thanhdi.com ra Chrome hoặc Safari để tải game nhé
 winrar|Bạn tải về rồi bấm cài đặt rồi next next là cài được rồi: https://www.win-rar.com/fileadmin/winrar-versions/winrar/winrar-x64-701.exe 
 nap|🟡 Trang hướng dẫn nạp và báo lỗi nạp ở đây nha (Đầy đủ quà mốc, quà top): https://thanhdi.com/nap
-co che|👉 Cơ chế game đây 🔗https://thanhdi.com/huong-dan
+co che|👉 Cơ chế game có ghi ở bài viết cơ chế ở trang chủ ấy
 bn sm gd,bao nhieu suc manh, bn suc manh, bao nhieu sm, bnhieu sm|40 tỷ giao dịch được nhé bé
 loi laze, loi bom, loi boom, boom xit, laze xit|Giảm tốc độ game xuống đi mới dùng được. Nhanh quá là xịt
 hong ngoc,hngoc,hn|Hồng ngọc săn boss, up cold, up cskb, ĐHVT + ĐHVT23 + Siêu Hạng, Nạp thẻ
