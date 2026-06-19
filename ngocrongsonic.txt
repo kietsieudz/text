@@ -33,7 +33,7 @@ ios,tf,testflight,ipa|Tải file iPhone: https://thanhdi.com nhé. Nhớ Đọc 
 su kien,sk,update,cap nhat,dame,fix|Sự kiện trong game được thông báo tại trang chủ https://thanhdi.com
 tai k dc,tai ko dc,tai khong dc,tai k duoc,tai ko duoc,tai khong duoc|Bạn vui lòng copy link https://thanhdi.com ra Chrome hoặc Safari để tải game nhé
 winrar|Bạn tải về rồi bấm cài đặt rồi next next là cài được rồi: https://www.win-rar.com/fileadmin/winrar-versions/winrar/winrar-x64-701.exe 
-nap|🟡 Trang hướng dẫn nạp và báo lỗi nạp ở đây nha (Đầy đủ quà mốc, quà top): https://thanhdi.com/nap
+nap|🟡 Đăng nhập vào trang chủ sẽ hiện ra nút nạp ấy (tỷ lệ nạp, quà nạp và mốc nạp xem ở npc trong nhà ấy)
 co che|👉 Cơ chế game có ghi ở bài viết cơ chế ở trang chủ ấy
 top|👉 Xem thông tin đua top sv7: https://thanhdi.com/duatop
 bn sm gd,bao nhieu suc manh, bn suc manh, bao nhieu sm, bnhieu sm|40 tỷ giao dịch được nhé bé
