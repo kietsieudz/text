@@ -175,7 +175,7 @@ dich chuyen|Để dịch chuyển anh cần có cải trang dịch chuyển. Đ�
 page1, page2, fanpage 1, fanpage 2, page 1, page 2, fanpage1, fanpage2, page, fanpage|Fanpage nào còn thì a làm nha, 2 page kia đang bị ẩn để xem xét á
 dk xong, dky, dang ky, dang ki, dki|Hãy "đăng ký" ở link https://nrocindy.online [Mở trên chrome hoặc Safari nhé ]
 xong roi,nay dung khong,duoc khong,share,Envent,event,xin qua, cho qua,dang bai,tan thu,even,chia se,fl,filo,filow, follow,floww,flow,folow,folo,foloow,folooow,foloooow,follw,folllow,folllloow,folllo,folw,fw,flo,fllow,flloww,nhan qua,fow,flw, lam gì|🎁 Đăng nhập vào trang chủ sẽ có Bài viết làm event tân thủ nhận quà nhé
-link,xin linh,linh game,cai linh,trang chu,xin tai,sin like,xin like,tai game,dang ky,trai nghiem,tu van,choi thu,Tai game, game tai,tai o dau,cach tai,dang ky, dang ki,tai sao,download,website,web,dien dan,jar,java,jav,apk,pc,windows,may tinh,ios,tf,testflight,doanh nghiep,ipa,tai o dau,dang ky, dang ki,tai sao,download,website,web,dien dan,jar,java,jav,apk,pc,windows,may tinh,ios,tf,testflight,ipa,tai k dc,tai ko dc,doanh nghiep,tai khong dc,tai k duoc,tai ko duoc,tai khong duoc|👉 Trang chủ: https://thanhdi.com ℹ️ [Mở link|Click link|Truy cập link] trong Messenger thì [không đăng nhập được|không tải được|không thao tác được] đâu anh 👉 Anh chịu khó [copy link|sao chép link] mở bằng Safari hoặc Chrome giúp em nha!
+link,xin linh,linh game,cai linh,trang chu,xin tai,sin like,xin like,tai game,dang ky,trai nghiem,tu van,choi thu,Tai game, game tai,tai o dau,cach tai,dang ky, dang ki,tai sao,download,website,web,dien dan,jar,java,jav,apk,pc,windows,may tinh,ios,tf,testflight,doanh nghiep,ipa,tai o dau,dang ky, dang ki,tai sao,download,website,web,dien dan,jar,java,jav,apk,pc,windows,may tinh,ios,tf,testflight,ipa,tai k dc,tai ko dc,doanh nghiep,tai khong dc,tai k duoc,tai ko duoc,tai khong duoc|👉 Trang chủ: https://nrocindy.online ℹ️ [Mở link|Click link|Truy cập link] trong Messenger thì [không đăng nhập được|không tải được|không thao tác được] đâu anh 👉 Anh chịu khó [copy link|sao chép link] mở bằng Safari hoặc Chrome giúp em nha!
 trang khong vao duoc, khong tim thay|Nếu trang không vào được a thử copy link ra chrome hoặc safari thử. Nếu vẫn không được anh chờ xíu em gọi admin cho nhá!
 ban nick, ban acc|Ad không bán nick nha 🥰
 boss trau|Mỗi boss mỗi giáp, mình mạnh lên là thấy boss yếu liền kkk
@@ -237,7 +237,7 @@ up cold| Up cold rơi: hồn hạ tôn, hồn thiên tôn, thức ăn, hồng ng
 dame| Dame trung trên gốc xíu nha má. dễ chơi còn lâu dài. Boss từ TDST -> Xên sẽ giới hạn sát thương để hỗ trợ nhiệm vụ
 rot cap,xit cap,ha cap,tut cap| Lúc nâng trang bị bà Hạt mít có thông báo rớt hay không, nếu rớt chắc chắn sẽ trừ chỉ số. Để an toàn hãy dùng đá bảo vệ ở Santa bỏ vào nhé
 game loi,loi roi,bi loi, bao loi, loi a, loi ha, loi game, loi admin|Bạn ghi chi tiết lỗi ở đây để admin fix nhá: https://thanhdi.games/bao-loi.php
-bao tri,game bi,game sao,bso tri,bi sao, btri, btr, baotri,khong vao duoc,k vo dc,ko vo dc,khong vo dc,k vo duoc,ko vo duoc,khong vo duoc,xoay,mkn, mat ket noi, dis, vang game, bi out, bi vang,lag,game lang,game lac,xdl,xoa du lieu,tkmk,tk mk,thanh cong,dang ky,dky,tao,sai,chinh xac,dang nhap,tao nv,tao nhan vat|👉 Anh xem Server có đang bảo trì hay không:\nhttps://thanhdi.games/trangthai.php\n\n👉 Nếu gặp lỗi, anh vào đây xem cách fix nhé:\nhttps://thanhdi.com/fixloi
+bao tri,game bi,game sao,bso tri,bi sao, btri, btr, baotri,khong vao duoc,k vo dc,ko vo dc,khong vo dc,k vo duoc,ko vo duoc,khong vo duoc,xoay,mkn, mat ket noi, dis, vang game, bi out, bi vang,lag,game lang,game lac,xdl,xoa du lieu,tkmk,tk mk,thanh cong,dang ky,dky,tao,sai,chinh xac,dang nhap,tao nv,tao nhan vat|👉 Anh xem Server có đang bảo trì hay không:\nhttps://thanhdi.games/trangthai.php\n\n👉 Nếu gặp lỗi, anh vào đây xem cách fix nhé:\nhttps://nrocindy.online
 bao tri,game bi,game sao,bi sao, btri, btr, baotri,k vo dc,ko vo dc,khong vao duoc,khong vo dc,k vo duoc,ko vo duoc,khong vo duoc,xoay,mkn, mat ket noi, dis, vang game, bi out, bi vang,lag,game lang,game lac,xdl,xoa du lieu,tkmk,tk mk,thanh cong,dang ky,dky,tao,sai,chinh xac,dang nhap,tao nv,tao nhan vat|
 toc do,cham,tang toc,cheat,speed,nhanh| Tăng tốc độ game hãy CHAT thử: 's 3' (hoặc bấm vào Logo) (pc bấm phím x) 
 spl,sao pha le| Sao pha lê mua ở shop mở rộng hành trang ở Santa  
@@ -292,7 +292,7 @@ bot a,bot ha, ai ha, ai nhan tin| Dạ em là bot hỗ trợ tự động của 
 sdg,max cs,max sd,max hp| Max 40k và 780k Mở giới hạn ở vách núi morri  
 vung dat| Vùng đất huỷ diệt bạn lên hành tinh Bill là qua được  
 skill moi,skill dac biet,super kame,super kamejoko,ma phong ba,lien hoan chuong,bien hinh,hoc o dau,skill9,skill10,super kame,skill 250ty,tuyet ky,ky nang, tuyet ki,skill 10,skill 9, skill cuoi|Học skill đặc biệt ở quy lão đảo kame. cày hoặc nạp đều học được, đi doanh trại sẽ rơi bí kíp học skill 
-box, group, groups, grup, gr, nhom, cong dong|👉 Cộng đồng Game\nhttps://thanhdi.com/groups
+box, group, groups, grup, gr, nhom, cong dong|👉 Cộng đồng Game\nhttps://nrocindy.online
 tb boss,bao boss|Chat 'sb' để bật thông báo boss nha  
 ts,tan sat,danh quai,auto danh| Chat 'ts' để auto tàn sát quái nhé  
 ty le nap,ti le nap|Tỷ lệ nạp xem tại NPC trong nhà nhé  
@@ -359,7 +359,7 @@ con online|Dạ em thì luôn online, admin thì anh cứ nhắn xíu là admin 
 dang 10 bai, dang lai a, dang lai ha,chup lai|Đúng rồi anh cần đăng 10 bài vào 10 groups khác nhau là được nha, chụp đủ gửi vào đây là được xíu admin duyệt
 lam nhiem vu nan luon|Game nào cũng có cái khó ấy anh ơi, cũng do ý thức người chơi hay muốn phá và làm khó nhau ấy. Anh canh có giờ hỗ trợ nhiệm vụ hãy vào sẽ dễ làm hơn. Anh chat "giờ hỗ trợ" để em gửi giờ hỗ trợ cho nhé
 o cuoi de tu|Santa có cửa hàng là các phụ kiện của đệ tử
-may trang facebook|Fanpage game ở đây nha: https://thanhdi.com/fanpage
+may trang facebook|Fanpage game ở đây nha: https://nrocindy.online
 cap 3 het co|Game có 6 bông tai lận anh ơi
 12 sao, 12sao|Anh xem thông tin pha lê hóa của các trang bị ở BÀ HẠT MÍT đảo kame nhá
 may sao, level| Trang bị thường 10 sao và trang bị vip 12 sao, trang bị thường 9 cấp và trang bị vip 10 cấp (cày có hết)
