@@ -5,7 +5,7 @@ ve doi|Mang vé đổi ngoại hình ra bà hạt mít để đổi ngoại hìn
 hang kho bau|Bản đồ kho báu ở quy lão ấy
 nhiem vu so|Canh thông báo hoặc qua dò từng khu đi anh. đôi khi boss chưa ai hạ
 xen con|Xên con ở võ đài siêu bọ hung nhé (tương lai)
-no trang tri, thuoc tang truong, socola, dat trong, hoa hong, ong tre nuoc, chau hoa, hat gion|Đọc sự kiện 8/3 tại đây nhé: https://nroncd.online
+no trang tri, thuoc tang truong, socola, dat trong, hoa hong, ong tre nuoc, chau hoa, hat gion|Đọc sự kiện 8/3 tại đây nhé: https://thanhdi.com
 ad buon ban|Chỉ có nạp vào game rồi đổi sang hồng ngọc hay thỏi vàng gì rồi ưng mua gì mua nha a
 bao nhieu qua cau|Mua quả cầu poke bấm dùng sẽ có tỷ lệ ra pet vĩnh viễn, cứ mua từ từ cũng được nha không cần cùng lúc
 ad hay bot|Em là bot trực 24/24 admin cũng trực nhưng không 24/24 như em
@@ -38,7 +38,7 @@ vut do|Bấm vứt đồ, sẽ hiện popup lên. nhập chữ ok vào đó là 
 jiren|Hạ gục jiren nhận được hồng ngọc, 4 tiếng xuất hiện 1 lần
 map vampa|Anh ra vách núi đen gặp Paragus nhé
 quen noi dung, quen nd, ghi noi dung, ghi nd,sao chua vo,sao chua vao|Anh gửi bill vào đây giúp em kèm tài khoản và server nha (tài khoản đăng nhập - không gửi mật khẩu) xíu ad vào xử lý nha
-chu van, chu su, chu nhu, chu y, banh tet|Đọc sk tết ở đây: https://nroncd.online
+chu van, chu su, chu nhu, chu y, banh tet|Đọc sk tết ở đây: https://thanhdi.com
 khong dang nhap, khong login|Không vào được game (thấy máy chủ tắt hoặc mất sóng liên tục)\nAnh thử đổi từ 4G -> Wifi và từ Wifi -> 4G giúp em nhé\nNếu vẫn không được a tắt cục modem wifi tầm 5 phút rồi mở lại sẽ vào được
 giu nguyen set|Khi nâng Thiên sứ lên hạ tôn sẽ được chọn lại set nha (khỏi lo)
 o luoi,hanh trang dang o, hanh trang luoi|Dạ em sẽ báo admin sớm làm ạ
@@ -46,7 +46,7 @@ khong ra sat thuong|Tùy boss có giáp cao thấp khác nhau ấy a
 nang thanh do gi|Các đồ nâng anh xem ngay chỗ nâng có ghi rõ nguyên liệu và đồ sẽ được tạo ra đó
 tk mk|Đừng cung cấp mật khẩu cho bất kì ai nhé. Admin chỉ cần anh đọc tài khoản là được (đừng đọc mật khẩu)
 hay ra o dau|Canh thông báo xem nó xuất hiện ở đâu thì mình qua
-gdtg, trung gian|GDTG ở link này có ad nhận nha: https://nroncd.online
+gdtg, trung gian|GDTG ở link này có ad nhận nha: https://thanhdi.com
 dang co de tu khac lam sao su dung|Bạn cần tháo hết đồ đệ cũ ra mới dùng được trứng
 toan ra quan, toan ra ao|Đồ thần up cold hay săn boss đều có tỷ lệ ra đủ 1 set không riêng gì áo quần thần linh
 khong xuat hien|Anh canh thông báo boss hoặc qua dò các khu trong map boss xuất hiện ấy (đôi khi boss chưa chết nó không thông báo lại)
@@ -100,19 +100,19 @@ dau bu, dau than|"Đậu bư" đi osin ở đại hội võ thuật lúc 21:00 n
 bxh, xep hang|Xem "bảng xếp hạng" ở Daishinkan đảo kame hoặc ở trang chủ ấy
 vong kim co|Vòng kim cô sử dụng tăng chỉ số nha
 bang hoi|Anh cần đạt đủ 100 tỷ sức mạnh mới có thể tạo hoặc vào bang nha
-noel,tuan loc,nrb,ngoc rong bang,qua chau,day den,nr bang,chuong, thong che|👉 Sự kiện noel 1 2025\nhttps://nroncd.online
-noel,tuan loc,nrb,ngoc rong bang,qua chau,day den,nr bang,chuong, thong che|👉 Sự kiện noel 2 2025\nhttps://nroncd.online
+noel,tuan loc,nrb,ngoc rong bang,qua chau,day den,nr bang,chuong, thong che|👉 Sự kiện noel 1 2025\nhttps://thanhdi.com
+noel,tuan loc,nrb,ngoc rong bang,qua chau,day den,nr bang,chuong, thong che|👉 Sự kiện noel 2 2025\nhttps://thanhdi.com
 hong xanh, qua hong|Bạn ra gặp Đường tăng ở map 3 ngũ hành sơn nha
 boss manh ba|Qua địa ngục dò khu hoặc canh thông báo nhé, tỷ lệ rơi nước mắt
 hutao|Boss hutao rơi hồng ngọc nha
-nro lau, lau a, server lau, sever lau, sv lau, ngoc rong lau|Bạn tải game tại https://nroncd.online nha
+nro lau, lau a, server lau, sever lau, sv lau, ngoc rong lau|Bạn tải game tại https://thanhdi.com nha
 nang skh,nang dc skh,nang duoc skh, nang duoc set kh, nang dc set kh, nang set kh|Ra bà hạt mít có chỉ nguyên liệu tạo set kích hoạt
 Khi gas|Thu thập bản đồ trong doanh trại để đi khí gas ở Popo (làng aru)
 ruong long hai| Là rương mở ra cốt chí tôn ở chức năng câu cá, cần cành tre để tạo cần câu
 ruong an| Rương ấn là rương mở ra ấn để khắc ấn vào trang bị tại bà Hạt Mít
 thanh lan|Anh có thể mua thanh lân bội ở santa đó anh. Kết nghĩa xong cả 2 người đều có thanh lân hết. cả 2 đều tăng thêm chỉ số luôn
 sao nhan duoc, nhan dau|Anh làm event xong gửi đây admin duyệt xong thì vào nhà -> chọn nhiệm vụ tân thủ -> chọn nhiệm vụ tân thủ đã làm để nhận nha
-fanpage|👉 Các trang fanpage của game\nhttps://nroncd.online
+fanpage|👉 Các trang fanpage của game\nhttps://thanhdi.com
 khong tut mau, khong tut hp|Boss nào HP cao sẽ hiện trên boss chat ấy, nó sẽ đọc HP.\nBoss sẽ có giáp cao giáp thấp nên sát thương gây ra khác nhau
 giup em|Anh cần hỗ trợ gì cứ ghi rõ rồi chờ xíu admin vào kiểm tra nha
 lavender, vu tru 9,basil|Capsule đến vũ trụ số 9 là có boss Sói các loại nha nha
@@ -164,31 +164,31 @@ khong thay trang, khong thay page, khong thay fanpage, 1 trang, 2 trang|Page nà
 nappa|Dùng capsule ra thành phố vegeta rồi gặp Cui đến Nappa nha, các quái tiếp theo cứ qua map kế nappa
 dich chuyen|Để dịch chuyển anh cần có cải trang dịch chuyển. Đối phương phải không ở map đặc biệt hoặc không dùng ẩn danh nhé
 page1, page2, fanpage 1, fanpage 2, page 1, page 2, fanpage1, fanpage2, page, fanpage|Fanpage nào còn thì a làm nha, 2 page kia đang bị ẩn để xem xét á
-dk xong, dky, dang ky, dang ki, dki|Hãy "đăng ký" ở link https://nroncd.online [Mở trên chrome hoặc Safari nhé ]
-xong roi,nay dung khong,duoc khong,share,Envent,event,xin qua, cho qua,dang bai,tan thu,even,chia se,fl,filo,filow, follow,floww,flow,folow,folo,foloow,folooow,foloooow,follw,folllow,folllloow,folllo,folw,fw,flo,fllow,flloww,nhan qua,fow,flw, lam gì|🎁 Em Gửi Hướng dẫn event tân thủ nhận quà trong nhà nhé (Event Chia Sẻ)\nhttps://nroncd.online/
+dk xong, dky, dang ky, dang ki, dki|Hãy "đăng ký" ở link https://thanhdi.com [Mở trên chrome hoặc Safari nhé ]
+xong roi,nay dung khong,duoc khong,share,Envent,event,xin qua, cho qua,dang bai,tan thu,even,chia se,fl,filo,filow, follow,floww,flow,folow,folo,foloow,folooow,foloooow,follw,folllow,folllloow,folllo,folw,fw,flo,fllow,flloww,nhan qua,fow,flw, lam gì|🎁 Em Gửi Hướng dẫn event tân thủ nhận quà trong nhà nhé (Event Chia Sẻ)\nhttps://thanhdi.com/
 link,xin linh,linh game,cai linh,trang chu,xin tai,sin like,xin like,tai game,dang ky, trai nghiem,tu van,choi thu,tai o dau,dang ky, dang ki,tai sao,download,website,web,dien dan,jar,java,jav,apk,pc,windows,may tinh,ios,tf,testflight,ipa,tai k dc,tai ko dc,doanh nghiep,tai khong dc,tai k duoc,tai ko duoc,tai khong duoc|Copy link ra chrome hoặc safari mới tải được
-link,xin linh,linh game,cai linh,trang chu,xin tai,sin like,xin like,tai game,dang ky,trai nghiem,tu van,choi thu,Tai game, game tai,tai o dau,cach tai,dang ky, dang ki,tai sao,download,website,web,dien dan,jar,java,jav,apk,pc,windows,may tinh,ios,tf,testflight,doanh nghiep,ipa|👉 Trang chủ:\nhttps://nroncd.online\n\nℹ️ [Mở link|Click link|Truy cập link] trong Messenger thì [không đăng nhập được|không tải được|không thao tác được] đâu anh\n👉 Anh chịu khó [copy link|sao chép link] mở bằng Safari hoặc Chrome giúp em nha!
+link,xin linh,linh game,cai linh,trang chu,xin tai,sin like,xin like,tai game,dang ky,trai nghiem,tu van,choi thu,Tai game, game tai,tai o dau,cach tai,dang ky, dang ki,tai sao,download,website,web,dien dan,jar,java,jav,apk,pc,windows,may tinh,ios,tf,testflight,doanh nghiep,ipa|👉 Trang chủ:\nhttps://thanhdi.com\n\nℹ️ [Mở link|Click link|Truy cập link] trong Messenger thì [không đăng nhập được|không tải được|không thao tác được] đâu anh\n👉 Anh chịu khó [copy link|sao chép link] mở bằng Safari hoặc Chrome giúp em nha!
 trang khong vao duoc, khong tim thay|Nếu trang không vào được a thử copy link ra chrome hoặc safari thử. Nếu vẫn không được anh chờ xíu em gọi admin cho nhá!
 ban nick, ban acc|Ad không bán nick nha 🥰
 boss trau|Mỗi boss mỗi giáp, mình mạnh lên là thấy boss yếu liền kkk
 khong thay trung|Nhặt trứng bư sẽ xuất hiện trong hành trang chứ không phải ở nhà đâu
-cap nhat, update|Cập nhật hàng ngày ở đây nha: https://nroncd.online/cap-nhat.php
+cap nhat, update|Cập nhật hàng ngày ở đây nha: https://thanhdi.com/cap-nhat.php
 bao lau|Anh canh thông báo boss thử, chứ em không nhớ hết boss nào bao lâu xuất hiện lại đâu 🥰
 chan ip|Game không chặn Ip nào hết nha a, a thử đổi mạng xem
 pha nhiem vu, pha nv|Game có khung giờ hỗ trợ đó anh! chat 'giờ hỗ trợ' em gửi thông tin chi tiết nha
 30%|Khuyến mãi 30% là anh nạp 10k được 13k coin ấy (Rồi vô nhà đổi sang hồng ngọc hay thỏi vàng tùy anh)
 khai, phong, giai, an|Up ở ngũ hành sơn đúng khung giờ mới rơi
-zalo rieng, zalo admin|Bạn vào nhóm tìm key vàng là admin nha hhttps://nroncd.online
+zalo rieng, zalo admin|Bạn vào nhóm tìm key vàng là admin nha hhttps://thanhdi.com
 tai du lieu, thanh nay, chay mai, tai mai|Tải dữ liệu bị kẹt thì Anh tắt game mở lại để nó tải lại nha a
 cu len xuong|Ra màn hình chỗ đăng nhập bấm nút dưới góc bên phải để xoá dữ liệu tải lại là hết nha
 coin,koin,icon|Anh có thể kiếm coin bằng cách nạp hoặc event tương tác nhé!
-coin,koin,icon|👉 Anh vào đây bấm nút "Event Tương Tác" để xem chi tiết nhé\nhttps://nroncd.online
-su kien,sk|👉 Sự kiện Xem ở đây\nhttps://nroncd.online 
+coin,koin,icon|👉 Anh vào đây bấm nút "Event Tương Tác" để xem chi tiết nhé\nhttps://thanhdi.com
+su kien,sk|👉 Sự kiện Xem ở đây\nhttps://thanhdi.com 
 mua bong tai dung duoc luon|Mua bông tai nào cũng sài được hết nha, không cần theo level đâu
 ep duoc|Chỉ ép được Ngọc rồng thường và Sao pha lê ở santa thôi nha!
 quet khong duoc|Chắc ngân hàng đang bảo trì. Anh chờ xíu rồi quét QR lại nha
 muon mua|Anh có thể vào trang chủ để nạp rồi vào game đổi sang hồng ngọc hoặc thỏi vàng rồi ưng mua gì mua nhé anh? Anh chat "nạp thẻ" để em gửi hướng dẫn nạp nhé!
-nap,card,the cao,bank,banking,chuyen khoan,ung ho,donate, uu dai|Anh đăng nhập vào trang chủ https://nroncd.online sẽ có nút nạp nha. Vô nhà có mốc nạp để nhận luôn
+nap,card,the cao,bank,banking,chuyen khoan,ung ho,donate, uu dai|Anh đăng nhập vào trang chủ https://thanhdi.com sẽ có nút nạp nha. Vô nhà có mốc nạp để nhận luôn
 hop the 2 de|Đệ chiến thần kêu đi theo là tăng chỉ số rồi, không có hợp thể
 ma QR|Chắc Ngân hàng đang bảo trì. xíu anh quay lại thử giúp em nhé
 tiem nang goc|Tiềm năng tầm trung nha, dễ up hơn
@@ -347,7 +347,7 @@ con online|Dạ em thì luôn online, admin thì anh cứ nhắn xíu là admin 
 dang 10 bai, dang lai a, dang lai ha,chup lai|Đúng rồi anh cần đăng 10 bài vào 10 groups khác nhau là được nha, chụp đủ gửi vào đây là được xíu admin duyệt
 lam nhiem vu nan luon|Game nào cũng có cái khó ấy anh ơi, cũng do ý thức người chơi hay muốn phá và làm khó nhau ấy. Anh canh có giờ hỗ trợ nhiệm vụ hãy vào sẽ dễ làm hơn. Anh chat "giờ hỗ trợ" để em gửi giờ hỗ trợ cho nhé
 o cuoi de tu|Santa có cửa hàng là các phụ kiện của đệ tử
-may trang facebook|Fanpage game ở đây nha: https://nroncd.online
+may trang facebook|Fanpage game ở đây nha: https://thanhdi.com
 cap 3 het co|Game có 6 bông tai lận anh ơi
 12 sao, 12sao|Anh xem thông tin pha lê hóa của các trang bị ở BÀ HẠT MÍT đảo kame nhá
 may sao, level| Trang bị thường 10 sao và trang bị vip 12 sao, trang bị thường 9 cấp và trang bị vip 10 cấp (cày có hết)
